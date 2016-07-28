@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/habitat-conservation-planning-us" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/538" />
+  <title>Habitat Conservation Planning in the U.S. | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"FZvSkikqCVMCm6u3fFEUdVD27XWKzok6VWlL_X4ZEpY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/habitat-conservation-planning-us?destination=node\/538":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-538 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/habitat-conservation-planning-us" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/habitat-conservation-planning-us?destination=node/538" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-ASMz4QOmVE5s60ubrWcxkAo7BbD3xHgzTmNOdcNQ7As" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Habitat Conservation Planning in the U.S.</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Habitat Conservation Planning in the U.S. - Participedia" addthis:url="http://participedia.net/en/methods/habitat-conservation-planning-us"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/fittongreen.jpg?itok=d9lMJEdH" /></span></div></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Feb 29 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/asalshah" title="View user profile." class="username" xml:lang="" about="/en/people/asalshah" typeof="sioc:UserAccount" property="foaf:name" datatype="">Asal Shahindoust</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>Habitat Conservation Planning (HCP) in the U.S. is a plan that prepared under the Endangered Species Act (ESA) by nonfederal parties who want to obtain permits for the incidental taking of threatened and endangered species. They are planning documents that describe the anticipated effects of the proposed take permit. It must also describe how those impacts will be minimized or mitigated and how the HCP is to be funded. They have to ensure that the species will be conserved and that they will contribute to their recovery. Essentially, it aims to balance development and nature preservation. These plans have been multiplying over the past 30 years and over 350 HCPs have now been approved, which affects over one hundred threatened or endangered species populations. HCPs can be applied to be listed and non-listed species. These proposed conservation plans are reviewed by the US Fish and Wildlife Service (FWS) or the National Marine Fisheries Service (NMFS) who then may issue an incidental take permit after extensive review.  Problems and Purpose</p><h3>Problems and Purpose</h3><p>The Purpose of HCP is to provide a plan for a project that will provide a safe environment and habitat for an endangered or threatened species who's habitat is otherwise being destroyed by non-federal landowners. It seeks to balance the needs of an endangered or threatened species with the needs of these non-federal landowners so that land development may continue in a way that will not harm the species any further. The incidental taking permit will only be allowed if it is conducted in a manner that will cause the less amount of harm to the species. The steps to ensuring this conservation must be explicitly stated in the HCP in order for the NMFS to issue the permit and allow the plan to move forward.</p><p>One of the problems with the HCP is their No Surprises policy. This policy makes it so that landowners will not be able to accept new land-use restrictions or financial commitments beyond those agreed to in the HCP. This means that if the species does not survive over the term of the permit covered by the HCP, then the agencies have to agree to take full responsibility, including both financial and logistical, for the efforts above that required by the HCP (Peter Aengst, Intro to Habitat Conservation Planning.) This policy especially made environmental groups unhappy. For instance, according to the group, Defenders of Wildlife, this rule prevents HCPs from improving and avoiding species declines. Other problems are that they are not consistent with species recovery, their scientific assessment of the situation is often inadequate, and the public minimally gets the opportunity to provide input for HCPs (Defenders of Wildlife.)  </p><h3>History</h3><p>The Endangered Species Act was implemented in 1973. This act regulates the protection of threatened and endangered species along with their habitat on federal and private property by outlawing the “take” of listed species through direct harm to individuals or through habitat destruction. In 1982, Congress amended Section 10 (a)(1)(B) of the ESA in order to allow private landowners to destroy some endangered species habitat through a permitting system, known as HCPs (Defenders of Wildlife). It arises from both Sections 9 and 10(a) of the ESA. Under Section 9, it states that it is illegal to kill, harm, or harass a listed species. This applies to private and public lands and “has been interpreted broadly to include habitat destruction or modification” (Aengst). This was a problem for private landowners, who’s activities might accidentally harm or kill the listed species on their land, making them subject to criminal and civil penalties (Aengst). So, under Section 10 (a), non-federal landowners who plan activities on their lands that may 'incidentally take' a threatened or endangered species may apply to FWS or NMFS for an incidental take permit that exempts them from this strict Section 9 prohibition against take.</p><p>Section 10(a) was initially created by Congress in order to allow exemption by proponents of a conservation plan on San Bruno Mountain, California, made up in the early 80s (Aegnst). Congress stated in a conference report that this plan intended to act “as a model” for future conservation plans under this exemption. This plan was ultimately based on “an independent exhaustive biological study” and “protected at least 875 of the habitat of the listed butterflies and led to the development of enough land to allow for enhancement of the survival of the species” according to Congress (H.R. Rep. No. 835, 97th Cong., 2nd Sess. 32, 1982. p.32).</p><p>Conservation acts before HCPs have been attempted. Some examples of important U.S. conservation act's include, the Yellowstone Park Protection Act of 1872, the National Park Organic Act of 1916, and the Migratory Bird Treaty with Canada in 1916 then with Mexico in 1936 (Reed F. Noss, “The Science of Conservation Planning, 22.) However, all of these measures were regulatory and prohibitory and parks like Yellowstone were mostly preserved for their geography rather than its biology (Noss, 22).  </p><h3>Participant Selection</h3><p>In order to be a participant in HCPs and obtain an incidental take permit, the party or organization must follow certain regulations and comply with a Five Points Policy. Once reviewing the plan, it is the FWS regional director who decides whether an incidental take permit will be issued, based on whether the HCP meets the criteria and addresses the aforementioned requirements as well as other applicable laws (FWS).</p><p>Regulations required in the HCPs are listed in Section 10 of the Act. They need to include an assessment of impacts that are likely to result from the proposed taking of one or more species. Then there needs to be a list of measures that the permit applicant will take on in order to monitor, minimize and mitigate for the said impacts, and also mention the way that they will fund these measures. They also need to provide the procedures for how to deal with unforeseen circumstances. After, they are required to list some alternative actions they could have taken, then give a reason or reasons as to why the applicant decided not to partake in those alternative actions. Lastly, they must comply with any other additional measures that FWS may require, (FWS).</p><p>As mentioned before, the HCPs must also comply with the Five Points Policy (FWS.) The first of these polices is defining the expected biological outcome for each species covered in their HCP. Second, there needs to be adaptive management, which entails “methods for addressing uncertainty and also monitoring and feedback to biological goals and objectives” (FWS). Third, it is required to monitor for compliance, effectiveness, and effects. Fourth, there is a duration for the permit which will be determined by the time-span of the project and will be provided, as decided by FWS, to give enough adequate time to achieve biological goals. Lastly, HCPs must comply with public participation according to the National Environmental Policy Act.</p><p>For issuance, the FWS must take all of this into account, as well as the size, duration, and species covered in the HCP. The <u>Federal Registerer</u> will announce the issuance of a permit. Then the permittee and anyone else involved will implement the HCP as well as its monitoring and funding components.  </p><h3>Deliberation, Decisions, and Public Interaction</h3><p>Decisions that concern matters of public trust, such as wildlife protection, must allow public involvement (A Citizen's Guide to Habitat Conservation Plans.) The public often have a bigger interest in the impact of large multi-species plans that could “damage surrounding communities through a loss of species diversity and open space” (A Citizen's Guide to Habitat Conservation Plans,) thus making public oversight of plan development important and critical. It also helps to make sure that conflicts of interest do not result in a “disservice to the public interest in wildlife protection” (A Citizen's Guide to Habitat Conservation Plans.) This inclusion assures that citizens will be heard on issues that could change the landscape of their communities, especially if public funding is part of the plan. While this is an attempt at deliberation, the purpose of public outreach is so that the plan will be more likely to go through rather than outvoted against. However, the citizens are allowed to sue the federal government for enforcement of the Act.</p><p>Ultimately, little public participation is required, by law, in the development of HCPs. The FWS or NMFS does, however, have to publish a notice in the <u>Federal Register</u> whenever a formal application for an Incidental Take Permit is made and upon that, the public is given 30 days to submit comments. These comments often have little impact since under Section 10, the Services do not have to respond to them or even consider them in the final making decision. </p><p>In addition, when the permit applicant is a public entity, state or local law requires more public access. For example, in California, there is a state law for governmental HCP applicants that requires them to allow public access to all meetings that involves a public decision making body, such as city council (A Citizen's Guide to Habitat Conservation Plans.) </p><h3>Influence, Outcomes, and Effects</h3><p>The result of HCPs may have many potential benefits in conserving threatened and endangered species. For instance, they can aim their focus on multi-species and habitat managements, rather than single species. It can also help “engage private landowners and local governments in conservation planning, protect unlisted species, and promote long-term conservation of species and habitats through protection and management” (Defenders of Wildlife.) </p><p>Some effects have been positive while others have been negative. Some HCPs that have been approved have contributed to loss of habitat which poses huge risks for species survival, according to Defenders of Wildlife. If not adequately assessed, HCPs can further threaten a species rather than protect them. </p><p>Some HCPs have been successful in their aims of conservation, however. An example of one is the Coachella Valley HCP near Palm Springs, California, implemented in 1986. After a rise of rapid housing development on private land in the California desert, the habitat of the Coachella Valley fringe toed lizard was increasingly threatened (Aengst). This HCP was designed to allow the housing development to continue all while key portions of the lizard's habitat was still protected. They were able to establish three reserves, resulting in 17,000 acres, 8,000 acres of which is occupiable lizard habitat (Aegnst). They were able to get funds for this from The Nature Conservancy, the Federal Land and Water Conservation Fund, and other sources. </p><p>Another example of an HCP outcome was in 2006 when Benton County, Oregon, received a grant from FWS to develop an HCP in order to expand upon current conservation efforts by increasing restoration opportunities, providing long-term protection of sensitive species and habitats, and developing a more economical and ecological approach to species conservation and mitigation, according to the Benton County Natural Areas and Parks Department. </p><p>In the 1990s, the Clinton Administration made changes in its ESA policies that has increased the “incentive for landowners to engage in the HCP planning process” (Aegnst.) Since then, increased numbers in the amount of HCPs have been proposed and approved. </p><h3>Analysis and Criticism</h3><p>HCPs on paper can potentially do a lot to help preserve habitats that threatened and endangered species require in order to survive and to thrive. However, there are holes in the way which the FWS goes about addressing unforeseen circumstances once an HCP is implemented. In Section 10 it simply states that regulations require that all HCPs detail the “procedures to be used to deal with Unforeseen Circumstances.” However, under IA, it prohibits the Services from requiring adjustments in the amount of habitat protected under the HCP. This is problem because with many habitats and species, many unforeseeable changes may come about in the future. Something that the Services can do, as suggested by A Citizen's Guide to Habitat Conservation Plans, is to ensure that the proposed strategy be rigorously evaluated, and for the HCP to include provision to monitor its success and adjust it if necessary. </p><p>In addition, the creation of HCPs should encourage more public participation than it currently does. Currently, it is not even technically enforced for a permittee to get citizens involved in their HCP. To make it a more deliberative and democratic process, it is important to highly advertise an open forum whenever an HCP is proposed where citizens, landowners, scientists, biologists, and other experts can attend, much like it is done in California. By making the HCP more deliberative, perhaps it can contribute to the evaluating process and ensure that the FWS makes a wise decision for which HCP they decide to issue. This can both help with an increase in assuring the conservation of a threatened and endangered species and its habitat, as well as rejecting those that just will end up harming them more so than before. </p><h3>Secondary Sources</h3><p>Aengst, Peter, Jeremy Anderson, Jay Chamberlin, Christopher Grunewald, Susan Loucks, Elizabeth Wheatly, and Steven Yaffee. "Introduction to Habitat Conservation Planning." University of Michigan. Web. 01 Mar. 2012. &lt;<a href="http://Aengst, Peter, Jeremy Anderson, Jay Chamberlin, Christopher Grunewald, Susan Loucks, Elizabeth Wheatly, and Steven Yaffee. &quot;Introduction to Habitat Conservation Planning.&quot; University of Michigan. Web. 01 Mar. 2012. &lt;http://www.umich.edu/~esupdate/library/97.07-08/hcp.html&gt;.">http://www.umich.edu/~esupdate/library/97.07-08/hcp.html</a>&gt;.</p><p>Cullinan, Timothy P. "A Citizen's Guide to Habitat Conservation Plans." National Audubon Society. Web. 01 Mar. 2012. &lt;<a href="http://web4.audubon.org/campaign/esa/hcp-guide.html#what" target="_blank">http://web4.audubon.org/campaign/esa/hcp-guide.html</a>&gt;.</p><p>Noss, Reed F., Michael A. O'Connell, and Dennis D. Murphy. <a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=TxtEgxN8JswC&amp;oi=fnd&amp;pg=PR9&amp;dq=reed+noss+science+of+conservation+planning&amp;ots=HFvaWfsTuj&amp;sig=fDbQiZBR84HjquEKkbe7sVAvy3o#v=onepage&amp;q=reed%20noss%20science%20of%20conservation%20planning&amp;f=false" target="_blank">The Science of Conservation Planning: Habitat Conservation under the Endangered Species Act</a><a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=TxtEgxN8JswC&amp;oi=fnd&amp;pg=PR9&amp;dq=reed+noss+science+of+conservation+planning&amp;ots=HFvaWfsTuj&amp;sig=fDbQiZBR84HjquEKkbe7sVAvy3o#v=onepage&amp;q=reed%20noss%20science%20of%20conservation%20planning&amp;f=false">.</a> Washington, D.C.: Island, 1997. Print.</p><h3>External Links</h3><p><a href="http://web4.audubon.org/campaign/esa/hcp-guide.html#what" target="_blank">A Citizen's Guidebook to Habitat Conservation Plans</a></p><p><a href="http://www.defenders.org/programs_and_policy/habitat_conservation/private_lands/habitat_conservation_plans.php" target="_blank">Defenders of Wildlife</a></p><p><a href="http://www.fws.gov/endangered/esa-library/pdf/hcp.pdf" target="_blank">U.S. Fish and Wildlife Service</a></p><p><a href="http://daphne.palomar.edu/calenvironment/HCP.htm" target="_blank">Habitat Conservation Plans</a></p><p><a href="http://www.nwf.org/" target="_blank">National Wildlife Federation</a></p><p><a href="http://www.fws.gov/laws/lawsdigest/ESACT.HTML">Endangered Species Act of 1973</a></p><p><a href="http://www.co.benton.or.us/parks/index.php" target="_blank">Benton County Natural Areas and Parks Department</a></p><p><a href="http://www.cvmshcp.org/" target="_blank">Coachella Valley HCP</a></p><p>Notes</p><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/conservation-habitats-endangered-species-threatened-species-hcps" typeof="skos:Concept" property="rdfs:label skos:prefLabel">conservation; habitats; endangered species; threatened species; HCPs</a></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-afd3cefb16d895de343f37836c601ce0">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/538">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">none</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">none</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">varies</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">100 years</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/targeted-participants-public-roles/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial contact, Negotiation, National Environmental Policy Act Review, Application, Issuance, Implementation</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">A public notice must be issued by FWS or NMFS in the Federal Register</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Made by the FWS or NMFS after critical review of an HCP</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/national" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National</a></div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div><div class="field-item odd"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/agenda-formation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Agenda Formation</a></div><div class="field-item odd"><a href="/en/governance-contributions/conflict-resolution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Conflict Resolution</a></div><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/4-often-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Often Interdependent with Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/consultation-ie-advise-decision-makers" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Consultation (i.e. to advise decision makers)</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/government-owned-corporation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Government-Owned Corporation</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

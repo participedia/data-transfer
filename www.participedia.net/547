@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/occupy-movements-use-social-media-organizing-method" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/547" />
+  <title>THE OCCUPY MOVEMENT&#039;S USE OF SOCIAL MEDIA AS AN ORGANIZING METHOD | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"WmFojF-UDhDprFAeSwvBjJ_IbOFYD9Z_4PUp2StlnV8","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/occupy-movements-use-social-media-organizing-method?destination=node\/547":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-547 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/occupy-movements-use-social-media-organizing-method" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/occupy-movements-use-social-media-organizing-method?destination=node/547" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-SLm73z-z94NrDuYzFPOgoHy4KKtM_UDjZqJFwHXfHlQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">THE OCCUPY MOVEMENT&#039;S USE OF SOCIAL MEDIA AS AN ORGANIZING METHOD</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="THE OCCUPY MOVEMENT&#039;S USE OF SOCIAL MEDIA AS AN ORGANIZING METHOD - Participedia" addthis:url="http://participedia.net/en/methods/occupy-movements-use-social-media-organizing-method"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/adbusters_occupy-wall-street.jpg?itok=On9wGnin" /></span></div></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Mar 1 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/natalia-shafa" title="View user profile." class="username" xml:lang="" about="/en/people/natalia-shafa" typeof="sioc:UserAccount" property="foaf:name" datatype="">Parisa Natalia Shafa</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>The Occupy Movement relies heavily on the use of social media as an organizing method to coordinate protest activities and connect individuals.  Protestors have create Facebook sites such as <em>Occupy Together</em> to coordinate mass protests.  Occupiers utilize Twitter to keep the public updated with constant tweets of activities at both protests and General Assembly meetings.  YouTube uploads of police brutality incite public uproar which furthers builds the movement, while more individuals participate in General Assembly meetings and decision making processes within the movement through livestreaming technology.  Through these means social media in all its forms has facilitated the growth and widespread popularity of the Occupy Movement.</p><h3>Problems and Purpose</h3><p>While the Occupy Movement protests against our democracy’s recent transformation into a “Corporacracy”, Conventional news sources such as print newspapers and cable television are  owned by Multimedia corporate conglomerates.  Because of this there is a conflict of interest in the coverage of occupy related events by most traditional news  and the interests and goals of the occupy movement to end corporate control of government, leading to often unsatisfactory coverage.  Not only this but Occupy camps have been broken up around the U.S., making it harder to convene on a physical level.  So protestors use social media not only to provide their own coverage which is no longer constrained by traditional media ownership, but also as a supplement to face-to face interactions, or even a replacement when these interaction are made impossible.  When police in California pepper sprayed peaceable protestors, it was recorded by onlookers who uploaded it to Facebook where it created a public outcry, holding the police and authority figures accountable to the public for their actions.  Because traditional news sources were not present when the protest-abuse happen, without the use of social media it never would have been recorded and distributed to the wider public.  Thus the purpose of social media within the Occupy Movement is not only to coordinate and connect protestors through the transcendence of physical boundaries, but also to dissipate the content constraints of the narrow-ownership of mainstream media and its corporate agenda, allowing for a wider diversity of voices and perspectives, and so a larger pool of information.</p><h3>History</h3><p>It was the popularization of non-political flash mobs that first utilized the concept of using social media as a way to organize large masses of people.  Beginning in December 2010 citizens of the Arab world used social media as an instrumental tool in a string of popular uprisings referred to as the Arab Spring. Often international journalists were banned from these countries by their governments and so the citizens relied upon social media like Twitter, Facebook, and YouTube to get their message out to the world.  As a result of this many of these nations, including Syria and Egypt, were able to oust their dictators and overthrow a corrupted regime.  Spain and Greece followed a similar model with their own anti-austerity protests, with the U.S. following shortly behind.  On July 13th <em>Adbusters,</em> a Canadian anti-consumerism blog, called for Americans to follow the lead of their Arab counterparts with their own “Tahrir” by means of 20,000 protestors peaceably occupying Zuccotti Park on September 17, 2011.  The protestors’ one demand would be for President Obama to instate a council charged with the task of separating corporate power and money from government.   This demand came in response growing wealth disparities within the United States and the use of taxpayer money on government bailouts for corrupt corporations, as well as a complete lack of legal consequences or repercussions.</p><h3>Participant Selection</h3><p>All protesters within the Occupy Movement have self-select themselves to be or not be active participants of the Movements’ social media division.  This allows for a greater diversity of voices to be heard than ever would be possible via tradition media venues because virtually anyone with internet access can now join the conversation.  However, individuals without access to internet are unable to contribute and therefore are less likely to have their voices heard- these individuals include the homeless and other lower divisions of the ninety-nine percent.  Secondly, when social media is so widely accessible that anyone and everyone can put out their opinions on whatever they want,  it begins to lacks legitimacy.  Occupiers have solved this issue by developing their own social media called <em>The Global Square</em>, which resembles a Facebook but is restricted to the occupy network.  You can only become a member by knowing someone who already is and being invited.  This solves the issue of social medias that are also corporations (like Facebook) from giving away relevant Occupy information to authorities.  By privatizing their information protestors can keep police off their scent for a little longer.  The network is being created specifically to help the Occupy Movement grow by linking like-minded people around the world and can be described as a mixing of the connective power of social networking and the political goals of the Occupy General Assembly meetings.  The network also differs from other social media in that it is group oriented instead of individualistically based; for anything to be posted an entire group within the network must agree upon it.  By doing this information dispersion is made more deliberative, instead of being at the whim of a single individual who may or may not have the agreement of his peers at his back.  </p><h3>Deliberation, Decisions, and Public Interaction</h3><p>The use of social media in the Occupy Movement allows for higher degrees of deliberation simply because there is a wider diversity of voices that can be heard, allowing for more balance in public opinion.  Central control by a singular power, as there often are in traditional forms of media news outlets, is lessened considerably because there is no central source.  I wider range of communication options are made available, such as one to one, one to many, and many to many.  Because of these factors there is a much heightened possibility for cooperative decision making within the process.  Simultaneously civil discourse is hurt by having so many unregulated voices, opinions, and discussions which often degrade into petty off-topic arguments on public forums.  The analytic vigor is heightened in that there are more viewpoints available and so individuals are more likely to receive all the information they would need to make the best choice possible, thus impacting the decisions that these individuals will eventually make.  For instance  if mainstream news isn’t covering the police brutality that is being inflicted on peaceful  protestors, then the public is missing out on information vital to accurately assessing the situation. However, when protestors have the available technology on their phones to record and publish this brutality themselves, then this knowledge gap is mended.  The down side of this is that with so much circulating information by so many different individuals,  misleading or illegitimate statements can be released and circulated, unduly influencing the decision making process with their falsities.  By  using live stream videos the decision making process is opened up further, so that  people who would normally be unable to participate in the discussion over long distances, are now able to participate in the democratic decision making process.  Social media can also increases the level of public interaction by giving individuals the opportunity to participate on less intimate levels.  For those who are unwilling to sleep at the camps or join in the marches, they can still support the movement through Facebook, Twitter, blogging, and other forms of social media. However it can also cause less public interaction because people feel they can participate in the movement from a laptop and don’t need to be part of General Assembly meetings or face to face conversations.</p><h3>Influence, Outcomes, and Effects</h3><p>Through social media the occupy movement was able to reach an international scope.  Without it the Arab Spring would not have been  the same movement that it was, nor as successful, and it would not have been an inspiration for the writers of <em>Adbusters.  </em>The movement has not only spread from New York through-out the United States but around the world.  However, during the colder months occupy has died down, especially as police crackdown on the Occupy camp sites.  This causes participation to wane because as successful as social media has been it will never be able to completely replace face to face interactions, without which the movement would dwindle, because it is at the local level that protestors become truly involved.  The easy accessibility of social media for anyone with a computer matched with the largely applicable message of Occupy has given it the effect of bringing the largely apathetic youth population back into the political world.</p><h3>Analysis and Criticism</h3><p>While social media has been a fundamental part of the rise and spread of the occupy movement and its message, it can never function as the primary aspect of the movement; face to face interaction will always be necessary in connecting protestors on the local level.  Because while social media can connect people across distances, it is the local level of participation which interlocks individuals into the movement.  And while social media does allow for a greater diversity of voices it also allows for a greater diversity of misinformation, where one faulty fact without backing can be perpetuated over and over across a wide variety of social mediums, even after it is disproven.  Despite this, the method by which social movements form and run their course has morphed permanently to encompass social media.</p><h3>Secondary Sources</h3><p>Preston, J. (2011, November 24). Protesters look for ways to feed the web. <em>The New York Times</em>, Retrieved from <a href="http://www.nytimes.com/2011/11/25/business/media/occupy-movement-focuses-on-staying-current-on-social-networks.html?_r=1">http://www.nytimes.com/2011/11/25/business/media/occupy-movement-focuses-on-staying-current-on-social-networks.html?_r=1</a></p><p> </p><p>Dvorak, J. C. (2011, November 15). How social media distorts the occupy movement. <em>PC</em>, Retrieved from <a href="http://www.pcmag.com/article2/0,2817,2396450,00.asp">http://www.pcmag.com/article2/0,2817,2396450,00.asp</a></p><p> </p><p>Captain, S. (2011, December 27). Occupy geeks are building a facebook for the 99%. <em>Wired</em>, Retrieved from <a href="http://www.wired.com/threatlevel/2011/12/occupy-facebook/all/1">http://www.wired.com/threatlevel/2011/12/occupy-facebook/all/1</a></p><p> </p><p>Moody, G. (2012, january 19). A 'trustworth'y social network for the occupy movement: Even if they build it, can they ever trust it?. <em>Techdirr</em>, Retrieved from <a href="http://www.techdirt.com/articles/20120106/09421517302/trustworthy-social-network-occupy-movement-even-if-they-build-it-can-they-ever-trust-it.shtml">http://www.techdirt.com/articles/20120106/09421517302/trustworthy-social-network-occupy-movement-even-if-they-build-it-can-they-ever-trust-it.shtml</a></p><p> </p><p>Roos, J. (2011, November 2). The global square: an online platform for our movement. <em>Roarmag.org</em>, Retrieved from <a href="http://roarmag.org/2011/11/the-global-square-an-online-platform-for-our-movement/">http://roarmag.org/2011/11/the-global-square-an-online-platform-for-our-movement/</a></p><p> </p><p>How occupy wall street is using social media <em>Space Chimp Media</em>, Retrieved from <a href="http://spacechimpmedia.com/how-occupy-wall-street-is-using-social-media/">http://spacechimpmedia.com/how-occupy-wall-street-is-using-social-media/</a></p><p> </p><p><em>Sociologist tracks social media’s role in occupy wall street movement </em>. (2011). Manuscript submitted for publication, Sociology, University of North Carolina at Chapel Hill, North Carolina. Retrieved from <a href="http://sociology.unc.edu/features/sociologist-tracks-social-media2019s-role-in-occupy-wall-street-movement">http://sociology.unc.edu/features/sociologist-tracks-social-media2019s-role-in-occupy-wall-street-movement</a></p><p> </p><p>Ngak, C. (2011, October 7). Occupy wall street uses social media to spread nationwide. <em>CBS News: TechTalk</em>. Retrieved from <a href="http://www.cbsnews.com/8301-501465_162-20117291-501465.html">http://www.cbsnews.com/8301-501465_162-20117291-501465.html</a></p><p> </p><p>[Web log message]. (2011, July 13). Retrieved from <a href="http://www.adbusters.org/blogs/adbusters-blog/occupywallstreet.html">http://www.adbusters.org/blogs/adbusters-blog/occupywallstreet.html</a></p><p> </p><p>Chan, A. (2011, December 5). Power of the social media. <em>Daily Illini.com</em>. Retrieved from <a href="http://www.dailyillini.com/index.php/article/2011/12/power_of_the_social_media">http://www.dailyillini.com/index.php/article/2011/12/power_of_the_social...</a></p><p> </p><p>The occupy movement focuses on staying current on social networks . (2011, November 24). <em>NY Times</em>. Retrieved from <a href="http://www.occupy-movement-focuses-on-staying-current-on-social-networks./">http://www.occupy-movement-focuses-on-staying-current-on-social-networks./</a></p><p> </p><p>Benitez, F. (2011, December). Occupy wall street. <em>ARQ (Santiago)</em>. Retrieved from <a href="http://translate.google.com/translate?u=http://www.scielo.cl/scielo.php?pid=S0717-69962011000300002&amp;script=sci_arttext&amp;hl=en&amp;langpair=auto%7Cen&amp;tbb=1&amp;ie=UTF-8">http://translate.google.com/translate?u=http://www.scielo.cl/scielo.php?pid=S0717-69962011000300002&amp;script=sci_arttext&amp;hl=en&amp;langpair=auto|en&amp;tbb=1&amp;ie=UTF-8</a></p><p> </p><p>Roos, J. (2012, Febuary 18). Virality: international media coverage of the global square. <em>roarmag.org</em>, Retrieved from <a href="http://roarmag.org/2012/02/global-square-wikileaks-media-social-network/">http://roarmag.org/2012/02/global-square-wikileaks-media-social-network/</a></p><p> </p><p>Nassar, D. (2011, October 6). Does occupy wall street make mainstream american media irrelevant?. <em>The Huffington Post</em>, Retrieved from <a href="http://www.huffingtonpost.com/david-nassar/occupy-wall-street-media-coverage_b_996942.html">http://www.huffingtonpost.com/david-nassar/occupy-wall-street-media-coverage_b_996942.html</a></p><p> </p><p>Preston, J. (2011, October 15). Social media gives wall street protests a global reach. <em>The New York Times</em>. Retrieved from <a href="http://mediadecoder.blogs.nytimes.com/2011/10/15/social-media-gives-wall-street-protests-a-global-reach/">http://mediadecoder.blogs.nytimes.com/2011/10/15/social-media-gives-wall...</a></p><p>Harb, Z. (2011). Arab revolutions and the social media effect. <em>M/C Journal</em>, <em>14</em>(2), Retrieved from journal.media-culture.org.au/index.php/mcjournal/article/viewarticle/364</p><h3>External Links</h3><p><a href="http://occupywallst.org/">http://occupywallst.org/</a></p><p><cite><a href="http://www.adbusters.org/">www.<strong>adbusters</strong>.org/</a></cite></p><p><cite><a href="http://www.facebook.com/theglobalsquare">www.facebook.com/<strong>theglobalsquare</strong></a></cite></p><p><cite><a href="http://www.occupytogether.org/">www.<strong>occupy</strong>together.org/</a></cite></p><p><cite><strong>occupy</strong></cite><cite>streams.org/</cite></p><h3>Notes</h3><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/occupy-wall-street-occupy-movement-social-media-social-networking-facebook-twitter-youtube" typeof="skos:Concept" property="rdfs:label skos:prefLabel">occupy wall street; Occupy; Movement; Social Media; Social Networking; Facebook; Twitter; YouTube; Livestream</a></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-3ce71fa8060a5102ec61d9dba2bc2a7d">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/547">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/organized-demonstrations" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Organized Demonstrations</a></div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Social Networking</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Leaderless Consensus</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/international" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International</a></div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/international-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International Organization</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/4-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/5-highly-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Highly Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/5-always-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Always Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/protest" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Protest</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/not-applicable" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Not Applicable</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Social Media: Facebook; Twitter, Livestream; Youtube; The Global Square; MeetUp; Texting; Skyping</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

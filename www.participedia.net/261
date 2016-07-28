@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/common-enterprise" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/261" />
+  <title>The Common Enterprise | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"GRaVkg-0MOKdKXMX6wT1jleZG9Ave2M5Ig2nCUEimzQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/common-enterprise?destination=node\/261":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-261 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/common-enterprise" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/common-enterprise?destination=node/261" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Wq9B7Yq2wl_-QZ3VYBoU4MFiaT9sgND7E8e58GS91nc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">The Common Enterprise</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="The Common Enterprise - Participedia" addthis:url="http://participedia.net/en/organizations/common-enterprise"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 3 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/maryb29" title="View user profile." class="username" xml:lang="" about="/en/users/maryb29" typeof="sioc:UserAccount" property="foaf:name" datatype="">Maryb29</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Organization" id="Organization"></a><h2>Organization</h2>
+<p>The Common Enterprise  
+</p><p>The Common Enterprise is a national organization, which works to encourage citizens with different backgrounds, party affiliations and beliefs to work together toward common goals. The Common Enterprise has spent several years studying the various successes and failures of various fields—community building, community organizing, leadership development, politics, journalism, facilitation, government, the private sector, foundations, youth work —and then has analyzed this information to assist citizens and their communities to effectively work together . The Common Enterprise is community-building initiative funded by the Rockefeller Foundation. The Common Enterprise is currently working in –Tucson, San Antonio, San Diego and Portland to bridge the ideological gaps between citizens that prohibit them from reaching common goals within their local community.  Although not a well-known organization, The Common Enterprise has worked within each of these four cities local educational institutions and their local non-profit organizations to support and assist them in effectively deliberating on local issues.
+</p>
+<a name="Purpose_and_Problem" id="Purpose_and_Problem"></a><h2>Purpose and Problem</h2>
+<p>Often the importance of building relationships among citizens is overlooked by a community’s short-term goal of solving a specific issue; however, this shortsightedness is detrimental. Instead, encouraging productive relationships amongst a community’s citizens, allowing them to work together and apply their own strengths to an issue, builds an atmosphere in which a community can grow and productively interact. Thus building the long-term foundation that is necessary for a community to tackle current and future issues. Jaun Sepulveda explains, “Although there is always a specific community project to be addressed, the true value lies in recognizing that citizens are helping to create an atmosphere where getting to know one another and working together to tackle the community’s toughest issues become a way of life .” However, getting individuals that rarely interact together and creating a productive conversation is not an easy feat.
+</p><p>Common Enterprise’s purpose and mission is to facilitate such productive interactions and conversations between opposing parties and encourage each party to work collaboratively in their own community. The Common Enterprise strives to step back from situations and assess the factors that are “limiting to the ongoing community work of individuals and organizations across the country .” They then utilized this information to assist citizens and organizations to work past differences and successfully join together to better their community. 
+</p>
+<a name="History" id="History"></a><h2>History</h2>
+<p>The Common Enterprise initiative was formed in 1995. It was organized and funded by the Rockefeller Foundation.  It is a national organization as it has studied various organizations around the United States; however, has four central sites from which it works—San Diego, Tucson, San Antonio and Portland. 
+</p>
+<a name="Research_and_Strategy" id="Research_and_Strategy"></a><h2>Research and Strategy</h2>
+<p>The Common Enterprise strives to understand the actions and processes that limit citizens and organizations from moving forward in their common endeavors. San Antonio’s previous site director, Juan Sepulveda, references Peter Senge, in his book, The Dance of Change, to explain why The Common Enterprise works to seek out these limiting processes. Senge explains, “We need to understand the nature of growth processes (forces that aid our efforts) and how to catalyze them. But we also need to understand the forces and challenges that impede progress, and to develop workable strategies for dealing with these challenges. ” The Common Enterprise specializes in understanding and then working to correct these limiting processes. 
+</p><p>Previous site director for San Antonio, Jaun Sepulveda, explains the common limiting processes that The Common Enterprise recognizes, in his article, The Common Enterprise: A Report from San Antonio, Texas. Jaun Sepulveda highlights four major issues in this report. First Sepulveda explains that more citizens need to be involved. He states, “Almost every effort with which we have worked has had the same problem: there are never enough people to share the tasks and responsibilities necessary to carry out the work .” Sepulveda then explains this has two consequences; first, those individuals that are involved begin to complain about the workload and begin stereotyping the rest of the community as apathetic and lazy . Second, these volunteers start to believe that they are the only ones who can get the project done and do not seek outside help. As explained by John Gastil, in Political Communication and Deliberation, for productive deliberation it is necessary for a broad-spectrum of ideas to be brainstormed so that the best possible solution can be implemented. However, when only a select number of people are participating in the brainstorming process, the ideas presented will reflect those participating and often neglect to recognize the needs of other groups. The Common Enterprise recognizes that a completely representative group is impossible to create, however, “by focusing on who is not present, we can continue to develop strategies to attract others and offer them innovative ways of participating .” Furthermore, it is important the individuals do not claim to represent factions of the population in which they are not currently a part. Sepulveda explains individuals often do not recruit the minorities that are hard to interest such as, the poor, women and the youth; instead they claim that they can represent these individuals as they are “their neighbors” or “they use to be one of them.” Instead, it is more productive to recognize that these voices are not represented in ones organization and consider how these gaps can be appropriately filled. Furthermore, The Common Enterprise works with organizations to understand that participants should pursue tasks in which they are interested. Sepulveda explains, “When there are task forces to be led, subcommittees to be formed, or activities to be assigned and no one volunteers, usually the group stares at each other until someone feels guilty enough to volunteer. But the typical result is that it does not get done at all, or it gets done late or inadequately.” Therefore, the individual’s time was not productively spent. Instead, The Common Enterprise encourages organizations, as community builders, to seek out an individual that is passionate about the position and can effectively perform the task.
+</p><p>The second issue that The Common Enterprise has worked to assist community-building organizations with is to encourage individuals to stop creating an unmanageable workload. Sepulveda explains, “The group of people working on the added-on community work tries to ﬁt the new set of activities into an already overburdened, unrealistic work schedule. Work hours are increased, but deadlines are missed, though in fact no one believed there was enough time to accomplish the goals. A silent agreement comes to pass: workers know they cannot complete their work, but they learn how to make it seem as if they are .” This is an unhealthy habit, which can result in individuals becoming so overwhelmed they give up trying to accomplish the objective. Therefore, the original goal is never completed. The Common Enterprise simply asks,  “potential community volunteers to take a step back and evaluate everything they are already doing—professionally, personally, other volunteer commitments—before they make any commitments to a new project .” Therefore volunteers can enjoy the experience of successfully completing their goals; thus, empowering them to encourage other to be involved. Furthermore, the quality of work done will be visible to the public and encourage bystanders to be involved, as they can perceive that participation in such organizations can have productive results.
+</p><p>The third point that the Common Enterprise stresses the need for organizations to get back to basics. Sepulveda explains, “To have true community impact, an organization cannot forget the basics. Without the basics, there are no advanced issues to worry about because it will end up spending a great deal of its time reacting and trying to resolve the fundamental questions .” Therefore, before an organization moves on to complicated projects they must make sure they have their fundamental principles are clarified. As explained by Gastil in Political Commuication and Deliberation for a viable solution to be selected, a clear set of criteria must be decided on to assess the potential solution and its ability to meet the goals strived for by the committee. 
+</p><p>The final point that the Common Enterprise seeks to implement is for citizens to “learn globally, act locally”. Sepulveda explains, “the…message we need to send is that community groups are not doing their job locally if they are not continuously learning from the efforts of others across the city, the country, and the rest of the world, and taking these resources and applying them to their local actions .” The Common Enterprise explains that it is important for organizations to look to other organizations to see how they have solved their problems; thus, allowing them to learn from each other. When organizations do not learn from each other Sepulveda explains, “the result is that many community efforts constantly reinvent the wheel, do not build on the successes and failures of the past, and believe that their local conditions are so unique that they must take on their tasks as though no one else has ever faced these sets of challenges .” The Common Enterprise has helped develop two different strategies to help citizens and organization to keep learning. The fist is coined the codification strategy—this strategy “focuses on capturing the knowledge, experiences, and lessons of individuals and groups that are working on basic, fundamental issues—the type of issues that many companies will face in their lifetime .” This information is then stored on databases which all members of the organization have easy access, therefore, eliminating the need for specific individuals to be sought out to answer questions. The second option The Common Enterprise has encouraged is the personalization approach, “Here, the focus is not on databases but on networks of individuals who can be tapped to tackle challenging problems creatively—problems that go beyond the basic issues faced by organizations.” Here Common Enterprise strives to have knowledgeable non-profit organizations utilize their knowledge of strategic consulting and help communities to learn and implement this knowledge.
+</p>
+<a name="Major_Projects_and_Events" id="Major_Projects_and_Events"></a><h2>Major Projects and Events</h2>
+<p>The Common Enterprise works in four cities in the United States: San Diego, San Antonio, Portland and Tucson. However, The Common Enterprise has received the most recognition for its work in San Antonio and Portland.
+</p>
+<a name="_The_Three_Valley.E2.80.99s_Project" id="_The_Three_Valley.E2.80.99s_Project"></a><h2> Portland: The Three Valley’s Project </h2>
+<p>The Three Valleys Project was a two-year project that was implemented by The Common Enterprise. The current project director is Sharif Abdulluh. It is now a direct grantee of the Rockefeller Foundation. The Three Valley Project worked to create an understanding and create community and civic engagement between citizens from different cultures that live in the three valleys. The Three Valleys Project focused on small towns located in the Hood River Valley, Mid-Willamette Valley and Tualatin Valley. The focus of this project was to assist in helping these communities interact with each other as they experience a large demographic change. 
+
+</p>
+<a name="" id=""></a><h2> Three principal goals for the project : </h2>
+<p>  
+</p>
+<a name="__Embracing_A_Multi-Cultural_Reality" id="__Embracing_A_Multi-Cultural_Reality"></a><h2> 1:  Moving Beyond Fear:  Embracing A Multi-Cultural Reality </h2>
+<p>-Reducing racism, cultural antagonism and social isolation.   
+-Building cultural diversity and sensitivity.
+</p>
+<a name="___Generating_A_Civic_Dialog" id="___Generating_A_Civic_Dialog"></a><h2> 2:   Generating A Civic Dialog </h2>
+<p>-Facilitating the creation and expansion of a larger civic community.   
+-Helping all of the people who live in a given area become full participate citizens of that area.
+</p>
+<a name="___Encouraging_Systemic_Change" id="___Encouraging_Systemic_Change"></a><h2> 3:   Encouraging Systemic Change </h2>
+<p>-Addressing systemic and institutional problems challenging true multi-cultural citizenship in the Valleys. 
+These goals were progressed toward through a series of roundtables in which facilitators and translators meet with citizens and worked with them to reach consensus and gain mutual respect for each other’s cultures. Thus The Common Enterprise strived to remove the limiting processes and helping these small communities build a solid foundation on which their community as a whole could grow.
+</p>
+<a name="Funding" id="Funding"></a><h2>Funding</h2>
+<p>The Common Enterprise is a non-profit organization. The Common Enterprise has received funding from the Rockefeller Foundation. 
+</p>
+<a name="Publications" id="Publications"></a><h2>Publications</h2>
+<p>The Three Valley Project publishes a bilingual community newsletter that discusses the work that is being done to improve racial relations in the three valleys.
+</p>
+<a name="Secondary_Sources" id="Secondary_Sources"></a><h2>Secondary Sources</h2>
+<p>1.)	The Common Enterprise: A Report from San Antonio, Texas. National Civic Review, 89, no. 1 (2000): 39-46
+2.)	Leading through conflict: how successful leaders transform differences into Opportunities By Mark Gerzon
+3.)	Political Communication and Deliberation. John Gastil. Sage Publications, 2008.
+</p>
+<a name="External_Links" id="External_Links"></a><h2>External Links</h2>
+<p>-	<a href="http://www.cpn.org/partners/commonenter.html">www.cpn.org/partners/commonenter.html</a>
+-	<a href="http://www.hets.org/content.php?cn_id=170" class="external free" title="http://www.hets.org/content.php?cn_id=170" rel="nofollow">http://www.hets.org/content.php?cn_id=170</a>
+-	<a href="http://classic.commonway.org/3vp61798.htm#top" class="external free" title="http://classic.commonway.org/3vp61798.htm#top" rel="nofollow">http://classic.commonway.org/3vp61798.htm#top</a>
+-	<a href="http://clinton4.nara.gov/Initiatives/OneAmerica/Practices/pp_19980729.7002.html" class="external free" title="http://clinton4.nara.gov/Initiatives/OneAmerica/Practices/pp_19980729.7002.html" rel="nofollow">http://clinton4.nara.gov/Initiatives/OneAmerica/Practices/pp_19980729.7002.html</a>
+-	<a href="http://diverseeducation.com/article/13088/making-it-known-that-latinos-have-an-education-ally-and-partner.html" class="external free" title="http://diverseeducation.com/article/13088/making-it-known-that-latinos-have-an-education-ally-and-partner.html" rel="nofollow">http://diverseeducation.com/article/13088/making-it-known-that-latinos-have-an-education-ally-and-partner.html</a>
+-	<a href="http://www.hks.harvard.edu/saguaro/participants/sepulveda.htm" class="external free" title="http://www.hks.harvard.edu/saguaro/participants/sepulveda.htm" rel="nofollow">http://www.hks.harvard.edu/saguaro/participants/sepulveda.htm</a>
+</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">San Antonio Texas</span>
+                                                                <span class="geo"><abbr class="latitude" title="29.424122">29° 25' 26.8392" N</abbr>, <abbr
+            class="longitude" title="-98.493628">98° 29' 37.0608" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div><div class="field-item odd"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item even"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

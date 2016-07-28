@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/la-reina-sustainable-development-project-chile" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/872" />
+  <title>La Reina Sustainable Development Project (Chile) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"LahFHUXLfpVk9AznLF-nPYOwUReUfLjsRJFvMChaih8","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"872"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/la-reina-sustainable-development-project-chile?destination=node\/872":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-872 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/la-reina-sustainable-development-project-chile" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/la-reina-sustainable-development-project-chile?destination=node/872" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-TbpP3docKVZFpa6QWLLtCocjKR_i7TWwgEPhEz4HkA0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">La Reina Sustainable Development Project (Chile)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">La Reina Sustainable Development Project (Chile)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/christophersmith" title="View user profile." class="username" xml:lang="" about="/en/people/christophersmith" typeof="sioc:UserAccount" property="foaf:name" datatype="">Christopher Smith</a> on Fri, 04/19/2013 - 03:19</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sun, 05/29/2016 - 08:52</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="La Reina Sustainable Development Project (Chile) - Participedia" addthis:url="http://participedia.net/en/cases/la-reina-sustainable-development-project-chile"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Note: this is an English translation of a Spanish case study available here: <a href="http://participedia.net/en/cases/participaci-n-para-el-desarrollo-ambientalmente-sustentable-y-la-integraci-n-social-en-el">http://participedia.net/en/cases/participaci-n-para-el-desarrollo-ambien...</a></p><h3>Summary </h3><p>This article presents an interesting case of urban planning with citizen participation developed in Santiago, Chile. The case is primarily about the development and implementation of a standard methodology that allows for a real appropriation of public space by citizens, developing urban spaces that are sustainable over time.</p><p>The main feature of the developed methodology is its flexibility which allows it to adapt to multiple projects and contexts. This can be seen from the description of the first four pilot applications of the methodology developed in the district of La Reina and their respective particularities. A macro analysis of the results, strengths, and weaknesses of the methodology as well as its implementation are presented.</p><h3>Problems and Purpose</h3><p>The management of public space is frequently completed without incorporating the major stakeholders. This all translates into the non-appropriation of space on the behalf of neighbors. This simultaneously leads to a minimized use and neglected maintenance of the space.</p><p>To reverse this situation a major diffusion of information and communal participation is necessary in making decisions, sharing responsibilities as well as resources, and improving control by users and respective communities for more efficient management.</p><p>The project ‘Participation for sustainable environmental development and social integration in public spaces in the Communa del la Reina’ (Spanish: Participación para el Desarrollo Ambientalmente Sustentable y la Integración Social en el Espacio Público de la Comuna de La Reina)  falls within the national platform program “State Modernization- A Participatory State at the Service of Citizens” (Modernización del Estado - Un Estado participativo al servicio de la ciudadanía) developed between 2004 and 2008. The global objective of this program was to contribute to the establishment of a flexible and modern state based on efficient, participatory, and transparent management encouraging the process of State Modernization.</p><p>The project aimed to contribute to state modernizations with replicable practical experience of participatory management of public space which incorporates neighbors’ participation in municipal management. It aimed to amend the conditions which inhibit citizen participation while at the same time strengthening the capacities of social organizations.</p><p>The program was implanted through a grant fund for which there was an extensive call at all levels of the state to participate. Funding was established from a European contribution of € 11.670.000 and a national counterpart contribution equivalent to € 11.670.000, thereby reaching a total amount of € 23.340.000 which were distributed between 18 selected projects (Gobierno de Chile, 2009).  The project proposed for the commune of la Reina was awarded € 744.450 which was allocated to multiple projects, among which this presented case study is included.</p><p>The central focus of this project was citizen participation in defining, consolidating, and using public spaces selected by both neighbors and municipality. In becoming a pilot experience, its evaluation and systemization will provide a replicable model to other communes and national agencies which support citizen municipal modernization and participation. </p><h3>History</h3><p>The municipality of la Reina is a commune in eastern Gran Santiago (Chile). It is characterized by its image of a park commune due to an abundance of trees and low population density. It has maintained its semirural origin thanks to its regulatory scheme which restricts high-rise construction and anything diverging from its fundamentally residential character. The commune of la Reina has an urban character with a unique identity which its inhabitants have fought to protect.</p><p>The initiative of the present project is the result of two professionals who reside in the commune of La Reina and who were concerned with how to create more sustainable urban spaces therein. At the end of 2006 María José Castillo (architect) y Carolina de la Lastra (sociologist) brought forth a proposal to the municipality: the implementation of a participatory and sustainable environmental management system of public spaces in La Reina. The municipality welcomed the proposal and together with the neighbors applied to the State Modernization Program, leading to an allocation of funds to implement four pilot projects in La Reina.</p><p>The offer envisaged a methodology which would allow for an articulation of citizen necessities concerning public spaces, thereby advocating maintaining sustainable spaces which could be maintained over time without needing major intervention by the district. From its inception the method has emerged as a participatory solution which seeks to foster everyone’s opinion.</p><p>The conceived methodology for this project was utilized to create the “Manual for Participatory Methodology for the Improvement of Public Spaces” (Manual de Metodología Participativa para el Mejoramiento de Espacios Públicos) (MMPMEP) of the commune of la Reina and was the foundation for the development of the Manual for Participation in the Ministry of Housing and Urban Development (Ministerio de Vivienda y Urbanismo (MINVU)). </p><h3>Methodology </h3><p>Details on the methodologies can be found at the MMPMEP, but the following will present a summary of the four principal stages and the different steps to be taken.</p><p><u><em>1. Identification of the Project</em></u></p><p>This first stage seeks to gather existing information concerning the context of the project, thereby attempt to understand which outcome will take place. The first five steps broken down in this stage are 1. Find opportunities for this project 2. The confirmation of the first multidisciplinary group which will evaluate the project  3. Gathering of technical background 4. First meetings with neighborhood leaders, thereby searching for links which will permit members to convene for the second step, and 5. Evaluation of the project’s outcomes and risks.</p><p>These 5 steps are oriented toward a good project definition framed in the context will determine the outcomes and risks inherent therein.  The identification of opportunity of the project supposes that this could be suggested by the distinct actors which participate, i.e.  this could arise among both neighborhood and municipal agents. Funding aspects which determine the feasibility of the project, and of course, outcomes within financial reach are also defined in this stage.</p><p><u><em>2. Participatory Project Design</em></u></p><p>This second step tries to integrate all actors into the project’s design who consider themselves affect by the project’s development.</p><p>It is recommended to develop at least three workshops with different purposes. The first of these workshops needs to focus on considering problem areas and opportunities which could arise. The second should strive to listen to neighbors’ proposals and complaints so that in a third workshop a project proposal, which includes everything defined in the previous workshops, is presented to the community. This proposal remains subject to changes made by the same neighbors. These are framed by the technical standards made by the professional who manage the project.</p><p><u><em>3. Development of Work Plan</em></u></p><p>This step envisages the development of a work plan which involves individuals who participate in the project’s definition.  </p><p>It is specified that commissions should be created which will be in charge of different aspects of the project. The number of sessions and members will depend on the magnitude of this part.  Sessions and members will be selected by the individuals who participate in the project’s design who expect sufficient time for this work.  This stage also seeks to find funding if the sufficient amount has not already been raised and a corresponding budget will be developed involving all the working actors.</p><p><u><em>4. Implementation of the Works</em></u></p><p>In this step, post-construction execution and monitoring of proposed work are completed. Finality is given to all previous steps and the work which was previously planned by the set of relevant actors is implemented. The monitoring and appraisal system can be applied to the work after it has been constructed. The system will be very important in guaranteeing the sustainability of the work.</p><h3>Completed Projects: Deliberations, Decisions, and Public Interaction</h3><p>The pilot project in which the methodology was implemented will now be presented in detail. A summary of each pilot project is presented, pointing out the contextual particularities which signify interesting changes in the methodology.</p><p><em><u>1. Bike Path Park Las Perdices</u></em></p><p>The municipality of la Reina was developing the construction project in which a second car route in one of the most important roads in the commune: Avenida Las Perdices.</p><p>On this border there was a possibility to develop a project which improves the quality of life among neighbors and would make construction of the roadway more accessible and welcoming; combined with the great nuisance for the same neighbors due to the use of this territory as a place of aggregate and rubble by the same individuals in charge of the project for the construction of this route.  This presents an ideal situation for the application of the participatory method with the most willing in this quarter.  </p><p>Participation arose at first as a voice in protest against these earthmoving works. This allowed for the formation of the first work teams which during development of the project changed the design of this bike path park to a constructive and significant degree.</p><p>The project included the opinions of three neighboring housing projects in the territory (Villa Rio Lauca, Villa Las Perdices , and Condominio Social de la Universidad de Chile), which through the workshops proposed in the methodology were able to come up with a solution which was built on the neighbors’ feedback.  This resulted in a solution in accordance with neighbors’ sentiments: parking lots, bus stops, and various ways to access the park. This was deemed a satisfactory result for the neighbors.</p><p><u><em>2. Surroundings of Kindergarten Paidahue</em></u></p><p>While completing research, it was found that there was a large amount of dissatisfaction among neighbors due to the installation of an illegal micro-landfill in underutilized land in the surroundings of the kindergarten Paidahue. This was a problem which affected many, both as a danger to the children who regularly attended the kindergarten and to others due to its source of foul odors and poor sanitary conditions.</p><p>The nature of the project led to a large amount of interest and gave rise to the creation of distinct teams in line with the various groups of relevant actors. </p><p>A very interesting point to highlight in the development of this project was the particular dynamic which took place in the project’s second stage, specifically in the model’s second workshop. Because the project affected all the neighbors in the vicinity of the kindergarten, it was necessary to divide them by sector.  After this, a very easy way to go about grouping those who lived in these sectors was developed, whereby the territory was toured and meeting tables were set up in each sector. These acted as areas of congregation where the proposals of all neighbors were heard. This immediately realized success by reaching consensus at these meetings through negotiation by different actors and the proposals by decision makers. This was then given the name “Estaciones en terreno” or “ground stations “and they were a key piece in development participation among neighbors and adopting proposals.</p><p>The result was spectacular and led to the approval of many proposals which meant an achievement in compromise among the different interests held by the neighbors. </p><p><u><em>3. Market Villa la Reina</em></u></p><p>This project began as an initiative of the neighbors themselves together with the district. At that moment construction on the Military Hospital was underway nearby which led neighbors to come up with the idea of improving the market’s facilities in order to welcome the public who would go to the hospital.</p><p>In general, the project had many complications and at the beginning did not come up with a solution beyond a work plan. The complications mainly concern land ownership on which the market was based. Additionally, mplications concerning the definition of the property signified that the district could not invest in these territories.</p><p><u><em>4. Improvements in the Surroundings of Diputada Laura Rodríguez Street              </em></u></p><p>Similarly to the previous project, this project came into existence due to the construction of the Military Hospital. This was a work which complemented construction on the hospital. Its aim was to connect the street Valenzuela Llanos with Avenida Larraín, therefore allowing street Diputada Laura Rodríguez to take on more traffic flow. This would make it the visible face of the industrial neighborhood which is next to the aerodrome La Reina.</p><p>When the improvement of this street was planned, two actors with knowledgeable opinions existed who needed to come to an agreement.  The methodology needed to be applied twice, once for the neighbors and the other time for the industrialists. This opened the way for the establishment of a grand participatory workshop that allowed both sectors to negotiate. This last workshop was very complicated and required significant group skills and management to be able to find compromise among both groups’ proposals.</p><p>A difficulty which arose was the challenge in organizing meetings. This was due to the different times availabilities among these actors.</p><p>A work plan was finally developed which included actors from both groups, but was also of great complexity in its implementation due to many bureaucratic problems.</p><h3>Influence, Outcomes, and Effects</h3><p> The project generally achieved its principal objectives:</p><ul><li>Experiences and guidance arose which allowed citizen participation to be incorporated in the decision making process in the design, creation, and management of pilot project. The pilot projects in addition created value in the various communities</li><li>Experiences were systematized through an application and validation of the work methodology which through a succession of workshops allowed for consultation with the community in public spaces. This allowed for regular cooperation between neighbors on the municipal level.</li><li>A learning space was created where municipal officials, neighbors, and their leaders gained tools for the joint work in improving public spaces, both through training and learnt lessons in the application of the methodology. This led to receiving positive assessments in the training cycle by participants.</li></ul><p>Nonetheless, in its totality, the project created various additional effects on the formulated planned objectives, in terms of citizen participation greater confidence in the district in participation being the most significant.  This shows that taking care of certain conditions is not only possible, but also advantageous in incorporating the community and its organizations in municipal projects.</p><p>Some side effects for the district were greater internal coordination promoted around the pilot project, the development of collaboration and inter-directional working teams in the municipality and additional public funds management, like for example the PMU, SERVIU, and regional government to combat fund scarcity.</p><p>These side effects for neighborhood organizations highlight the strengthening of positions taken by leadership in producing concrete results. Interestingly, creations of an efficient communication channel with municipal actors is still being used after this specific project, and the interest as well as neighbors’ support in the care and maintenance of pilot projects remains.  Additionally, participation in these activities led to improved outreach by the leadership, the creation of a major environment of trust between social and municipal organizations and the verification that, beyond social, educational, and political differences, recognition and reconciliation between individuals is created. </p><h3>Analysis and Criticism</h3><p>Despite satisfactorily complying with the planned objectives and the numerous positive effects which the project generated, there are some negative aspects in its development.  Some of these aspects were caused by external factors outside of the project’s control, but others were caused by internal factors which can be improved for future applications.</p><p>One of the most apparent problems, which developed in the beginning of the project, was the clear delay in its beginning since it should have begun in March 2006 which did not occur until the following year. This problem, even though it was caused by excessive bureaucracy in its processing and approval by the municipality and the postponement of the adoption of the Regulatory Communal Plan (Plan Regulador Comunal or PRC), could have been foreseen and planned for ahead of time. As such,  it would not have been necessary to complete an extra re-planning and redefining job of the baseline, among other activities.</p><p>Another negative aspect was the small level of citizen participation. The calls for participation and participatory activities, as well as works in the pilot project and training had fewer assistants than hoped for.</p><p>According to the annual report of “ Program for State Moderinzation: A Participatory State Serving Citizens” 2007  (Programa Modernización del Estado: Un estado Participativo al Servicio de la Ciudadanía), the pilot projects presented the following problems:</p><ul><li>Unequal participation throughout the whole process</li><li>Unwillingness among neighbors to execute tasks (it was considered that this was under municipal responsibility)</li><li>Neighbors expect that other solve problems</li><li>Social organization and neighbors have unresolved previous demands with the district</li><li>Longer than expected schedules</li><li>Municipal authorities do not always respect the requirements in projects together with the important achievements delays, internal lack of coordination and non-compliance.</li></ul><p>Citizen participation was in general perceived like a right, but not a responsibility. Problems which were generated by a conflict of interest between groups in some project and problems of communication as well as compiling community needs may be added to this list.</p><p>The representativeness of organization leaders was also a negative aspect, since the project started with already known difficulties in the country: mismanaged neighborhood meetings, organizations with only a few active partners, leaders who have served for a long time, and complaints thereof concerning low participation among neighbors and the youth.</p><p>As a new experience, the organization of first training courses and workshops were poor in paying attention in how to welcome neighbors, availability of food, etc. These activities make participation for neighbors more fun and were incorporated in future activities.</p><p>Finally, an important issue was the investment funds shortage. This led to an active effort in finding additional funds from other sources. Even though the awarded amount in the contest was €744.450, this money was distributed to many projects. The initiative was undoubtedly successful, but the difficulties experienced post challenges which need to be addressed for a future application of the methodology.  These are:</p><ul><li>Sustainability of the participatory methodology implemented by the project after its end, including training of municipal official and the systematic incorporation of the methodology.</li><li>The involvement of municipal official on a grand scale</li><li>More participation among neighbors</li><li>Create processes which break bureaucratic barriers within the district in order to develop faster implementations of the methodology.</li><li>Manage the community’s contributions by creating equilibrium between the community contributions vs. professionals’ expert knowledge. </li></ul><h3>Secondary Sources</h3><p>Interview with María Verónica Quijada, Project Municipal Coordinator</p><p>Interview with María José Castillo, Public Space Participatory Management Advisor</p><p>Castillo, Fernando (1-2008) Una Ciudad Nuestra, una Ciudad con Identidad. Centro de Investigación Social. Un Techo para Chile pp. 47.</p><p>Gobierno de Chile. (2009). COMPENDIO PROGRAMA Modernización del Estado: Un Estado Participativo al Servicio de la Ciudadanía. Santiago, Chile: Autor.</p><p>Municipalidad de La Reina. (2007). Programa Modernización del Estado: Un estado Participativo al Servicio de la Ciudadanía: INFORME ANUAL 2007. Santiago, Chile: Autor.</p><p>Municipalidad de La Reina. (2007). MANUAL METODOLOGÍA PARTICIPATIVA MEJORAMIENTO ESPACIOS PÚBLICOS. Santiago, Chile: Autor.</p><p>Márquez, F., Forray R. (2006), Comunidad e identidad urbana: Historias de barrios del Gran Santiago: 1950-2000; Proyecto Fondecyt Nº 1050031; Santiago, Chile</p><h3>External Links</h3><p><a href="http://www.lareina.cl">Municipalidad de La Reina</a> [SPANISH]</p><p><a href="http://www.agci.cl">Agencia de Cooperación Internacional de Chile</a> [SPANISH]</p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A39">Environment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1660">Municipal Participatory Planning</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1777">Sustainable Urban Development</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">La Reina Commune</span>
+                      <span class="locality" itemprop="addressLocality">
+      Santiago      </span>
+                        <div class="country-name" itemprop="addressCountry">Chile</div>
+                                            <span class="geo"><abbr class="latitude" title="-33.469120">33° 28' 8.832" S</abbr>, <abbr
+            class="longitude" title="-70.641997">70° 38' 31.1892" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Santiago%2C+%2C+%2C+cl">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CL      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/public-hearing">Public Hearing</a></div><div class="field-item odd"><a href="/en/methods/collaborative-governance">Collaborative Governance</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Municipalidad de La Reina, European Union via La Agencia de Cooperación Internacional de Chile</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A169">International Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">Community Economic and Social Council</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$848 821.89</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-507378da7cd4fe69869f241ee5b11cf8">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/872">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

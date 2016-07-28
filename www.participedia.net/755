@@ -1,0 +1,376 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/755" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/755" />
+  <title>BürgerForum Europa | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"Ky6Iz4ZpROtyR7nbWsp2ZA-x-XdZeTDMwm-6CArzSr4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/video_2col\/video_2col.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"755"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/755?destination=node\/755":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-755 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/b-rgerforum-europa" class="language-link" xml:lang="en" title="Citizens’ Forum Europe">English</a></li>
+<li class="de last"><a href="/de/faelle/b-rgerforum-europa" class="language-link" xml:lang="de" title="BürgerForum Europa">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/755?destination=node/755" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-3cKGNy22SBTYKTbuT795p8BdvXzyR_YwACL6WW8MXac" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">BürgerForum Europa</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">BürgerForum Europa</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/admin" title="View user profile." class="username" xml:lang="" about="/en/people/admin" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Wed, 12/12/2012 - 15:33</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 05/27/2016 - 10:59</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="B&amp;Atilde;&amp;frac14;rgerForum Europa - Participedia" addthis:url="http://participedia.net/en/node/755"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/01-berlin-13-02-09-kanzlerin-beim-buergerforum-europa.jpg?itok=V2Wn3LiL" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Originalversion abrufbar unter <a href="http://participedia.net/en/cases/b-rgerforum-europa">http://participedia.net/en/cases/b-rgerforum-europa</a></em></p><p><em>Note: this is a German translation of an English case study available at <a href="http://participedia.net/en/cases/b-rgerforum-europa">http://participedia.net/en/cases/b-rgerforum-europa</a></em></p><h3>Zusammenfassung</h3><p>Das BürgerForum Europa ist eine neue Form von Bürgerbeteiligung, die von der Bertelsmann Stiftung, der Ludwig-Erhard-Stiftung und der Heinz Nixdorf Stiftung entwickelt wurde. Das Forum besteht aus einer sechs- bis achtwöchigen Onlinedeliberation sowie zwei Veranstaltungen, die das Projekt einrahmen. Dieser Artikel beschreibt das zweite BürgerForum Europa aus dem Jahr 2009.</p><p>Von November 2008 bis Juni 2009 nahmen 361 zufällig ausgewählte deutsche Bürger an dieser Onlinedeliberation teil. Sie bildeten ein Bürgerform mit acht Komitees (jedes mit ca. 45 Teilnehmern), dessen Aufgabe es war, eine Agenda für die Zukunft Europas zu erstellen. Während ihrer Diskussionen definierten sie die Herausforderungen der EU für die Zukunft und entwickelten mögliche Lösungen und Ideen wie europäische Bürger sich an ihnen beteiligen könnten.</p><p>Zu Beginn des Projekts trafen sich alle Teilnehmer im Februar 2009 in Berlin. Die acht Komitees legten die Grundvoraussetzungen für die folgende Onlinedeliberation fest, indem sie Herausforderungen für die Zukunft Europas definierten an denen sie arbeiten wollten. Die deutsche Kanzlerin, Angela Merkel, nahm als Gast ebenfalls an der Veranstaltung teil. Während der folgenden achtwöchigen Onlinedeliberation diskutierten und überarbeiteten die Teilnehmer ihre Ideen und entwickelten ein Bürgerprogramm, das aus sechzehn Resolutionen bestand. Im April 2009 trafen sich alle Teilnehmer erneut, diesmal im ehemaligen deutschen Parlament in Bonn, und diskutierten ihre Ergebnisse mit fünf Kandidaten für die anstehende Wahl zum Europaparlament.</p><p>Das BürgerForum Europa wurde durchgeführt durch <a href="http://participedia.net/en/organizations/zebralog-experts-eparticipation">Zebralog </a>und <a href="http://participedia.net/en/organizations/binary-objects-gmbh">Binary Objects</a>, die sich um die Planung und Moderation der Online-Deliberation kümmerten, sowie durch IKU, die für die Veranstaltung in Berlin zuständig waren. Der gesamte Prozess wurde durch das <a href="http://participedia.net/organizations/european-institute-public-participation">European Institute for Public Participation</a> (EIPP) evaluiert.</p><h3>Zweck und Problemstellung</h3><p>Obwohl immer noch potentielle neue Mitgliedstaaten von der EU angezogen werden, verliert diese ihre Bedeutung für Bürger der aktuellen Mitgliedsstaaten langsam. Europäische Bürger scheinen die Errungenschaften eines vereinten Europas als selbstverständlich hinzunehmen: offene Grenzen, eine gemeinsame Währung, Frieden und Freiheit. Ohne Zweifel hat die EU eine gute Erfolgsbilanz. Trotzdem können sich viele EU-Bürger mit ihr nicht identifizieren und haben Angst vor Unsicherheiten. Was bringt die Zukunft für Europa? Wird die EU ihre Bürger beschützen? Oder wird sie weiter auf Globalisierung setzen, die von vielen Bürgern bereits eine Bedrohung wahrgenommen wird? Und wie demokratisch wird diese EU zukünftig sein?</p><p>“Europe doesn’t make us dream anymore” (dt.: Europa lässt uns nicht mehr träumen) sagte der Premierminister Luxemburgs, Jean-Claude Juncker, nach den gescheiterten Referenden zur EU-Verfassung in Frankreich und den Niederlanden. Brüssel entscheidet über das tägliche Leben der EU-Bürger, aber diese fühlen sich frustriert und machtlos angesichts dieser von Eliten bestimmten politischen Sphäre. Im Februar 2009 wussten nur 30 Prozent der europäischen Bevölkerung für wen sie bei der Wahl zum Europaparlament im Juni 2009 stimmen werden, während 62 Prozent der Bevölkerung noch nicht einmal von den Wahlen wusste. Das vorherrschende Bild von der EU ist geprägt durch einen technokratischen, undurchsichtigen, von oben gesteuerten Entscheidungsprozess in einem geschlossen Polit-Netzwerk. An einen offenen, transparenten Deliberationsprozess mit Partizipationsmöglichkeiten für die breite Masse, die von etwaigen Entscheidungen betroffen ist, denkt niemand. Tatsächlich war die EU bis jetzt, abgesehen von den Wahlen zum Europaparlament, nicht in der Lage die Öffentlichkeit mit einzubeziehen. Hier kommt das BürgerForum Europa zum Zuge. Sein Zweck ist es, die Vorstellungen der europäischen Bürger zu ergründen und eine öffentliche Debatte über die Gestaltung Europas in der Zukunft zu initiieren. </p><h3>Geschichte</h3><p>2007 wurde die “Initiative Soziale Marktwirtschaft” von der Bertelsmann-, der Ludwig-Erhard- und der Nixdorf-Stiftung ins Leben gerufen. Sie war das Resultat zweier Umfragen zur sozialen Marktwirtschaft, die zeigten, dass es große Unterschiede zwischen den Ansichten der Politiker und denen der deutschen Bürger zur aktuellen Wirtschaftslage gab. Während 60 Prozent der deutschen Politiker die ökonomische Verteilung als fair bezeichneten, waren nur 30 Prozent der deutschen Bürger auch dieser Meinung. Daraus zog die „Initiative Soziale Marktwirtschaft“ den Schluss, dass ein Dialog zwischen Bürgern und politischen Entscheidungsträgern nötig war. </p><h3>Gründung und Auswahl der Teilnehmer</h3><p>Ein Team der Berstelsmann-Stiftung entwickelte eine innovative Online-Plattform, die die Deliberation zwischen den 300 bis 400 Teilnehmern erleichtern sollte. Am Ende dieser Deliberationsphase verabschiedet das Plenum ein Programm, das normativ und qualifiziert sein soll: 16 Herausforderungen und dazu korrespondierende 16 mögliche Lösungen</p><p>Die Online-Plattform vom BürgerForum Europa wurde von Zebralog entwickelt und moderiert. Sie basiert auf der Web-Software discourse-machine von Binary Objects. Im Gegensatz zu klassischen Forensystemen wurden für das BürgerForum spezielle Workflows modelliert, die die Zusammenarbeit von mehreren hundert Personen an einem gemeinsamen politischen Text erst ermöglichen.</p><p>So genannte “Citizen Editors”,  aus den Komitees gewählte Teilnehmer, sind die einzigen die Ergebnisse der Komitees und des Plenums überarbeiten dürfen. Jeder Teilnehmer hat die Möglichkeit Kommentare abzugeben, während die „Citizen Editors“ dafür sorgen sollen, dass die verschiedenen Meinungen in den Kommentaren gleichmäßig zur Geltung kommen. Diese „Citizen Editors“ sollen pro Tag ca. eine Stunde mit ihrer Arbeit an der Organisation der Beiträge verbringen. Sie sollen die große Anzahl an Kommentaren zusammenfassen und eine Lösung, die alle Meinungen verbindet, erstellen. Jede Änderung der Dokumente wird festgehalten, sodass der Bearbeitungsprozess transparent und für alle ersichtlich ist. Professionelle Online-Moderatoren unterstützen die „Citizen Editors“ bei ihrer Arbeit und helfen ihnen alle Meinungen mit einzubeziehen und verschiedene Aspekte aufzuzeigen. Damit auch die einzelnen Teilnehmer sich nicht in endlosen Diskussionen verlieren, bekommt jeder einen „task manager“ zur Seite gestellt, der die Diskussion strukturiert und einen Zeitraum festlegt für die Erfüllung bestimmter Aufgaben. Trotzdem bleibt der gesamte Entscheidungsprozess in der Hand der Bürger.</p><p>Das erste BürgerForum befasste sich mit der Zukunft der sozialen Marktwirtschaft in Deutschland und wurde an deren 60. Jahrestag veröffentlicht. Wegen des Erfolgs des ersten BürgerForums im Jahre 2008 entschieden sich die Bertelsmann- und die Nixdorf-Stiftung dazu die Finanzmittel für das Projekt aufzustocken und ein zweites BürgerForum ins Leben zu rufen: Das BürgerForum Europa, das im Herbst 2008 startete.</p><p>Das Projekt ist so aufgebaut, dass eine ausgeglichene Diskussion entsteht, die verschiedene Sichtweisen und Interessen innerhalb der deutschen Gesellschaft miteinbezieht. Die Teilnehmer wurden nach verschiedenen Kriterien, z.B. Alter, Geschlecht, Bildungshintergrund und Herkunft, repräsentativ für die deutsche Bevölkerung ausgewählt. Die Organisatoren entschieden sich für eine Zufallsauswahl nach dem Gabler-Häder Design, eine Auswahlmethode entwickelt am ZUMA (Zentrum für Umfragen, Methoden und Analysen). Diese  beinhaltet Telefonnummern, die sowohl in Telefonbüchern gelistet sind, als auch diejenigen die man von lokalen Netzwerken aus anrufen kann. Die Auswahl wurde dann durch das Bamberger Centrum für Empirische Sozialforschung (BACES) durchgeführt. Die Liste potentieller Teilnehmer beinhaltete 40.000 Telefonnummern. Unter denen, die sich für das BürgerForum interessiert hatten, erfüllten 2.000 dieAuswahlkriterien. Diese erhielten Informationsmaterial auf dem Postweg. Waren sie weiterhin an der Teilnahme interessiert, mussten sie einen Onlinefragebogen ausfüllen um sicherzustellen, dass die Teilnehmer online mit dem Internet arbeiten können. 361 Bürger wurden schließlich in dieser Phase zwischen Oktober und November 2008 für das BürgerForum Europa ausgewählt.</p><h3>Deliberation und Entscheidungsfindung</h3><p><u><em>Die Vorbereitungsphase</em></u></p><p>Vor dem ersten persönlichen Treffen in Berlin im Februar 2009 trafen sich die Teilnehmer des BürgerForums Europa virtuell im November 2008 auf der Onlineplattform <a href="http://www.buergerforum2009.de">www.buergerforum2009.de</a>. Hier hatten sie die Möglichkeit sich über den Partizipationsprozess, die Organisatoren, die Moderatoren, und insbesondere auch über die komplexe Arbeitsweise der Europäischen Union zu informieren. Verschiedene Arten von Informationen wurden auf der Website angeboten: 27 Artikel, die sowohl Comics, Fotos, Grafiken und Videos enthielten.</p><p>Zusätzlich zu den allgemeinen Informationen zur Europäischen Union nahmen pro Komitee zwei Experten Stellung zu den für das jeweilige Komitee wichtigen Themen. Die Themen ware: Europas Identität – Kultur und Bildung; Europas Ressourcen – Klima und Energie; Europas Bevölkerung – Migration und Demographie; Europas Binnenmarkt – Ökonomie und Finanzen; Soziales Europa – Solidarität, Zusammenhalt und Gerechtigkeit; Demokratie in Europa – Verfassung und Institutionen; Europas Rechtsstaat – Bürgerrechte und interne Sicherheit; Europa und die Welt – Außenpolitik und Sicherheit. Die Experten wurden von der Bertelsmann-Stiftung ausgewählt. Ihre Aufgabe war den Teilnehmern zu helfen, wenn sie sachliche Fragen hatten. Insgesamt war ihre Rolle eher passiv als aktiv. Trotzdem mussten sie auch sicherstellen, dass die von den Teilnehmern vorgeschlagenen Lösungen in den Rahmen der allgemeinen Diskussion über Europas Zukunft passten (und somit nicht auf falschen Informationen beruhten). Insgesamt half diese Vorbereitung den Teilnehmern sich in den Deliberationsprozess einzuarbeiten. Die ersten Onlinediskussionen wurden geführt und die Onlinemoderatoren stellten sich als Hüter der Diskussionsregeln und Ansprechpartner für Fragen der Teilnehmer vor.</p><p><u><em>Die erste Live-Veranstaltung in Berlin</em></u></p><p>Vom 13. bis zum 14. Februar 2009 trafen sich die 361 Bürger aus allen Teilen Deutschlands in der Hauptstadt Berlin. Hier trafen sie sich das erste Mal persönlich. Das Ziel der zwei-tägigen Veranstaltung war sich gegenseitig kennenzulernen, vor allem innerhalb der Komitees, und ein Programm für den Online-Deliberationsprozess zu erstellen. In der Vormittagssession am 13. Februar startete die Arbeit in den Komitees. Da die deutsche Kanzlerin, Angela Merkel, gegen Mittag bei der Veranstaltung ankam, war die erste Aufgabe für die Komitees die Erarbeitung von drei Antworten auf Fragen, die die Kanzlerin vorher an das BürgerForum gestellt hatte. Zusätzlich sollten die Komitees Fragen erstellen, die gewählte Vertreter der Komitees anschließend mit der Kanzelerin diskutierten.</p><p>Nach dem Besuch von Angela Merkel arbeiteten die Komitees in der übrigen Zeit an ihrer Hauptaufgabe. Sie diskutierten mit Hilfe der professionellen Moderatoren das Thema ihres Komitees und die Herausforderungen in ihren Themengebieten. Nachdem sich die Komitees auf zwei Herausforderungen geeinigt hatten, entwarf man mögliche Lösungen für diese Probleme.</p><p>Außerdem wählten die Teilnehmer zwei „Citizen Editors“ pro Herausforderung aus, die verantwortlich waren für die Entwicklung der Lösungen. Um die Teilnehmer auf die Online-Deliberation vorzubereiten erhielt jeder Teilnehmer zusätzlich ein persönliches Onlinetraining durch spezielle Trainer. Eine umfassende Sitzung zu den Funktionen der Onlineplattform half auch dabei Zweifel und Ängste zu zerstreuen, vor allem bei Teilnehmern ohne große Erfahrung mit neuen Technologien und ihren Anwendungen.</p><p>Um das Gemeinschaftsgefühl zu stärken, obwohl man sich nur  kurz persönlich kennengelernt hatte, wurden die Profile der Teilnehmer auf der Onlineplattform durch Fotos persönlicher gestaltet. So sollte es auch insgesamt für die Teilnehmer einfacher sein sich gegenseitig wiederzuerkennen.</p><p><u><em>Die Online-Deliberations-Phase</em></u></p><p>Die Online-Deliberation startete sofort nach der Veranstaltung in Berlin. Die erste Aufgabe für die Teilnehmer war online die Live-Veranstaltung zu kommentieren und sich die Profile der in Berlin kennengelernten Teilnehmer anzuschauen. Außerdem wurden sämtliche Fotos von Flipcharts und anderen Medien, die während der Veranstaltung benutzt und erstellt wurden, ebenfalls hochgeladen. Auch die von den „Citizen Editors“ produzierten Texte in Bezug auf die identifizierten zwei Herausforderungen wurden zugänglich gemacht.</p><p>Die beiden Herausforderungen wurden während der Online-Deliberation in zwei 30-tägigen, aufeinanderfolgenden Phasen angesprochen. Die Teilnehmer selbst sollten auswählen welche Herausforderung sie als erstes diskutieren wollten. Genau wie bei der Veranstaltung in Berlin halfen professionelle Moderatoren und die zuvor vorgestellten Experten den Teilnehmern bei Fragen in ihren Diskussionen.</p><p>Während der ersten zehn Tage sollten die Teilnehmer die Lösungsvorschlage, die sie gemacht hatten, kommentieren und weiter entwickeln. Danach entschied eine Abstimmung darüber, welcher Lösungsvorschlag schließlich im BürgerProgramm aufgenommen werden sollte. Hierbei hatten alle Komitteemitglieder eine Stimme für die Lösung, die sie am meisten unterstützten. Innerhalb der folgenden zehn Tage hatten die „Citizen Editors“ die Aufgabe den abgestimmten Lösungsvorschlag in einen formal richtigen Text mit Bezug auf finanzielle und soziale Kosten umzuformulieren. Im Durchschnitt überarbeiteten die „Citizen Editors“ jede Lösung mindestens fünfzehn Mal.</p><p>Nachfolgend präsentierte jedes Komitee seinen Lösungsvorschlag für alle Teilnehmer des BürgerForums zur Bewertung. Nach der ersten Herausforderung wurde in selber Vorgehensweise die zweite Herausforderung besprochen. Obwohl die Online-Deliberation ein sehr langer Prozess war, blieb die Beteiligung hoch: 96 Prozent der Teilnehmer schrieb Kommentare und zwischen 80 und 90 Prozent beteiligten sich an den Onlineabstimmungen. Insgesamt wurden ca. 10.000 Kommentare gesammelt, von denen sich 7.355 um die Debatte über die Lösungsvorschläge drehten. Das beeindruckende Ergebnis dieser Phase war ein BürgerProgramm, das 16 Herausforderungen und 16 mögliche Lösungen für die Zukunft Europas beinhaltet. </p><p><u><em>Der BürgerGipfel in Bonn</em></u></p><p>Am 25. und 26. April 2009 trafen sich alle Teilnehmer des BürgerForums in Bonn, im Plenarsaal des ehemaligen deutschen Parlamentsgebäudes. Das Ziel dieses Treffen war die Verabschiedung des vollständigen BürgerProgramms Europa, das mit absoluter Mehrheit angenommen wurde. Außerdem verabschiedeten die Teilnehmer zusammen mit dem Moderatoren einen Zehn-Punkte-Plan um ihre Ideen zu verbreiten und einen Dialog mit Politikern zu starten. Sie einigten sich auf eine Aufgabenteilung: fünf Punkte sollten durch die Moderatoren erledigt werden, die anderen fünf durch die Teilnehmer selbst. Teil dieser zehn Punkte waren z.B. die Entsendung zweier Delegationen nach Berlin und Brüssel, ein Onlineaufruf der Teilnehmer an der Wahl zum Europaparlament teilzunehmen, die Verbreitung des BürgerProgramms an deutsche Parlamentarier im Bundestag und Europaparlament sowie an andere Schlüsselpersonen für Europapolitik, Treffen mit Lokalpolitikern etc. Der Gipfel in Bonn gab den Teilnehmern die erste Möglichkeit ihr BürgerProgramm mit Politikern zu diskutieren, da fünf Mitglieder aus jeder politischen Gruppe im Europaparlament eingeladen waren die Forderungen des BürgerProgramms zu diskutieren. Jeder von ihnen wurde im Vorfeld des Gipfels gebeten zu mindestens einer der vorgeschlagenen Lösungen Stellung zu nehmen.</p><h3>Ergebnis und Effekt</h3><p>Das offensichtlichste Resultat ist das BürgerProgramm selbst: 16 Herausforderungen und Lösungen auf über 40 Seiten. Obwohl europäische Bürger durch nationale Medien oftmals als Kritiker dargestellt werden, die der EU nicht noch weitere Macht zukommen lassen wollen, sprachen sich die Teilnehmer des BürgerForum Europa dafür aus die EU weiter zu unterstützen und ihre Stimme zu stärken. Sie unterstützen eine reale europäische Regierung, gewählt durch das Europaparlament. Zusätzlich möchten sie, dass die EU mit einer Stimme in internationlaen Organisationen wie dem Internationalen Währungsfond (IWF) spricht und sprechen sich für eine Reform des internationalen Finanzmarkts aus. In Bezug auf die Harmonisierung des Finanzsystems, möchten die Teilnehmer ein vereintes Steuersystem um Steuerflucht und – umgehung zu verringern. Um die Lücke zwischen der EU und dem europäischen Volk zu schließen, schlägt das BürgerForum vor in transnationale Bildungsinitiativen zu investieren und größere Anstrengung in die Garantie von politischer Transparenz zu stecken.</p><p>Die mediale Berichterstattung zum BürgerForum war hauptsächlich regional und lokal. Ihr Fokus lag eher auf der persönlichen Vorstellung einzelner Teilnehmer als darauf, den Partizipationsprozess wiederzuspiegeln. Die nationale Medienreaktion war gering und begrenzt auf die Beteiligung der deutschen Kanzlerin Angela Merkel an der Veranstaltung in Berlin. Onlinemedien äußerten sich nicht zum BürgerProgramm und auch in politischen Blogs sind nur ca. zehn Kommentare hierzu zu finden.</p><p>Das BürgerProgramm Europa wurde an alle deutschen Mitglieder des Europaparlaments und alle Mitglieder des Bundestags, die an Europapolitik oder in anderen relevanten Bereichen arbeiten, verteilt. Zugleich bekam man einen Brief mit der Aufforderung, die Teilnehmer des BürgerForums persönlich zu kontaktieren. Mehr als sechzig Teilnehmer aus den 361 nutzten diese Chance sich persönlich mit (hauptsächlich Lokal-)Politikern zu unterhalten.</p><p>Neben den Treffen mit Mitgliedern des Europaparlaments und des Deutschen Bundestags bestätigten 65 Prozent der Teilnehmer, dass sie das BürgerProgramm aktiv in ihrem Umfeld und in lokalen Organisationen und Institutionen (wie z.B. Schulen, Verbänden oder Stadträten) fördern wollen.</p><p>Als Antwort auf die Frage nach den Ergebnissen des BürgerForums scheint die politische Mobilisierung der Teilnehmer als stärkster Punkt. Die Teilnehmer diskutierten die vorgestellten Themen sehr intensiv. Ob und inwiefern dieser Prozess ihre demokratischen Fertigkeiten gestärkt hat muss noch bewiesen werden (durch ein laufendes Promotionsprojekt).</p><p>Ein weiteres Ergebnis ist die Erkenntnis, dass Onlinedeliberation auch unter Menschen mit unterschiedlichem technologischem Hintergrund möglich ist. Die Onlineplattform befähigt Menschen mit sehr verschiedenem Sozial- und  Bildungshintergrund auf eine Art und Weise zusammen zu arbeiten, die ihre individuellen Möglichkeiten berücksichtigt. Dies wurde durch asynchrone Workflows vereinfacht: langsamere Denker bekommen die Zeit, die sie brauchen, während schnellere Denker Dinge überspringen können, wenn sie möchten. Trotzdem muss der Prozess auch synchron sein, da gemeinsame Entscheidungen getroffen werden und innerhalb von zehn Wochen ein Ergebnis vorliegen soll. All dies kann mit Teilnehmerquoten von über 80 Prozent erreicht werden – doch hierzu ist die professionelle Onlinemoderation unerlässlich.</p><p>Die Plattform lässt hunderte Menschen an einem Text zusammenarbeiten und ermöglicht qualifizierte, strukturierte Resultate, ähnlich Parteiprogrammen. Verwandte Web 2.0-Werkzeuge sind, jedenfalls momentan, meistens beschränkt auf deskriptive Texte und Fakten (z.B. Wikipedia) in denen normative Entscheidungen weniger beachtet werden. Die Workflows des BürgerForums haben jedoch bewiesen, dass auch ein Text, der normative Entscheidungen einer Gruppe benötigt, online verfasst werden kann.</p><p>Obwohl die Beteiligung von Politikern sehr klein, wenn nicht sogar nicht vorhanden, war, haben doch einige Politiker ein Interesse an der Funktionalität des BürgerForums gezeigt. Die Gegenwart der Kanzlerin kann als pure Öffentlichkeitsarbeit bezeichnet werden, aber sie zeigt auch den Willen neue Formen politischer Partizipation zu unterstützen. </p><h3>Analyse</h3><p>Auch wenn das BürgerForum Europa insgesamt ein Erfolg war, hat seine Beurteilung einige Punkte identifiziert, die kritisiert werden können. Es gibt einige Bereiche in denen man Dinge verbessern kann, vorausgesetzt dass dieser Prozess skalierbar ist. Das BürgerForum behauptet die verschiedenen Ansichten und Ideen der deutschen Bevölkerung zu repräsentieren. Aber ein genauerer Blick auf die Teilnehmer zeigt eine Verzerrung basierend auf ihrem Bildungshintergrund. Bürger mit akademischem Hintergrund waren überrepräsentiert. Da man innerhalb des Auswahlprozess die Teilnahme am BürgerForum ablehnen konnte, ist es wahrscheinlich, dass viele der Teilnehmer, die akzeptierten, höher gebildet und bürgerfreundlicher als die Gesamtbevölkerung. Die Teilnahme am BürgerForum war möglicherweise auch attraktiver für Menschen mit technologischem Hintergrundwissen. Obwohl Deliberation und Inklusion insgesamt relativ hoch waren (interessanterweise höher während der Onlinephase), hätte eine stärkere Befolgung des Formats und der Einbeziehungsregeln durch die Moderatoren (vor allem während der persönlichen Konversationen bei den Veranstaltungen) für mehr Chancengleichheit sorgen können. Außerdem hätte man die Rollen der Moderatoren und Experten deutlicher machen können und der Standpunkt der Experten neutraler sein können. Das Gesamtziel des BürgerForums Europa war ebenfalls nicht klar dargestellt: Sollte es die Teilnehmer mobilisieren und weiterbilden in Bezug auf die Zukunft der EU, ihre demokratischen Fähigkeiten entwickeln, eine größere öffentliche Debatte über Europas Zukunft fördern oder aber nationale und europäische Politiker beeinflussen?</p><p>Zu Beginn des Prozesses erklärten die Organisatoren, dass der Start eines Dialoges zwischen normalen Bürgern und Entscheidungsträgern das Ziel des Projekts sei.  Dieses Ziel wurde nicht erreicht. Obwohl einige (national und euopäische) Politiker in den Prozess involviert wurden, gab es keine systematische Verbindung des Partizipationsprozesses mit der Politik. Dies ist problematisch für Teilnehmer, die durch die Gegenwart Angela Merkels ermutigt davon ausgingen, dass das BürgerForum Europa und das BürgerProgramm einen messbaren Einfluss auf politische Repräsentanten in Berlin und Brüssel haben würde. Das BürgerForum Europa hat offensichtlich Bürger mobilisiert und das Wissen der Teilnehmer über die EU vergrößert; aber der Geist, der diese Gruppe inspirierte, übertrug sich nicht auf die breitere Öffentlichkeit. Eine bedeutende Mediendebatte über das BürgerForum Europa und sein Programm entstand nicht.</p><p>Die nächste Ausgabe des BürgerForum soll 2011 stattfinden. Das Ziel hierfür ist 10.000 Bürger aus allen Teilen Deutschlands miteinzubeziehen. Hierfür soll es 25 regionale Plattformen sowie eine zentrale Networking-Plattform geben.</p><p> </p><h3>Externe Links</h3><p><a href="http://www.partizipation.at/buergerforum-europa.html">Project Overview on "Participation &amp; Sustainable Development in Europe"</a></p><p><a href="http://www.partizipation.at/fileadmin/media_data/Downloads/Praxisbeispiele/Praxisbeispiel_BuergerForum_Europa.pdf">Detailed Project Description (PDF)</a></p><p><a href="https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Presse/imported/downloads/xcms_bst_dms_27399_27400_2.pdf">Official Event Timeline</a></p><h3>Notes</h3><p>Anna Wohlfarth co-wrote the initial Participedia case on BürgerForum Europa with Patrizia Nanz.</p></div></div></div><div class="field field-name-field-video-ref field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="node node-video view-mode-full view-mode-full clearfix">
+
+    <div class="full-width">
+          <div class="group-left">
+        &nbsp;      </div>
+    
+          <div class="group-right">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/en/videos/b-rgerforum-europa-video-2009">BürgerForum Europa video (2009)</a></h2></div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a></div></div></div><div class="field field-name-field-video-url field-type-link-field field-label-inline clearfix"><div class="field-label">URL:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://www.buergerforum2009.de/page8.html">http://www.buergerforum2009.de/page8.html</a></div></div></div>      </div>
+      </div>
+
+</div></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A90">Identity &amp; Diversity</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A102">International Trade &amp; Global Economy</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A293">Future of the European Union</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1833">EU Integration</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1840">Public Policy Formulation</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Berlin, Bonn, Online</span>
+                              <div class="country-name" itemprop="addressCountry">Germany</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+de">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                DE      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A47">International</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, June 7, 2009 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizen-conferences">Citizen Conferences</a></div><div class="field-item odd"><a href="/en/methods/online-deliberation">Online deliberation</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A148">Majoritarian Voting (i.e. 50%+1)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Bertelsmann Foundation, the Ludwig-Erhard Foundation, the Heinz Nixdorf Foundation</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A28">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/zebralog-experts-eparticipation">Zebralog - Experts in eParticipation</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Binary Objects GmbH</div><div class="field-item odd">IKU</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">European Institute for Public Participation, German Bundestag, European Parliament</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A169">International Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Facilitators</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-6d5db06fea580d1186a25377366711aa">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/755">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

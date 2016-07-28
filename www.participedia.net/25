@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/presupuesto-participativo-rosario" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/25" />
+  <title>Presupuesto Participativo: Rosario | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"PMpbxf-aBwU8_74A6EO7rOeBUTT7DSFgEypUbppv3oA","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"25"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/presupuesto-participativo-rosario?destination=node\/25":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-25 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/presupuesto-participativo-rosario" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/presupuesto-participativo-rosario?destination=node/25" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Od59TDhEoXOTS0tRzPn2d8En7w7vGXpmXxD2444hAs0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Presupuesto Participativo: Rosario</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Presupuesto Participativo: Rosario</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/albertoford" title="View user profile." class="username" xml:lang="" about="/en/people/albertoford" typeof="sioc:UserAccount" property="foaf:name" datatype="">Alberto Ford</a> on Fri, 03/05/2010 - 19:45</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/pablojhr" title="View user profile." class="username" xml:lang="" about="/en/people/pablojhr" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pablo Hernandez</a> on Mon, 03/25/2013 - 12:22</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Presupuesto Participativo: Rosario - Participedia" addthis:url="http://participedia.net/en/cases/presupuesto-participativo-rosario"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Orígenes</h3><p>En Rosario, en medio de una de las más grandes crisis argentinas, en mayo de 2002, el poder ejecutivo municipal tomó la decisión de convocar por primera vez al Prespuesto Participativo (PP) , en un contexto normativo no del todo favorable porque, en principio, los derechos políticos consagrados en la Constitución Nacional, en la Constitución de la Provincia de Santa Fe y en la Ley Orgánica de Municipalidades de la Provincia de Santa Fe, limitan la participación política directa de los ciudadanos; y además porque en Santa Fe no existe autonomía municipal.</p><p><a id="Dise.C3.B1o" name="Dise.C3.B1o"></a></p><h2>Diseño</h2><p>El PP fue estructurado en cuatro grandes momentos que se desarrollan a lo largo de un año –proceso en el que la participación es siempre voluntaria y ad honorem:</p><p>1. La Primera Ronda de Asambleas Barriales, reuniones abiertas de vecinas y vecinos por barrio en las que se buscan dos objetivos: saber cuáles son las necesidades y problemas de cada una de las áreas, y elegir delegados al Consejo Participativo de Distrito: consejeras y consejeros. Se realizan entre marzo y mayo, a razón de entre seis y diez por cada uno de los seis Distritos, que a esos efectos se subdividen en áreas barriales.</p><p>2. Los Consejos Participativos de Distrito (CPD), que convierten las propuestas formuladas por los vecinos y vecinas en cada una de las asambleas barriales de su Distrito en proyectos viables. Como son seis Distritos en la ciudad, hay seis CPD. Están integrados por las consejeras y consejeros electos en las asambleas barriales, una Secretaría Técnica y el o la Directora del Distrito. Se reúnen en tres comisiones: de Proyectos Sociales (incluye los temas referidos a las Secretarías de Cultura, Promoción Social, Salud Pública, Gobierno), de Proyectos Urbanos (Secretarías de Servicios Públicos, Obras Públicas, Planeamiento) y de Participación Ciudadana (cuestiones de reglamento y procesos). De duración anual, el período de trabajo fuerte es desde su integración en mayo hasta la Segunda Ronda de Asambleas Distritales en octubre o noviembre, período en el cual hay una reunión por semana, cada una de entre dos y tres horas. La labor de las y los consejeros, como la del resto de participantes en todas las etapas, ya se ha dicho, no es rentada.</p><p>3. La Segunda Ronda de Asambleas Distritales, jornada de votación abierta que se realiza en todos los Distritos en la que los vecinos y vecinas deciden qué proyectos priorizar de los elaborados en los CPD. Se realizan durante el mes de octubre o noviembre. Los vecinos son convocados para conocer los proyectos elaborados por los consejeros en los meses previos -expuestos en paneles con un detalle de características y costos estimados para cada uno- y para decidir mediante voto secreto e individual cuáles son prioritarios. Luego, los proyectos son ordenados de acuerdo a la cantidad de votos obtenidos por cada uno e incorporados hasta cubrir la suma de dinero estipulada para cada Distrito. Finalmente, esta propuesta se integra al proyecto de presupuesto municipal ordinario como un subcapítulo “participativo” y es enviada por el Departamento Ejecutivo Municipal al Concejo Municipal para su discusión y eventual sanción (el PP no es vinculante).</p><p>4. La Tercera Ronda o cierre, evento que se realiza a fin de año, donde se presenta un balance de lo ejecutado mediante el PP del año anterior y se dan a conocer los proyectos y obras que se harán al año siguiente.</p><p><a id="Actores" name="Actores"></a></p><h2>Actores</h2><p>Mujeres y varones de todos los barrios, actuando voluntariamente a título individual o en nombre de vecinales y otras organizaciones sociales, que presentan demandas, se informan, discuten y dan forma a proyectos, para finalmente priorizarlos mediante voto. Funcionarios técnicos de las distintas secretarías municipales, de áreas centrales y descentralizadas, que incentivan territo-rialmente la participación, facilitan las discusiones, organizan información específica, responden preguntas técnicas y evalúan la factibilidad de los proyectos. Coordinadores técnicos de todo el proceso del PP, en la Secretaría General, que organizan, disponen los recursos y ejecutan todo lo que tiene que ver con las distintas etapas del PP a lo largo del año para el conjunto de la ciudad. Responsables políticos de las diferentes secretarías, de los Distritos y de la Secretaría General, que afirman o retacean en cada nivel la decisión de implementar el proceso participativo.</p><p><a id="Participaci.C3.B3n" name="Participaci.C3.B3n"></a></p><h2>Participación</h2><p>Entre el año 2002 y el 2009 han participado en las diferentes etapas del PP 61044 personas (esta y toda la información factual que sigue puede ampliarse en El Presupuesto Participativo en Rosario. Una apuesta renovada al experimentalismo democrático. Secretaría General, Municipalidad de Rosario: <a class="external free" href="http://www.rosario.gov.ar/sitio/informacion_municipal/pp_biblioteca.jsp" rel="nofollow" title="http://www.rosario.gov.ar/sitio/informacion_municipal/pp_biblioteca.jsp">http://www.rosario.gov.ar/sitio/informacion_municipal/pp_biblioteca.jsp</a>). La participación ha sido despareja, con dos fuertes saltos: el primero en el PP 2004, en el que se lanzó el PP de manera decidida con una amplia convocatoria, luego de la experiencia piloto del PP 2003; el segundo en el PP 2007, en el que se estableció el voto electrónico en la Segunda Ronda.</p><p>Considerando que el electorado de Rosario (mayores de 18 años con derecho de voto) asciende a 683.757 (año 2005), las personas que han participado en estos años del PP, a un promedio anual del 1 %, representan cerca del 9 % del electorado de la ciudad.</p><p>La participación está desigualmente distribuida en el territorio. En el Distrito Oeste es donde más se participa; en el Noroeste y el Sudoeste se está por encima del promedio de la ciudad; en el Norte y el Sur se está por debajo del promedio; y en el Centro es donde menos se participa. Estos niveles de participación son directamente proporcionales al grado de carencia de obras y servicios de los Distritos (reconociendo que en su interior éstos no son homogéneos). Es decir, se participa más en el PP en los Distritos más carentes de la ciudad.</p><p>En todas las etapas del PP, los participantes se distribuyen entre todas las edades entre los 16 y los 85 años, con un predominio de quienes tienen entre 36 y 55 años. En los CPD en particular, este predomino es más marcado.</p><p><a id="Participaci.C3.B3n_de_mujeres" name="Participaci.C3.B3n_de_mujeres"></a></p><h2>Participación de mujeres</h2><p>En cuanto a la perspectiva del género, la participación paritaria de las mujeres en el PP se ha logrado rotundamente. Mientras que los primeros años participaban más varones, en las últimas ediciones del PP (hasta el PP2008) las mujeres son mayoría en todas las etapas. Seguramente, con ello ha colaborado la implementación de las ludotecas en las asambleas de Primera Ronda que se desarrollan en áreas barriales donde consejeras y consejeros han reclamado espacios para el cuidados de los chicos. Lo mismo ocurre en los CPD por aplicación del Decreto aludido previamente, que garantiza igualdad en el número de consejeras y consejeros. Por último, la tendencia a una mayoría de mujeres se observa en la Segunda Ronda, con un 30 % de mujeres más que de varones en el período señalado.</p><p><a id="Participaci.C3.B3n_de_j.C3.B3venes" name="Participaci.C3.B3n_de_j.C3.B3venes"></a></p><h2>Participación de jóvenes</h2><p>Los jóvenes tienen un lugar propio en el PP Joven, que se implementó por primera vez en 2004 en el Distrito Sudoeste para luego extenderse a toda la ciudad, en el marco de la Ordenanza Municipal Nº 7326/02. El diseño es similar al del PP “adulto” con algunas adecuaciones que lo vuelven más flexible.</p><p>La participación ha sido creciente, pasando de 76 jóvenes en el Distrito Sudoeste en la prueba piloto del PPJ 2005 a 4027 en los seis Distritos de la ciudad en el PPJ 2009 (estos números son independientes de los brindados respecto del PP “adulto”).</p><p><a id="Proyectos_votados" name="Proyectos_votados"></a></p><h2>Proyectos votados</h2><p>La Municipalidad distingue entre proyectos sociales y urbanos: los primeros agrupan los temas referidos a las Secretarías de Promoción Social, de Salud Pública, de Cultura y de Gobierno; los segundos a los de las Secretarías de Servicios Públicos, de Obras Públicas y de Planeamiento.</p><p>Se observan a lo largo de los años curvas divergentes entre ambos tipos de proyectos: cuando suben unos, bajan otros. Teniendo en cuenta que los proyectos urbanos son, comparados con los sociales, en general más caros, de tiempos más largos de concreción y no siempre de primera necesidad, una explicación de esa variación en el tipo de proyectos debería considerar el grado de cumplimiento de lo votado (los proyectos urbanos insumen más recursos y demoran más en ser ejecutados) y el contexto socioeconómico de la ciudad (a más necesidades, más proyectos sociales). En consecuencia, se podría establecer la hipótesis de que cuando el contexto socioeconómico actual y las expectativas de mediano plazo son favorables, en el PP aumentará el número de proyectos urbanos elaborados y votados; y cuando el contexto y las expectativas son desfavorables, aumentarán los proyectos sociales.</p><p><a id="Presupuesto_planificado" name="Presupuesto_planificado"></a></p><h2>Presupuesto planificado</h2><p>En la experiencia comparada internacional puede observarse una tendencia a invertir menos del 10 % del presupuesto municipal, con algunas importantes excepciones.</p><p>El presupuesto planificado asignado en Rosario al PP, desde sus comienzos hasta el presente, ha crecido en términos absolutos de 20 a 30 millones de pesos argentinos.</p><p>Sin embargo, ha decrecido porcentualmente en relación con el presupuesto municipal total "libre" (la parte del presupuesto que puede destinarse a inversiones, que queda luego de descontar los gastos fijos), pasando del 15 % en el PP 2003 a menos del 5 % en el PP 2010.</p><p><a id="Obras_y_servicios_realizados" name="Obras_y_servicios_realizados"></a></p><h2>Obras y servicios realizados</h2><p>Se han concretado el 74% de los proyectos decididos hasta el PP 2007, con una tendencia decreciente en el cumplimiento para los últimos años.</p><p>El análisis de la concreción por tipo de proyecto muestra que se concretan más rápidamente los sociales que los urbanos, lo que puede deberse a lo señalado previamente: los proyectos urbanos son por lo general más caros, más complejos técnicamente, muchas veces tienen un desarrollo interanual y requieren el cumplimiento de mayores formalidades.</p><p><a id="Balance_colectivo_de_logros_y_limitaciones" name="Balance_colectivo_de_logros_y_limitaciones"></a></p><h2>Balance colectivo de logros y limitaciones</h2><p>Los propios actores del proceso en Rosario señalan un conjunto de logros y limitaciones en torno a los criterios de inclusión, deliberación, equidad, efectividad y creatividad.</p><p>Inclusión. Algunos logros del PP son el involucramiento activo de miles de personas en todo el territorio de la ciudad, muchas de las cuales nunca había participado previamente en cuestiones políticas; el reconocimiento de la dignidad personal que destacan quienes participan; la generación de capital social en la forma de relaciones enriquecedoras entre vecinos, organizaciones del territorio y funcionarios estatales de áreas centrales y descentralizadas; la definición de agendas políticas más relevantes; la generación de un sentimiento de pertenencia y apropiación democrática del Estado; la mayor legitimación de las políticas decididas participativamente; y una mayor responsabilización individual y organizacional por los bienes públicos.</p><p>Entre las limitaciones pueden destacarse la dificultad de la convocatoria para llegar a todas las personas, en particular a los más pobres y a los jóvenes; la heterogeneidad de los temas que traen los participantes, que a veces desalienta la participación de quienes tienen intereses muy específicos; la ocasional falta de compromiso con la participación de individuos, organizaciones y el Estado; la poca renovación de consejeros; la reproducción de fenómenos clientelares y de apropiación excluyente de los espacios de participación; y la dificultad de afrontar los costos en tiempo que tiene participar.</p><p>Deliberación. En lo que hace a la deliberación, diferentes actores del PP señalan como logros los avances en la sistematización de información por parte de la Municipalidad sobre diferentes temas de la gestión; el establecimiento de canales de comunicación entre especialistas de diferentes áreas y quienes tienen conocimiento práctico de los problemas por vivir cerca de ellos; por eso, la mejor información pública respecto de los problemas y de las alternativas y los costos de soluciones posibles; y la transformación personal y relacional de los participantes, en especial de quienes pasan por el Consejo Participativo de Distrito, en términos de pasar en las discusiones de la queja al proyecto, de la demanda individual a la grupal, y de la querella al diálogo.</p><p>Las principales limitaciones mencionadas son la contracara de los logros: la falta de información adecuada para discutir en un lenguaje corriente; la imprecisión o el sobredimensionamiento de algunos proyectos elaborados en los CPD; la devolución insatisfactoria por parte de las secretarías municipales de esos proyectos, sobre todo la poca claridad respecto de su factibilidad; la falta de respeto de los contenidos y los códigos de lo producido a través de la deliberación; la dificultad para dialogar de algunos funcionarios en el terreno; las dificultades o la falta de voluntad de los participantes para hablar y escucharse; el mal “trabajo” del conflicto en la discusión; y los tiempos que lleva debatir, contradictorios con las urgencias de algunas demandas.</p><p>Equidad. En lo relativo a la equidad, diversos actores destacan como logros del PP la mejor priorización de las demandas; la territorialización a nivel distrital y barrial de las políticas estatales; la participación significativa de mujeres y jóvenes, con la consiguiente producción de proyectos específicos relevantes; las obras y servicios concretados de manera más justa y eficiente, con una mejor orientación territorial, social, de género y edad; y, algo muy remarcado, las positivas transformaciones de conocimientos, habilidades, actitudes y prácticas de los actores, más intensas para quienes menos recursos poseen antes de participar, lo que configura una de las principales redistribuciones del PP.</p><p>Entre las limitaciones se mencionan la no existencia de criterios explícitos para establecer las prioridades entre las demandas; la no aplicación de un índice de carencia o calidad urbana para distribuir los recursos entre los Distritos; el nivel desparejo de la concreción de las obras en los Distritos; y, en general, la existencia de condiciones sociales y culturales que producen y legitiman la desigualdad, en un nivel que no puede afrontarse desde el PP.</p><p>Efectividad. En cuanto a la efectividad, entre los logros del PP aparece en primer lugar la cantidad y calidad de los proyectos elaborados en estos años, traducidos en obras y servicios en todos los barrios de la ciudad; las mejoras de información, comunicación y procesos al interior de la gestión, así como la mejor coordinación entre los Distritos y las áreas centrales; el mejor conocimiento que la gestión logra de las características físicas y sociales del territorio; el mayor control social de las inversiones municipales; y el sostenimiento de la experiencia en todos estos años a pesar del impacto negativo de eventos que exceden la responsabilidad municipal.</p><p>Entre las limitaciones se señalan, indudablemente en primer lugar, el incumplimiento en tiempo y forma en la realización de proyectos elegidos, que genera un malestar subjetivo y social en los actores, de fuerte impacto en la relación con el Estado; también, la comunicación insuficiente de los alcances y procedimientos del PP; lo excesivo de algunas demandas respecto de las incumbencias municipales o los recursos disponibles; las tensiones entre la relevancia de demandas urgentes y las formalidades a cumplir por un Estado “lento”; lo reducido de los equipos municipales ligados al PP; la falta de formación y motivación en la ampliación de la participación que muestran empleados y funcionarios; las dificultades de coordinación de la política participativa al interior del Estado; y la falta de visibilidad de lo efectivamente realizado.</p><p>Creatividad. Se señalan entre los logros la diversas modificaciones introducidas en el PP para mejorarlo, por iniciativa de los responsables políticos y de los propios participantes; el establecimiento de vinculaciones al interior del Estado municipal entre secretarías y entre áreas centrales y descentralizadas; el establecimiento de vinculaciones horizontales entre participantes, y entre estos y los funcionarios; y la elaboración de proyectos originales y adecuados a la realidad; y las satisfacciones íntimas que todo lo anterior trae a los actores.</p><p>Entre las limitaciones, se señalan los problemas que subsisten de articulación intramunicipal; las inercias temporales y de sentido propias de la gestión burocrática, que muchas veces conducen a tomar el PP más como un deber que como un desafío estimulante; y las rigideces subjetivas de los actores que, sumadas a escasos incentivos, obstruyen la creatividad.</p><p><a id="Fuentes_secundarias" name="Fuentes_secundarias"></a></p><h2>Fuentes secundarias</h2><p>Avritzer, Leonardo (2003). “O orçamento participativo e a teoria democrática: um balanço crítico”, en Avritzer, Leonardo y Navarro, Zander (comps.). A inovação democrática no Brasil: o orçamento participativo. Cortez, São Paulo. Descargado de: <a class="external free" href="http://www.democraciaparticipativa.org/files/LeonardoAvritzerOor%E7amentoparticipativoeateoriademocr%E1ticaumbalan%E7ocr%EDtico.pdf" rel="nofollow" title="http://www.democraciaparticipativa.org/files/LeonardoAvritzerOor%E7amentoparticipativoeateoriademocr%E1ticaumbalan%E7ocr%EDtico.pdf">http://www.democraciaparticipativa.org/files/LeonardoAvritzerOor%E7amentoparticipativoeateoriademocr%E1ticaumbalan%E7ocr%EDtico.pdf</a></p><p>Avritzer, Leonardo y Boaventura de Sousa Santos (2003). “Introducción: para ampliar el canon democrático”. Descargado de <a href="http://www.eurozine.com">www.eurozine.com</a></p><p>Baierle, Sergio e Yves Cabannes (s/d). Documento Base “Finanzas locales y Presupuesto Participativo”. Red URB-AL N°9. Descargado de: <a class="external free" href="http://www.centrourbal.com/redes/r9_docbase.htm" rel="nofollow" title="http://www.centrourbal.com/redes/r9_docbase.htm">http://www.centrourbal.com/redes/r9_docbase.htm</a></p><p>Baiocchi, Gianpaolo, Patrick Heller and Marcelo Kunrath Silva (2005). “Making Space for Civil Society: Evidence from Governance Reforms in 10 Brazilian Municipalities”. Unpublished manuscript. Descargado de: <a class="external free" href="http://participatorybudgeting.blogs.com/MakingSpaces.pdf" rel="nofollow" title="http://participatorybudgeting.blogs.com/MakingSpaces.pdf">http://participatorybudgeting.blogs.com/MakingSpaces.pdf</a></p><p>Cabannes, Yves (2004). “Participatory Budgeting: a significant contribution to participatory democracy”. Environment and Urbanization. International Institute for Environment and Development. Descargado de: <a class="external free" href="http://eau.sagepub.com/cgi/content/abstract/16/1/27" rel="nofollow" title="http://eau.sagepub.com/cgi/content/abstract/16/1/27">http://eau.sagepub.com/cgi/content/abstract/16/1/27</a></p><p>Carné, Martín y Alberto Ford (2009). “Desafíos en la implementación de políticas participativas”. En AA. VV. (2009). Construyendo Confianza: hacia un nuevo vínculo entre Estado y Sociedad Civil. Volumen II. Fundación CIPPEC - Subsecretaría para la Reforma Institucional y Fortalecimiento de la Democracia. Jefatura de Gabinete, Presidencia de la Nación Argentina. En prensa.</p><p>Carné, Martín, Alberto Ford, Cintia Pinillos, Valeria Sassaroli y Valeria Venticinque (2008). “Las políticas participativas desde el punto de vista de las organizaciones sociales”. Congreso Internacional Aprender democracia haciendo democracia. Transformative Learning Centre, OISE/UT. Toronto, Canadá.</p><p>Ford, Alberto. Sitio web con investigaciones sobre democracia participativa: <a class="external free" href="http://sites.google.com/site/profesoralbertoford/" rel="nofollow" title="http://sites.google.com/site/profesoralbertoford/">http://sites.google.com/site/profesoralbertoford/</a></p><p>Ford, Alberto (2008). Experimentos democráticos: asambleas barriales y Presupuesto Participativo en Rosario, 2002-2005. Tesis Doctoral. FLACSO-Argentina. Descargado de: <a class="external free" href="http://www.flacso.org.ar/publicaciones_vermas.php?id=469" rel="nofollow" title="http://www.flacso.org.ar/publicaciones_vermas.php?id=469">http://www.flacso.org.ar/publicaciones_vermas.php?id=469</a></p><p>Fung, Archon y Erik Olin Wright (2003). Democracia en Profundidad. Facultad de Derecho, Ciencias Políticas y Sociales. Universidad Nacional de Colombia.</p><p>Goldfrank, Benjamin (2006). “Los procesos de Presupuesto Participativo en América Latina: éxito, fracaso y cambio”. Revista de Ciencia Política, Vol. 26, N° 2, pp. 03-28. Santiago de Chile. Descargado de: <a class="external free" href="http://www.scielo.cl/scielo.php?pid=S0718-090X2006000200001&amp;script=sci_arttext" rel="nofollow" title="http://www.scielo.cl/scielo.php?pid=S0718-090X2006000200001&amp;script=sci_arttext">http://www.scielo.cl/scielo.php?pid=S0718-090X2006000200001&amp;script=sci_arttext</a></p><p>Lerner, Josh y Daniel Schugurensky (2007). “La dimensión educativa de la democracia local: el caso del presupuesto participativo”. Revista Temas &amp; Debates. Facultad de Ciencia Política y Relaciones Internacionales, Universidad Nacional de Rosario. Rosario.</p><p>Municipalidad de Rosario (2009). El Presupuesto Participativo en Rosario. Una apuesta renovada al experimentalismo democrático. Secretaría General, Municipalidad de Rosario. Descargado de: <a class="external free" href="http://www.rosario.gov.ar/sitio/informacion_municipal/pp_biblioteca.jsp" rel="nofollow" title="http://www.rosario.gov.ar/sitio/informacion_municipal/pp_biblioteca.jsp">http://www.rosario.gov.ar/sitio/informacion_municipal/pp_biblioteca.jsp</a></p><p>Presupuesto Participativo Municipalidad de Rosario (sitio oficial): <a class="external free" href="http://www.rosario.gov.ar/sitio/informacion_municipal/pp.jsp" rel="nofollow" title="http://www.rosario.gov.ar/sitio/informacion_municipal/pp.jsp">http://www.rosario.gov.ar/sitio/informacion_municipal/pp.jsp</a></p><p>Programa URBAL (2008). “El Presupuesto Participativo, o cuando la gente entra en la gestión”. Proyecto Sistema Inter-Municipal de Capacitación en Planificación y Gestión Local Participativa, Red N° 9, Dimensión Territorial, Ciudad Responsable Rosario.</p><p>Rupil, Claudio (2006). La iniciativa del Presupuesto Participativo en el Municipio de Rosario. Semántica, sentido, expectativas. Tesis de Maestría FLACSO-Rosario.</p><p>Signorelli, Gisela (2008). “Presupuesto Participativo en Rosario ¿auge y postrimerías en la participación?” Ponencia presentada al VIII Congreso Nacional Sobre Democracia. Facultad de Ciencia Política y RR.II., Universidad Nacional de Rosario, Argentina. 1 al 5 de septiembre.</p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Rosario      </span>
+              ,                     <span class="region" itemprop="addressRegion">S</span>
+              <div class="country-name" itemprop="addressCountry">Argentina</div>
+                                            <span class="geo"><abbr class="latitude" title="-32.950741">32° 57' 2.6676" S</abbr>, <abbr
+            class="longitude" title="-60.666500">60° 39' 59.4" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Rosario%2C+S%2C+%2C+ar">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Santa Fe        AR      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">61 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A20">Community Based Organization</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Public officials</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-8c7a914e858be0fd511548c9f0b0b9f0">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/25">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

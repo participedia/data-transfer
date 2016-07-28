@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/romanian-national-citizen-initiative-labour-code" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/4220" />
+  <title> Romanian National Citizen Initiative on Labour Code | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"wJBz1MGNwVL7x0YWODIn1fno590wNjXXjBsXtTZNUNM","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"4220"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/romanian-national-citizen-initiative-labour-code?destination=node\/4220":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4220 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/romanian-national-citizen-initiative-labour-code" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/romanian-national-citizen-initiative-labour-code?destination=node/4220" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-lqBlR0ty_eJYz1Eqd1C1_0xVPkZ8_AwmlPEgt4egktA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title"> Romanian National Citizen Initiative on Labour Code</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title"> Romanian National Citizen Initiative on Labour Code</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/madalina-puscasu" title="View user profile." class="username" xml:lang="" about="/en/people/madalina-puscasu" typeof="sioc:UserAccount" property="foaf:name" datatype="">Madalina Puscasu</a> on Thu, 05/14/2015 - 11:39</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 02/12/2016 - 09:07</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title=" Romanian National Citizen Initiative on Labour Code - Participedia" addthis:url="http://participedia.net/en/cases/romanian-national-citizen-initiative-labour-code"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong>Problems and Purpose:</strong></h3><p>The initiative had as a purpose the amendment of certain provisions of the Labour Code introduced during the 2011 prime minister Emil Boc`s cabinet, when because of the global economic crisis, the entire fiscal and economic system  of the country had to be measured by austerity reforms. </p><p>There were no problems during the making of the initiative as well as within the signature collecting process and certainly there was no problem regarding the formulation or demands of the project when the Parliament deliberated its content, except the fact that they had to delete some dispositions within the project that were referring to a fiscal rule.</p><h3><strong>History:</strong></h3><p>The initiative was released to the national populations in order for the contributors to collect the signatures during the 2012-2013 year and was fully completed with the signatures by September 2014 when it was sent to the Parliament. </p><h3><strong>Originating Entities and Funding</strong></h3><p>The person that designed and elaborated the initiative`s project was a former minister in the Agricultural Minister of State, Alexandru Athanasiu. The funds for the project came from a national organization called the BNS (The National Union Block) that is one of the five co federal syndical representative organizations from Romania and is formed of forty professional federal organizations that represent the rights and the interest of the Romanian workers and because it is an organization formed of workers (simply citizens) they never revealed the total costs of the project, mentioning only the fact that the money was raised from mostly workers from around the country. </p><h3><strong>Participant Selection:</strong></h3><p>For the signature collecting process, the only requirement made for those who wanted to get involved by singing or by promoting the initiative, was that they had to be over 18 years old and the right to vote.</p><h3><strong>Deliberation, Decisions, and Public Interaction:</strong></h3><p>The deliberation process took place within the BNS national office in the capital, Bucharest between the man that designed the process, A. Athanasiu and around 10.000 workers form all national syndical organizations and lasted one month before they reached a common decision in order to present the project during a press release on 19th January 2013. </p><h3><strong>Influence, Outcomes, and Effects:</strong></h3><p>This initiative had a major impact upon the Romanian Legislation concerning the National Labour Code, proven by the openness of the Romanian public as well as the massive support from the national government and parliament and the implication of a large number of local councils. Being initiated by a former minister, the initiative was in 98% in concordance with the Romanian Constitution and when the Parliament adopted it there were no significant additions to the original project and because of that the initiative was immediately implemented as there were no opponents.  The initiative had a major positive impact towards the population because its success gave the public the chance to be more aware, interested and implicated within the reglementations of certain aspects of the law, especially when it comes to their work places and conditions.</p><h3><strong>Analysis and Lessons Learned </strong></h3><p>The relation between this particular case and the broader literature on democratic innovations is very tight. As I noted above in the Influence, Outcomes, and Effects section, the innovation that I described had a huge impact within the political culture of the Romanian people because it was the first citizen initiative in the whole history of the country and from the starting point registered a massive success, as the Chief of the Romanian Constitutional Court declared: ‘’Today we have a lot of interesting things or at least as interesting. We have a legislative proposal, a popular initiative. It is a colossal work, gathered 150,000 signatures.  You should be more interested in that. (... ) This is a popular initiative. I am very pleased to see that people were able to organize and gather as many signatures and promote a legislative initiative that is of great interest. It is a fundamental change in the Labour Code. So things are very important ".</p><p> The implication and promotion of this initiative was beneficial for the Romanian workers because through this process they succeeded to express free their opinions and concerns, they did extremely well in exercising their rights as proper citizens and more important they demonstrated to the political elite that the citizens are very interested in national as well as international policies, especially when it is about reforms within the industrial department. This project proved the political class for the first in twenty-five years of democracy that they cannot longer adopt and implement laws that only benefit them directly. This initiative is a example of civil society participation, constant challenge to the political system with big progress from the first attempt , the campaigning  of the project was not only in the interest of only one group but implicated directly the whole national working class of the country. Although the initialization and management of this legislative project was a time-consumer (the signature collecting process lasted a whole year), that did not stop the citizen in the attempt to break the complex political structures within the country and to rule put inequality at the work place within the Romanian society.</p><p>This innovation was a form of direct legislation because it was inclusive, it had popular control because the people had to sign in favor of a petition, that gave them more representation foremost the entire process of deliberation and collection of signatures had a lot of transparency, they didn`t have to depend on the political parties they voted for, to at least listen to their proposition so they showed considered judgment.</p><p>This project was not an original form of democratic innovation, so therefore it is 100% feasible because innovations like this one happen all the time in different parts of the world.</p><p>Being a direct democracy form of legislation the result of the innovation was binding as the Romanian Constitutional Court itself stated : ``Following deliberations, the Constitutional Court unanimously found that the legislative initiative of citizens entitled "Law amending and completing the Law no.53 / 2003 - Labour Code" fulfils the requirements of Article 74 paragraph (1) and (2) of the Constitution, except paragraph (3) Section 9 of 211 introduced by the legislative proposal, covering a fiscal rule.’’.</p><p> </p><h3><strong>Sources (bibliography) and External Links (URLs)</strong></h3><p>Official Website of the BNS: <em><a href="http://www.bns.ro/">www.bns.ro</a></em></p><p>Final Legislative Proposal: <a href="http://www.senat.ro/legis/lista.aspx?cod=18475">http://www.senat.ro/legis/lista.aspx?cod=18475</a></p><p><strong>News/Media:</strong></p><p><a href="http://e-juridic.manager.ro/articole/initiativa-cetateneasca-modificarea-codului-muncii-9999.html">http://e-juridic.manager.ro/articole/initiativa-cetateneasca-modificarea-codului-muncii-9999.html</a></p><p><a href="http://www.ziare.com/social/codul-muncii/ccr-initiativa-populara-pentru-modificarea-codului-muncii-indeplineste-conditiile-legale-1344263">http://www.ziare.com/social/codul-muncii/ccr-initiativa-populara-pentru-modificarea-codului-muncii-indeplineste-conditiile-legale-1344263</a></p><p><a href="http://www.agerpres.ro/justitie/2015/01/21/ccr-initiativa-cetateneasca-de-modificare-a-codului-muncii-indeplineste-conditiile-exceptie-unele-dispozitii-cu-caracter-fiscal-16-19-51">http://www.agerpres.ro/justitie/2015/01/21/ccr-initiativa-cetateneasca-de-modificare-a-codului-muncii-indeplineste-conditiile-exceptie-unele-dispozitii-cu-caracter-fiscal-16-19-51</a></p><p><a href="http://www.romaniatv.ro/">www.romaniatv.ro</a></p><p><a href="http://www.publisind.ro/index.php/Articole-si-informari/bns-drepturi-de-autor-prima-initiativa-cetateneasca-din-romania.html">http://www.publisind.ro/index.php/Articole-si-informari/bns-drepturi-de-autor-prima-initiativa-cetateneasca-din-romania.html</a> [DEAD LINK]</p><p><a href="http://www.bns.ro/wps/wcm/connect/022c8988-a224-4e9c-8bab-e58f1d2789be/PROIECTUL+DE+COD+AL+MUNCII.pdf?MOD=AJPERES&amp;CACHEID=022c8988-a224-4e9c-8bab-e58f1d2789be">http://www.bns.ro/wps/wcm/connect/022c8988-a224-4e9c-8bab-e58f1d2789be/PROIECTUL+DE+COD+AL+MUNCII.pdf?MOD=AJPERES&amp;CACHEID=022c8988-a224-4e9c-8bab-e58f1d2789be</a> [DEAD LINK]</p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A103">Human Rights</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A106">Other</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1310">Labour Code</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Bucharest      </span>
+                        <div class="country-name" itemprop="addressCountry">Romania</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Bucharest%2C+%2C+%2C+ro">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                RO      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, December 17, 2012 - 00:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, January 19, 2013 - 23:59</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">10 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A124">Other</a></div></div></div><div class="field field-name-field-demographics-target-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Demographics:&nbsp;</div><div class="field-items"><div class="field-item even">Workers from all Nationally Syndicated Organizations</div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/deliberation">Deliberation</a></div><div class="field-item odd"><a href="/en/methods/petition">Petition</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A147">Consensus</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Bloc National Sindical (BNS)</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A164">Union</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Alexandru Athanasiu</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-5336d589f04226e38aafe38396cc8bc9">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/4220">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

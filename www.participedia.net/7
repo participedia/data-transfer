@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/transportation-priorities-project" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/7" />
+  <title>Transportation Priorities Project | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"QfczbNssa9Nj6WPSoJ3I6wFHJ5YhpigrpiBMoosPkG4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"7"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/transportation-priorities-project?destination=node\/7":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-7 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/transportation-priorities-project" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/transportation-priorities-project?destination=node/7" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-JG0NBz19Yjve2kls8daiHRva73RtYEAQE4JxHbCvMFw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Transportation Priorities Project</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Transportation Priorities Project</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/waltsearch" title="View user profile." class="username" xml:lang="" about="/en/users/waltsearch" typeof="sioc:UserAccount" property="foaf:name" datatype="">Walt Roberts</a> on Tue, 12/08/2009 - 03:55</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/kevin-um" title="View user profile." class="username" xml:lang="" about="/en/people/kevin-um" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kevin Um</a> on Sat, 03/16/2013 - 00:06</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Transportation Priorities Project - Participedia" addthis:url="http://participedia.net/en/cases/transportation-priorities-project"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/ClarkCounty.jpg?itok=5AEevAON" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h5><strong>Summary</strong></h5>InterACT’s Transportation Priorities Project Dream It, Fund It, Build It InterACT, a subsidiary of Identity Clark County (a private, non-profit organization focused on community and economic development), recognized an impending implosion of voter financial support for Clark County’s transportation system and elected to take on a project that enabled its citizens to <em>dream it, fund it, build it</em>. The Washington State Legislature had failed to impose gas tax (or other) dollars to care for an aging/in need of expansion transportation system, and voter confidence was affecting tax measures.<p>A grassroots-effort to learn what citizens want, what are they willing to pay for and how they willing to pay for it was designed and taken out into the community. A series of 32 smaller community meetings led to five larger community forums, all of which led to a community-wide all-day summit over a short, three-month time period (August through November 2002).</p><p>Along the way citizens were provided education and information on how transportation works – from concept to design to construction. As they “learned,” their perceptions of transportation changed somewhat – which told us that education was certainly a key to understanding and support of transportation issues. In addition we learned that people care deeply what happens in their neighborhoods, and see fixing travel around the County and to and from Oregon as a priority, and if people know their money will be spent on local projects – and there is an accountability factor - they are willing to pay for it.</p><p>The result of the project is a report to the community . . . jurisdictions, citizens and legislators . . . which includes a list of recommendations and how we got there. The model we used, which was to some extent a design-as-you-go process, worked beautifully and could work equally well for a multitude of issues.</p>We still don’t have all the answers but are currently designing Transportation Priorities Project Phase II which will lead us to most of the answers . . . the bottom line being, what will be supported when voters go to the polls. <p>TPP was InterACT’s way of hearing the diverse perspectives, perceptions, and opinions in the community to answer three critical questions:</p><p>1. What do citizens want?</p><p>2. What are they willing to pay for?</p><p>3. How do they prefer to pay for it?</p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><p>The Project</p><p>On this website <a class="external free" href="http://www.rtc.wa.gov/InterACT/" rel="nofollow" title="http://www.rtc.wa.gov/InterACT/">http://www.rtc.wa.gov/InterACT/</a> is the project report <a class="external free" href="http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf" rel="nofollow" title="http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf">http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf</a> prepared by Walt Robeerts / The Performance Center, which details how the project was conceived, designed and executed, and documents the results. The “Additional Information” provided as attachments to the report capture direct comments/concerns from the jurisdictions prior to launching the project, actual text of polling questions used, keypad technology polling results, a transportation briefing document (educational piece), direct citizen input comments, and jurisdiction reactions to the project.</p><p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p><h5><strong>Purpose</strong></h5>The purpose of TPP is to allow citizens, stakeholders, and the diverse communities of Clark County to explore local and regional transportation priorities (Dream It), transportation funding options (Fund It), and key strategies to address the transportation challenges important to maintaining this region’s high quality of life (Build It). (1) <h5><strong>History</strong></h5><p>In the last 20 years Washington state’s population has increased by 48%, jobs have increased by 58%, and vehicle miles traveled increased by 88%.  All the while, total personal income as grown by 110%, the state capital outlay for road capacity per dollar of personal income dropped by 50%.  Clark County had a population of 192,000 in 1980; today there are about 363,000 people living in Clark County with over 200,000 cars.  This is a population growth increase of 82% and more cars today than the number of people in Clark County in 1980. (<em>Excerpted from the Transportation Briefing Document for TPP, prepared by Dean Lookingbill (RTC)) </em>(1)</p><h5><strong>Funding and Budgeting</strong></h5><p>Initial funding for TPP came from InterACT’s sponsoring  organization, Identity Clark County (ICC), a not-for- profit organization concerned with economic and community development in Clark County.  ICC was able to provide $25,000 in funding from its transportation committee’s budget.  Southwest Washington’s Regional Transportation Council contributed  an additional $25,000 of federal funds.  Additional support came from jurisdictions throughout Clark County.  Thanks to the volunteers and generous in-kind contributions, this ambitious, countywide, citizen-led, fast-paced, stakeholder engagement process was accomplished on a very lean budget. (1)</p><h5><strong>Participation Selection</strong></h5><p>The Project Management teams for TPP were "Citizen-led." This means that members of the InterACT board helped manage the project.  The board invited other individuals to participate, who volunteered their time to enlist support and participation from other citizens in Clark County.  "Citizen-led" also means that no government body was leading or managing this process.</p><p>The TPP Management Team consisted of: Marjorie Casswell, InterACT project manager; Brian Wolfe, InterACT chair; John McKibbin and Ginger Metcalf, Identity Clark County; and Walt and Tammy Roberts, The Performance Center.  The TPP Design Team was comprised of the Management Team and a small group of citizens from around Clark County.  The TPP Outreach and Action Team added another 30 citizens that were chosen to be representative of the entire county, which was divided into five regions: Central, North, South Central, Southeast, and Southwest.   TPP Area Outreach and Action Teams identified groups and organized TPP Meetings and Forums in various communities in each of the five areas.  Each of these various teams met on numerous occasions to develop and refine the design of each element of the TPP process.  In addition, Dean Lookingbill, Director of the Southwest Washington Regional Transportation Council (RTC), with his helpful and capable staff, provided the TPP team with invaluable information and jurisdictions outreach support throughout the process.  (1)</p><h5><strong>Deliberation and Public Interaction</strong></h5><p>The TPP process began with twenty-three government officials who were consulted and interviewed about the project to seek their opinions and views on local and countywide transportation issues. A set of questions was developed and presented for participants at 32 TPP Area Meetings, which were conducted throughout Clark County. These Meetings were guided and aided by the input from the Jurisdictions Interviews and the TPP Design Team.</p><p>These Area Meetings were designed to seek participants’ views with minimum influence from presentations or group discussions.  Each Area Meeting was 90 minutes or less and captured the opinions and preferences of participating citizens through the use of an electronic keypad polling system and written comments.  Area Meeting participants were not given time to reference a document providing a very general overview of transportation planning and funding information, nor were they given an opportunity to discuss the topics and questions prior to giving their input.</p><p>Four TPP Area Meeting sessions were held at Battle Ground High School. The meeting was restricted to an hour in which the students focused on the subject and questions related only to transportation performance and funding options.  They did not have time to explore transportation system concerns, priorities for improvement, and priority actions for improving the system.  The summary results from the high school sessions are presented separately from the input received at the balance of the TPP Area Meetings.  This information provides a glimpse of how “younger” citizen participants’ perceptions differed from the “older” participants’ perceptions. (1)</p><p>Next, five TPP Area Forums were conducted. These Area Forums were 2 ½ hours long and were designed to give participants more information about transportation planning processes, funding mechanics and trends, and the results from the area meetings. Participants also had an opportunity to have small and large group discussions before turning to keypad polling and written comments to give their input.</p><p>The Area Meetings polling summary results were compared to the Area Forums polling summary results and presented at the TPP Summit, a daylong event.  All written input from both TPP activities was shown at the Summit. Around 110 citizens and 30 government officials listened to a series of presenters, engaged in small and large group discussions, and compared their views, opinions and preferences through keypad polling and written comments. (1)</p><p>The process was designed to be a “progressive ‘conversation’”(1) so that the information gathered at Area Meetings was comprehensive, summarized, and presented at the Area Forums. The TPP Summit deliberations were framed upon the information brought forward from Area Meetings and Area Forums. As it progressed, The TPP process increased in substance, quality, and size.</p><h5><strong>Findings</strong></h5><p>At the end of the entire process, a few key findings surfaced. For one, people care deeply what happens in their neighborhoods, and see fixing travel around the county and to and from Oregon as a priority. Additionally, Information, or education, changes what and how people think about transportation, for the better. Lastly, If people know their money will be spent on local projects, they will be willing to pay for it. (1)</p><p>One of the most significant findings was the strong interest expressed to pursue a regional funding authority, approach and strategy.  A regional funding mechanism that keeps local tax dollars in the region and leverages potential matching funds gained in priority, support and interest as TPP progresed.  Additionally, a possible regional gas tax gained in popularity. (1)</p><p>Some TPP Participants’ Comments (1):</p><p>•  <em>System support has fallen way behind system demand - incremental measures and system controls will not make a significant difference and bridge the gap.  We need to transform the system considering the full scope of resources and demands.</em></p><p><em>•  Developing a regional transportation system plan seems to be a good idea.  We need a plan that designs projects for a BALANCED (roads, transit, bike/pedestrian, etc.) system and links funding phases to specific project lists.  Seek funding for phased lists, deliver the projects, and then proceed with similar process for future phases.  Jurisdictions must coordinate to do this successfully.</em></p><p><em>•  Clark County planning is not going to get any more billion-dollar projects if it does not improve roads!  Clark County is years behind the planning for growth and traffic</em></p><p><strong>What are the top transportation system concerns?</strong></p><ol><li>Transportation Funding/Spending</li><li>Transportation to/from Oregon</li><li>Transportation Planning/Policy/Strategy</li></ol><p><strong>What are the top priorities for improvement for the transportation system?</strong></p><ol><li>Transportation Funding/Spending</li><li>Transportation Planning/Policy/Strategy</li><li>Transportation to/from Oregon</li></ol><p>To measure perceptions of the transportation system’s current performance the following three categories were defined (1):</p><p><strong>Neighborhood/Local Community Transportation:</strong> Local capacity, upkeep, safety, traffic calming, traffic signals, sidewalks and pedestrian crossings, school bus routes and zones, parking, etc.</p><p><strong>Transportation Throughout Clark County</strong>:  Keeping the current roads and related infrastructure in good condition. Improving and creating new capacity (mostly roads) within the county to ease congestion, improve access and reduce travel times to destinations within the County.  Provide more choices/alternatives/public transit/bike lanes to better get around the county. </p><p><strong>Transportation to/from Oregon:</strong>  Easing peak congestion through improved bridges, transit service, special commuter lanes, and widening I-5 bottlenecks.  Could include pay-to-use systems, commuter rail and or light rail. Keeping up with maintenance and safety of existing system.</p><h5><strong>Strengths &amp; Weaknesses</strong></h5><p>The greatest strength of the TPP process is the diversity of opinions received from participants.  The greatest challenge was the task of getting people to attend meetings. Additionally, the length of the entire process (3 months) was a short period of time to reach out and obtain participants in such a large county.</p><p>Feedback from many of the TPP Summit participants, jurisdictions’ representatives, and TPP Management Team members strongly suggest that it is both timely and worthwhile to continue the TPP process or something like it.  At this time (February 2003), a plan for continuing the TPP effort has not been fully formulated.  The TPP Management Team will seek input on the purpose, value, products, leadership, funding, timing, and format for the next phase of TPP. (1)</p><h5><strong>Recommendations</strong></h5><p>The following are a few recommendations offered from participants (1):</p><p>1. First and foremost, TPP needs a home, and needs to continue with the same intense grassroots participation.</p><p>2. Lobby for a statewide funding mechanism that includes a regional transportation funding component. </p><p>3. Coordinate jurisdictions planning efforts and present a unified/winning case to receive state and federal funding.</p><p>4. Approach transportation planning from a complete system perspective.</p><p>5. Broaden and increase efforts to inform citizens on all aspects of transportation. </p><h5><strong>Sources</strong></h5><p>1. <em>Findings of the Transportation Priorities Project</em>. Roberts, Walt. Rep. The Performance Center, Feb. 2003. Web. Nov.-Dec. 2012. &lt;<a href="http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf&gt;">http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf&gt;</a>.</p><h5><strong>External Links</strong></h5><p><a href="http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf">http://www.rtc.wa.gov/InterACT/reports/TPP-Findings.pdf</a></p><p><a href="http://www.rtc.wa.gov">www.rtc.wa.gov</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A271">Transportation planning</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A766">civic learning for informed decision-making</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A757">contextual and community-based problem-solving</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A755">nongovernmental participatory body</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">SW Washington State, Clark County</span>
+                              <div class="country-name" itemprop="addressCountry">United States</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+us">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, July 31, 2009 - 17:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, November 19, 2009 - 16:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A132">Appointed Public Servants (e.g. Bureaucrats)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/community-based-participatory-research">Community-based participatory research</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-b6ce5ed929a970d15703779715ebb625">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/7">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

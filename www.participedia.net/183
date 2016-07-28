@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/crowdsourcing" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/183" />
+  <title>Crowdsourcing | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"Ci-7iunYg5jqxE_-EzhJT92eUuHSeR0r6iA1fJaB0_o","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/crowdsourcing?destination=node\/183":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-183 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/crowdsourcing" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/crowdsourcing?destination=node/183" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-gFxtAKq6B6vMF4avwFwGF9wxoltXG0GHlWvSfws2oLM" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Crowdsourcing</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Crowdsourcing - Participedia" addthis:url="http://participedia.net/en/methods/crowdsourcing"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 7 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/cactullus" title="View user profile." class="username" xml:lang="" about="/en/users/cactullus" typeof="sioc:UserAccount" property="foaf:name" datatype="">Isaac Horwith</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Crowdsourcing is a new phenomenon in which an organization calls upon both professionals and amateurs on the internet to help solve a problem, design a product, or analyze large amounts of data at a lower cost and often greater quality and speed than through conventional research and development methods.
+</p>
+
+<a name="Purpose" id="Purpose"></a><h2> Purpose </h2>
+<p>The internet provides an unprecedented medium in which users from disparate backgrounds and geographic locations can meet, interact, and share ideas.  Crowdsourcing is the leveraging and focusing of the largely untapped talent and brain power of well educated amatuers who are interested in a given topic but do not happen to be professionally employed in these fields.  Other tasks that are not highly complex, but difficult for a computer to accomplish, such as describing a photograph, are compatible with crowdsourcing.
+</p><p>One of the most important factors of crowdsourcing is the fact that it is an open call for help, allowing any internet user to contribute.  Because of this, organizations are able to draw upon a huge population of users who are able to self-select themselves into addressing the problems they are most fit to solve.  This is accomplished through facilitating users' contributions in a created space that has a framework and basic guidelines while remaining as open as possible in order to receive diverse submissions.  As explained by Beth Simone Noveck, the diverse perspectives users have results in submissions that are more inventive and regularly of higher quality than solutions created by hired research professionals surrounded by like minded people.
+</p><p>By providing some kind of incentive, usually payment, many users are often tempted to try to solve these problems, but only those who create substantive results are rewarded.  This creates a structure in which organizations can receive large amounts of manpower at very little cost, while at the same time often receiving vital information on the nature and wishes of their participants.  For corporations, crowdsourcing provides them not only with solutions but also consumer's perspectives on their products, which can then be used to refine their corporation in ways unrelated to the problem at hand.
+</p>
+<a name="History" id="History"></a><h2> History </h2>
+<p>Although first coined by Jeff Howe in a 2006 edition of <a href="http://www.wired.com/wired/archive/14.06/crowds.html?pg=1&amp;topic=crowds&amp;topic_set=" class="external text" title="http://www.wired.com/wired/archive/14.06/crowds.html?pg=1&amp;topic=crowds&amp;topic_set=" rel="nofollow">[Wired Magazine</a>], the process had already been implemented by a few online companies.  Some of the first examples come from companies Threadless and iStockPhoto.  On threadless.com, users may submit graphics for tshirts and are selected by the community by clicking "I'd buy it!".  The most popular designs are printed and offered for sale, with the winning designer receiving $2000 and $500 as a Threadless gift certificate <a href="#cite_note-0" title="">[1]</a>.  <a href="http://www.istockphoto.com" class="external text" title="http://www.istockphoto.com" rel="nofollow">[iStockPhoto</a>] is a similar community of amateur photographers that collectively create a large database of stock photographs.  Any organization looking for royalty-free photographs can buy them at a significantly lower price than hiring a professional photographer.  The size of the site quickly exploded, providing more pictures to choose from than any single stock photographer could provide.  Contributors to the site receive a 20% commission every time their photographs are purchased, and depending on the success of their photographs their commission can rise to 40%<a href="#cite_note-1" title="">[2]</a>.
+</p><p>After Howe's article detailing the advantages of crowdsourcing, this production model was then adopted by offline companies, as seen in marketing strategies for Doritos and Chevy automobiles that called on consumers to create commercials for them.  As a result of this program a user created Dorito advertisement was aired during the 2007 Super Bowl <a href="#cite_note-Brabham-2" title="">[3]</a>, reflecting the rapid and highly publicized adoption of crowdsourcing in the business world.
+</p>
+<a name="Outcomes_.26_Effects" id="Outcomes_.26_Effects"></a><h2> Outcomes &amp; Effects </h2>
+<p>Because crowdsourcing is essentially a production model, the outcome is emphasized more than in other deliberative models.  When structured properly, crowdsourcing can create solutions and products that professionals cannot largely due to the size of people contributing.  After aggregating the responses, submissions are of higher quality than what the most intelligent participant could have created, as obseved by James Surowiecki's in his book <a href="http://en.wikipedia.org/wiki/Wisdom_of_crowds|" class="external text" title="http://en.wikipedia.org/wiki/Wisdom_of_crowds|" rel="nofollow">The Wisdom of Crowds</a>.
+</p><p>Another effect of crowdsourcing is the empowerment contributors experience when they are able to solve a problem or design a successful product.  Exploitation of these users is a source of continuing concern, as mentioned by Jeff Howe in his seminal article on crowdsourcing, but contributors enter these agreements willingly and usually with enthusiasm, as they would not be paid for using their talents in their current jobs and see it as a release of pent up talent they can't use in their normal lives.  Because results are often only known to and capitalized by the organization, however, this is not a perfectly democratic method.
+</p>
+<a name="Examples" id="Examples"></a><h2> Examples </h2>
+<p>InnoCentive:
+</p><p>Innocentive is one of the earliest and most developed platforms for crowdsourcing currently on the web.  Hundreds of highly complex engineering, chemistry, medical, and environmental challenges are posted on the website at any given time, most with rewards ranging from $5,000 to $1000000.  Innocentive is designed as an intermediary that connects corporations, non profits, and government to a motivated user base of more than 200,000 so called "solvers".  Some users have even quit their day jobs to pursue solving these problems full time<a href="#cite_note-3" title="">[4]</a>.
+
+Wikipedia:
+</p><p>Wikipedia is the most successful example of non-profit crowdsourcing.  Beginning in 2001, Wikipedia is a platform in which any online user can contribute to an online encyclopedia.  Despite an absence of any form of compensation, the urge to solidify a collective conscious online has created an exhaustive, fact checked, and free encyclopedia in dozens of languages.  There are currently over 14 million articles posted on Wikipedia, 3 million of them english, all provided free of charge by users <a href="#cite_note-4" title="">[5]</a>.  Superfluous and incorrect information is removed through peer review and expert volunteer moderators.
+</p><p>Next Stop Design:
+</p><p>A program sponsored by the Federal Transportation Administration and developed by researchers from the University of Utah, Next Stop Design calls upon internet users to design a bus stop in the Sugarhouse neighborhood of Salt Lake City.  The winning designer received a free utah transit authority bus pass for a year.  The winner was decided from 11,000 votes on 260 submissions <a href="#cite_note-5" title="">[6]</a>.
+</p><p><a href="/organizations/citizens" title="Citizens">Citizens</a>
+</p><p>Short history of Skuggaþing (Shadow Parliament) and Betri Reykjavík (Better Reykjavík)
+</p><p>In the last (2010) municipal elections in Reykjavík, the capital city of Iceland, almost 10% of the voting population took part in the majority talks of two parties via a website called Betri Reykjavik (Better Reykjavik). The history of the website and the software developed for it is recounted in this document.
+</p><p>The greatest strength of the system is that it uses the opinions of its users (crowd-sourceing) to evaluate the importance, quality and usefulness of the ideas/issues and also crowd-sources the selection of the best arguments/points for and against those ideas/issues. Thus enabling users to make up their minds about most issues in a very short time.
+</p>
+<a name="Analysis_.26_Criticism" id="Analysis_.26_Criticism"></a><h2>Analysis &amp; Criticism </h2>
+<p>As a deliberative process, crowdsourcing is unique.  It is able to unite large numbers of like minded individuals to work on the same problem, but it causes problems as well as opportunities.  Because of the economic incentive involved in most crowdsourcing, the nature of the deliberation is competitive.  Providing a reward does increase the number of submissions, but this also leads to a lack of communication between users, as they want the prize for themselves.  Organizations that crowdsource are often able to sift through the submissions and often do receive a satisfactory result, but if users were encouraged to actively collaborate among themselves, better results could appear.  This is a difficult thing to accomplish due to the asynchronous nature of the internet, and could slow down the process.  In an <a href="http://www.wired.com/techbiz/media/news/2007/07/crowd_captain?currentPage=all" class="external text" title="http://www.wired.com/techbiz/media/news/2007/07/crowd_captain?currentPage=all" rel="nofollow">[interview</a>] Andrea Grover proposes that the impersonal nature of the internet allows for more submissions because users are less aware of judgments that may be made on their submissions and are therefore more likely to contribute.  Introducing direct collaboration to crowdsourcing could end up causing valuable information to be self censored by self conscious users.
+</p><p>One of the primary problems of this method as a way to further democracy has been its application.  Because of its business based development, it is still primarily used to benefit individual entrepeneurs.  Although self satisfaction is a facet of what draws internet users to participate in solving problems for other people, the economic incentive is often the driving factor.  As a deliberative process, however, crowdsourcing has potential applications in essentially every idea based field, and its low cost can be used to accomplish more than low overhead, as seen in the previous non profit and governmental examples.  The interactive and empowering facets of crowdsourcing have been observed within the private sector as effectively creating tight knit communities and provide critical insight into consumer's opinions.  If implemented correctly, more governmental and non profit organizations could use crowdsourcing solely for the public interest.  Beth Simone Noveck observes, however, that government has largely not embraced the internet's potential as a participatory forum.  If correctly implemented, government could capitalize on the cheap labor of crowdsourcing to solve problems for the greater good, while at the same time empowering, involving, and connecting citizens to their own government.
+</p>
+<a name="Secondary_Sources" id="Secondary_Sources"></a><h2> Secondary Sources </h2>
+<p>Brabham, Daren C. (2008). "Crowdsourcing as a Model for Problem Solving: An Introduction and Cases", Convergence: The International Journal of Research into New Media Technologies, 14(1), pp. 75-90.
+</p><p>Howe, J. (2006f) ‘The Rise of Crowdsourcing’, Wired, 14(6), URL (accessed Decemnber 6th, 2010): 
+<a href="http://www.wired.com/wired/archive/14.06/crowds.html" class="external free" title="http://www.wired.com/wired/archive/14.06/crowds.html" rel="nofollow">http://www.wired.com/wired/archive/14.06/crowds.html</a>
+</p><p>Noveck, Beth Simone, Wiki government: how technology can make government better, democracy stronger, and citizens more powerful. Brookings Institution Press - 2009
+</p>
+<a name="References" id="References"></a><h2> References </h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> Threadless Tshirt Submission Outlines <a href="http://www.threadless.com/submit" class="external autonumber" title="http://www.threadless.com/submit" rel="nofollow">[1]</a></li>
+<li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> iStockPhoto Submission Commission <a href="http://www.istockphoto.com/photographer-royalties.php" class="external free" title="http://www.istockphoto.com/photographer-royalties.php" rel="nofollow">http://www.istockphoto.com/photographer-royalties.php</a></li>
+<li id="cite_note-Brabham-2"><a href="#cite_ref-Brabham_2-0" title="">↑</a> Daren C. Brabham. (2008). "Crowdsourcing as a Model for Problem Solving: An Introduction and Cases", Convergence: The International Journal of Research into New Media Technologies, 14(1), pp. 75-90. </li>
+<li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> About InnoCentive (n.d.) InnoCentive, URL (accessed December 5th, 2010) <a href="http://www.innocentive.com/about/" class="external free" title="http://www.innocentive.com/about/" rel="nofollow">http://www.innocentive.com/about/</a> 
+index.html </li>
+<li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a>  The History of Wikipedia, last modified December 6th, 2010 (accessed December 6th, 2010 ) <a href="http://en.wikipedia.org/wiki/History_of_Wikipedia" class="external free" title="http://en.wikipedia.org/wiki/History_of_Wikipedia" rel="nofollow">http://en.wikipedia.org/wiki/History_of_Wikipedia</a></li>
+<li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> Daily Utah Chronicle Article on Next Stop Design, September 29th, 2009 <a href="http://www.dailyutahchronicle.com/news/bus-stop-to-get-makeover-1.1930460" class="external free" title="http://www.dailyutahchronicle.com/news/bus-stop-to-get-makeover-1.1930460" rel="nofollow">http://www.dailyutahchronicle.com/news/bus-stop-to-get-makeover-1.1930460</a></li></ol></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-7401fe4ecf6029cd56f5f8600801f244">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/183">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">10000000000</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1000</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$1 000 000</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Decision-Making</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Internet</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Expert Selection Process</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/international" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/co-production" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Co-Production</a></div><div class="field-item odd"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item even"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/1-not-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">1 - Not Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/2-seldom-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">2 - Seldom Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/raise-public-awareness" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Raise public awareness</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Internet</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

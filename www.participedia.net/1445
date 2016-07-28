@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/crowdsourcing-policy-and-lawmaking-finland" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/1445" />
+  <title>Crowdsourcing in policy and lawmaking in Finland | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"j0FCnKHp-cwZKBQ8vqvy7SO6RN_acsjHjvTl-pnSUuQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"1445"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/crowdsourcing-policy-and-lawmaking-finland?destination=node\/1445":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1445 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/crowdsourcing-policy-and-lawmaking-finland" class="language-link active" xml:lang="en" title="Crowdsourcing in policy and lawmaking in Finland">English</a></li>
+<li class="de last"><a href="/de/faelle/crowdsourcing-politischen-entscheidungs-und-gesetzgebungsprozessen-finnland" class="language-link" xml:lang="de" title="“Crowdsourcing” in politischen Entscheidungs- und Gesetzgebungsprozessen in Finnland ">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/crowdsourcing-policy-and-lawmaking-finland?destination=node/1445" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-1RjTuY1bYclgEKPrFEKQjW3aA4c4h6wUCyiZEZCW9uM" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Crowdsourcing in policy and lawmaking in Finland</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Crowdsourcing in policy and lawmaking in Finland</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Sun, 10/20/2013 - 02:57</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Fri, 04/03/2015 - 09:05</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Crowdsourcing in policy and lawmaking in Finland - Participedia" addthis:url="http://participedia.net/en/cases/crowdsourcing-policy-and-lawmaking-finland"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Problems and Purpose</h3><p>As a consequence of the legitimacy loss in modern representative democracy, new societal actors have emerged, pointing to the importance of information technologies in order to improve democratic participation, legitimacy and transparency. Online Deliberation Forums and e-deliberation have been appreciated by some academics as an extension of the public sphere through the internet (Dahlberg 2001) to deepen connections and democratic conversations between government and citizens. A variety of players takes part in ‘Government 2.0’ as the classical, hierarchical model of governance is more and more replaced by an “informal, non-hierarchical nature of mass collaboration, facilitated by electronic communication technology” (Medimorec et al 2011).</p><p>A noteworthy illustration of this development can be found in Finland where new laws and policies are being ‘crowdsourced’. Crowdsourcing in Policy and Lawmaking aims to include citizens in public discussions about a new law and includes their ideas in governmental decision-making processes. Crowdsourcing is defined as obtaining information or input for a specified task or project by using the knowledge and talent of a group of people, usually via the Internet. In Finland, legislative crowdsourcing initiated by the government is used to establish a new off-road traffic law on an online platform. E-legislation processes can be defined as “the use of ICT for drafting, commenting on, consulting, structuring, formatting, submitting, amending, voting on and publishing laws passed by elected assemblies” (Council of Europe Committee of Ministers 2009).</p><p>In what follows, the decision-making process on the Finnish online platform will be outlined in order to illustrate policy crowdsourcing mechanisms and their deliberative potential. The off-road traffic law, which is normally regulated by the Finnish Ministry of Environment, will encompass all motor-operated traffic on rough terrain besides regular streets. Therefore, the new law will mostly affect Finnish citizens who own an ATV or a snowmobile. There are currently about 100,000 registered snowmobiles in Finland and about 20,000 ATVs (Aitamurto/Landemore 2013).</p><h3>History and Participant Selection</h3><p>The crowdsourcing experiment was set up by the Finnish Ministry for Environment together with the Committee for the Future of the Parliament in Finland because the previous government was not able to pass a new off-road traffic law in the Finnish parliament in 2010. The reason why it was so difficult to introduce a new legislation on the issue was twofold. Firstly, some parliamentarians were against the change from a “need-based consideration” (as it was the system in Finland before) to a “right-based consideration” (the suggested new legislation). Secondly, there were disagreements about the level of administration on which decisions about new off-road routes should be made (Aitamurto/Landemore 2013). Consequently, the citizens taking part in the online deliberation had to decide, among other aspects, whether officials should be able to reject proposals for new off-road routes (need-based legislation) or whether there should be a legal right to create new routes as long as they are in line with environmental provisions (right-based legislation). The participants also had to decide whether the decisions concerning off-road traffic should be made on a county, municipal or local level (Interview Aitamurto 2013). </p><p>The current law that regulates off-road traffic in Finland came into power in 1995. There was a need to reform the law because, firstly, the number of ATVs and other off-road vehicles increased, and, secondly, there were concerns that the existing law did not regulate the high traffic density in summer properly. As a consequence, the Finnish government set up the online platform <a href="http://www.suomijoukkoistaa.fi/">www.suomijoukkoistaa.fi</a> on which the public would be able to contribute to the legislative processes concerning the new off-road traffic law (Aitamurto/Landemore 2013).</p><p>The crowdsourcing experiment started in January 2013. The advantage of online deliberation is that a large number of citizens can participate within a structured, virtual sphere for discussion. In the Finnish experiment, no target group was defined and everyone who was personally affected by the problem or interested in the topic was invited to contribute to the problem-solving process. Hence, the entire population with internet access was theoretically able to participate and no participant selection by the authorities took place. In total, more than 700 citizens took part in the online debate and the website was visited by 14.000 individuals (see <a href="http://www.maastoliikennelaki.fi">www.maastoliikennelaki.fi</a>). </p><h3>Deliberation, Decisions, and Public Interaction</h3><p>The Finnish crowdsourcing experiment is still ongoing and takes place in three phases. The first phase from January until March 2013 was about problem mapping, the second phase from March 2013 until June 2013 dealt with problem solving and ideation, and the third phase, which started in June 2013 and is still in process, will involve evaluating the findings. On the basis of the evaluation’s outcome, a new legislation will be put in place. The process was designed by experts of the Finnish government and academics (in particular by Tanja Aitamurto, visiting researcher at the Program on Liberation Technology at Stanford University).</p><p>Every citizen that wants to take part in the deliberations has to create an account on the website. Participants could choose whether they would like to stay anonymous, use their nicknames or real names (Interview Aitamurto 2013). From January until March 2013 the participants were invited to comment on ten broad topics related to off-road traffic that had been identified “based on conversations with civil servants in the Ministry of Environment (who are experts on off-road traffic law and wrote the expired bill)” (Aitamurto/Landemore 2013). The ten topics included, for example, general problems with off-road traffic, age limits, and regulations of emissions and routes.</p><p>In this context, participants commented, made suggestions and uploaded pictures or other attachments to enrich the debate. The citizens mainly expressed concerns about safety and illegal riding. Also, it became clear that there was a lot of confusion about the actual law. It seemed like in different parts of Finland the law is implemented and monitored in a different way (Interview Aitamurto 2013). If the topic the citizens wanted to address was not on the list of the ten topics suggested by the experts, the participants were allowed to propose a new topic.  Every comment or contribution that was made by the citizens on the website was visible for the other participants. As a particular incentive for participation, the citizens gained points for contributing to the discussions. In an activity ranking participants could see how active they were in comparison with others (Interview Aitamurto 2013). In order to guarantee informed conversations, a website with background information on the issue was created (<a href="http://www.maastoliikennelaki.fi/">www.maastoliikennelaki.fi</a>). It included information on the current legislation and the failed attempt to introduce a new law in parliament as well as on the crowdsourcing procedure itself, and a blog on which the latest updates were posted.</p><p>During the first crowdsourcing phase, “340 ideas and conversation starters, 2,600 comments in reaction to the ideas and conversation starters, and 19,000 votes from about 700 users” were generated (Aikamurto/Landemore 2013). This input was analyzed and organised into the categories “Routes, Monitoring, Safety, Regulations and rights, Nature and environment, Information gathering and usage (for off-road traffic regulation), Societal values, and Improvement of the crowdsourced law-making process” (Aitamurto/Landemore 2013). The categories were then again divided into subcategories with specific questions that served as the basis for the second phase.</p><p>In the second phase from March until June 2013, the citizens were invited to come up with solutions for the identified topics and problems (or, again, propose their own topic). “By the 13th of June, 88 ideas were generated with 828 comments and 4,000 votes from 731 users” (Aitamurto/Landemore 2013). At the same time, the moderation effort on the discussion platform was increased in order to make the participants deliberate and think in more detail about the proposals. The experts responsible for the design of the experiment also acted as moderators. The moderators encouraged people to ask more questions and provided the public with the reponses from the Ministry. This increased the information exchange.</p><p>The users on the platform experienced the experiment as an improvement for democratic participation as they felt that they could express their opinion and ideas and that their voice was heard. Although the initial goal of the crowdsourcing experiment was solely to get information on problems and solution from the Finnish citizens, deliberation occurred on the platform. People exchanged arguments and reasoned opinions. Although only a minority of people said that their opinion changed during the deliberations, they stated that the interactive nature of the process gave them the opportunity to understand the other party’s view better and learn from each other. Aitamurto and Landemore (2013) also found “that participants’ perception of the value of the experiment was primarily procedural (e.g. making the process more fair, inclusive etc.) rather than instrumental (e.g. having a concrete influence on policy outcomes)”. This means that although the participants were quite skeptical that their suggestions would finally be included in the actual law, they appreciated the possibility of contributing to the decision-making process. The findings indicate that the citizens do not completely trust the traditional policy-making processes in Finland in the sense that they do not feel adequately represented by their officials.  </p><p>The researchers found that views and perceptions during the deliberations were in fact converging among participants in several fields. Participants agreed, for example, that awareness should be raised for the risks of accidents snowmobile riding entails and that the driving rights of snowmobilers should not be absolute and unregulated. The experiment also had an educational element. During deliberations, citizens changed their understanding of certain facts and broadened their knowledge on the issue. On the other hand, citizens also expressed their concerns that some people who were affected by off-road traffic or will be in the future did not take part in the discussion because they might not be aware that they are or will be affected by the issue or simply do not use the internet (Interview Aitamurto 2013).</p><p>Deliberation occurred especially in the second phase of the project when moderation was increased. Although most participants focused mostly on expressing their own interests, compromises and collaboration became naturally part of the discussions. One participant for example stated:</p><p>“I didn’t propose any ideas in the first phase, but I read the others’ ideas and commented and voted on those. I felt like there were so many views out there already. But towards the end of the second phase I realized not all my ideas are proposed by others, so now I have submitted many ideas. In my ideas I want to converge many views and build a compromise, because I think those ideas are the most likely to succeed and make it to the law”(Online participant, male) (Aitamurto/Landemore 2013).</p><p>Although the participant was at first only observing the discussions and merely expressing his opinion via votes, he became more engaged throughout the process, expressed his disagreements and tried to contribute to finding a consensus by converging arguments. This is also indicates the high level of respect among participants on the discussion platform. </p><h3>Influence, Outcomes, and Effects</h3><p>As the project is still ongoing, the outcome and effects of the experiment are not yet conclusively measurable. By the end of phase two that ended on 24 June, 500 views and ideas were generated with 4000 comments and 25,000 votes from 731 users. The website was visited by more than 14.000 citizens. Currently, the ideas are being analyzed and a report will be presented to the Ministry of Environment to evaluate the solutions produced by the crowd. The evaluation is done online and includes a crowd evaluation and an expert panel evaluation. In the crowd evaluation, participants cannot choose which ideas they will evaluate. Instead, they are given a random idea by the organizers as they should not just evaluate the ideas they prefer. The ideas and results of the evaluation will be presented to the Ministry of Environment at the end of October. The ministry will then decide how they will go about the law reform. There are several different alternatives for how the law can be reformed, including the option of not reforming the law at all. If the minister decides that the current law is good enough based on the citizens input, the law will stay as it is. If he decides to change the law, the legislation process will start immediately and the new law will be ready by the summer of 2014 (Interview Aitamurto 2013).</p><p>Ville Niinistö, Minister of Environment in Finland, is pleased with the experiment’s outcome. He stated that the off-road traffic law reform project has been an inspiring and ground-breaking experiment for the preparatory work of the new law as citizen participation has been broad, effective and professional. Moreover, views and information have come to light which would have remained hidden during the ordinary course of the law preparation of the law (<a href="http://www.maastoliikennelaki.fi/">www.maastoliikennelaki.fi</a>). </p><h3>Analysis and Criticism</h3><p>A range of researchers sees online discussions as an important tool for participatory and deliberative democracy, arguing that the attributes of internet exchanges such as “reduced social cues, relative anonymity of participants, and a reliance on text-based exchanges lacking non-verbal, facial and vocal cues” (Price 2006) may possibly facilitate political deliberations. Due to relative anonymity, online deliberation might be able to reduce power imbalances as studies have shown that dominant behavior decreased in online discussions as opposed to face-to-face deliberations. Also, findings of studies on crowdsourcing state that a particular problem-solving process or creative task which is done by people with heterogeneous backgrounds of expertise reaching beyond the field the task is located in, come to more creative and innovative solutions for problems than a group of experts who are professionalized only in the respective policy field. This assessment was partly confirmed in the Finnish crowdsourcing experiment (Interview Aitamurto 2013).</p><p>Aitamurto and Landmore (2013) come to four main conclusions in their study on the Finnish crowdsourcing example:</p><p>1.       Citizens generally had a positive opinion about the democratic potential of the project as they felt that it had made their voices heard. This also indicates a slight distrust in the law-making system as it was before.</p><p>2.       This lack of trust in the democratic institutions and the feeling of being at the periphery of political-decision making is also illustrated in the fact that participants valued the process of the experiment (it was fair, inclusive, etc.) higher than the outcome (concrete policy influence), as they believe that it is rather unlikely that their ideas will be part of the actual law.</p><p>3.       Although the citizens found a lack of consensus on the online platform, there were in fact many overlapping opinions and suggestions.</p><p>4.       Many participants stated that they received new information and learned what gives the project an educative character.</p><p>The findings indicate that the crowdsourcing experiment was successful in increasing citizen participation and input in lawmaking. However, it remains to be seen whether the participants’ skepticism on whether their suggestions will be included in the final law will come true. Moreover, the quality of deliberation on the platform can be improved through moderation. Although deliberation occurred, participants mostly pursued their own ideas and an in-depth deliberation did not emerge. It is also unclear how representative the citizens involved in the courwdsourcing are of the Finnish population. As the ‘digital divide’ is favoring some parts of the population over other parts, it is most unlikely that the online participants reflect the Finnish society adequately. Indeed, a majority of participants was male. Results of other studies on online participation support these findings as they show that most active users are relatively young, male and have an educational background that is higher than average (Millard et al 2012). Therefore, one must find ways to include all parts of society in crowdsourcing experiments. On the other hand, <em>in theory</em>, everyone who was affected by the issue had the possibility to contribute to the decision-making process and law-making was made open to citizens.</p><p>Of the 700 people who signed up on the platform, 20% was active in the discussions and a somewhat smaller number was highly active. Consequently, there is still space to increase the discussion activity of participants. It has been shown that participants commented more when the moderation effort was increased. This effort should be broadened. With regard to online deliberation forums, the concern is sometimes expressed that due to the anonymity of the participants, deliberations are not based on reason, they are too superficial and their general quality is low. This cannot be confirmed in the Finnish example. The conversations were respectful and among 4000 comments, only 20 had to be removed because they were inappropriate (Interview Aitamurto 2013).</p><p>Problematic is, however, that there is no authentication process on the website and citizens can have theoretically as many profiles as they want. This means that they can themselves support their own idea with fake profiles. As other people tend to agree to ideas that already have a lot of support, this might create a snowball effect and finally distort the deliberation and the real support for an idea. Introducing an authentication process which identifies the citizen would remedy this problem.</p><p>Lastly, there is no institutionalized process yet on how the ideas will be implemented in the actual law. In the end, the choice on how to reform the law lies with the Finnish Minister of environment and not with the participants of the Crowdsourcing experiment. In order to emphasize the importance of including the suggestions of the citizens in the law, the Finnish parliament might wish to introduce a binding process or obligation to include the citizen’s proposals in the law.</p><p>To conclude, the crowdsourcing process increased the legitimacy and transparency of the decision-making process on the new off-road traffic law but there remains space to improve its deliberative quality. Moreover, it has to be guaranteed that the citizens’ ideas and proposals will be implemented in the final law.</p><h3>Secondary Sources</h3><p>Aitamurto, Tanja/Landmore, Helen (2013): “Democratic Participation and Deliberation in Crowdsourced Legislative Processes: The Case of the Law on Off-Road Traffic in Finland”, available at: <a href="http://comtech13.xrce.xerox.com/papers/paper1_aitamurto_landemore.pdf">http://comtech13.xrce.xerox.com/papers/paper1_aitamurto_landemore.pdf</a></p><p>Council of Europe Committee of Ministers (2009): “Recommendation CM/Rec (2009)1 on electronic democracy (e-democracy)”, available at: <a href="https://wcd.coe.int/ViewDoc.jsp?id=1410627">https://wcd.coe.int/ViewDoc.jsp?id=1410627</a>.</p><p>Dahlberg, Lincoln (2001): “The Internet and Democratic Discourse: Exploring the Prospects of Online Deliberative Forums Extending the Public Sphere”, in: <em>Information, Communication &amp; Society</em>, Vol. 4, No. 4, pp. 615-33, available at: <a href="http://www.tandfonline.com/doi/abs/10.1080/13691180110097030">http://www.tandfonline.com/doi/abs/10.1080/13691180110097030</a>.</p><p>Interview with Tanja Aitamurto (2013), Visiting Researcher at the Program on Liberation Technology at Stanford University and Advisor to the Government and Parliament of Finland about Open Government practices.</p><p>Medimorec, Daniel/Parycek, Peter/Schossboeck, Judith (2011): “Vitalizing Democracy through E-Participation and Open Government: An Austrian and Eastern European Perspective”, Bertelsmann Stiftung, available at: <a href="http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-4B6B2682-20BE4653/bst/Daniel%20Medimorec.pdf">http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-4B6B2682-20BE4653/bst/Daniel%20Medimorec.pdf</a>.</p><p>Millard, Peter/Millard, Kate/Adams, Carl/McMillan, Stuart (2012): “Transforming Government through e-Participation: challenges for e-democracy”, in: 12th European Conference on e-Government (ECEG 2012), 14-15 June 2012, Barcelona, Spain, available at: <a href="http://eprints.port.ac.uk/8494/1/Microsoft_Word_-_Millard_et_al__post_review_edited_ECEG_12_paper.pdf">http://eprints.port.ac.uk/8494/1/Microsoft_Word_-_Millard_et_al__post_review_edited_ECEG_12_paper.pdf</a>.</p><p>Price, Vincent (2006): “Citizen Deliberating Online: Theory and some Evidence”, in: T. Davies &amp; B. S. Noveck (Eds.), Online Deliberation: Design, Research, and Practice. Chicago: University of Chicago Press, also available at: <a href="http://www.hks.harvard.edu/netgov/files/talks/docs/11_13_06_seminar_Price_citizens-delib_online.pdf">http://www.hks.harvard.edu/netgov/files/talks/docs/11_13_06_seminar_Price_citizens-delib_online.pdf</a>. </p><h3>External Links</h3><p><a href="http://www.suomijoukkoistaa.fi/">www.suomijoukkoistaa.fi</a></p><p><a href="http://www.maastoliikennelaki.fi/">www.maastoliikennelaki.fi</a></p><h3>Notes</h3><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/crowdsourcing" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Crowdsourcing</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A39">Environment</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Finland</span>
+                              <div class="country-name" itemprop="addressCountry">Finland</div>
+                                            <span class="geo"><abbr class="latitude" title="43.767918">43° 46' 4.5048" N</abbr>, <abbr
+            class="longitude" title="11.252379">11° 15' 8.5644" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+fi">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                FI      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A108">Collaborative delivery of services with public authorities</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A52">Develop individual capacities (e.g. skills, learning)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-c289eff820c839a21db562fd2e48d091">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/1445">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

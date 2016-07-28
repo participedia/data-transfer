@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/high-school-participatory-budget-poitou-charentes-france" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/24" />
+  <title>High School Participatory Budget (Poitou-Charentes, France) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"DTEhSZX97MCI_raYHqVAF_0fWYoMy_qEWly70IXnOaQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"24"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/high-school-participatory-budget-poitou-charentes-france?destination=node\/24":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-24 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/high-school-participatory-budget-poitou-charentes-france" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/high-school-participatory-budget-poitou-charentes-france?destination=node/24" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-XHz7F8ZvQ0mKu-A8H03tMDdfyswNQnWPmtbMOfILFZ8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">High School Participatory Budget (Poitou-Charentes, France)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">High School Participatory Budget (Poitou-Charentes, France)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/marion-ben-hammo" title="View user profile." class="username" xml:lang="" about="/en/users/marion-ben-hammo" typeof="sioc:UserAccount" property="foaf:name" datatype="">Marion Ben Hammo</a> on Thu, 03/04/2010 - 15:47</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Fri, 07/24/2015 - 14:57</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="High School Participatory Budget (Poitou-Charentes, France) - Participedia" addthis:url="http://participedia.net/en/cases/high-school-participatory-budget-poitou-charentes-france"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/300px-MaraisPoitevin.jpg?itok=Olnv0qdk" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The Poitou-Charentes Region is located in the West of France. It has a population of 1.600.000 inhabitants, which makes it one of the most rural regions in France. In 2005, the executive of the Region Poitou-Charentes implemented the first participatory budgeting at a regional level in Europe. Over 50,000 residents -- 30,000 of whom were students -- participated in this initiative between 2005 and 2009.</p><p><a id="The_context" name="The_context"></a></p><h2>The context</h2><p>In 2004, Ségolène Royal, a prominent member of the French Socialist Party, led a left-wing coalition and was elected President of the Poitou-Charentes’ Regional Council. In a traditionally right-wing orientation territory, she had placed the participatory democracy issue at the forefront of her campaign, with the organisation of 400 thematic and local meetings with the inhabitants of the region. The rule was the following: during a first wave of meetings, the candidate came to hear what were the most important issues for the citizens and what solutions they suggested. A second meeting was then organised to explain to the participants which ones of their propositions would be held back in the final electoral program, which ones would not, and why. This field work enabled the construction of an improved agenda for the new regional majority. For example, once elected, the Regional Council decided that the private companies would be allotted public subsidies on the condition that those who make benefits would not relocate.</p><p>In the electoral program, participatory democracy was mentioned as a transversal method for the regional government, with the implementation of citizen’s juries and participatory budgeting in the high schools. Building and renovation of the high schools are actually the main field of authority of the French Regions (which constitutes ¼ of the Poitou-Charentes’ budget).</p><p>Ségolène Royal defines participatory democracy as “the possibility for every citizen to have a direct impact on choices - including the financial aspects - and on public action. Whatever form it may take, be it participatory budgets, Scandinavian-style consensus-conferences, citizens juries or referenda, it implies recognising the legitimate expertise of citizens in managing their own affairs. This is something quite different from the dull “proximity democracy” that has been easily accepted by the powers that be." For the new elected majority party, participatory democracy has become not only a slogan, as illustrated by the mention “la démocratie participative” on the Region’s logotype, but a consistently used approach with the gradual implementation of innovative tools to involve citizens from the early phase of decision-making to their evaluation afterwards.</p><p>Since 2004, Participatory Forums have brought together actors and citizens to co-elaborate the policies implemented by the Region in all its fields of action (Regional Plan against Global Warming, eco-industries development, water policy, culture, handicap, sport, social links, young farmers’ installation, health and work, training, ICTs, etc.). Since 2008, participatory workshops and citizens juries evaluate the regional public policies. Participatory democracy in Poitou-Charentes also has an international dimension, through regular international exchanges and European cooperative projects. Deep attention is given to research on the field of participatory democracy. Every year, the Maison de la Région welcomes the Europe-Americas meeting on participatory democracy. Together with the Tuscany (Italy) and Catalonia (Spain), the Poitou-Charentes launched the project Ideal-EU and organised in 2008 the first European electronic town-meeting about climate change. In 2009, the Poitou-Charentes Region will launch an European Network for Participatory Democracy with other European regions and academics.</p><p>Participatory budgeting is the spearhead of participatory democracy in Poitou-Charentes, as it gives the power to citizens to directly decide on a 10 millions euros sum.</p><p><a id="How_does_the_Participatory_Budget_of_the_High_Schools_work.3F" name="How_does_the_Participatory_Budget_of_the_High_Schools_work.3F"></a></p><h2>How does the Participatory Budget of the high schools work?</h2><p>The main characteristic of the Poitou-Charentes’ participatory budget, is to confer an effective power to the participants in the decision-making process on 10% of the total budget line dedicated to High Schools. Two main ideas expressed by Ségolène Royal, President of Poitou-Charentes Region, inspired this participatory budget: “A spent euro must be a useful euro” and “Let’s share the decisions to take the right ones." The regional counsellors committed themselves to respect the choices made by the participants.</p><p>The participatory budget involves the whole 93 public high schools of the Region, and since 2008 it has been deployed according to their demand and with a special methodology to all private schools under contract. All the pupils, parents, teachers and employees in each school are invited to discuss and vote the projects they consider to be priorities « in order to live and work better at school ». In 5 years, the participatory budget led to the funding of almost 1400 projects, directly proposed and decided by the participants themselves.</p><p><a id="The_choice_of_High_Schools" name="The_choice_of_High_Schools"></a></p><h3>The choice of high schools</h3><p>First, the regional executive considered that it was important to give power to the people on a big sum and on its main field of authority. This was a way of demonstrating how deep the change could be, in comparison with the traditional way of decisions making in high schools, which are not known for their intense democratic activity.</p><p>Second, participatory democracy supports an ideal of equality between the citizens. However, the traditional ways to promote participation in France (in neighbourhood councils for example) are vulnerable to the over-representating of those who have time and experience, who are the most graduated, who are the most assured of their technical or civical skills, the ones who are used to talk in public. Working women, unemployed and low-qualified workers, immigrants and finally youngsters are often unrepresented in those devices. One of the aims of the participatory budget in Poitou-Charentes is to avoid this sociological bias. Being implemented in general, technological, professional and agricultural high schools as well as in four special schools for people having very important social troubles, the participatory budget is an opportunity for all the categories of population to participate in its daily background. For the first time, students, teachers, parents and technical staff have equal opportunities to express themselves, to be listened to and weigh on decisions. Last but not least, High Schools are spread all over the regional territory, which enables to act in the whole region.</p><p> </p><p><a id="The_method" name="The_method"></a></p><h3>The method</h3><p>At the beginning of the school year (September – October), an invitation to attend an initial meeting which will take place in each high school between October and December, is sent by the Region to all the pupils, parents, teachers and school employees. During this general assembly, an elected representative or a regional civil servant presents the role of the regional government in the high schools, the approach of participatory democracy and explains the rules of the participatory budgeting. Working groups made of 10 to 20 participants join for 45minutes in order to think of the ideas and projects that could help to improve daily life at school. These small groups make free discussion easlier, notably because the regional representatives and the head-teacher do not attend them. Each of these workshops then chooses a spokesman who presents all the proposals and justifies them in front of the plenary assembly. A regional civil servant notes all of them.</p><p>In the following weeks, the technical services examine the proposals, evaluate whether they are covered by the regional jurisdiction and whether they are technically possible. If so, they estimate the costs involved for each project, which must not exceed 150.000 euros. The process does not permit the building or complete refurbishing of buildings, but it can fund the purchase of equipment, the fitting-out of different kinds of premises, and projects to improve cultural and social life or wellness at school. When necessary, particularly for projects which lead to heavy works, a meeting is organised with a regional engineer and the volunteers to clarify or refine some of the ideas the participants expressed.</p><p>Between January and April, the entire school community is invited again to take part to a second plenary meeting. A “summary sheet” is distributed to all the participants in order to present the projects that have been considered and their cost, and the ones that have not been accepted and why. Then, participants can debate with all the information necessary to the consistence of their judgement. During these deliberations, the general interest of the high school is collectively seeked. Finally all the participants vote to rank their preferences. Everyone is allowed 10 ballots to be freely distributed to his/her favourite projects. The ranking of the priorities is immediately made public.</p><p>As soon as all the meetings have taken place, the Regional Council, respecting its commitment, votes the funding of the first projects of each high school, in the limit of the 10 Million Euro amount yearly allowed. For the five first years of the participatory budgeting, the first three projects of each school have been financed. In fact, there is no predefined amount for each high school because it would encourage the integral spending of this sum, whereas the most important thing is to list and answer the major and the most urgent needs.</p><p>It must be added that at each step of the process, all the minutes of the meetings and the results of the vote are made public on a website dedicated to the participatory budget, which also gives access to diverse information such as the PB rules, the photographs of the projects achieved thanks to the participatory budget or the synthesis of the evaluation of the process.</p><p>The Region, convinced that the tools and methods for participatory democracy must not be fetishized and that participatory budget has to adapt to the context and current issues in order to be efficient, actually pays attention to the process’ evaluation. Therefore, The high school participatory budget is annually evaluated thanks to a triple check. First, an independent researcher delivers a report to the Region, which focuses on a different aspect each year (the general architecture of the PB in 2006, the quality of the debates in 2007, the effects on regional public services in 2008 and communication in 2009). Second, participants complete a questionnaire at the end of the second meeting. The satisfaction rates are generally very high. Third a Participatory Evaluation Day is organised at the House of the Region at the end of the school year. All the volunteers are invited to join workshops so as to make proposals to improve the PB implementation. The Region commits to systematically explain what propositions can be put into practice and to apply them for the next round.</p><p> </p><p><a id="Participants.E2.80.99_mobilisation" name="Participants.E2.80.99_mobilisation"></a></p><h2>Participants’ mobilisation</h2><p>As I mentioned earlier, the entire school community (pupils, parents, teachers, technical staff) is invited to take part in the participatory budget. This means approximately 120.000 people. Every year, the number of participants is increasing. Here are the figures of the cumulated attendance to the two meetings:</p><p><strong>School year: 2005-2006</strong></p><ul><li>Total number of participants: 10,702</li><li>Number of pupils participating: 7,018</li></ul><p><strong>School year: 2006-2007</strong></p><ul><li>Total number of participants: 14,043</li><li>Number of pupils participating: 10,751</li></ul><p><strong>School year: 2007-2008</strong></p><ul><li>Total number of participants: 15,399</li><li>Number of pupils participating: 13,350</li></ul><p><strong>School year: 2085-2009</strong></p><ul><li>Total number of participants: 17, 658</li><li>Number of pupils participating: 14,939</li></ul><p>About 8% of the invited people attend each cycle of meetings, which places the participatory budget of the High Schools in the upper bracket of attendance to participatory experiences, which, in France, often reaches a ceiling of 1 to 2%. In 2008-2009, the participation reaches 15% amongst the pupils and nearly 10% amongst the technical staff, which are usually the powerless categories in the High Schools. Participatory budgeting therefore appears to be a hope for counter-balancing the traditional inequalities in the school. Nevertheless, it has not proved to be, at this moment, a way of involving more parents in the school’s life: less than 1% of them come to the meetings, often the ones who run parents’ associations.</p><p><a id="The_main_factors_for_participants_mobilisation" name="The_main_factors_for_participants_mobilisation"></a></p><h3>The main factors for participants' mobilisation</h3><p>The figures and rates of participation vary from a place to another, from 25 to 600 participants in each meeting, independent of the total population in the school. The attendance depends on diverse factors. First, the kind of establishment seems to be very important. If we consider the “top 20” of the participation rates in 2008-2009, the 13 agricultural schools of the region hold 12 places, followed by vocational training schools and then general teaching. This can be explained by a historically deeper culture of consultation and bigger proximity between teachers and pupils from technical teaching. What’s more, in the past decades, they had been given less attention and funds from the regional government, which explains their higher needs in terms of building renewing and equipments are higher. Second, the head-teacher’s point of view on the participatory budget is determining. As the boss of the school, he has the power to determinate the horary of the meetings and to support the distribution of information about the PB, which seem to be very important factors of success. What’s more, he can decide whether or not classes are cancelled during the meeting, which determines the actual possibility for everyone to attend it. It must be said that the head-teachers who traditionally are omnipotent in their school have not been the best supporters of the participatory approach. What’s more, they hierarchically depend on the state teaching institutions, which have tried to prevent the implementation of a process initiated by a Region represented by the political opposition. Third, “the demonstration effect” is determining: when people see the first achievements of the participatory budget, they are inclined to take part in the next round meetings. If they can’t see what it enables, they won’t waste their time. The slow progress of the work and sometimes the difficulty of identifying what has been funded by the participatory budgeting remains a problem, despite a particular focus of the services, which led to a reorganisation of the regional administration in 2008 (notably with the implementation of local field managers).</p><p><a id="A_more_efficient_administration" name="A_more_efficient_administration"></a></p><h2>A more efficient administration</h2><p>From the beginning, the Participatory Budget has enabled the new regional government to measure what were the priorities in the high schools, be it for buildings or for people. It has led to many other projects inspired by the proposals made during the Participatory Assemblies, such as the implementation of one cultural worker in each school, cultural programs and events, preventive actions against school dropout, sexual diseases and contraception, driving dangers, etc. It also allows the regional services, during the meetings and on the side of the debates, to understand more directly the concrete problems of the high schools and to solve them quickly (damaged dormitories, toilets, etc., delays of constructions, etc.). The reactivity of the administration is improved thanks to the participatory process.</p><p>Generally speaking, the High School Participatory Budget is a way for the Regional expenditures to better fit with the expectations of the school community members and to improve regional efficiency. Because debate becomes public, it leads to a better transparency of the administrative work and of expenses. As the estimated costs of the projects are public, the participatory budget encourages the actors to identify the cheapest solutions. For example, rather than having the work carried out by the private sector, some schools do the work themselves, which allows financial savings. In sum, the High-School Participatory Budget has strongly influenced the ways of carrying out regional administration of the schools and and led to a necessary reorganisation for a better attention to the schools' needs, and more efficiency in real time. It shows how much participatory democracy is a way of modernising public administrations at the same time that it empowers people.</p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A40">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A313">Participatory Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A772">direct democracy</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A765">electronic meetings and deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A791">budget allocation</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A774">education reform</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A752">public policy forum</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A757">contextual and community-based problem-solving</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Poitou-Charentes Region</span>
+                              <div class="country-name" itemprop="addressCountry">France</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.fr/?q=%2C+%2C+%2C+fr">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                FR      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, August 31, 2005 - 21:01</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, June 29, 2009 - 21:01</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">57 800</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A119">Students</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/poitou-charentes-regional-council">Poitou-Charentes&#039; Regional Council</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$10 000 000.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Regional staff</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-379292673da9f21ee479f66784d6e7a0">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/24">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

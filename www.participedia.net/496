@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/participaci-n-ciudadana-en-la-pol-tica-habitacional-puente-alto-chile" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/496" />
+  <title>Participación Ciudadana en la Política Habitacional, Puente Alto (Chile) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"oF_Yl6XEk5PklCEoDMBO8nFVCf6sNqhIv4VhH-MOfZQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"496"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/participaci-n-ciudadana-en-la-pol-tica-habitacional-puente-alto-chile?destination=node\/496":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-496 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/participaci-n-ciudadana-en-la-pol-tica-habitacional-puente-alto-chile" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/participaci-n-ciudadana-en-la-pol-tica-habitacional-puente-alto-chile?destination=node/496" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-m1NWiSGMeSZUSzzjQtuuHApTPNtV1KbAo4MzYv1D_dY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Participación Ciudadana en la Política Habitacional, Puente Alto (Chile)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Participación Ciudadana en la Política Habitacional, Puente Alto (Chile)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/eduardot" title="View user profile." class="username" xml:lang="" about="/en/people/eduardot" typeof="sioc:UserAccount" property="foaf:name" datatype="">Eduardo Enrique Torrealba Jaque</a> on Mon, 01/16/2012 - 11:08</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Wed, 05/25/2016 - 09:28</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Participaci&amp;Atilde;&amp;sup3;n Ciudadana en la Pol&amp;Atilde;&amp;shy;tica Habitacional, Puente Alto (Chile) - Participedia" addthis:url="http://participedia.net/en/cases/participaci-n-ciudadana-en-la-pol-tica-habitacional-puente-alto-chile"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong>Poblema y Propósito</strong></h3><p>La principal característica de la metodología desarrollada es evaluar concretamente la participación en el marco del fondo solidario de vivienda, que es un programa del Ministerio de Vivienda y Urbanismo que apoya con un subsidio a las familias más necesitadas para que puedan ser propietarias de una vivienda. Permite construir o comprar una vivienda con un valor de tasación máximo de 650 Unidades de Fomento.</p><p>El propósito general, consiste en analizar y evaluar la participación en el marco del fondo solidario de vivienda comprendido en la política habitacional, con el fin de dar cuenta de la experiencia y de las lecciones de familias que han participado de este proceso.</p><p><em>El propósito específico: </em></p><p>A. Dar cuenta de la percepción de las familias de los principales cambios -materiales, de su entorno y sociales- que se experimentan en el paso del campamento a la casa propia.<br />B. Realizar un análisis de los distintos ámbitos y formas de participación, diferenciando por etapas dentro del proyecto, y considerando la distinción de roles entre dirigentes y comunidad de base.<br />C. Evaluar cuán satisfechas están las familias con respecto al proceso de participación y respecto a los resultados de sus viviendas.<br />D. Conocer las dificultades, limitaciones del proceso de participación y adquisición de la nueva vivienda.<br />E. Dar cuenta de los mecanismos y áreas que permitirían potenciar la participación y satisfacer de mejor manera las demandas habitacionales en contextos de extrema pobreza.</p><p>Este caso presenta una iniciativa que surge desde la comunidad y que alcanza el objetivo esperado a través de un acuerdo con una Entidad de Gestión Inmobiliaria, esta percepción de toma de decisión conjunta se traduce en la sensación de haber recibido colaboración y apoyo de la Municipalidad tanto al inicio como en el transcurso del proceso.  Fue necesario que la comunidad publicitara en un programa de televisión la situación desfavorable en el campamento para que se concretara un acuerdo según el cual la totalidad de las familias del campamento podrían postular al subsidio del Fondo solidario de vivienda.</p><h3><strong>Historia y Creación</strong></h3><p>Puente Alto es una comuna ubicada en la Región Metropolitana, Santiago de Chile, que actualmente forma parte del Gran Santiago y es a la vez capital de la Provincia de Cordillera. De acuerdo al Instituto Nacional de Estadística, en el censo de 2002, la comuna contaba con 492.915 habitantes lo que la convertía en la comuna más poblada de Chile, aunque las proyecciones plantean que en el año 2005 Maipú la superó en población. Se estima que para el año 2008 la comuna cuenta con 702.948 habitantes.</p><p>La postulación al proyecto de vivienda por parte de la comunidad que hoy habita la villa San Pedro y San Pablo (Comuna de Puente Alto) tuvo inicio en el año 2006, cuando 150 familias pertenecientes al campamento “Los areneros” comenzaron a demandar a la Municipalidad de Puente Alto la inclusión en un proyecto de vivienda. Las 150 familias restantes provienen de un comité de allegados, constituido por familias que vivían en una población cercana al campamento, en muchos casos se trata de familiares de personas del campamento “Los areneros”.</p><h3><strong>Metodología</strong></h3><p><strong>1. Identificación Del Proyecto</strong></p><p>En el ámbito de la Administración y Dirección de Programas Habitacionales el Ministerio de Vivienda y Urbanismo de Chile, cuenta con tres funciones relevantes. Una de ellas, es la de Gestionar programas de subsidio habitacional, que permiten el acceso económico necesario para postular a una determinada oferta de vivienda en el País.</p><p>Análisis por etapas dentro del proceso. Formas, ámbitos y niveles de participación en cada momento.</p><p>Etapa I. Postulación Familias, y Formación del comité de vivienda.</p><p>Etapa II. Selección EGIS y Constructora.</p><p>Etapa III. Compra del terreno.</p><p>Etapa IV. Mesa de Trabajo y Asambleas Generales.</p><p>Etapa V. Diseño del proyecto de construcción.</p><p>Etapa VI. Asignación de las viviendas.</p><p>Etapa VII. Entrega de las casas.</p><p>Estas siete etapas están orientadas a la correcta definición del proyecto enmarcada en el contexto que determina el alcance y los riesgos inherentes que posee.</p><p>La identificación de la oportunidad de proyecto supone que esta puede ser sugerida por los distintos actores que participan. (Puede surgir tanto de los agentes vecinales como municipales). </p><p>En esta etapa también se definen los aspectos de financiamiento que van a determinar la factibilidad del proyecto y por su puesto sus alcances de acuerdo a las posibilidades de inversión.</p><p><strong>2. Diseño Participativo del Proyecto</strong></p><p>Esta segunda etapa busca involucrar en el diseño del proyecto, a todos los actores que se verán afectados con el desarrollo del proyecto.</p><p>Actores que participan en el Fondo Solidario de Vivienda.</p><p>A. Familias postulantes: Son aquellas personas identificadas en la Ficha de Protección Social, que participan en una solicitud de compra de vivienda.</p><p>B. Directiva del comité: Representantes del grupo organizado de postulantes (comité de vivienda).</p><p>C. Municipio: Es el gobierno local de la comuna. Aplica la Ficha de Protección Social (FSP. Ex CAS), entrega información sobre los terrenos y las viviendas, así como los permisos de edificación y avalúos.</p><p>D. Entidad de Gestión Inmobiliaria Social: asesora a las familias en todos los aspectos que son necesarios para acceder con éxito a la solución habitacional. Pueden ser EGIS las entidades privadas o los municipios, siempre que tengan un convenio firmado con el MINVU. En este marco, resulta de especial importancia comprender el rol que cumplen las EGIS. Son aquellas entidades públicas o privadas que gestionan el proyecto habitacional, interactuando largamente con las familias postulantes y el Ministerio.                                                                                        </p><p><strong>3. Desarrollo del plan de trabajo</strong></p><p>La relación existente entre el Ministerio y las EGIS, supone que el SERVIU establece una relación económica con la EGIS, y que ésta es responsable de los siguientes servicios:</p><p>A. Representar a las familias ante el SERVIU.</p><p>B. Apoyar el trabajo del Comité o de la familia.</p><p>C. Diseñar y ejecutar las actividades del Plan de Habilitación Social.</p><p>D. Recopilar los antecedentes para obtener el subsidio y verificar que se cumplan los requisitos de postulación y de ahorro.</p><p><strong>4. Proyectos realizados: Deliberaciones, decisiones e interacciones públicas</strong></p><p>Se puede señalar un alto grado de conformidad frente a los resultados entregados, particularmente en lo referido a la casa -tamaño, terreno, materialidad- y también a las posibilidades de ampliación de las que fueron informadas las familias por la constructora. En este punto es importante destacar que Puente Alto representa el caso con más amplitud de metros construidos, y además cuenta con el mayor conocimiento declarado desde la comunidad de las posibilidades de modificación que ofrecen las viviendas. Se podría considerar que ambos argumentos refuerzan la buena evaluación realizada a la constructora.</p><p>En cuanto al ahorro destaca una alta coordinación al interior de la comunidad, cuya expresión más evidente es la organización de actividades para que todas las familias pudieran contar con el monto requerido para la postulación. En cuanto a la compra del terreno desde la comunidad surgió una propuesta inicial de construir las villas en la misma localidad del campamento, sin embargo la condición de terreno privado impidió que se concretara dicha gestión.  Aun así, y luego de una búsqueda de terrenos, la EGIS eligió aquel en que se construiría la Villa San Pablo y San Pedro. La conformidad expresada por las familias por la localización es alta, se considera fundamental para sostener esta opinión el hecho de mantenerse en la misma comuna, a lo que se agrega un buen acceso a locomoción, lo que permite accesos a servicios como consultorios, colegios y comisarías. En cuanto a las mesas de trabajo destaca en este caso la alta asistencia a estas convocatorias de todos los actores del proceso -Constructora Bio-Bio, EGIS, Comunidad-  lo que permitió fluidez en la información y abrió espacios de participación en ámbitos como el diseño de las casas.</p><h3><strong>Resultados y Efectos</strong></h3><p>En general el proyecto logró cumplir con sus principales objetivos:</p><p>Se generaron experiencias y orientaciones que permitieron incorporar la participación ciudadana en la toma de decisiones sobre el diseño, la generación y la administración del proyecto.</p><p>A su vez durante los tres meses siguientes a la entrega las familias pudieron realizar demandas a la constructora, desde los entrevistados surge un alto grado de satisfacción por las soluciones entregadas.</p><p>Convivencia y colaboración al interior de la villa pueden ser descritas como positivas, tanto en lo que se refiere a la integración al interior de la villa y con el entorno.</p><p>La satisfacción es alta también respecto a las áreas verdes y plazas con que cuenta la comunidad, se destaca la posibilidad de los niños de acceder a una cancha de patinaje.</p><p>La conformidad expresada por las familias por la localización es alta, se considera fundamental para sostener esta opinión el hecho de mantenerse en la misma comuna, a lo que se agrega un buen acceso a locomoción, lo que permite accesos a servicios como consultorios, colegios y comisarías.</p><p>Los beneficios obtenidos del proceso se expresan en el ofrecimiento de trabajo a las personas que cumplieron este rol en la misma Municipalidad, precisamente en temas sociales, de este modo el llamado conocimiento útil de las personas es observado y reconocido por la institución.</p><h3><strong>Análisis y Crítica</strong></h3><p>A pesar del cumplimiento satisfactorio de los objetivos planteados y de los numerosos efectos positivos que el proyecto generó, existen aspectos negativos de su desarrollo, algunos causados por factores externos fuera del control del proyecto, pero también otros causados por factores internos, que pueden ser mejorados para futuras aplicaciones.</p><p>Hubo familias que durante el transcurso del proyecto debieron abandonar la postulación por la imposibilidad de juntar la plata, este problema se conjugo con la reticencia de algunas familias de cambiarse a la villa, dado que constantemente se percibía un riesgo por los nuevos vecinos, tanto de las villas colindantes como los vecinos del comité de allegados. (Participación desigual).                                                                                </p><p>En cuanto a la compra del terreno desde la comunidad surgió una propuesta inicial de construir las villas en la misma localidad del campamento, sin embargo la condición de terreno privado impidió que se concretara dicha gestión.</p><p>Si bien hubo decisiones tomadas por la comunidad, los espacios de consulta fueron limitados, y privilegiados para los dirigentes.</p><p>Se señalan algunos conflictos percibidos por la comunidad de base, que apuntan a que las dirigentes eligieron las mejores casas dentro de la villa, y que también beneficiaron a familiares, sin embargo la percepción de que todas las casas son iguales disminuye la fuerza de estos argumentos.</p><h3><strong>Fuentes Secundarias</strong></h3><p>Decreto Supremo Nº 174, (V. Y U.), (2005) D.O. de 09.02.06 Reglamenta programa Fondo Solidario de Vivienda. División Política Habitacional, División Jurídica MJM/CCHV 10.04.08.</p><p>Hurtado Acuña, Constanza. Contrucci Hohlberg, Isabel. Informe de práctica Centro de Investigación Social un techo para Chile (CIS) Participación ciudadana en contextos de extrema pobreza ¿Oportunidad de empoderamiento?. Pontificia Universidad Católica de Chile. Instituto de Sociología.<br /> </p><h3><strong>Enalaces Externos</strong></h3><p><a href="http://www.mpuentealto.cl">Municipalidad de Puente Alto, Santiago de Chile</a></p><p><a href="http://www.minvu.cl">Ministerio de Vivienda y Urbanismo, Gobierno de Chile</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1544">Municipal Participatory Budgeting</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Puente Alto</span>
+                      <span class="locality" itemprop="addressLocality">
+      Santiago      </span>
+                        <div class="country-name" itemprop="addressCountry">Chile</div>
+                                            <span class="geo"><abbr class="latitude" title="-33.469120">33° 28' 8.832" S</abbr>, <abbr
+            class="longitude" title="-70.641997">70° 38' 31.1892" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Santiago%2C+%2C+%2C+cl">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CL      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-targeted-audience-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Targeted Audience:&nbsp;</div><div class="field-items"><div class="field-item even">Private Groups</div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-76e67105e8b0da7c975a983d68cc9dc1">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/496">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/initiative-process" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/164" />
+  <title>Initiative Process | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"P394vYV8SqZ1Lghc9FGqBtI8NtynNLIUExm8meDVciQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/initiative-process?destination=node\/164":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-164 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/initiative-process" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/initiative-process?destination=node/164" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-YInOhlVAXOfMhzFWpD-kKsgmtT2Qc9S94zpXFTG-VdQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Initiative Process</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Initiative Process - Participedia" addthis:url="http://participedia.net/en/methods/initiative-process"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 2 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/vicnin" title="View user profile." class="username" xml:lang="" about="/en/users/vicnin" typeof="sioc:UserAccount" property="foaf:name" datatype="">Victoria and Nina</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>The initiative process is a form of <a href="http://participedia.net/methods/direct-democracy">direct democracy</a>. Two types of initiative process are widely in use today.  The first is called citizens’ initiative or popular initiative (hereinafter, “citizens’ initiative”). In the citizens’ initiative process, citizens draft a legislative bill or constitutional amendment (a “measure”), which they then propose by petition; if the petition receives sufficient popular support, the measure is then placed on the ballot and can be enacted into law by a direct vote of citizens.  Some citizens’ initiative processes allow the government to make a counter-proposal to the measure; the government’s counterproposal appears on the ballot with the measure.</p><p>The second type of initiative process is called agenda initiative or agenda-setting initiative (hereinafter “agenda initiative”). In the agenda-initiative process, citizens draft a proposed law or policy (a “measure”), which they then propose by petition; if the petition receives sufficient popular support, the measure is submitted to the legislature, which decides whether to enact or implement the measure. In some agenda-initiative processes, citizens may also participate -- by consultation or referendum -- after the measure has been submitted to the legislature.</p><h3>Problems and Purpose</h3><p>Initiative processes are intended to solve the problem – arising in many democracies -- of governmental action (or inaction) that is inconsistent with the will of most citizens and that cannot be resolved by elections.</p><p>Many factors may cause a government’s policies to fail to align with citizens’ preferences in a way that elections cannot resolve; these include corruption; government officials’ self-interest; ineffective legislative procedures; excessive partisanship among legislators;  social, economic, or cultural differences between government officials and citizens; low rates of voter turnout; lack of government transparency; and the influence of popular movements.</p><p>Where the citizens’ initiative has been implemented, if the government acts in a manner inconsistent with most citizens’ preferences or declines to implement a policy that most citizens prefer citizens may bypass the government and directly enact the laws they wish. Where the agenda initiative has been implemented, citizens may compel an unresponsive government to consider a law or policy that enjoys strong popular support.</p><h3>History</h3><p>The initiative process appears to have originated in Switzerland.  Most Swiss cantons began to use the citizens’ initiative between 1845 and 1869.</p><p>In 1893 the U.S. state of California implemented citizens’ initiatives at the county level, and in 1898 the California cities of Vallejo and San Francisco adopted the citizens’ initiative.  As of 1911 the citizens’ initiative was being used at the municipal level in 19 U.S. states.  Several U.S. states – with South Dakota being the first in 1898 -- implemented the citizens’ initiative process at the state level during the Progressive Era. By 1918 nineteen U.S. states had authorized use of the state-level citizens’ initiative.</p><p>In the U.S. as of 2012 twenty-seven states have implemented the citizens’ initiative at the state level and about 50% of all municipalities, including 80% of the largest cities, have implemented the citizens’ initiative.  In the 1950s and 1960s the number of state-level citizens’ initiatives appearing on ballots declined in the U.S.  The number of state-level citizens’ initiatives appearing on ballots in the U.S. has risen since the 1970s and a total of 159 citizens' initiatives were voted on in the U.S. in 2010.</p><p>In Europe as of 2012 ten countries appear to have adopted the citizens’ initiative at the national level and 13 appear to have adopted the agenda initiative at the national level. At least 9 European countries have implemented the citizens’ initiative at the local level. Further, the European Union has implemented the <a href="http://ec.europa.eu/citizens-initiative/">European Citizens’ Initiative</a>, which, despite its name, is an agenda initiative.</p><p>In the Asia-Pacific region as of 2012 five nations seem to have authorized use of the citizens’ initiative at the national level.</p><p>In Africa as of 2012 Kenya and Uganda appear to have implemented the citizens’ initiative at the national level, and Botswana, Cape Verde, and Uganda appear to have implemented the agenda initiative at the national level.</p><p>In Latin America as of 2012 six nations seem to have implemented the citizens’ initiative at the national level and 4 at the regional or local level.  Eleven nations seem to have implemented the agenda initiative at the national level and 3 at the regional or local level.</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>In most jurisdictions that have implemented the initiative process, no formal deliberation about initiatives occurs. One exception is the U.S. state of Oregon, which has implemented the <a href="http://participedia.net/methods/citizens-initiative-review">Citizens’ Initiative Review</a> – a <a href="http://participedia.net/methods/citizens-jury">Citizens’ Jury</a> that deliberates about a citizens’ initiative – as part of its official statewide citizens’ initiative process.  The Oregon process is called the <a href="http://participedia.net/cases/oregon-citizens-initiative-review-oregon-cir">Oregon Citizens’ Initiative Review</a>.</p><p>In the absence of a formal deliberative process, citizens rely on several different sources of information  to gather information for their informal deliberations and decision making about initiatives. </p><p>In many jurisdictions that have implemented the citizens’ initiative, the government distributes to voters information about initiatives on the ballot in a booklet called a voters’ guide or voters’ pamphlet (hereinafter a “voters’ guide”). In some jurisdictions civil society organizations also produce unofficial voters’ guides providing information about initiatives.</p><p>Citizens may use the information about initiatives appearing in voters’ guides during informal deliberations and decision making about ballot initiatives.</p><p>In some jurisdictions that have implemented the initiative process, advocates supporting or opposing an initiative may distribute information and arguments about initiatives through political campaigns, which may involve advertising, other kinds of promotional materials, op-ed articles in news media, Internet marketing, social media marketing, mass media appearances, and public events.</p><p>In some jurisdictions, when an initiative of great public interest is being circulated or will appear on the ballot news organizations or civil society organizations may hold forums – on mass media, on the Internet, or at public meeting places -- at which citizens may learn more about the initiative and hear advocates’ arguments supporting or opposing the initiative. </p><p>Research suggests that voters often receive inadequate information about initiatives.  Some surveys show that voters have low levels of awareness and knowledge of initiatives. In the U.S. initiatives are frequently invalidated by courts on the grounds that the initiatives conflict with constitutional or other law; this suggests that voters often receive inadequate information about the legal aspects of initiatives. Further, the language of initiatives and voters’ guides frequently exceeds the reading ability of most voters, and campaign advertisements about initiatives often contain false or misleading claims. This evidence suggests the initiative processes in many jurisdictions could be improved by increasing the quality of information citizens receive about initiatives.</p><p>Research also shows that in some circumstances initiative processes have led to good decisions. These include the enactment of initiatives that benefit most citizens but are inconsistent with the interests of incumbent legislators, such as initiatives that create new and effective governmental bodies or that impose taxation caps or term limits.  Research also shows that initiative processes may benefit citizens by increasing citizens’ participation in politics as well as citizens' sense of empowerment.</p><h3>Secondary Sources</h3><p>Shaun Bowler and Todd Donovan. (2002). Democracy, Institutions, and Attitudes about Citizen Influence on Government. <em>British Journal of Political Science, </em>32, 371–390.</p><p>Peter Brien. (2002). Voter Pamphlets: The Next Best Step in Election Reform. <em>Journal of Legislation</em>, 28, 87-112.</p><p>David S. Broder. (2000). <em>Democracy Derailed: Initiative Campaigns and the Power of Money</em>. New York: Harcourt.</p><p>California Commission on Campaign Financing. (1992). <em>Democracy by Initiative: Shaping California’s Fourth Branch of Government</em>. Los  Angeles, CA: Center for Responsive Government.</p><p>Center for Governmental Studies. (2008). <em>Democracy by Initiative: Shaping California’s Fourth Branch of Government</em>. 2nd ed. Los Angeles, CA: Center for Governmental Studies.</p><p>Thomas E. Cronin. (1989). <em>Direct Democracy: The Politics of Initiative, Referendum, and Recall</em>. Cambridge, MA: Harvard University Press.</p><p>Philip L. Dubois and Floyd Feeney. (1998). <em>Lawmaking by Initiative: Issues, Options, and Comparisons</em>. New York: Agathon Press.</p><p>John Gastil. (2000). <em>By Popular Demand: Revitalizing Representative Democracy through Deliberative Elections</em>. Berkeley: University of California Press. </p><p>John Gastil, Justin Reedy, and Chris Wells. (2007). When Good Voters Make Bad Policies: Assessing and Improving the Deliberative Quality of Initiative Elections. <em>University of Colorado Law Review</em>, 78, 1435-1488.</p><p>John Gastil and Robert Richards. (2012). Making Direct Democracy Deliberative through Random Assemblies, Paper to Be Presented at ASA 2012: The Annual Meeting of the American Sociological Association, August 17-20, 2012, Denver, Colorado.</p><p>Elizabeth R. Gerber et al. (2001). <em>Stealing the Initiative: How State Government Responds to Direct Democracy</em>. Upper Saddle River, NJ: Prentice Hall.</p><p>Initiative and Referendum Institute at the University of Southern California. (2010). <a href="http://www.iandrinstitute.org/BW%202010-2%20Election%20Results%20(11-6).pdf">Notable</a>. <em>Initiative &amp; Referendum Institute Ballotwatch</em>, 2010, no. 2, 1. </p><p>Initiative and Referendum Institute at the University of Southern California. (2012). <em>State-by-state List of Initiative and Referendum Provisions</em>. Los Angeles, CA: Initiative and Referendum Institute, USC School of Law.  <a href="http://www.iandrinstitute.org/statewide_i&amp;r.htm">http://www.iandrinstitute.org/statewide_i&amp;r.htm</a></p><p>Initiative and Referendum Institute Europe and Democracy International. (2012). <em>Direct Democracy Navigator</em>. <a href="http://direct-democracy-navigator.org/">http://direct-democracy-navigator.org/</a></p><p>Bruno Kaufmann, Rolf Buchi, and Nadja Braun. (2010). <em>Guidebook to Direct Democracy in Switzerland and Beyond: IRI Guidebook to Direct Democracy</em>. 2010 edition. Marburg: Initiative &amp; Referendum Institute Europe. <a href="http://www.scribd.com/doc/64317996/Guidebook-Direct-Democracy-2010">http://www.scribd.com/doc/64317996/Guidebook-Direct-Democracy-2010</a></p><p>Bruno Kaufmann and M. Dane Waters. (2004). <em>Direct Democracy in Europe: A Comprehensive Reference Guide to the Initiative and Referendum Process in Europe</em>. Durham, NC: Carolina Academic Press. </p><p>Norbert Kersting. (2009). Direct Democracy in Southern and East Africa: Referendums and Initiatives. <em>Journal of African Elections</em>, 8(2), 1-22.</p><p>Kris W. Kobach. (1993). <em>The Referendum: Direct Democracy in Switzerland</em>. Aldershot, UK: Dartmouth.</p><p>Daniel H. Lowenstein. (1982). Campaign Spending and Ballot Propositions: Recent Experience, Public Choice Theory and the First Amendment. <em>UCLA Law Review</em>, 29, 519–547.</p><p>Arthur Lupia and John G. Matsusaka. (2004). Direct Democracy: New Approaches to Old Questions. <em>Annual Review of Political Science</em>, 7, 463-482. </p><p>David B. Magleby. (1984). <em>Direct Legislation: Voting on Ballot Propositions in the United States</em>. Baltimore, MD: Johns Hopkins University Press.</p><p>Matthew Manweller. (2005). <em>The People Versus the Courts: Judicial Review and Direct Democracy in the American Legal System</em>. Bethesda, MD: Academica Press.</p><p>John G. Matsusaka. (2004). <em>For the Many or the Few: The Initiative, Public Policy, and American Democracy</em>. Chicago: University of Chicago Press.</p><p>Kenneth P. Miller. (2009). <em>Direct Democracy and the Courts</em>. Cambridge: Cambridge University Press.</p><p>Theo Schiller (Ed.). (2011). <em>Local Direct Democracy in Europe</em>. Wiesbaden : VS Verlag für Sozialwissenschaften.</p><p>Caroline J. Tolbert, John A. Grummel, and Daniel A. Smith. (2001). The Effects of Ballot Initiatives on Voter Turnout in the American States. <em>American Political Research</em>, 29, 625–648.</p><p>M. Dane Waters (Ed.). (2001). <em>The Battle over Citizen Lawmaking: A Collection of Essays</em>. Durham, NC: Carolina Academic Press.</p><p>Betty H. Zisk. (1987). <em>Money, Media, and the Grass Roots</em>. Newbury Park, CA: Sage.</p><h3>External Links</h3><p>Initiative and Referendum Institute at the University of Southern California: IRI,  <a href="http://www.iandrinstitute.org/">http://www.iandrinstitute.org/</a></p><p>Initiative and Referendum Institute Europe: IRI-Europe, <a href="http://www.iri-europe.org/">http://www.iri-europe.org/</a></p><p> </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-edb6fafb7a02eb877cbbd519733bb424">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/164">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/targeted-participants-public-roles/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Petition, Campaign, Informal Deliberation, Election</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Voters&#039; guide, Political campaigns, Political advertising, Marketing, Public forums, Political journalism, Op-ed articles</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Voting</div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/make-public-decisions-ie-exert-direct-authority" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Make public decisions (i.e. exert direct authority)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

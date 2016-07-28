@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/application-deliberatorium-italy" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/4229" />
+  <title>Application of Deliberatorium in Italy | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"9vu847crsFBB2W-yRiE1YdfjZDTO2BMLlWxaH__7lL0","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"4229"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/application-deliberatorium-italy?destination=node\/4229":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4229 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/application-deliberatorium-italy" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/application-deliberatorium-italy?destination=node/4229" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-pJzpXud21kE1ch-8VcJDm1m07FCc5A1DJmt2jLKwHRM" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Application of Deliberatorium in Italy</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Application of Deliberatorium in Italy</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/joyce-pong" title="View user profile." class="username" xml:lang="" about="/en/people/joyce-pong" typeof="sioc:UserAccount" property="foaf:name" datatype="">Joyce Pong</a> on Mon, 05/18/2015 - 19:10</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/raffaelecalabretta" title="View user profile." class="username" xml:lang="" about="/en/people/raffaelecalabretta" typeof="sioc:UserAccount" property="foaf:name" datatype="">Raffaele Calabretta</a> on Thu, 02/25/2016 - 04:48</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Application of Deliberatorium in Italy - Participedia" addthis:url="http://participedia.net/en/cases/application-deliberatorium-italy"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This case study was originally done as a requirement for an undergraduate seminar (POLI 420A) at the University of British Columbia in June 2015. Original author: Joyce Pong.</p><h3>Problems and Purpose</h3><p>This case study describes the combination of two democratic innovations: the Deliberatorium and the ‘Doparie’. The Deliberatorium is a software that allows large groups of individuals to deliberate using the principles of large scale argumentation maps. The ‘doparie’ is an Intra-Party Deliberative Referendum mechanism that is meant to improve the internal decision making process within parties in between elections.</p><p><strong>The Deliberatorium: A solution to the problems of online deliberation</strong></p><p>The most commonly used tools for online deliberation are time-centric tools (emails, chat rooms, forum) where content is organized based on post times. These tools generate numerous issues:</p><ul><li>scattered content:  coverage is not systematic which makes it difficult to find content </li><li>low signal-to-noise ratio: there is too much repetition of the same points which makes it hard to find more mature points </li><li>balkanization: users will self-group based on common opinions which makes it difficult to be broadly informed</li><li>dysfunctional argumentation: arguments tend to be biased and not evidence or logic based (Klein et al 2012)</li></ul><p>     There are also topic-centric tools (wikis and idea sharing systems) where ideas that are unpopular are able to be edited by other users who disagree. Controversial topics are then moved back to discussion, leading back to the issues of time-centric tools (Klein 2012). </p><p>     Finally, there are idea-sharing tools which center around specific questions and the community is asked to comment or rate on the proposed solutions. However, these tools generate a lot of redundancy, where ideas are mostly simplistic, and most comments are similar to one another (Klein et al. 2012).</p><p>     To counter the shortcomings of online deliberation, Mark Klein, a researcher at MIT’s Collective Centre for Intelligence, developed the Deliberatorium. The Deliberatorium is an argument-centric tool designed to address the issues of traditional discussions forum.</p><p>     Argument-centric tools allow users to systematically deliberate in an organized tree structure. Each online posting is limited on only one point. It should be either a specific issue (question to be answered), an idea (possible answers for a question), or an argument (statement that support or detract from an idea or argument) (Spada et al. 2015). Before the development of the Deliberatorium, argument-centric systems had only been used on a small scale, and rely on a moderator to capture free-form dialogue. These systems have had moderate success to enable deliberation over the internet as most user are uneducated and unfamiliar with an argument mapping system. The purpose for the Deliberatorium is to enable web users to more effectively express logic and evidence in favour or against an argument, idea, or an issue. Rather than having ideas spread out in a disorganized fashion, the Deliberatorium helps user systematically arrange deliberation in a tree structure using “the IBIS argumentation formalism” (Klein 2012).  </p><p> </p><p><strong>The ‘Doparie’ (Intra-Party Deliberative Referendum)</strong></p><p>     The second democratic innovation used in this experiment is an Intra-Party Deliberative Referendum, or the ‘doparie’. Raffaele Calabretta, a senior researcher at the Italian National Research Council developed this mechanism to be used by party members in between elections to deliberate, make decisions, and vote (Callabretta 2012). The doparies are open to all the supporters of a party, and are centred in providing balanced information and promoting good deliberation. The doparies are designed to improve the communication between party members and voters, to increase accountability, and to allow parties to consult the base on difficult decisions that split the elected representatives (e.g., end of life laws).</p><p>     In the project analyzed by this case study, these two democratic innovations were combined. The project was implemented in 2012 by a partnership between a group of academics and a group of politicians aimed to study the feasibility of introducing online discussions as a decision-making mechanism in the Italian Democratic Party. Additionally, this project aimed to compare the difference in deliberation between an argument-centric environment and a discussion forum.</p><h3>History</h3><p>     In 1993, Italy changed electoral law from a proportional system to a mixed system. Then in 2005, Silvio Berlusconi, then Prime Minister of Italy, again changed the law back to a proportional system with closed lists (Spada et al. 2015). The electoral reform generated lots of controversy because it reduced the ability of voters to select representatives and did not generate stable majorities.</p><p>     During this period, the rise of the Five-Star Movement created a new political force in Italy (Spada et al. 2015). It began as blog by comedian Beppe Grillo to criticize the corruption in Italian politics. The protest movement argued that all the political parties in the country were corrupt old cliques. Most of their political campaigning was conducted online using the meet up platform, blogs and forums. They built their platform based on an anti-establishment, anti-corruption, green agenda. Between 2010 - 2012, the Five-Star Movement increased its influence in local and regional politics. </p><p>In 2011, a million signatures were gathered to propose a referendum to abolish the current electoral law introduced by Berlusconi and to go back to the previous majoritarian system. A few months in 2012 before the beginning of the experiment described in this case study, the proposal was rejected by the Supreme Court in 2012 as not constitutional.</p><p>     During this time, the rise of the Five-Star Movement and its success based on innovative engagement strategies centred on social media altered the Italian political equilibrium. Traditional parties began to explore possibilities to counter these tactics.</p><p>     The highly controversial electoral law introduced in 2005 and its’ regional mechanism of Senate seat allocation resulted in a coalition government in the 2013 elections. To everyone’s surprise, the 5-Star Movement allocated enough votes to become the opposition party after the coalition. The traditional parties became alarmed with the 5-Star Movements’ success using the Internet and social media to recruit supporters. This led to the willingness of the Italian Democratic Party to explore the possibilities of online discussion with their supporters over the topic of electoral law. This created the opportunity for Spada, Callabretta and Klein to run this experiment with the online community, Insieme per il PD, using the Deliberatorium and the doparie.</p><h3>Originating Entities and Funding</h3><p>     The project was initiated by Paolo Spada who was a post-doctoral fellow in the Ash Center for Democratic Governance and Innovation at the Harvard Kennedy School at the time. Spada connected Mark Klein with Raffaele Calabretta to build a team that could manage the democratic innovation. While Klein’s research on the Deliberatorium was funded by the National Science Association, this project was not funded by monetary means, but rather an investment of time.</p><p>     Raffaele Calabretta convinced an online community of the Italian Democratic Party (Insieme per il PD) to explore an online version of the Intra-Party Deliberative Referendum. Mark Klein recruited former colleague Luca Iandoli and his student Ivana Quinto to manage the team of 10 moderators and develop additional survey tools. </p><h3>Participant Selection</h3><p>     For this particular experiment, members of the online community, Insieme per il PD (Together for the Democratic Party), were asked to participate. Calabretta used his network to advertise for participants on social media, through the Insieme per il PD website, and Facebook page, which had around 5000 members at the time. The Italian Democratic Party also advertised the process airing a small video produced by Italian Filmaker Alberto Bougleux (see <a href="https://www.youtube.com/watch?v=noMaHClrrbU">https://www.youtube.com/watch?v=noMaHClrrbU</a>). The campaign highlighted the democracy enhancing concepts of this process, and the possibility of bringing different ideas to the attention of the party elite. However, the advertising campaign was very clear in acknowledgment that the experiment was for research purposes and it would have a limited impact over the program of the Italian Democratic Party (Spada et al. 2015). </p><p>     Participants were asked to enrol beforehand and provide information regarding their age, gender, level of education, and level of internet usage. The participants had an average age of 48, 25% over 60 years old and 15% under 30 years old. This pool is not representative of the overall Italian population, with 2/3 males and 1/3 females. There was also a higher numbers of people over 60 years old which is possibly due to more free time. 58% of the participants had education higher than high school, and this is higher than the national average of 33% (Spada et al. 2015).</p><p>     Finally, the 640 enrolled person participants were divided into 4 different groups of 160 each and balanced based on their demographic statistics using block randomization. Two groups were placed in a traditional discussion forum, while the other two in the argument maps (Spada et al. 2015). </p><h3>Deliberation, Decisions, and Public Interaction</h3><p>     The experiment took a total of 2 months, and was divided into 3 different stages: 1) advertising and enrolment, 2) deliberation, and 3) voting. The advertising phase lasted one month. During this first month, participants were invited to re-post information on their social media pages to encourage further enrolment. The deliberation stage took 3 weeks in which the Deliberatorium and the discussion forum were open for use. The final week allowed participants to vote. (Spada et al. 2015). </p><p>     The design of the user interface was similar for both the discussion forum and the Deliberatorium to eliminate most differences, and also provided with a set of standard tools for the users. For both mediums, three questions were asked regarding Italian electoral reform: </p><ul><li>What electoral law should Italy adopt?</li><li>What other important questions should be asked about the electoral system?</li><li>What topics should be deliberated about in the future?” (Spada et al. 2015)</li></ul><p>     In the traditional forum, users have the usual functions of adding comments, adding sub-forums, and the ability to rate other posts. In the argument map, every issue, idea, or argument appears once to reduce repetition, making it easier to look for what has or hasn’t been posted already. Users are asked to create posts with a single point and place them onto the appropriate section of the argument map. The post will be pending until a moderator has verified that it has met all the guidelines. Moderators are responsible for educating users on how the deliberation process works, and also quality control by certifying posts. This ensures that the argument maps are well structured for maximum utility. Moderators in the discussion forums were only responsible for ensuring that content was SPAM-free and not abusive. Once a post was certified by a moderator, it was then available to be rated, viewed, and edited by other users (Klein et al. 2012).</p><p>     For this particular project, the moderators were chosen among the graduate students of Professor Luca Iandoli with previous knowledge of argument mapping. The moderators were tasked only to make able to implement simple changes, such as fixing where a post belonged, or whether it was incorrectly labelled as a pro or a con. If a user’s post was not straightforward, the moderators were instructed to send them a message, educating them on how to fix the problem. However, the moderators were not engaged with the content in any other way. This not only taught users the structure of argument mapping, but also helped the tree to be structured for optimal use and easier idea harvesting (Spada et al. 2015).</p><p>     The data retrieved from this project is still being compiled and studied. At the initial analysis, there were over a couple hundred thousand user events, and the researchers are still in the process creating measures to analyze the data. Currently, Mark Klein is coding an algorithm to apply to the map’s event stream in order to analyze how mature the discussion was, the number of ideas discussed, the number of rebuttals, the depth of the map, and the depth of sub-idea, and the depth of the arguments using a series of metrics and signifiers. Luca Iandoli is also doing a social network analysis on the data.</p><h3>Influence, Outcomes, and Effects</h3><p>     The experiment report provides results for the following event types: edit, create, rate, view, vote, view resources. The report shows that the huber of ratings is significantly higher in the map treatment that in the forum treatment. This may be because each post on a map is only one point, which makes rating it much easier and more meaningful (Spada et al. 2015).</p><p> </p><p>     In the 4 groups of 160 participants, 373 out of the 640 (just over 50%) logged onto the website at least once. It was noted that participation increased over time and did not plateau. As the process only lasted 3 weeks for the purposes of this study, it is theorized that more people would have logged if given enough time. 30% (194 out of the 373) created one or more posts. Compared to the general rule of thumb of internet participation, this exceed the 1/9/90 rule of 1% creators, 9% editors, and 90% readers. The researchers all agreed that this high level of participation is contributed by the controversial topic, the media coverage, and the novelty of the process (Spada et al. 2015).</p><p>     One of most surprising results of this experiment was that the retention rate was not impacted by the map. Due to the fact that the map appears to require added work from the users, the researchers had initially hypothesized that the difficulty would negatively impact the rate of activity and retention. This makes argument mapping a viable substitute in the future over discussion forums. The added effort that the map requires for the user may be overshadowed by the improved organizational structure and clarity of information (Spada et a. 2015). This can also be attributed to the fact that the participants knew they were part of a research project.  </p><p>     For Klein, he has not noticed any major issues regarding the slightly more complicated style of argument mapping. He theorizes that the maps users were willing take their time to read through the tree in order to place their post on a specific area. This methodology added structure and clarity to the deliberation and compensated the increased efforts to participate. Also, users were found to be more respectful to other opinions due to the tree’s logical mechanism.</p><p>     During the deliberation period, the forum only required 3 hours of moderation while the map required 42 hours. However, most of the moderation was used in the first week and the users became much more adept in navigating the map afterwards. Thus, it can be hypothesized that the moderation time required would decrease after the initial educative phase. </p><p>     Post deliberation, the data from the forum was recoded into an argument map to compare the argumentation quality. The forum required an additional 160 hours to process the ideas. This resulted in a significant difference between the two treatments for the overall man hours needed moderate and harvest the information (163 vs 42) (Spada et al. 2015). </p><p>     The discussion forums yielded 3 times as many ideas as the argument map (290 vs 78), but it generated less than half as many arguments per idea than the map. Therefore the map is seen to promote higher exchange of arguments than a forum. The authors conclude that argument mapping software might not be appropriate for small environment that focus on brainstorming, while it is more appropriate for environments with hundreds of participants in which ideation is easy to achieve, but argumentation is difficult to sustain (Spada et al. 2015).</p><p>     The voting process at the end of the experiment allowed users to vote on what electoral law they preferred. Of course the vote was in no way legally binding. For now, the impact of the discussion on the Italian Democratic Party is unclear.</p><p>     Despite the Intra-Party Referendum being partial to in person deliberation due to his experience working with James Fishkin, Calabretta, during our interview, revealed that the deliberation occurring on the Deliberatorium was surprisingly good. This project provided the participants with a deeper consultative mechanism between party members and their voters. For Klein, he feels that while the Deliberatorium allows for better idea generating, it does not necessarily result in more decision making. </p><h3>Analysis and Lessons Learned</h3><p>     This process provided an first step to scale-up deliberation online. The maps’ restricted nature did not hinder the participant’s retention rate or daily average activity during the process. The discussion remained also respectful and organized. The facilitation provided by the moderators also reduced the time needed to process the information afterwards.</p><p>     While the Deliberatorium is a beneficial tool for large scale deliberation on complex issues, it is questionable if all participants in a broader scheme would be able to use the sophisticated software. Also, the experimental nature of this democratic innovation or the highly controversial topic may have led to the high user participation for this project. Thus while this experiment is a significant improvement from previous studies employing students, the self-selected nature of the sample might have affected results. It is unknown what the maximum size of users would be in this system. It would be possible for the tree to get too big for users to find the specific branch that they would like to comment on. It is unknown where the tradeoff between organizational structure and the ease of use ends. </p><p>     As for user interface, a more streamlined approach may encourage further posting. The current system appears to be bulky and difficult to navigate. Improvements can be made to make navigation more seamless and intuitive. As well, an improvement in the aesthetics would increase the universal appeal. Users are much likely to use software that is simple and easy to navigate. </p><p>     Since the experiment was done with a group of users with similar political views, it is unknown if the pool was more diversified if this system would work. Groups with different political views may not deliberate in a such a respectful manner. Nonetheless, the introduction of controversial issues is much more effective in garnering participation. </p><p>     To date, the 640 participants is the largest pool that the researchers have worked with using large-scale deliberation. Therefore, it is difficult to gauge how successful the deliberation would be with an even larger group. Furthermore, as the role of the moderator is quite significant in facilitating the conversation, there may be the possibility of personal biases on highly controversial topics. This bias can lead to certain posts being placed in areas where the original author did not intend.</p><p>     Finally, the adoption of both the Deliberatorium in online conversations and the Intra-Party Mechanism in political parties has not yet been significant. There remains questions on how to implement these innovations into more areas. Once these innovations have been adopted by a greater number of polities, then a discussion on how to bridge the information harvest to actual democratic and policy changes should be next. </p><h3>References</h3><ul><li><p>Calabretta, R. (2010). Doparie dopo le primarie. Nutrimenti, Rome.</p></li><li><p>Calabretta, R. (2011). Doparies: a novel party deliberative and aggregative decisione-making mechanism to improve the quality of representative democracy. Sage Open DOI:10.1177/2158244011433699 <a href="http://sgo.sagepub.com/content/1/3/2158244011433699.full">http://sgo.sagepub.com/content/1/3/2158244011433699.full</a></p></li><li><p>Klein, Mark. (2011). How to Harvest Collective Wisdom on Complex Problems: An Introduction to the MIT Deliberatorium. Center for Collective Intelligence Working Paper.<a href="http://cci.mit.edu/docs/working_papers_2012_2013/kleinwp2013.pdf">http://cci.mit.edu/docs/working_papers_2012_2013/kleinwp2013.pdf</a>.</p></li><li><p>Klein, M. (n.d.). Mark Klein's Home Page. Retrieved May 20, 2015, from <a href="http://cci.mit.edu/klein/deliberatorium.html">http://cci.mit.edu/klein/deliberatorium.html</a></p></li><li><p>Klein, M., Spada, P., &amp; Calabretta, R. (2012). Enabling Deliberations in a Political Party Using Large-Scale Argumentation: A Preliminary Report. 10th International Conference on the Design of Cooperative Systems, 236-259.</p></li><li>Spada, P., Klein, M., Calabretta, R., Iandoli, L., &amp; Quinto, I. (2015). A First Step toward Scaling-up Deliberation: Optimizing Large Group E-Deliberation using Argument Maps. Retrieved May 20, 2015, from <a href="https://www.spadap.com">http://www.spadap.com/</a></li></ul><h3>Secondary Sources</h3><ul><li><p><a href="http://doparie.it">http://doparie.it</a></p></li><li><p><a href="https://www.facebook.com/doparie">https://www.facebook.com/doparie</a></p></li></ul><h3>External Links</h3><ul><li>Mark Klein's Home Page <a href="http://cci.mit.edu/klein/deliberatorium.html">http://cci.mit.edu/klein/deliberatorium.html</a></li><li>Paolo Spada's Home Page <a href="http://www.spadap.com">http://www.spadap.com/ </a></li><li>Raffaele Calabretta's Home page <a href="http://laral.istc.cnr.it/rcalabretta">http://laral.istc.cnr.it/rcalabretta</a></li></ul><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/argument-map" typeof="skos:Concept" property="rdfs:label skos:prefLabel">argument map</a></div><div class="field-item odd"><a href="/en/tags/ideation-software" typeof="skos:Concept" property="rdfs:label skos:prefLabel">ideation software</a></div><div class="field-item even"><a href="/en/tags/deliberatorium" typeof="skos:Concept" property="rdfs:label skos:prefLabel">deliberatorium</a></div><div class="field-item odd"><a href="/en/tags/doparie" typeof="skos:Concept" property="rdfs:label skos:prefLabel">doparie</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A99">Higher Education &amp; Lifelong Learning</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A100">Science &amp; Technology</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1288">Political Institutions</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                              <div class="country-name" itemprop="addressCountry">Italy</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+it">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                IT      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A111">Other</a></div></div></div><div class="field field-name-field-influence-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Intended Purpose(s):&nbsp;</div><div class="field-items"><div class="field-item even">Experiment in Online Deliberation</div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">640</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A124">Other</a></div></div></div><div class="field field-name-field-demographics-target-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Demographics:&nbsp;</div><div class="field-items"><div class="field-item even">Online Italian Democratic Party (Insieme per il PD)</div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div></div></div><div class="field field-name-field-participant-select-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even">Members of the Online Community</div><div class="field-item odd">Insieme per il PD</div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/deliberatorium">Deliberatorium</a></div><div class="field-item odd"><a href="/en/methods/doparie">Doparie</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A172">Other</a></div></div></div><div class="field field-name-field-facilitation-type-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Facilitation:&nbsp;</div><div class="field-items"><div class="field-item even">Students of Professor Luca Lamdoli who was familiar with the Deliberatorium</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Paolo Spada</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">Mark Klien</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A37">Individual</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">5</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Students</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">10</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-c3c721a88c00aec2bae5dd3f58087784">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/4229">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

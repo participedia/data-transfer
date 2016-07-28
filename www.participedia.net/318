@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/center-deliberative-democracy" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/318" />
+  <title>The Center for Deliberative Democracy | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"fKlPRX6qYIEuH3YGvzR7BztEWYV6PAVZV5OpDwtHUy8","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/center-deliberative-democracy?destination=node\/318":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-318 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/center-deliberative-democracy" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/center-deliberative-democracy?destination=node/318" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-XHMXKDjCHW5ZNOTFU8UKV5c3IbDxDsuTOBD2vRFgcFA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">The Center for Deliberative Democracy</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="The Center for Deliberative Democracy - Participedia" addthis:url="http://participedia.net/en/organizations/center-deliberative-democracy"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 7 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/acvcom418" title="View user profile." class="username" xml:lang="" about="/en/users/acvcom418" typeof="sioc:UserAccount" property="foaf:name" datatype=""><span class="__cf_email__" data-cfemail="6a0905060f0f04030f52532a02051e070b030644090507">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Mission_and_Purpose" name="Mission_and_Purpose"></a></p><h2>Mission and Purpose</h2><p>The Center for Deliberative Democracy is located in the Department of Communication at Stanford University. This organization uses Deliberative Polling® to research about democracy and public opinion. The Center for Deliberative Democracy strives to make the general public more aware of public issues in order to make their decisions more deliberative.</p><p>Citizens of the United States are often uninformed about important public issues. Conventional polls represent the public’s initial impressions of headlines and audio clips. Deliberative Polling® is an attempt to use both television and public opinion research in a new and productive way. The polling process reveals the conclusions the public would reach, if people were more informed and more involved by the public issues.</p><p><a id="History" name="History"></a></p><h2>History</h2><p>The Center for Deliberative Democracy was established at Stanford University in 2003, where it currently conducts the research and practice of deliberative polling. Previously, the center was under the name Center for Deliberative Polling and was located at the University of Texas at Austin, where Professor James Fishkin, the current director of the Center for Deliberative Democracy at Stanford, served as director.</p><p>Director and founder of the Center for Deliberative Democracy James Fishkin developed the concept of Deliberative Polling in 1988 in response to the somewhat surprising effects of mass media on public opinion and knowledge. Early communications scholars, such as Marshall McLuhan, envisioned a world where advances in communicatory technologies such as print and radio would create a “global village,” where the public would be connected and informed on public policies and issues from all sides, including those that are least favorable to the individual, so that one may make a truly informed decision. Instead, mass media has caused the public to seek out media with views in which they agree with and to be more focused on entertainment value of media, dwindling campaigns to merely slogans and attack ads. Deliberative Polling was Fishkin’s institutional answer to how to make the public more informed through scientifically sampling of citizens, three to four days of deliberation on public policies, and proper polling methods to have an end result of a more accurate public opinion. Essentially, deliberative polling is meant to show how the public would feel about public policies and issues if they were better informed and were able to discuss the issues on both the pro and con side of the argument.</p><p>Professor James Fishkin has been working on his concept of Deliberative Polling for over twenty years throughout the U.S and various countries in the world, with the Center for Deliberative Democracy as the center for the research and practice of this method. The center has conducted over twenty -two research experiments throughout the U.S and other countries including China.</p><p><a id="Major_Projects_and_Events" name="Major_Projects_and_Events"></a></p><h2>Major Projects and Events</h2><p><a href="http://participedia.net/en/cases/hard-times-hard-choices-michigan-citizens-deliberate">Hard Times, Hard Choices: Michigan Citizens Deliberate</a>: The “Hard Times, Hard Choices” program is a By the People (BTP) civic engagement initiative started by MacNeil/Lehrer Productions, working in partnership with the Center for Deliberative Democracy (CDD) at Stanford University. BTP works to bring the views of informed citizens into the discussion of the important issues of today. Since its origins in 2002, BTP has supported over 200 Resident Deliberations around the country and more than 100 national and local PBS broadcasts. The deliberations and broadcasts dealt with issues such as national security, healthcare, and education. BTP received a grant from the W.K. Kellogg Foundation for this Michigan-based project “Hard Times, Hard Choices.” The Kellogg Foundation invested nearly $50 million in Michigan this year, all toward improving lives for children in need. On November 13-15, 2009, a random representative sample of more than 300 Michigan residents engaged in a face-to-face statewide Deliberative Poll centered around key issues related to the state’s economy and budget choices leading up to the 2010 election. The participants convened in Lansing, Michigan. The event moderator was Kwame Holman, the correspondent for The NewsHour with Jim Lehrer. Michigan Public Television Stations, including WDCQ-TV Delta College, Detroit Public TV, WCMU, and WKAR, participated through community outreach projects, which engaged local communities through further discussions.</p><p>Taxes: Michigan residents confronted the budget crisis and the demands on scarce state resources. They moved strongly to support increases in certain taxes and decreases in others. They also increased their willingness to pay for essential services. The taxes the residents were willing to increase were the ones involving sales and income taxes. The taxes they moved to cut concerned the stimulation of new jobs. Their final deliberative views on taxes are strikingly different from “top of the head” conventional polls. Support for increasing the sales tax went up by fourteen points from 37% to 51%. Support for increasing the income tax went up by 18 points from 27% to 45%. Support for increasing the beer and wine tax was high before and after deliberation (increasing from 66 to 68%). However, support for cutting the business tax rose by 27 points from 40% to 67%. “Supplying tax incentives for companies to move to Michigan” had high levels of support both before and after (moving only from 74% to 78%). After the deliberation Michigan participants were interested in the tax cuts that might stimulate jobs but they were willing to accept the burden of tax increases that might help the state’s difficult finances.</p><p>The Environment: Another important result of the Michigan citizen’s deliberation was the consistent focus of the participants on the environment. The green economy and environmental concerns went up significantly in the post-deliberation results. For example, results for increasing incentives for businesses to produce green products and services went up from 60% to 75%.</p><p>Michigan’s Economic Future: The participants were asked about various policy directions the state government could concentrate on in building Michigan’s economic future. Overall, there was the most support for “making Michigan a knowledge/high tech economy” (74% before deliberation, 81% after). After the deliberation, all the options had strong support but none predominated. The participants didn’t reach an agreed upon solution.</p><p>Volunteering: Some questions were also asked about whether “the efforts of volunteers working outside government” could lead to significant improvements. When asked about education, the percentage believing volunteers could help a great deal rose from 73% to 81%, for “services to those in need” the percentage rose from 77% to 84%, and for the environment the percentage rose from 70% to 81%. In other areas like job training, skill level of the workforce, and healthcare a strong majority agreed that volunteers could improve these areas.</p><p>Knowledge: The Michigan residents were asked five factual knowledge questions and six party placement knowledge questions related to the topics discussed. Most of the questions showed statistically large increases over the course of the deliberation. The overall knowledge index for all the knowledge questions increased from 38% before the deliberation to 46% after the citizens’ deliberation.</p><p>Deliberative Polling Evaluation: The participants were asked to evaluate the components of the deliberation. Overall, the residents gave it significantly high scores. The entire process was rated valuable by 83%, the small group discussions by 89%, “meeting and talking to other delegates outside the group discussions” by 83%, the large sessions by 75%. 76% of the participants agreed “my group moderator provided the opportunity for everyone to participate in the discussion.” 63% agreed that “the members of my group participated relatively equally in the discussions.” 85% disagreed that “my group moderator sometimes tried to influence the group with his or her own views.” 53% agreed, “my group moderator tried to make sure that opposing arguments were considered.” And 57% agreed “I learned a lot about people very different from me—about what they and their lives are like.”</p><p>Deliberative Polling®: California</p><dl><dd>San Mateo Countywide Assembly on Housing Choices</dd></dl><p>This study looks at what should be done if there is a critical housing shortage in San Mateo County. It was funded by Threshold 2008, which is civic group working to engage the public about housing issues in efforts to have better long-term quality of life for people affected by housing choices. They strongly believe in the deliberative process and the education of citizens so they can make better decisions. A Deliberative Poll® was taken of scientific sample of the counties residents. It was conducted over a weekend with a sample of 238 residents that looked at competing policy options. They became more informed about these policy options and questioned competing experts. At the end of the weekend some even changed their views. The Deliberative Poll® was held by Cañada College on March 15-16, 2008.</p><dl><dd>Policy Attitudes</dd></dl><p>Coming in to this project only 38% of the people thought there was a need for more housing in the county. There was a surprising change in vies by the end of the weekend, with the percentage supporting that there was a need for more housing had risen to 68%. Before the weekend 61% of residents thought new housing should be located in already developed areas, but after it increased to 72%. Before deliberation the percentage that wanted to minimize the number of commuters even if it means less job growth, went from 25% to 35%. Also people believing that developers should be required to have a certain fraction of their homes below the market rate went from 59% to 74%. There was also an increase with participants wanting both more public consultation and regional authority in housing decisions. Economically the participants more so believed that new housing development would increase the economic vitality of the region, as well as new housing development being good for the environment. There was an increase of 22 points with people believing that if there were no new housing development companies would move away. They also became more concerned with people that do the county’s vital services like police, fire, education, and health would suffer if there is a continuation of a shortage of affordable housing.</p><dl><dd>Representativeness</dd></dl><p>There were 1,594 non-participants who were resident who took the survey, but did not participate, and 238 in the scientific random sample of deliberators. Participants and non-participants are relatively similar. The group for the weekend deliberation represented most demographic factors, though a modest difference in age, income and education. Gender, race, and ethnicity were similar between non-participants and participants. Between the non-participants and participants only two of the policy question appeared with any statistically significant differences.</p><dl><dd>Knowledge Gains</dd></dl><p>With an index of eight knowledge questions, people being able to answer the questions correctly went from 13% to 28%, a 15 point gain which is statistically significant. This sample became much more informed about housing issues. Only around 3 percent knew the median price of a single family home before deliberation, and rose the 19% after. Another drastic percentage increase from 26% TO 58% took place with participants who could correctly answer the approximate percentage of households that could afford a median priced home.</p><dl><dd>Evaluation</dd></dl><p>The evaluation of this event found that participants thought it to be quite worthwhile with 65% giving it a perfect 10 rating where 0 was “a waste of time” and a 10 was “extremely valuable,” and 95% said it was “valuable.” For the small group discussions the ratings were very similar, with 1% lower on each factor. The plenary sessions with the experts had the people rating it as 85% “valuable” and 47% gave them a perfect 10. 81% agreed that, “My small group moderator tried to make sure that opposing arguments were considered,” and 94% that “my small group moderator provided the opportunity for everyone to participate in the discussion. By engaging with people from so many different backgrounds the participants seemed to learn a lot. 85% ended up agreeing that, “I learned a lot about people very different from me—what they and their lives are like.”</p><dl><dd>Method</dd></dl><p>The Center for Deliberative Democracy at Stanford was used by Threshold 2008 to conduct this event. Professor James Fishkin and Robert Luskin participated in coming up with the design of this public consultation. James Fishkin commented about how the process helped the San Mateo County be put in a room to think about some difficult choices. IT helped them become more informed and help things become clear in their conclusions. He hopes policy makers pay attention because it is a public voice with a representative sampling that shows what people think when they thoroughly consider competing arguments and become informed.</p><p> </p><p>Energy Choices: Vermont's Energy Future</p><p>The Deliberative Poll was taken to Vermont in November of 2007 to address the future energy requirements of the state of Vermont and how to best achieve the sufficient amount of energy for the state. The Poll began with 154 people, and for various reasons by the end of the process, 146 people could be used for the data research. The Deliberative Poll aims to mainly clarify the participants policy attitudes, their empirical premises, and values and how these change pre and post deliberation. The procedures of the Deliberative Poll include the initial polling of a random sample of Vermont inhabitants to have a base idea on public views on the issue, a weekend of deliberation for recruited Vermonters on the various ways Vermont could tackle the issue of energy, and a follow-up questionnaire at the end of the deliberative weekend. The deliberation days were facilitated by moderators who were trained by Professor Fishkin as part of the CDD.</p><p>Issue Briefing</p><p>The contracts providing more that sixty percent of Vermont’s electricity are set to expire in the year 2012, leaving the people of Vermont open to discuss and examine where the future source or sources of Vermont’s electricity should be from. There were three main options for how Vermont should best handle its’ energy requirements. The first would be the amount of reliance the state should have on energy efficiency and alternative forms of energy such as wind, nuclear, and hydro. The second would be the reliance on energy that the state had currently been purchasing from suppliers such as Vermont Yankee and Hydro Quebec. Lastly, how much reliance the state should place on a small number of large central facilities or into many smaller and more distributed facilities</p><p>Deliberative Polling Results</p><p>Following the deliberation days in which the participants could weigh the pros and cons of each of the state’s options and discuss among each other, the Deliberative Poll showed to have a fairly statistical significance in changing the participants opinions on the best tactics for the state to use concerning its’ energy usage.</p><p>We see a 20% increase in support for the continuation of purchasing energy from Quebec Hydro, and an 8% increase with the continuation with Independent Power contracts. With the option of continuing to buy from Vermont Yankee nuclear plant however, the percentages did not change significantly for or against.</p><p>Percentages of participants interest in using hydro and wood as an energy source increased, while we see a decrease in the percentages for the interest in using coal and oil for energy.</p><p>There is an increase in support for energy efficiency to the best of the State’s abilities rather than buying or generating power.</p><p>Knowledge</p><p>The deliberation portion of the deliberative polling done in Vermont also brought about changes in participants’ knowledge of actual facts concerning energy sources and alternate energy sources and how these empirical premises shape the participants opinion. We can see how the difference in knowledge prior to deliberation and knowledge post deliberation may explain why the participants voted in certain ways as outlined above.</p><p>The majority of participants felt that power not received from Hydro-Quebec or from Vermont Yankee would not need to be covered by natural gas, coal, out of state nuclear, or oil, and we see an increase in this belief after deliberation processes</p><p>Over the next 10 years, participant’s felt that an efficient use of Vermont’s electricity could reduce the state’s need by an average of 22%, where after deliberation, we see that that belief declines by 9%</p><p>Wood and methane energy was previously viewed to be less friendly than wind and solar power, but was later found to be significantly friendlier to the environment while oil, coal, and natural gas were found to be significantly unfriendlier than previously thought.</p><p>Participant's Evaluation</p><p>On a scale from 0 to 10, the selected Vermonters were asked to rate the value of the deliberative poll to them, 0 being absolutely non-valuable, and 10 being of great value to their lives. The average rating of the amount of value was a 9.16, with 68% rating the experience as a full 10, and 90% giving it at least an 8. The value of the small group discussions during the deliberation weekend received a similar rating of an average of 9.08 with 66% giving a full 10, and 90% giving at least an 8. The last question was to rate the value of the conversations outside the formal discussions with other participants was slightly less, with an average of 7.99, with 42% giving the perfect 10 and 64% with at least an 8.</p><p>Most importantly with deliberation is the chance to learn people’s views that may differ from one’s own views so as to make the individual a more informed person and able to weigh all sides of an issue. The participants were asked to rate how much they agreed or disagreed with the following statement, “I learned a lot about people very different from me – about what they and their lives are like.” 67% of the participants agreed with the statement with 36% who agreed strongly, and only 12% of the participants who disagreed.</p><p> </p><p>Deliberative Polling®: American Democracy Project</p><dl><dd>American Association of State Colleges and Universites: Deliberative Polling® Project</dd></dl><p>This study looks into how Deliberative Polling® could be used to engage students, staff, faculty, and/or members of the larger community in discussions of public concern on college campuses. Would it create a more informed community with becoming better at the democratic processes and prepare undergraduates to be engaged and informed citizens? 16 AASCU have been invited to have 1 to 2 representatives be apart of a Deliberative Polling® Training Institute co-sponsored by The New York Times and the Center for Deliberative Democracy. This study hopes the schools will institute deliberative polling initiatives at their campuses after taking part in this process.</p><p>The institutions in 2008 and 2009 hosted Deliberative Polls® on their campuses and for 2010 the third Deliberative Polling Institute will take place at the ADP National Meeting. It will have two models of Deliberative Polls®, the first maintaining the integrity of the social science when conducting a statistically significant poll. The second model will include discussion group facilitators, panels of leading experts, issue-based dialogue, but not the strict and sometimes expensive social science requirements to having a representative sample.</p><p>List of Participants</p><ul><li><ul><li>Austin Peay State University</li><li>California State University Fullerton</li><li>California University of Pennsylvania</li><li>Emporia State University</li><li>Fitchburg State College</li><li>Florida Gulf Coast University</li><li>Fort Hays State University</li><li>Indiana University</li><li>Purdue University Indianapolis</li><li>Lincoln University of Missouri</li><li>Metropolitan State University</li><li>Northern Kentucky University</li><li>Plattsburgh State University of New York</li><li>State University of New York College at Cortland</li><li>The Richard Stockton College Of New Jersey</li><li>Towson University</li><li>Troy State University</li><li>University of Alaska-Anchorage</li><li>University Of Illinois At Springfield</li><li>University of Maine Augusta</li><li>University of Nebraska at Omaha</li><li>University of Tennessee Martin</li><li>University-Central Oklahoma</li><li>Weber State University</li><li>West Chester University</li><li>Western Carolina University</li><li>Western Connecticut State University</li><li>Western Kentucky University</li><li>Winona State University</li></ul></li></ul><p><a id="Funding" name="Funding"></a></p><h2>Funding</h2><p>The Center for Deliberative Democracy at Stanford has received funding for an assortment of research and projects through various contributors. These include Stanford University, the William and Flora Hewlett Foundation, as well as all fees on Deliberative Polling, which is a registered trademark of James S. Fishkin, are used to support research at the Center for Deliberative Democracy. They also have been awarded in fall of 2006 money from the W. K. Kellogg Foundation $302,123. Grant money from the W.K. Kellogg Foundation has been used for the Michigan-based project entitled “Hard Times, Hard Choices,” the Deliberative Polling®: By the People project.</p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Secondary Sources</h2><p>Fishkin, James S. When the People Speak Deliberative Democracy and Public Consultation. Oxford [u.a.: Oxford UP, 2009. Print.</p><p>Fishkin, James S. Democracy and Deliberation: New Directions for Democratic Reform. New Haven: Yale UP, 1991. Print.</p><p><a id="External_Links" name="External_Links"></a></p><h2>External Links</h2><p><a class="external free" href="http://cdd.stanford.edu/research/papers/2010/fishkin-bjps-china.pdf" rel="nofollow" title="http://cdd.stanford.edu/research/papers/2010/fishkin-bjps-china.pdf">http://cdd.stanford.edu/research/papers/2010/fishkin-bjps-china.pdf</a></p><p><a class="external free" href="http://www.stanford.edu/dept/foundationrelations" rel="nofollow" title="http://www.stanford.edu/dept/foundationrelations">http://www.stanford.edu/dept/foundationrelations</a></p><p><a class="external free" href="http://cdd.stanford.edu/polls/smc/2008/threshold2008-report.pdf" rel="nofollow" title="http://cdd.stanford.edu/polls/smc/2008/threshold2008-report.pdf">http://cdd.stanford.edu/polls/smc/2008/threshold2008-report.pdf</a></p><p><a class="external free" href="http://www.threshold2008.org/about_us.html" rel="nofollow" title="http://www.threshold2008.org/about_us.html">http://www.threshold2008.org/about_us.html</a></p><p><a class="external free" href="http://www.aascu.org/programs/adp/polling.htm" rel="nofollow" title="http://www.aascu.org/programs/adp/polling.htm">http://www.aascu.org/programs/adp/polling.htm</a></p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Stanford University</span>
+                                                                <span class="geo"><abbr class="latitude" title="37.428149">37° 25' 41.3364" N</abbr>, <abbr
+            class="longitude" title="-122.168698">122° 10' 7.3128" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">James Fishkin</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">13</div></div></div><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/deliberative-polling">Deliberative Polling</a></div><div class="field-item odd"><a href="/en/methods/choicework-dialogue">Choicework Dialogue</a></div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/university-or-research" typeof="skos:Concept" property="rdfs:label skos:prefLabel">University or Research</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

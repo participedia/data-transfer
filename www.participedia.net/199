@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/americaspeaks" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/199" />
+  <title>AmericaSpeaks | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"KrbvvRhIqwKbUb5R4m_mBqEdJMKQNOzEtxCvVGkX9wo","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/americaspeaks?destination=node\/199":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-199 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/americaspeaks" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/americaspeaks?destination=node/199" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-xBbYt5AMVv7tN0RBXH9GPc9AhwtvfcELUXRdVAb5utw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">AmericaSpeaks</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="AmericaSpeaks - Participedia" addthis:url="http://participedia.net/en/organizations/americaspeaks"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jul 29 '09</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/americaspeaks" title="View user profile." class="username" xml:lang="" about="/en/users/americaspeaks" typeof="sioc:UserAccount" property="foaf:name" datatype="">AmericaSpeaks</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>AmericaSpeaks is a Washington, D.C.-based non-partisan, non-profit organization whose mission is to "engage citizens in the public decisions that impact their lives." AmericaSpeaks' work is focused on trying to create opportunities for citizens to impact decisions and to encourage public officials to make informed, lasting decisions. AmericaSpeaks has developed and facilitated deliberative methods such as the <a href="/methods/21st-century-town-meeting" title="21st Century Town Meeting">21st Century Town Meeting</a>, which enables facilitated discussion for 500 to 5,000 participants. Carolyn Lukensmeyer is the President and Founder of AmericaSpeaks. Its partners have included regional planning groups, local, state, and national government bodies, national and international organizations. Issues have ranged from Social Security reform, the redevelopment of ground zero in New York and rebuilding New Orleans. <a id="Mission_and_Purpose" name="Mission_and_Purpose"></a></p><h2>Mission and Purpose</h2><p>AmericaSpeaks is a non-profit and non-partisan organization that focuses on organizing regional and national citizen meetings. The mission of AmericaSpeaks is to “reinvigorate American democracy by engaging citizens in the public decision-making that most impacts their lives.” <a href="#cite_note-0" title="">[1]</a> The primary focus of the meetings is issues that revolve around issues with a significant budget impact. Another focus of AmericaSpeaks is to integrate solid democratic deliberation with technology and new media. Their aim for national citizen meetings goes beyond the small groups within a given community. AmericaSpeaks wants to connect citizens not only from different cultural backgrounds, but also geographic backgrounds. This is achieved with the utilization of satellites, keypad polling, and web conferences in order to connect citizens across the nation.</p><p>In addition to civic and technological engagement, AmericaSpeaks seeks to expand academia’s knowledge on the deliberative process. A subgroup of AmericaSpeaks known as the Democracy Lab for Research and Innovation has three goals in this field. They aim to “expand our knowledge about the practice of public deliberation, develop new and better ways to engage citizens to improve democratic processes and institutions, and foster and increase collaboration within the field of deliberative democracy.” <a href="#cite_note-1" title="">[2]</a> AmericaSpeaks envisions that their citizen forums will inspire the "public's business [to] be conducted differently - that by developing a rich national infrastructure for democratic deliberation through our projects, innovation and collaboration, [government] can access the collective wisdom of the American people.” <a href="#cite_note-2" title="">[3]</a> <a id="History" name="History"></a></p><h2>History</h2><p>AmericaSpeaks was founded in 1995. Since then, it has engaged over 145,000 people in over 50 large-scale forums in all 50 states and the District of Columbia. AmericaSpeaks aims to bring citizens together to deliberate about critical policy issues. The conclusions from these meetings are then brought to the attention of decision-makers in the hopes that citizen input will influence policy.</p><p>In 1994, after more than ten years of service in the public sector, AmericaSpeaks president Carolyn Lukensmeyer had grown concerned that citizens were increasingly being shut out of public decision-making processes. Carolyn traveled the United States and held vision meetings to conceptualize a model for large-scale citizen engagement forums, and a vision for how these forums could be used in national dialogues on key public policy issues. AmericaSpeaks’ mission is to create innovative mechanisms through which citizens can enhance their voice in local, regional, and national governance, and to renew democracy through the development of a national infrastructure for democratic deliberation and citizen engagement. <a id="Major_Projects_and_Events" name="Major_Projects_and_Events"></a></p><h2>Major Projects and Events</h2><p><a id="21st_Century_Town_Meeting" name="21st_Century_Town_Meeting"></a>21st Century Town Meeting</p><p>AmericaSpeaks’ <a href="/methods/21st-century-town-meeting" title="21st Century Town Meeting">21st Century Town Meeting</a> is intended to create engaging, meaningful opportunities for citizens to participate in public decision making. This process attempts to update the traditional <a class="new" href="/w/index.php?title=New_England&amp;action=edit&amp;redlink=1" title="New England (page does not exist)">New England</a> <a href="/wiki/Town_meeting" title="Town meeting">town meeting</a> to address the needs of today’s citizens, decision makers and democracy. Unlike most of New England's town meetings, however, it is not a formal legislative body, and therefore none of the decisions are binding.</p><p>The 21st Century Town Meeting marks a departure from traditional public participation methods, such as public hearings. The 21st Century Town Meeting focuses on discussion and deliberation among citizens rather than speeches, question-and-answer sessions or panel presentations. The purpose of the Town Hall Meeting is to gather diverse groups of citizens who will participate in round-table discussions (10-12 people per table) and deliberate in depth about key policy issues. Each table discussion is supported by a trained facilitator to keep participants on task. Participants receive discussion guides that present further information about the issues under consideration.</p><p>Technology collects the individual table discussions and the results are compiled into a set of collective recommendations. Each table submits ideas using wireless groupware computers and each participant can vote on specific proposals with keypad polling. These two pieces of technology allow for real-time reporting and voting. Results from discussions are presented to participants within minutes and polling results within seconds. The entire group votes on the final recommendations to submit to decision makers. Before the meeting ends, results from the meeting are put into a report, which is distributed to participants, decision makers and the <a class="new" href="/w/index.php?title=News_media&amp;action=edit&amp;redlink=1" title="News media (page does not exist)">news media</a> as they leave. <a id="21st_Century_Summit" name="21st_Century_Summit"></a></p><h3>21st Century Summit</h3><p>The 21st Century Summit was created to help organization leaders tap into the collective wisdom of their constituents and stakeholders through large-scale meetings. During discussions, participants identify shared priorities and develop recommendations on essential policies and plans. At the meeting, AmericaSpeaks attempts to help attendees explore key issues, weigh critical trade offs, and deepen their connection and commitment to next steps. AmericaSpeaks has more than a decade of experience with engaging large numbers of members, employees or stakeholders – 50 to 5,000 at a single meeting – in a strategic, outcomes-oriented discussion. The method integrates recent technology with facilitated dialogue, and provides the tools to enable groups to examine important options and identify mutual priorities. <a id="Americans_Discuss_Social_Security" name="Americans_Discuss_Social_Security"></a></p><h3>Americans Discuss Social Security</h3><p>"Americans Discuss Social Security" was a 1998 non-partisan effort funded by The Pew Charitable Trusts, that directly engaged a diverse sample of Americans in a dialogue about Social Security (United States)|Social Security reform and recommended that the United States Congress support legislation that reflected citizen preferences. Over fifteen months, the project engaged nearly 45,000 Americans in every state in direct discussions on Social Security reform and reached more than twelve million through the project’s media and public education efforts. <a id="Citizen_Summits_in_Washington.2C_DC" name="Citizen_Summits_in_Washington.2C_DC"></a></p><h3>Citizen Summits in Washington, DC</h3><p>Beginning in 1999 and lasting until 2005, Mayor Anthony Williams partnered with AmericaSpeaks in an attempt to restore Washingtonians' faith in the government and gather recommendations for budgeting allocation. Over 13,500 citizens participated in seven 21st Century Town Meetings.</p><p>Because of the Citizen Summits, millions of dollars were budgeted to areas over which citizens voiced concern, including: an additional $270 million for education; $10 million for senior services; 1,000 new drug treatment slots; an additional $25 million for a housing trust fund; $2 million for citizen involvement; and nearly $20 million for more police and juvenile-related initiatives. Also, the mayor's office created and implemented the Office of Neighborhood Action, which is responsible for ensuring that citizens have a voice in shaping the city’s priorities. <a id="Redeveloping_Ground_Zero" name="Redeveloping_Ground_Zero"></a></p><h3>Redeveloping Ground Zero</h3><p>Listening to the City was held at the Javits Center in New York City in July 2002 to involve 4300 local citizens, who closely reflected the demographic diversity of the region, in the planning process for Ground Zero's future. Decision-makers from the Lower Manhattan Development Corporation and the Port Authority co-sponsored the meeting and incorporated it into their official public engagement process. After a day of intense deliberation, participants determined that the original plans for the redevelopment of the World Trade Center failed to meet the needs of the city. Within a week of Listening to the City, decision-makers announced that the plans would be redrawn in accordance with public priorities. A two-week online deliberation and dialogue reached another 800 New York City residents who reviewed the site options in small cyber groups. <a id="2005_World_Economic_Forum" name="2005_World_Economic_Forum"></a></p><h3>2005 World Economic Forum</h3><p>The 2005 World Economic Forum in Davos, Switzerland featured a Global Town Hall Meeting by AmericaSpeaks’ international arm, Global Voices, where 700 world leaders prioritized and addressed some of the toughest issues facing the global community. Poverty and Equitable Globalization were voted the two top priorities. <a id="_European_Citizens.27_Deliberate_of_Brain_Science" name="_European_Citizens.27_Deliberate_of_Brain_Science"></a></p><h3>Meeting of the Minds: European Citizens' Deliberate of Brain Science</h3><p>Over the course 2005, 126 citizens met up a handful of times within their own country and twice with citizens from other countries in order to discuss “the ethical, social, and legal implications of brain science policy and technology.” Participating nations included Belgium, Denmark, France, Germany, Greece, Hungry, Italy, the Netherlands, and the United Kingdom. <a href="#cite_note-3" title="">[4]</a> The focus of the discussion was broken up into 6 themes: regulation and control, normalcy vs. diversity, information and communication, equal access to treatment, pressure from economic interests, and freedom of choice.</p><p>After these meetings, the citizens turned in a summary of their findings in January of 2006 to the European Parliament. These recommendations and insights were later used by other organizations such as the European Group on Ethics in Science, the European Union, and New Technologies. This project was run by the pan-national department of AmericaSpeaks, known as Global Voices. <a id="Our_Budget.2C_Our_Economy" name="Our_Budget.2C_Our_Economy"></a></p><h3>Our Budget, Our Economy</h3><p>Thousands of citizens from 20 major cities are expected to participate in a national discussion set to take place on June 26, 2010. Unlike previous AmericaSpeak forums, this will be the first of their forums that will have different cities simultaneously and collectively participate with others. 32 individuals from Institutions such as the Heritage Foundation plus local outreach partners will comprise AmericaSpeak’s Nation Advisory Committee that will oversee the proceedings. These people will act as moderators and advisors for the meetings.</p><p>The main issue of the forum is the recent budget crisis and discussing solutions to the nation’s recession. After the meeting has taken place, the opinions and recommendations of the participants will be condensed into a report that will be presented to the National Commission on Responsibility and Reform and the Bi-Partisan Policy Center’s Debt Reduction Task Force. <a id="Organizations" name="Organizations"></a></p><h2>Organizations</h2><p><a id="Voices_.26_Choices" name="Voices_.26_Choices"></a>Voices &amp; Choices</p><p>AmericaSpeaks partnered with the Fund for Our Economic Future to organize a series of town meetings and public forums across northeast Ohio to enable thousands of people to come together to create a strategic plan for revitalizing the region's economy. One of the largest public deliberations convened, Voices &amp; Choices combined a variety of approaches for mobilizing the region’s citizenry, including one-on-one interviews, online forums and two large-scale 21st Century Town Meetings. Over 20,000 participants identified the region’s strengths, identified and prioritized its most important challenges and brainstormed solutions. <a id="Citizens.27_Health_Care_Working_Group" name="Citizens.27_Health_Care_Working_Group"></a></p><h3>Citizens' Health Care Working Group</h3><p>AmericaSpeaks worked with the Citizens' Health Care Working Group to engage thousands of Americans in a national discussion on health care reform. 21st Century Town Meetings were held in Los Angeles and Cincinnati. Smaller forums were held in other cities throughout the nation. <a id="Unified_New_Orleans_Plan" name="Unified_New_Orleans_Plan"></a></p><h3>Unified New Orleans Plan</h3><p>AmericaSpeaks partnered with the Unified New Orleans Plan to bring together nearly 4000 New Orleanians in two large-scale public meetings to develop and review elements of a city wide-plan for recovery. The December 2006 and January 2007 Community Congresses were multi-site meetings that connected participants over geographical distances using satellite video and webcast.</p><p>Community Congress II (December 2 2006) and Community Congress III (January 20, 2007) were both held simultaneously in New Orleans and other American cities with the large numbers of Katrina evacuees (New Orleans diaspora). AmericaSpeaks partnered with the Unified New Orleans Plan to design, recruit participants and implement these meetings. When polled at the meetings, the participant groups closely approximated the pre-Katrina demographics of New Orleans: In pre-Katrina New Orleans, 67% were African-American and 37% had household income under $20,000; at Community Congress II, 64% were African-American and 25% had household income under $20,000; at Community Congress III, 55% were African-American and 24% had household income under $20,000. Renters, however, were significantly underrepresented - prior to Hurricane Katrina, 54% of the population were renters, while they made up only 29% of the participants.</p><p>The meetings connected New Orleanians at home with friends and neighbors who have not yet made it home through the use of Internet webcast technology or closed circuit television. Community Congress III presented the draft plan to citizens, incorporating many of the recommendations from Community Congress II, and 92% of participants expressed support for the Plan to go forward.</p><p>In late May 2007, $117 million in federal block grants was released for infrastructure repairs when the Louisiana Recovery Authority board accepted New Orleans' citywide recovery plan. The money is the first step toward financing a city recovery plan officials say will cost $1.1 billion. When releasing the money, The Louisiana Recovery Authority board recognized that the Unified New Orleans Plan was a citizen- driven recovery vision developed with "unprecedented participation and representation from every part of the city." <a id="CaliforniaSpeaks" name="CaliforniaSpeaks"></a></p><h3>CaliforniaSpeaks</h3><p>Nearly 3,500 Californians gathered in eight cities on August 11, 2007 in an interactive forum on health care priorities called <a href="/cases/californiaspeaks" title="CaliforniaSpeaks">CaliforniaSpeaks</a>, and 82 percent advocated major changes. The project was created and led by AmericaSpeaks.</p><p>The most popular suggestions called for putting people before profit, prioritizing wellness and prevention, and making health care affordable and accessible to everyone. The statewide conversation was created to enable ordinary Californians to tell state lawmakers what they think about the current health care reform proposals. Governor Arnold Schwarzenegger, Assembly Speaker Fabian Nunez, Senate President pro Tem Don Perata, Assembly Republican Leader Mike Villines and other Republican and Democratic legislators attended the event. Each of the lawmakers emphasized his commitment to passing health care reform in 2007.</p><p>The real-time, nonpartisan health care discussion blended small-group dialogue with cutting-edge technology. Satellite television, webcast, simultaneous television broadcast, groupware and individual voting keypads were used. Forums were held in Sacramento, San Diego, Eureka, Fresno, Los Angeles, San Luis Obispo, Oakland-San Francisco and Riverside-San Bernardino. <a id="Democracy_Lab_for_Innovative_and_Research" name="Democracy_Lab_for_Innovative_and_Research"></a></p><h3>Democracy Lab for Innovative and Research</h3><p>AmericaSpeaks is dedicated to advancing citizen deliberation and aims to one day create an infrastructure in the United States that deeply incorporates citizens into the decision-making process. The Democracy Lab for Innovation and Research is AmericaSpeaks’ think tank on deliberative democracy and citizen engagement. The Democracy Lab develops methods to advance and sustain citizen engagement in the public policy process. AmericaSpeaks formed the Democracy Lab in order to: Improve democratic processes and institutions by creating a new governance mechanism that will regularly convene diverse groups of Americans on key policy questions and incorporate citizen voices into policy making; Enhance and improve AmericaSpeaks’ approach to citizen engagement, such as developing new models for sustaining citizen participation and turning initial participation in deliberation into long-term citizen engagement and action; Evaluate the impact of AmericaSpeaks’ citizen engagement initiatives; Strengthen the deliberative democracy field by disseminating knowledge gained by AmericaSpeaks through its projects and research. AmericaSpeaks routinely brings together leading scholars and practitioners from the field of deliberative democracy to develop insights into and solutions for key questions in the field of citizen engagement. <a id="Funding" name="Funding"></a></p><h2>Funding</h2><p><a id="General_Funding" name="General_Funding"></a></p><h3>General Funding</h3><p>AmericaSpeaks is non-partisan and non-profit organization that receives its funding from over 90 current and recent contributors. Some major contributors include the National 4-H Council, the Pew Charitable Trust Fund, United Nations Environment Programme, the World Economic Fourm, in addition to many cities being direct contributors. <a href="#cite_note-4" title="">[5]</a> <a id="Our_Budget.2C_Our_Economy_National_Town_Meeting" name="Our_Budget.2C_Our_Economy_National_Town_Meeting"></a></p><h3>Our Budget, Our Economy National Town Meeting</h3><p>This meeting has been specifically funded by the Peter G. Peterson Foundation, E.K. Kellogg Foundation, and the John D. and Catherine T. MacArthur Foundation. <a href="#cite_note-5" title="">[6]</a> <a id="Further_reading" name="Further_reading"></a></p><h2>Further reading</h2><ul><li>Brigham, S. (2006) Taking Democracy to a Regional Scale in Hamilton County. The Handbook of Large Group Methods: Creating Systemic Change in Organizations and Communities. (pp 231–245). San Francisco: Jossey-Bass.</li><li>Leighninger, M. (2006). The Next Form of Democracy: How Expert Rule Is Giving Way to Shared Governance and Why Politics Will Never Be the Same. (pp 48, 66, 143-147). Nashville: Vanderbilt University Press.</li><li>Epstein, P., Coates, P., Wray, L., Swain, D. (2006). Results that Matter: Improving Communities by Engaging Citizens, Measuring Performance, and Getting Things Done. (pp 28–29, 166-169, 200-201). San Francisco: Jossey-Bass.</li><li>Nobel, P. (2005). Sixteen acres: architecture and the outrageous struggle for the future of Ground Zero. (pp 103–106). New York: Metropolitan Books, Henry Holt and Co.</li><li>Lukensmeyer, C., Brigham, S., Goldman, J. (2005) "A Town Meeting for the 21st Century." in The Deliberative Democracy Handbook: Strategies for Effective Civic Engagement in the 21st Century. (154-163). San Francisco: Jossey-Bass.</li></ul><p><a id="Citations" name="Citations"></a></p><h2>Citations</h2><ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> <a class="external text" href="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=471" rel="nofollow" title="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=471">AmericaSpeak</a>.</li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> <a class="external text" href="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=471" rel="nofollow" title="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=471">AmericaSpeak</a>.</li><li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a> <a class="external text" href="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=504" rel="nofollow" title="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=504">Democracy Lab</a>.</li><li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> <a class="external text" href="http://www.meetingmindseurope.org/europe_default_site.aspx?SGREF=3278&amp;CREF=6399" rel="nofollow" title="http://www.meetingmindseurope.org/europe_default_site.aspx?SGREF=3278&amp;CREF=6399">Meeting of Minds: European Citizens' Deliberation on Brain Science</a>.</li><li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> <a class="external text" href="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=690&amp;parentID=473&amp;nodeID=1" rel="nofollow" title="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=690&amp;parentID=473&amp;nodeID=1">AmericaSpeaks Sponsors</a>.</li><li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> <a class="external text" href="http://USABudgetDiscussion.org/about-2/our-funders/" rel="nofollow" title="http://USABudgetDiscussion.org/about-2/our-funders/">Our Budget, Our Economy Sponsors</a>.</li></ol><p><a id="External_links" name="External_links"></a></p><h2>External links</h2><ul><li><a class="external text" href="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=690&amp;parentID=473&amp;nodeID=1" rel="nofollow" title="http://www.americaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=690&amp;parentID=473&amp;nodeID=1">Meeting of the Minds</a></li><li><a class="external text" href="http://www.americaspeaks.org/" rel="nofollow" title="http://www.americaspeaks.org/">AmericaSpeaks</a></li><li><a class="external text" href="http://www.deliberative-democracy.net" rel="nofollow" title="http://www.deliberative-democracy.net">Deliberative Democracy Consortium</a></li><li><a class="external text" href="http://www.youtube.com/watch?v=jA8xIVZAok8&amp;eurl=" rel="nofollow" title="http://www.youtube.com/watch?v=jA8xIVZAok8&amp;eurl=">Video highlights of 21st Century Town Meeting with the Unified New Orleans Plan, December 2006</a></li></ul></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Washington, D.C.</span>
+                                                                <span class="geo"><abbr class="latitude" title="38.908394">38° 54' 30.2184" N</abbr>, <abbr
+            class="longitude" title="-77.039199">77° 2' 21.1164" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Carolyn Lukensmeyer</div></div></div><div class="field field-name-field-budget field-type-text field-label-above"><div class="field-label">Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">7</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">14</div></div></div><div class="field field-name-field-pt-staff-count field-type-text field-label-above"><div class="field-label">Part-time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">60</div></div></div><div class="field field-name-field-volunteer-count field-type-text field-label-above"><div class="field-label">Volunteer Count:&nbsp;</div><div class="field-items"><div class="field-item even">6001</div></div></div><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/21st-century-town-meeting">21st Century Town Meeting</a></div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item odd"><a href="/en/general-issues/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Health</a></div><div class="field-item even"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

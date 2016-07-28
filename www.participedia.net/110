@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/vecinos-por-la-defensa-del-barrio-yungay" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/110" />
+  <title>Residents in Defence of Yungay Neighbourhood &quot;Vecinos por la Defensa del Barrio Yungay&quot; (Santiago, Chile) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"makO_AgQl_h27ArCefZuZDCmJ8wZ4NwkAYmP681pl-Y","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"110"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/vecinos-por-la-defensa-del-barrio-yungay?destination=node\/110":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-110 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/vecinos-por-la-defensa-del-barrio-yungay" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/vecinos-por-la-defensa-del-barrio-yungay?destination=node/110" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-sadPWTAlv12jRGQj5LVWfOCJJwS8YBQwe-2yZucHnZ0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Residents in Defence of Yungay Neighbourhood &quot;Vecinos por la Defensa del Barrio Yungay&quot; (Santiago, Chile)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Residents in Defence of Yungay Neighbourhood &quot;Vecinos por la Defensa del Barrio Yungay&quot; (Santiago, Chile)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/laurenmo" title="View user profile." class="username" xml:lang="" about="/en/users/laurenmo" typeof="sioc:UserAccount" property="foaf:name" datatype="">Laurenmo</a> on Wed, 06/22/2011 - 12:58</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 05/02/2016 - 09:21</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Residents in Defence of Yungay Neighbourhood &amp;quot;Vecinos por la Defensa del Barrio Yungay&amp;quot; (Santiago, Chile) - Participedia" addthis:url="http://participedia.net/en/cases/vecinos-por-la-defensa-del-barrio-yungay"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Problems and Purpose</h3><p>Vecinos por la Defensa del Barrio Yungay (Residents in Defence of Yungay Neighbourhood – RIDYN) is a community-run organization based in the Yungay neighbourhood in Santiago, Chile. The organization was formed with the goal of protecting the cultural heritage within the neighbourhood against the municipality’s newly elaborated zoning laws, which allowed the construction of buildings more than 10 stories high in the historic area. Through collective action, residents have been able to obtain recognition of Yungay as a national heritage site, gaining national and international attention in their struggle for creating a participatory culture among residents in order to be able to determine the future of their neighbourhood with the administration, and not just being subject to its decisions.</p><h3>History</h3><p>Barrio Yungay is one of Santiago's oldest and biggest neighbourhoods, located in the western part of the city. In 1839, General Manuel Bulnes defeated the Peruvian-Bolivian forces in the small village of Yungay. In the same year, President Joaquín Prieto decided to make Yungay a neighbourhood in Santiago and encouraged settlers to move into and develop the area. </p><p>Between 1840 and 1870, the neighbourhood sees a strong demographic growth, with its consolidation as a residential area (Hegnauer 2002)<a class="sdendnoteanc" href="#sdendnote1sym" name="sdendnote1anc" id="sdendnote1anc">i</a>. Between 1870 and 1930 a massive rural exodus in Chile led to the doubling of the urban population compared to previous periods. In order to be able to better accommodate its new residents, Santiago modernizes its infrastructure, as well as its economy. Yungay, in this period, changed from a purely residential area to a mainly residential area, following the opening of many shops after the arrival of many artisans. Labourers set up residence in the degraded buildings in Yungay, as the better off migrated to the eastern neighbourhoods of Santiago who offered a better infrastructure and real-estate options to this class.</p><p>It is in the older sector of the neighbourhood that the big detached houses with one to three floors, in various states of preservation are located, and this is the main area RIDYN sought to defend. It is an area of cultural importance for its significant display of Chilean architecture from 19th and 20th century (Hegnauer 2002)<a class="sdendnoteanc" href="#sdendnote2sym" name="sdendnote2anc" id="sdendnote2anc">ii</a>. </p><p>In the 1990s,, the neighbourhood was remodelled after being declared a Zone of Urban Renovation (Zona de Renovación Urbana). The municipality of Santiago tried to stimulate the repopulation of the neighbourhood through subsidies. It was from then on that the real-estate market turned its attention towards Yungay<a class="sdendnoteanc" href="#sdendnote3sym" name="sdendnote3anc" id="sdendnote3anc">iii</a>. Within this initiative, parks were improved, children's playgrounds built, and cultural activities such as theatric plays, exhibitions and workshops were held in the main square<a class="sdendnoteanc" href="#sdendnote4sym" name="sdendnote4anc" id="sdendnote4anc">iv</a>. However, the new buildings constructed clashed with the older existing buildings in terms of size, style, and materials, heterogenising what was once an architecturally homogeneous area. The taller buildings with seven floors brought in more residents which strained access to public services and changed the overall quality of life within the neighbourhood.</p><p>In 2005 the municipality of Santiago altered their trash collection system to disastrous effects in Yungay. Trash collection changed from an everyday event to three times a week, prompting problems of garbage piling up in the streets and in front of houses, interrupting sidewalks and giving off a fowl stench<a class="sdendnoteanc" href="#sdendnote5sym" name="sdendnote5anc" id="sdendnote5anc">v</a>. Residents gathered in assemblies and designed proposals for alternative trash collection possibilities. They achieved great publicity in the press, and, after 9 months of conflict, gained a meeting with the mayor and were able to present their plans. Soon after, in 2006 already, residents discovered by chance<a class="sdendnoteanc" href="#sdendnote6sym" name="sdendnote6anc" id="sdendnote6anc">vi</a> a meeting called by the municipality of Santiago to inform residents of proposals to change Yungay's urbanization master plan that would allow the construction of residential high-rise buildings of up to 22 stories high through the expropriation of houses, and the loss of the category as a historical preservation site. </p><p>Neighbours questioned the impact of high-rise buildings in their quality of life. The group Vecinos por la Defensa del Barrio Yungay (Residents in Defence of Yungay Neighbourhood) was formed as an organized opposition to the municipality's modification project in the name of the historic and cultural heritage within the neighbourhood<a class="sdendnoteanc" href="#sdendnote7sym" name="sdendnote7anc" id="sdendnote7anc">vii</a>. They demanded the right to participate in deciding the future of their neighbourhood and to participate in the decision-making process in subjects that directly affected them.</p><h3>Neighbours Organize Themselves: Assemblies and Councils</h3><p>Since its inception, the group has held weekly meetings in which different commissions work on themes. These meetings are horizontal and open to anyone who wants to participate and work is carried on on a voluntary basis. Each member can choose a commission to work in depending on his or her interests and for as long as they wish to. Continued participation is guaranteed only by the sense of accomplishment neighbours develop as they see the fruit of their efforts materialise, that is, being able to actively contribute to changing the neighbourhood into a better place, not just waiting for the Municipality to come up with a solution and apply it<a class="sdendnoteanc" href="#sdendnote8sym" name="sdendnote8anc" id="sdendnote8anc">viii</a>.</p><p><u><em>The First Weekly Assemblies</em></u></p><p>After the unveiling of the modification plan neighbours started weekly meetings in order to discuss the modification project and its effects in the neighbourhood. In the first meeting, only six residents appeared. In the coming weeks, the word was spread around the neighbourhood about their existence and more people showed up. Attendees were not only residents of Yungay, but also former residents and the general public interested in its preservation<a class="sdendnoteanc" href="#sdendnote9sym" name="sdendnote9anc" id="sdendnote9anc">ix</a>:  youths, artists, professionals, cultural managers, migrants and older adults are always present<a class="sdendnoteanc" href="#sdendnote10sym" name="sdendnote10anc" id="sdendnote10anc">x</a>. Within these meetings, strategic action lines have concentrated on the following themes:</p><ul><li>The legal protection of the neighbourhood through the declaration of national heritage site;</li><li>the consolidation of a cultural network in the neighbourhood;</li><li>the establishment of a sustainable neighbourhood;</li><li>generating exchange opportunities with other neighbourhood;</li><li>the creation of a national network of heritage zones;</li><li>the creation of subsidies for home owners who live in national heritage sites;</li><li>alternative proposals to the modification of Chilean town planning law (Petrowitsch 2012)<a class="sdendnoteanc" href="#sdendnote11sym" name="sdendnote11anc" id="sdendnote11anc">xi</a>. </li></ul><p>According to members of the RIDYN, there are no assigned roles within the group. Each participate voluntarily and contributes with what they can. There is, nonetheless, a core group of 20 active members that are always involved in the activities of the organization<a class="sdendnoteanc" href="#sdendnote12sym" name="sdendnote12anc" id="sdendnote12anc">xii</a>. These assemblies prepare the councils and make a pre-selection of the themes that will be there debated.</p><p>The weekly assemblies are still being carried out.</p><p><u><em>The First Council</em></u></p><p>The first council was held in October 2006 in the neighbourhood library. Around 150 residents out of a total around 50 000 came to the meeting. Two moderators followed a pre-set agenda and discussions were centred around the problem of trash collection, the town modification project and the strengthening of the neighbourhood's culture and identity. Five commissions were formed, each dealing with one of the following themes: health; culture and neighbourhood identity; heritage and urban development; citizen participation. This resulted in 36 proposals for the municipality and neighbours themselves to carry out in order to improve the quality of life and administration of the neighbourhood<a class="sdendnoteanc" href="#sdendnote13sym" name="sdendnote13anc" id="sdendnote13anc">xiii</a>. These proposals generated an action plan for the next two years.</p><p>After the council, RIDYN started making awareness campaigns for the whole of Yungay in order to inform especially those who would be directly affected by the modification plan of its consequences on the impact in the quality of life in the neighbourhood. They did this through a variety of ways: the creation of a magazine “Bello Barrio” (Beautiful Neighbourhood)<a class="sdendnoteanc" href="#sdendnote14sym" name="sdendnote14anc" id="sdendnote14anc">xiv</a>, which was distributed at kiosks around the neighbourhood; by attaching posters around Yungay; by distributing flyers; through a community internet radio and a website (<a href="http://www.elsitiodeyungay.cl/">http://www.elsitiodeyungay.cl</a>), both especially created for this occasion. Cultural activities such as festivals, heritage routes, seminars, markets, the celebration of the Roto Chileno, the creation of a family album of the neighbourhood, sporting events, voluntary community work, all sought to recover and to promote the cultural heritage of the neighbourhood (Muñoz 2011)<a class="sdendnoteanc" href="#sdendnote15sym" name="sdendnote15anc" id="sdendnote15anc">xv</a>.</p><p><u><em>The Second Council</em></u></p><p>Despite the neighbours' efforts, the municipality still went ahead the modification project, which led the second council to be held in September 2007. This meeting was also attended by around 150 people and followed the same procedure of the previous meeting: five different commissions following the same themes set in the previous meeting collected the main concerns and propositions by participants regarding their respective themes. These were later put into discussion in the plenary and voted on. The neighbours decided to continue with their efforts to strengthen ties within the neighbourhood through cultural activities and the improvement of public spaces for the community. Emphasis was given to the plan to declare Yungay a Zona Típica (a national heritage site) as a means to stop the growth and influence of real-estate companies in the neighbourhood<a class="sdendnoteanc" href="#sdendnote16sym" name="sdendnote16anc" id="sdendnote16anc">xvi</a>. </p><p>Soon after the council, neighbours partnered up with architects and academics in order to carry out the necessary measures fir their application to become a national heritage site. This work lasted around a year and a half.</p><p><u><em>Zona Típica</em></u></p><p>A Zona Típica (Typical Zone) is a term that describes an area of a municipality designated as a national heritage site. To be considered a Zona Típica, an area must submit an application to the National Monuments Committee, explaining the architectural and historical importance of its buildings. It is specifically defined by the National Monuments Committee, with delimited borders and acreage being an integral part of the approval of a Typical Zone. Furthermore, when an area is defined a Typical Zone, new building restrictions are applied to it, which imposes limits, for instance, in the permitted colours of facades, and in building heights, among other criteria.</p><p>To fulfil a requirement for their application to become a recognised national heritage site, two members of RIDYN joined forces with technical experts to conduct the “Estudio del Patrimonio Arquitectónico de Santiago Poniente” (Study of the Architectural Patrimony of Western Santiago). Funded by Fondart, the study examined the history of the neighbourhood, including an optional survey which asked residents about the properties of the area as well as their knowledge and opinions on the cultural heritage of their neighbourhood. One of the most interesting results was that 60 out of the 100 residents surveyed reported that they would participate in projects to promote the neighbourhood’s cultural heritage.</p><p>The study concluded with four proposals. The first was to create a patrimonial subsidy that could be used to recuperate and maintain the properties of the neighbourhood. The second was to expropriate certain streets in an effort to widen them. The third was the drafting of a set of instructions for altering specific norms regulating existing Zonas Típicas, and fourth to devise a set of rules regarding the types of changes that can be made to the properties within the national heritage zone. This study was presented to the National Monuments Committee along with the application to become a national heritage site and 2577 signatures from home owners, renters and 72 different institutions that supported the initiative.</p><p><u><em>Declaration of Zona Típica</em></u></p><p>On march 30th 2009, 113 acres in central Yungay were declared a national heritage site. With this move, neighbours were able to stop the advance of real-estate business that did not propose a model for sustainable development in the neighbourhood. </p><p>This was the first time in Chile that a national heritage site had been declared through a civil society initiative. Usually this had been the function reserved by governments or academics<a class="sdendnoteanc" href="#sdendnote17sym" name="sdendnote17anc" id="sdendnote17anc">xvii</a>.</p><p><em><u>The Third Council</u></em></p><p>The third council was carried out in July 2009. A general evaluation was made of what had been done so far, what had been reached, and what was still yet to do. Neighbours evaluated the work of the commissions and decided on their continuity. Financial accountability was also an important theme as neighbours presented how resources had been used in the national heritage site campaign. New cultural projects by different organizations were presented. Most importantly, follow-up plans for the national heritage project were given<a class="sdendnoteanc" href="#sdendnote18sym" name="sdendnote18anc" id="sdendnote18anc">xviii</a>. A Comprehensive Development Plan for Yungay was developed, including 40 initiatives in four different areas: training, identity recovery and promotion, intervention and recovery of urban heritage sites and media (diffusion of the national heritage site). </p><p>The creation of the Fermín Vivaceta School of Arts and Crafts, an initiative between Residents in Defence of Yungay Neighbourhood and the Fundación Patrimonio Nuestro (Our Heritage Foundation) – something that had been discussed and planned within the weekly assemblies – was also decided upon in the council. The School seeks to provide skilled labour for the restoration of heritage buildings. It focuses on teaching traditional techniques within woodwork, plastering, traditional tiles, adobe, as well as training for the implementation of electrical systems with an emphasis on clean energy<a class="sdendnoteanc" href="#sdendnote19sym" name="sdendnote19anc" id="sdendnote19anc">xix</a>. </p><p>With the initiatives developed in the council, a new organisational phase began, that of formulating proposals for the development and management of the now protected neighbourhood. A technical panel was organised in collaboration with the municipality, the under-secretaryship of regional development and administration (SUBDEPE), and the Ministry of Public Works<a class="sdendnoteanc" href="#sdendnote20sym" name="sdendnote20anc" id="sdendnote20anc">xx</a>. Neighbours sought to carve a space within Chilean political system and bureaucracy for participatory citizenship.</p><p><u><em>2010 Earthquake and Aftermath</em></u></p><p>The earthquake that shook Chile in February 2010 did its share of damage to Yungay by destroying many buildings in the Typical Zone. However, within only a few hours after the earthquake, RIDYN had already formed the Emergency Heritage Brigades that counted with about 1000 volunteers (Muñoz 2011)<a class="sdendnoteanc" href="#sdendnote21sym" name="sdendnote21anc" id="sdendnote21anc">xxi</a>. Due to the organisation's quick response, there was no necessity for complete demolition in any of the affected buildings. RIDYN worked together with the Fermín Vivaceta School in order to restore Yungay</p><p><em><u>The Fourth Council</u></em></p><p>The fourth council happened in May 2012. The six working commissions addressed problems which prevented the formation of a neighbourhood policy that included citizen participation in finding solutions for current problems they were faced with: reconstruction, dwellings, health, sustainability, social security, occupation of public areas, cultural development, integration, public education, diversity, expulsion and gentrification that led to a bad tourism policy, democratisation and challenges to communal power<a class="sdendnoteanc" href="#sdendnote22sym" name="sdendnote22anc" id="sdendnote22anc">xxii</a>. In the council, an evaluation of the Comprehensive Development Plan was carried out about the challenges it faced as well as how it had so far developed.</p><h2>Funding</h2><p>The organization does not receive municipal funding; it must solicit private organizations for the funding of individual projects. For instance, RIDYN sought the Fund for the Development of Regional, Provincial and Communal Social Media granted by the Ministerio Secretaria General de Gobierno de Chile, as well as the National Book Foundation in order to publish some issues of their Bello Barrio Magazines. </p><p>The organisation also sought Fondart (La Fundación para el Desarollo de Artesanías – The Foundation for the Development of Craftwork) for the development of the Heritage Study necessary for presenting their bid in order to become a National Heritage Site.</p><p>RIDYN worked together with the Fermín Vivaceta School in order to restore Yungay after the 2010 earthquake. To offset this effort’s lack of funds, the school charged $40,000 CLP to enrol in the 5-day course, and asked that residents provided their own materials. Later, these same workshops were (and still are) offered free of charge</p><h2>Influence, Outcomes, and Effects</h2><p>Since the declaration as a Zona Típica, the organization has collaborated with Barrio Brasil, an adjacent neighbourhood, to form the first set of regulations for urban interventions within their regions – a requirement made by the National Monuments Committee after Yungay was declared a national heritage site. After hosting 4 conferences in which residents, various social organizations, representatives of businesses and private and public institutions participated, the plan was released In January 2010. These regulations define the categories of protection of the buildings in the neighbourhoods, the paneling and materials which are prohibited from being used in buildings, the types of advertisements prohibited from being used in the area, the regulations for ventilation and air conditioning in building facades, the colours permitted in facades, the way in which public spaces are allowed to be used, etc.</p><p>In addition, various properties in the neighbourhood have been recovered through the efforts of volunteers that have participated in the capacitation workshops offered by the Fermín Vivaceta School.</p><p>With the Fermino Vivaceta School, RIDYN heads the Chilean Neighbourhood and Heritage sites Association, which organized the First National Congress of Neighbours and Recovery, Preservation and Promotion of Chilean Heritage, in which 600 people from all over the country participated, leading to the creation of a special commission in the House of Representatives for Historical and Cultural Heritage (Muñoz 2011)<a class="sdendnoteanc" href="#sdendnote23sym" name="sdendnote23anc" id="sdendnote23anc">xxiii</a>.</p><p>The organisation has also questioned Chilean Heritage laws, for these seek only to preserve monuments, and what the neighbours sought to protect was not merely the buildings but a way of life made possible within these areas, the cultural heritage. This aspect of their struggle has turned RIDYN into a role model for other neighbours' organisations as the passive attitude towards citizenship and decision-making in the local and communal level are being questioned (Petrowitsch 2012)<a class="sdendnoteanc" href="#sdendnote24sym" name="sdendnote24anc" id="sdendnote24anc">xxiv</a>. Neighbours seek to recover, preserve and improve the quality of life within their areas without depending so much in the timing of the official political decisions.</p><h2>Analysis and Criticism</h2><p>Being declared a Typical Zone has allowed Barrio Yungay to preserve their heritage. Through encouraging resident participation, Vecinos por la Defensa del Barrio Yungay has allowed residents to take a newfound interest in their neighbourhood. Residents now actively participate in rehabilitation efforts, in tourism workshops, and in festival planning. Through these efforts Barrio Yungay is transforming itself from a once abandoned, dilapidated neighbourhood to an energetic, attractive area that draws in outsiders. These changes will hopefully have a positive economic effect on the neighbourhood as property values and tourism rates increase.</p><p>The horizontal organisation, the fluidity of participants as well as the lack of a written public protocol of the assemblies and councils makes it difficult to assess the internal working of the organisation and their decision-making practices. Such lack of information can lead one to wonder how much influence general residents truly had in these recent changes in their neighbourhood.</p><p>RIDYN faces a series of difficulties such as its inability to attract more residents within Yungay to participate in its assemblies and councils. Because citizen participation is a recent event in Chile, transforming it into a binding force in the various levels of governance instruments within the Chilean government is still a challenge.</p><p>As the organization looks to maintaining its future, it needs to establish a written, well-known set of guidelines for the way it is managed. This will ensure two things: 1) that the organization’s momentum and goals will not disappear when its current leaders retire, and 2) that residents’ voices will be guaranteed to be heard in a system of checks-and-balances. Currently no system is in place to ensure either of these factors crucial to the organization’s, as well as the neighborhood’s, permanence.</p><p> </p><h2>Secondary Sources</h2><p><a href="http://www.latercera.com/noticia/santiago/2011/01/1731-342090-9-elaboran-instructivo-para-proteger-identidad-patrimonial-del-barrio-yungaybrasil.shtml">http://www.latercera.com/noticia/santiago/2011/01/1731-342090-9-elaboran-instructivo-para-proteger-identidad-patrimonial-del-barrio-yungaybrasil.shtml</a> </p><p><a href="http://www.memoriasdelsigloxx.cl/601/w3-propertyvalue-872.html">http://www.memoriasdelsigloxx.cl/601/w3-propertyvalue-872.html</a></p><p><a class="sdendnotesym" href="#sdendnote1anc" name="sdendnote1sym" id="sdendnote1sym">i</a> <a href="http://polis.revues.org/7930?lang=en">http://polis.revues.org/7930?lang=en</a> [BROKEN LINK]</p><p><a class="sdendnotesym" href="#sdendnote2anc" name="sdendnote2sym" id="sdendnote2sym">ii</a> <a href="http://polis.revues.org/7930?lang=en">http://polis.revues.org/7930?lang=en</a> [BROKEN LINK]</p><p><a class="sdendnotesym" href="#sdendnote3anc" name="sdendnote3sym" id="sdendnote3sym">iii</a> <a href="http://www.elsitiodeyungay.cl/textos/expediente/Estudio%20Patrimonio%20Santiago%20Poniente.pdf">http://www.elsitiodeyungay.cl/textos/expediente/Estudio%20Patrimonio%20Santiago%20Poniente.pdf</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote4anc" name="sdendnote4sym" id="sdendnote4sym">iv</a> <a href="http://www.elsitiodeyungay.cl/index.php/9-sin-categoria/18-">http://www.elsitiodeyungay.cl/index.php/9-sin-categoria/18-</a></p><p><a class="sdendnotesym" href="#sdendnote5anc" name="sdendnote5sym" id="sdendnote5sym">v</a> <a href="http://www.memoriasdelsigloxx.cl/publicDestacadosDetalle.php?idDestacados=59">http://www.memoriasdelsigloxx.cl/publicDestacadosDetalle.php?idDestacados=59</a> [BROKEN LINK]</p><p><a class="sdendnotesym" href="#sdendnote6anc" name="sdendnote6sym" id="sdendnote6sym">vi</a> <a href="http://www.memoriasdelsigloxx.cl/contenidos/archivosMultimedia/MSXX000459.pdf">http://www.memoriasdelsigloxx.cl/contenidos/archivosMultimedia/MSXX000459.pdf</a> [BROKEN LINK]</p><p><a class="sdendnotesym" href="#sdendnote7anc" name="sdendnote7sym" id="sdendnote7sym">vii</a> <a href="http://www.memoriasdelsigloxx.cl/publicDestacadosDetalle.php?idDestacados=59">http://www.memoriasdelsigloxx.cl/publicDestacadosDetalle.php?idDestacados=59</a> [BROKEN LINK]</p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote8anc" name="sdendnote8sym" id="sdendnote8sym">viii</a> <a href="http://www.comunidadesdelpatrimonio.cl/textos/elsol16.pdf">http://www.comunidadesdelpatrimonio.cl/textos/elsol16.pdf</a></p><p><a class="sdendnotesym" href="#sdendnote9anc" name="sdendnote9sym" id="sdendnote9sym">ix</a> <a href="http://patrimonioculturaldechile.cl/nuestro/notas/rescate/redoles_barrio_yungay3.html">http://patrimonioculturaldechile.cl/nuestro/notas/rescate/redoles_barrio_yungay3.html</a> [DEAD LINK]</p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote10anc" name="sdendnote10sym" id="sdendnote10sym">x</a> <a href="http://www.territoriochile.cl/1516/article-77914.html">http://www.territoriochile.cl/1516/article-77914.html</a></p><p><a class="sdendnotesym" href="#sdendnote11anc" name="sdendnote11sym" id="sdendnote11sym">xi</a> <a href="http://www.estudiosurbanos.uc.cl/respaldo/wp-content/uploads/2012/05/Unterritorioqueconstruyeidentidadendefensadelpatrimonio.ElcasodelaBarrioYungay.pdf">http://www.estudiosurbanos.uc.cl/respaldo/wp-content/uploads/2012/05/Unt...</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote12anc" name="sdendnote12sym" id="sdendnote12sym">xii</a> <a href="http://patrimonioculturaldechile.cl/nuestro/notas/rescate/redoles_barrio_yungay6.html">http://patrimonioculturaldechile.cl/nuestro/notas/rescate/redoles_barrio...</a> [DEAD LINK]</p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote13anc" name="sdendnote13sym" id="sdendnote13sym">xiii</a> <a href="http://www.memoriasdelsigloxx.cl/contenidos/archivosMultimedia/MSXX000459.pdf">http://www.memoriasdelsigloxx.cl/contenidos/archivosMultimedia/MSXX000459.pdf</a> [BROKEN LINK]</p><p><a class="sdendnotesym" href="#sdendnote14anc" name="sdendnote14sym" id="sdendnote14sym">xiv</a> <a href="http://www.memoriasdelsigloxx.cl/publicDestacadosDetalle.php?idDestacados=59">http://www.memoriasdelsigloxx.cl/publicDestacadosDetalle.php?idDestacados=59</a> [BROKEN LINK]</p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote15anc" name="sdendnote15sym" id="sdendnote15sym">xv</a> <a href="http://www.territoriochile.cl/1516/article-77914.html">http://www.territoriochile.cl/1516/article-77914.html</a></p><p class="sdendnote"><a href="http://elci.sitiosur.cl/documentos2012/10%20Derecho%20a%20la%20ciudad_participacion%20ciudadana_democracia.pdf">http://elci.sitiosur.cl/documentos2012/10%20Derecho%20a%20la%20ciudad_participacion%20ciudadana_democracia.pdf</a></p><p><a class="sdendnotesym" href="#sdendnote16anc" name="sdendnote16sym" id="sdendnote16sym">xvi</a> <a href="http://www.patrimonionuestro.cl/www/index.php/noticias/422-cabildo-del-barrio-yungay-define-lineas-de-accion-para-el-futuro-del-barrio">http://www.patrimonionuestro.cl/www/index.php/noticias/422-cabildo-del-barrio-yungay-define-lineas-de-accion-para-el-futuro-del-barrio</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote17anc" name="sdendnote17sym" id="sdendnote17sym">xvii</a> <a href="http://www.plataformaurbana.cl/archive/2011/07/06/barrio-yungay-y-valoracion-comunitaria-del-patrimonio/">http://www.plataformaurbana.cl/archive/2011/07/06/barrio-yungay-y-valoracion-comunitaria-del-patrimonio/</a></p><p><a class="sdendnotesym" href="#sdendnote18anc" name="sdendnote18sym" id="sdendnote18sym">xviii</a> <a href="http://www.elsitiodeyungay.cl/index.php/using-joomla/extensions/components/content-component/article-categories/486-acuerdos-asamblea-vecinos-por-la-defensa-del-barrio-yungay-en-reunion-del-8-de-julio">http://www.elsitiodeyungay.cl/index.php/using-joomla/extensions/components/content-component/article-categories/486-acuerdos-asamblea-vecinos-por-la-defensa-del-barrio-yungay-en-reunion-del-8-de-julio</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote19anc" name="sdendnote19sym" id="sdendnote19sym">xix</a> <a href="http://www.elsitiodeyungay.cl/index.php/using-joomla/extensions/components/content-component/article-categories/2150-convocatoria-gratuita-a-7a-version-escuela-taller-de-artes-y-oficios-fermin-vivaceta">http://www.elsitiodeyungay.cl/index.php/using-joomla/extensions/componen...</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote20anc" name="sdendnote20sym" id="sdendnote20sym">xx</a> <a href="http://www.territoriochile.cl/1516/article-77914.html">http://www.territoriochile.cl/1516/article-77914.html</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote21anc" name="sdendnote21sym" id="sdendnote21sym">xxi</a> <a href="http://elci.sitiosur.cl/documentos2012/10%20Derecho%20a%20la%20ciudad_participacion%20ciudadana_democracia.pdf">http://elci.sitiosur.cl/documentos2012/10%20Derecho%20a%20la%20ciudad_pa...</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote22anc" name="sdendnote22sym" id="sdendnote22sym">xxii</a> <a href="http://www.elsitiodeyungay.cl/index.php/component/content/article/9-sin-categoria/1947-">http://www.elsitiodeyungay.cl/index.php/component/content/article/9-sin-categoria/1947-</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote23anc" name="sdendnote23sym" id="sdendnote23sym">xxiii</a> <a href="http://elci.sitiosur.cl/documentos2012/10%20Derecho%20a%20la%20ciudad_participacion%20ciudadana_democracia.pdf">http://elci.sitiosur.cl/documentos2012/10%20Derecho%20a%20la%20ciudad_pa...</a></p><p class="sdendnote"><a class="sdendnotesym" href="#sdendnote24anc" name="sdendnote24sym" id="sdendnote24sym">xxiv</a> <a href="http://www.estudiosurbanos.uc.cl/respaldo/wp-content/uploads/2012/05/Unterritorioqueconstruyeidentidadendefensadelpatrimonio.ElcasodelaBarrioYungay.pdf">http://www.estudiosurbanos.uc.cl/respaldo/wp-content/uploads/2012/05/Unt...</a></p><p> </p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A49">Arts &amp; Culture</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A90">Identity &amp; Diversity</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1752">Cultural and Environmental Protection</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A347">Participatory Urban Regeneration</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1548">Community Organizing</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Barrio Yungay</span>
+                      <span class="locality" itemprop="addressLocality">
+      Santiago      </span>
+                        <div class="country-name" itemprop="addressCountry">Chile</div>
+                                            <span class="geo"><abbr class="latitude" title="-33.441821">33° 26' 30.5556" S</abbr>, <abbr
+            class="longitude" title="-70.679841">70° 40' 47.4276" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Santiago%2C+%2C+%2C+cl">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CL      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A110">Protest</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, June 1, 2005 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A124">Other</a></div></div></div><div class="field field-name-field-demographics-target-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Demographics:&nbsp;</div><div class="field-items"><div class="field-item even">Barrio Residents</div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/community-organizing">Community Organizing</a></div><div class="field-item odd"><a href="/en/methods/public-hearing">Public Hearing</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A171">Peer Facilitators (i.e. other participants not professional facilitators)</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A141">Organized Demonstrations</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A147">Consensus</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Fund for the Development of Regional Provincial and Communal Social Media (Ministerio Secretaria General de Gobierno de Chile), The National Book Foundation, La Fundación para el Desarollo de Artesanías, Fermín Vivaceta School </div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A26">Academic Institution</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A20">Community Based Organization</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A28">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A20">Community Based Organization</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A20">Community Based Organization</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">15 individuals each direct one or more of the organization&#039;s projects</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-8b5101f7e15b5f367e9c8f7993d9a1dd">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/110">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

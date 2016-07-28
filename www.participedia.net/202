@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/sopinspace" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/202" />
+  <title>Sopinspace | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"7M0jHdCznnzgA2xdoo-RP7oaXOJUf6q0c46PqSVH31E","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/sopinspace?destination=node\/202":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-202 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/sopinspace" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/sopinspace?destination=node/202" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Wzy-1oQlK_-3j8BBcTBSdvfD6IBnKGQHMR-_HALbeck" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Sopinspace</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Sopinspace - Participedia" addthis:url="http://participedia.net/en/organizations/sopinspace"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Sep 27 '09</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/jshkabatur" title="View user profile." class="username" xml:lang="" about="/en/users/jshkabatur" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jennifer Shkabatur</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>Mission and Purpose </h2><p>The firm's policy is guided by two main principles: to make possible for all citizens, in full respect of their diversity of opinions, to build and express their views in quality debates; and to provide decision makers with reliable input on the landscape or arguments, preferences, positions and options, as to enable better public policy or organisation/company strategy choices.</p><p>The firm assists local communities, regions, public agencies and private firms with the design of online participatory platforms according to their particular needs and requirements. It develops innovative software solutions for online debates and consultations, provides consulting services and help with the integration of its software on a variety of online platforms.</p><p>In addition to the design and development of participatory platforms, Sopinspace offers its services in management, moderation, mapping and synthesis of ongoing debates. The firm's debate teams usually constitute of a cartographer who maintains the debate map, a media monitor who follows the general or specialized news on the debate's subject and informs the participants on relevant developments, a fact finder who searches (on request) for facts needed to validate or invalidate arguments, a scientific mediator who summarizes and comments on scientific papers and reports to make them more accessible for laypeople, etc.</p><p>Sopinspace also operates a French speaking collaborative blog and information resource on on-line debates and their tools.</p><p><a id="Products" name="Products"></a></p><h2>Products </h2><p>Since its foundation the firm has developed several free software products <a href="#cite_note-0" title="">[1]</a>.</p><p>1. Co-ment® <a href="#cite_note-1" title="">[2]</a>: a Web 2.0 text annotation application that allows users to upload texts, post comments and collaboratively edit texts. Users may enclose comments and responses to every word in the text. The scope of application of co-ment is much wider than on-line debates, but it has interesting applications in this domain. co-ment can be seamlessly integrated in Drupal sites thanks to the Drupal co-ment module <a href="#cite_note-2" title="">[3]</a>.</p><p>2. Glinkr® <a href="#cite_note-3" title="">[4]</a>: this Web service enables to produce graphical interactive maps of Web contents. In the context of online debates, such maps represent the structure of arguments and viewpoints brought up in the discussion. The structure of the map is flexible and it may evolve and changes according to the development of a discussion.</p><p><img src="http://participedia.net/sites/default/files/images/organizations/Glinkr.jpg" width="660" /><br />Glinkr</p><p>3. Tools for the collective evaluation of proposals or stakes to be debated, using graduated notation techniques. These tools are classical in the offline world since the <a class="new" href="/w/index.php?title=R%C3%A9gnier_abacus&amp;action=edit&amp;redlink=1" title="Régnier abacus (page does not exist)">Régnier abacus</a> in the 1980S. On-line analogs have been developed by <a class="new" href="/w/index.php?title=Delibera&amp;action=edit&amp;redlink=1" title="Delibera (page does not exist)">Delibera</a>. Sopinspace has implemented several modules for free software content management systems (PlonePriori <a href="#cite_note-4" title="">[5]</a> for Plone and a more general Drupal Priorities module <a href="#cite_note-5" title="">[6]</a>): these applications allow users to rank or evaluate a list of proposals and obtain a synoptical view of the collective results. This is useful to extract the priorities of users on a list of proposals.</p><p>These tools are distributed under free software licenses (GPLv3 or Affero GPLv3)</p><p><img src="/sites/default/files/images/organizations/Co-ment.jpg" width="660" /><br />Co-ment<br /><img src="/sites/default/files/images/organizations/Plonepriori.jpg" width="660" /><br />PlonePriori</p><h2>Notable examples </h2><p>The following examples represent some of the online debates which Sopinspace designed and managed.</p><p><a id="The_Open_University_Debate" name="The_Open_University_Debate"></a></p><h3>The Open University Debate </h3><p>The debate was held on April 20-23, 2009 as part of the Biennale Democrazia in Torino (Italy). Its purpose was to discuss the adoption of open access and open source standards in the universities of Torino. Faculty, students and staff of the different universities were invited to participate. The debates drew 1,500 unique visitors in three days, 125 registered users and 300 contributions.</p><p>The debates remained open for three days only and proceeded along three tracks. First, a debate on the desirability of becoming an open university. This debate was conducted as part of a discussion forum which users accessed through an interactive map of the debated topics and main arguments (using the Glinkr® tool). Second, a debate on the definition of an open university (based on the Wheeler Declaration), where participants could edit the Wheeler Declaration and comment on it using the co-ment® text annotation service. Third, concrete proposals for action were posted by participants and collectively evaluated by means of a graduated scoring technique (the PlonePriori tool).</p><p>At the end of the online debates, Sopinspace produced synthesis documents for each debate track. In parallel, willing participants were invited to act as debate messengers. The role of the debate messengers was to present the results of the online discussions (expressed views and arguments, action proposals, etc) to university decision makers in a physical meeting which concluded the Open University debates. The decision makers were asked to react to the presentations. The Open University project led to some concrete decisions, having the Politecnico di Torino, for instance, committing itself to produce a scoreboard on where it stands in relation to the Wheeler Declaration criteria.</p><p><a id="The_Online_Energy_Management_Debate" name="The_Online_Energy_Management_Debate"></a></p><h3>The Online Energy Management Debate </h3><p>The debate was organized by the French Environment and Energy Demand Management agency, in partnership with NGOs and science communication organizations. While most of the debate was conducted online, relying on thematic/argument cartography tools, it also included face-to-face citizen and stakeholders panels.</p><p>The debate was held between March 2007 and July 2007. Its aim was to produce a structured set of opinions and constructive proposals. Soliciting the largest possible amount was not the primary objective, but it was essential to obtain a fair representation of the diverse approaches, perceptions and proposals. The site had around 30,000 visits, up to 5,000 unique visitors per month, and 1,600 contributions (most of them rather detailed and well written). The exchanges were always courteous and respected the ethics of debate. The debate was largely uncovered by the media, due to the focus of the media on the upcoming elections in France. A better coverage could have attracted to the debate a greater number of participants who lacked prior awareness of environment and energy issues.</p><p>Users who registered on the site (registration was necessary to post contributions, but not for commenting on posts by others) were invited to provided some basic information about themselves. More than 90% of the 435 registered users accepted to do so. The provided data revealed an over-representation of highly-educated participants and an under-representation of blue collar workers. More than 50% of the participants were less than 40 years old and the number of participants aged 18-24 was larger than their share in the general population. The debate benefited from a substantial geographical spread, but only 22% of the participants were women.</p><p>The debate was held in 3 stages. During the first one, Internet users were asked to express their views on why energy demand management does not progress better and to formulate proposals on how to overcome the obstacles related to energy management. This stage involved an innovative use of tools for thematic cartography. These tools allowed the moderators of the debate to map the main themes and arguments of the ongoing discussions and offer participants a synoptical view of the debate. Such maps lowered entry barriers into discussions and facilitated the addition of novel contributions. Moderators from Sopinspace updated the maps as the debate developed (participants could comment and object to these updates). According to Sopinspace, such usage of thematic cartography has proved to be useful for maintaining readability and in order to make possible for contradictory exchanges to develop in certain “zones” of the map without preventing other themes to be debated in a constructive manner in other “zones”.</p><p>In the second phase, seven multi-stakeholders face-to-face meetings took place in several French cities, bringing together interested citizens, Internet contributors, experts, NGOs, etc. The purpose of these meetings was to discuss the proposals that were brought up online and select 32 of them for a further discussion. The third stage consisted of a new online debate, which aimed to better analyze and refine these 32 proposals.</p><p>25 concrete policy or action proposals and 5 discussions without a consensual proposal constituted the outcome of the debate. The latter are on subjects where argumentative exchanges have dominated (primarily on the respective role of renewable energy and nuclear energy for electricity production). 16 of these proposals were sent to decision-makers and included suggestions regarding eco-taxes and direct policies for the transportation field; new incentives for energy saving investments; suggestions regarding a coordinated approach to spatial and city planning, and more. The other proposals were not mature enough and required a further research and discussion.</p><p><a id="The_Online_Debate_on_Wind_Turbines" name="The_Online_Debate_on_Wind_Turbines"></a></p><h3>The Online Debate on Wind Turbines </h3><p>The debate was held between November 2005 and October 2006, as part of the European DREAM 2 project which aims promote the use of ICT in the region of Nord Pas de Calais. The purpose of the debate was to engage the 12,000 residents of Atrébatie in a discussion on wind energy and its implications for the region. The debate combined an online platform with face-to-face meetings. While the agenda for the debate was developed online, the actual discussion was held in small face-to-face meetings.</p><p>The discussion consisted of four stages. During the first stage, participants suggested issues for the debate's agenda. This stage was based on a free flow of ideas and suggestions. During the second stage, participants were asked to rank the suggestions that were brought up on the first stage. The ranking allowed to limit the variety of the suggested ideas to a set of topics that most significantly concerned the participants. The third stage consisted of face-to-face meetings in groups of 12, based on the topics that were prioritized online. At the fourth stage, the synthesis of the face-to-face meetings along with the responses of the municipality officials were posted online.</p><p>The website remained open for a month and a half, with an average of 40 visitors per day. During the first stage, 40 participants offered 90 issues for discussion and, at the second stage, 60 participants ranked the proposals. The face-to-face meetings drew over one hundred participants. It is not clear which of the proposals were adopted by the municipality.</p><p><a id="Further_reading" name="Further_reading"></a></p><h2>Further reading </h2><p><a id="External_Links" name="External_Links"></a></p><h2>External Links </h2><ul><li><a class="external text" href="http://www.sopinspace.com" rel="nofollow" title="http://www.sopinspace.com">Sopinspace</a></li><li><a class="external text" href="http://www.debatpublic.net" rel="nofollow" title="http://www.debatpublic.net">French speaking Observatory of on-line debates and their tools</a></li><li><a class="external text" href="http://fr.wikipedia.org/wiki/Philippe_Aigrain" rel="nofollow" title="http://fr.wikipedia.org/wiki/Philippe_Aigrain">Philippe Aigrain on the Wikipedia</a></li></ul><p><a id="References" name="References"></a></p><h2>References</h2><ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> <a class="external free" href="http://www.sopinspace.com/?page_id=65&amp;lang=en" rel="nofollow" title="http://www.sopinspace.com/?page_id=65&amp;lang=en">http://www.sopinspace.com/?page_id=65&amp;lang=en</a></li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> <a class="external free" href="http://www.co-ment.com" rel="nofollow" title="http://www.co-ment.com">http://www.co-ment.com</a></li><li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a> <a class="external free" href="http://www.sopinspace.com/?p=934&amp;lang=en" rel="nofollow" title="http://www.sopinspace.com/?p=934&amp;lang=en">http://www.sopinspace.com/?p=934&amp;lang=en</a></li><li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> <a class="external free" href="http://www.sopinspace.com/products/glinkr" rel="nofollow" title="http://www.sopinspace.com/products/glinkr">http://www.sopinspace.com/products/glinkr</a></li><li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> <a class="external free" href="http://www.sopinspace.com/products/plonepriori" rel="nofollow" title="http://www.sopinspace.com/products/plonepriori">http://www.sopinspace.com/products/plonepriori</a></li><li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> <a class="external free" href="http://www.sopinspace.com/?p=214&amp;lang=en" rel="nofollow" title="http://www.sopinspace.com/?p=214&amp;lang=en">http://www.sopinspace.com/?p=214&amp;lang=en</a></li></ol></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Paris      </span>
+                        <div class="country-name" itemprop="addressCountry">France</div>
+                                            <span class="geo"><abbr class="latitude" title="48.851794">48° 51' 6.4584" N</abbr>, <abbr
+            class="longitude" title="2.377968">2° 22' 40.6848" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.fr/?q=%2C+Paris%2C+%2C+fr">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                FR      </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Philippe Aigrain</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">6</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/issue-area/budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Budgeting</a></div><div class="field-item even"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

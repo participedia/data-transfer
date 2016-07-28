@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/public-agenda" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/265" />
+  <title>Public Agenda | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"z2F8S7do2Zk3oFsQ99WlrcJmo78n4HxkqxDr-4Eq-I4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/public-agenda?destination=node\/265":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-265 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/public-agenda" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/public-agenda?destination=node/265" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-0zsFZcD6DpKON4CUH4KHk5rG4Ymx2zpcLH-G8YdZ9Pc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Public Agenda</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Public Agenda - Participedia" addthis:url="http://participedia.net/en/organizations/public-agenda"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 3 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/beckyip" title="View user profile." class="username" xml:lang="" about="/en/users/beckyip" typeof="sioc:UserAccount" property="foaf:name" datatype="">Beckyip</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Public Agenda is a nonprofit, nonpartisan organization in the United States that undertakes ongoing issues and “provides citizens and leaders the tools they need to tackle them.” PublicAgenda is afflicted with multiple sources that all focus on ensuring that public’s views are represented in decision-making. On their online website, PublicAgenda.org, which is an issues guide and a citizen’s survival kit, they inform citizens about issues and ways they can engage and participate in making a change. Public Agenda is also engaged through social networking sites, such as Facebook and Twitter to better engage with the community. Public Agenda is also betrothed with communities around the country to help citizens understand and deliberate on tough issues. On their main webpage, PublicAgenda.org, they also publish regular blog entries and research on a number of domestic issues. Many journalist, policymakers, teachers, students and citizens rely on Public Agenda’s nonbiased issues guide for information and different perspectives in analyzing issues. Public Agenda covers a vast range of issues from education, citizen rights, and energy to federal budget, health care, immigration and more. <a id="History" name="History"></a></p><h2>History</h2><p>Public Agenda was founded in 1975 by social scientist and author, Daniel Yankelovich, and secretary of state, Cyrus Vance. For over 35 years, Public Agenda has aimed to fulfill two main missions which is for: American leaders to better understand the public's point of view, and citizens to know more about critical policy issues so they can make thoughtful, informed decisions.</p><p>Since then, PublicAgenda.org has been nominated twice for the prestigious Webby Award as one of the Internet's best sources for balanced, accurate information on public policy issues and has participated with many different communities and partnered with many organizations to better inform the nation, so they can make higher quality and greater decisions on ongoing issues. <a id="Specializations_and_Activities" name="Specializations_and_Activities"></a></p><h2>Specializations and Activities</h2><p>Public Agenda is associated with many different public engagement projects and community forums to help the nation’s citizens come together to better deliberate and collaborate on difficult issues.</p><p>One of the projects was the Citizen Engagement And Community Transformation in Bridgeport, CT. In 1996, the Bridgeport Public Education Fund (BPEF) joined a national demonstration project led by Public Agenda and the Institute for Educational Leadership (IEL) to explore possibilities for public dialogue about education reform among diverse stakeholders.</p><p>In the spring of 2004, Public Agenda participated in the Nebraskans Weigh in on Essential Educational Opportunities for All Students. The Nebraska State Board of Education was looking for a way to allow a cross-section of residents to weigh in on the recommendations they had developed and laid out in a document called Equitable Opportunities For an Essential Education For All Students-Recommendations for Nebraska Public School Districts.Public Agenda had helped the state board connected hundreds of Nebraskans to discuss the controversial question of statewide standards. Parents, students, educators and community members participated in Choicework discussion forums where they wrestled with various approaches to the standards issue. Building off the results of these discussions, the state board was able to adopt new statewide guidelines. In the end, Public Agenda conducted focus groups and helped selected districts facilitate discussion forums with more than 370 parents, students, educators (teachers, principals and superintendents) and members of the general public that represented roughly 25 districts.</p><p>In 2004, Public Agenda conducted fieldwork in New Haven, Connecticut; San Antonio, Texas; and New York City, which was support from the Annie E. Casey Foundation and the New York Community Trust. This project was called the Straight Talk/Street Talk: Possibilities for Dialogue Between Communities and the Police. They interviewed numerous law enforcement officials, from patrol officers to upper brass, and held 12 focus groups with various kinds of residents. They also developed four new Choicework guides (Preventing Crime, Promoting Public Safety; Improving Police-Community Relations; Ensuring School Safety and Preventing Terrorism and Protecting Civil Liberties) that were used to structure five dialogue sessions held across the three sites.</p><p>In September 2003 Public Agenda launched the project of Addressing Property Tax Reform in New Jersey. Public Agenda helped the Coalition for the Public Good, a New Jersey based grass-roots organization, to organize and conducted a major statewide "Citizen's Tax Assembly," a two-day event held in the capitol building in Trenton. The New Jersey Citizens' Tax Assembly brought together close to 100 diverse "delegates" from every county in the state to engage one another in a dialogue on possible approaches to tax reform.</p><p>Public Agenda helped in creating a different kind of forum in which residents from across the state could engage complex questions of tax reform and reveal that reasonable solutions are possible. Public Agenda carried out focus groups with Anglo parents, bilingual Hispanic parents, Spanish-only Hispanic parents, students of various backgrounds, and teachers on the topics of student achievement, diversity, and equity, for the Standards in San Jose, California project. One district official called the findings "an eye-opening experience" because parents of all backgrounds, along with students themselves, called for high expectations for student achievement. In response, the school board raised its graduation requirements. The district then moved on to a broad-based community conversation about "Standards and Expectations for Our Students" with Public Agenda assisting by training conversation organizers and moderators, and by developing discussion materials. Although the district initiated and sponsored the forum, a committee that included parents, members of the clergy, employers and others took over the planning and operations. The forum, held at a downtown church, drew about 140 participants; some discussions were conducted in Spanish with translated materials and a bilingual moderator and recorder. The National School Public Relations Association awarded the district a top award for its public engagement model.</p><p>In the 1990's research commissioned by the Graustein Memorial Fund in Connecticut and conducted by Public Agenda revealed significant gaps between the general public, community leaders and educators concerning the problems facing Connecticut's schools, which resulted to the Changing the Conversation on Education in Connecticut project. To kick off the project, hundreds of organizations--school districts, parent groups, community-based organizations, etc., were invited to participate. Initially, eight local sponsors were chosen, covering 17 towns. By design, they were to work as a network to build statewide capacity for civic dialogues on the range of issues facing Connecticut's schools. Each site was funded and received technical assistance from Public Agenda. Since then, over 70 cities and towns across the state have participated and the initiative continues to grow. <a id="Major_Projects" name="Major_Projects"></a></p><h2>Major Projects</h2><p><a id="FacingUp" name="FacingUp"></a></p><h3>FacingUp</h3><p>FacingUp.org is a nationwide project that is in partnership with Public Agenda to enable more Americans to confront and work through realistic choices for addressing the nation's long-term fiscal challenges. FacingUp.org, “A nonpartisan project on the long-term challenges of the federal budget” Among those challenges are the impending retirements of baby boomers, the growth in health care costs, a broken tax system, and a lack of sufficient government accountability.FacingUp.org informs us that the United States has amassed nearly $12 trillion in federal debt and another $44 trillion in unfunded liabilities and health care costs are rapidly rising. There are also 78 million baby boomers about to retire, straining our Social Security and Medicare systems, our country faces severe long-term fiscal challenges, which could lead to steep tax hikes, major cutbacks in federal spending, higher interest rates, inflation and a declining economy that can even lead to an untenable future for our children and grandchildren. <a id="Who_Turned_out_the_Lights" name="Who_Turned_out_the_Lights"></a></p><h3>Who Turned out the Lights</h3><p>“Who Turned out the Lights” is written by Scott Bittle, the Director of Public Issues Analysis at Public Agenda and Jean Johnson, the Director of Education Insights and Director of Programs at Public Agenda. WhoTurnedOutTheLights.org is a guide that posts information about our energy and climate crisis because this is an issue that many Americans are confounded by. “Who Turned out the Lights” also provides the necessary understanding and offers different perspective on the complex issue for those who are engaged in learning more about it. <a id="CAPE" name="CAPE"></a></p><h3>CAPE</h3><p>CAPE stands for Citizens for Advances in Public Engagement. It is one of Public Agenda’s most profound projects, where their main efforts goes to research, develop and disseminate of new insights and best practices that help improve the quality of American public life by building the field of public engagement and citizen-centered politics. CAPE studies Public Agenda’s work with the most recent technical tools and share their findings with new publications each year on various aspects of public engagement.CAPE has three main areas of study, which includes: The Public Engagement Research Project, to better understand the dynamics and impacts of public engagement; The Digital Engagement Research Project, to explore the potentials of the Internet as a vehicle of engagement; and lastly The Theory-Building Research Project, to decisively push forward the theory that underlies the field's efforts <a id="Funding" name="Funding"></a></p><h2>Funding</h2><p>Public Agenda is gratefully funded by multiple major organizations and some are funded towards specific projects. all funding are appreciated and go towards in helping to inform and engage citizens about nationwide issues and also for research purposes. <a id="Bill_.26_Melinda_Gates_Foundation" name="Bill_.26_Melinda_Gates_Foundation"></a></p><h3>Bill &amp; Melinda Gates Foundation</h3><p>Promotes greater equity in global health, education, public libraries, and support for at-risk families in Washington State and Oregon <a id="Carnegie_Corporation_of_New_York" name="Carnegie_Corporation_of_New_York"></a></p><h3>Carnegie Corporation of New York</h3><p>Created by Andrew Carnegie in 1911 to promote "the advancement and diffusion of knowledge and understanding." <a id="Charles_F._Kettering_Foundation" name="Charles_F._Kettering_Foundation"></a></p><h3>Charles F. Kettering Foundation</h3><p>Research foundation that seeks ways to make fundamental changes in how democratic politics are practiced. <a id="Ewing_Marion_Kauffman_Foundation" name="Ewing_Marion_Kauffman_Foundation"></a></p><h3>Ewing Marion Kauffman Foundation</h3><p>Encourages entrepreneurship across America and seeks to improve the education of children and youth. <a id="Learning_Point_Associates" name="Learning_Point_Associates"></a></p><h3>Learning Point Associates</h3><p>Provides the evaluation, research, policy and practice that allows educators to find the learning point faster, more often, and for more students. <a id="Peter_G._Peterson_Foundation" name="Peter_G._Peterson_Foundation"></a></p><h3>Peter G. Peterson Foundation</h3><p>Dedicated to increasing public awareness of the nature and urgency of several key challenges threatening America's future, and to accelerating action on them. <a id="Rockefeller_Brothers_Fund" name="Rockefeller_Brothers_Fund"></a></p><h3>Rockefeller Brothers Fund</h3><p>Helping to build a more just, sustainable, and peaceful world <a id="The_Ford_Foundation" name="The_Ford_Foundation"></a></p><h3>The Ford Foundation</h3><p>Seeks to strengthen democratic values, reduce poverty and injustice, promote international cooperation and advance human achievement. <a id="The_Lumina_Foundation_for_Education" name="The_Lumina_Foundation_for_Education"></a></p><h3>The Lumina Foundation for Education</h3><p>Strives to help people achieve their potential by expanding access and success in education beyond high school. <a id="The_Wallace_Foundation" name="The_Wallace_Foundation"></a></p><h3>The Wallace Foundation</h3><p>Seeks to support and share effective ideas and practices that expand learning and enrichment opportunities for all people. <a id="The_William_and_Flora_Hewlett_Foundation" name="The_William_and_Flora_Hewlett_Foundation"></a></p><h3>The William and Flora Hewlett Foundation</h3><p>Concentrates its resources on activities in education, environment, global development, performing arts, and population. <a id="W.K._Kellogg_Foundation" name="W.K._Kellogg_Foundation"></a></p><h3>W.K. Kellogg Foundation</h3><p>Focuses on improving current and future communities' quality of life in the United States, Latin America, Caribbean, and southern Africa. <a id="External_Links" name="External_Links"></a></p><h2>External Links</h2><ul><li><a class="external free" href="http://www.publicagenda.org/" rel="nofollow" title="http://www.publicagenda.org/">http://www.publicagenda.org/</a></li><li><a class="external free" href="http://www.facingup.org/" rel="nofollow" title="http://www.facingup.org/">http://www.facingup.org/</a></li><li><a class="external free" href="http://www.WhoTurnedOutTheLights.org" rel="nofollow" title="http://www.WhoTurnedOutTheLights.org">http://www.WhoTurnedOutTheLights.org</a></li><li><a class="external free" href="http://www.pbs.org/moyers/journal/01222010/watch2.html" rel="nofollow" title="http://www.pbs.org/moyers/journal/01222010/watch2.html">http://www.pbs.org/moyers/journal/01222010/watch2.html</a></li><li><a class="external free" href="http://www.facebook.com/pages/Public-Agenda/56451187476" rel="nofollow" title="http://www.facebook.com/pages/Public-Agenda/56451187476">http://www.facebook.com/pages/Public-Agenda/56451187476</a></li></ul></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">New York, NY</span>
+                                                                <span class="geo"><abbr class="latitude" title="40.813809">40° 48' 49.7124" N</abbr>, <abbr
+            class="longitude" title="-74.047852">74° 2' 52.2672" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Daniel Yankelovich</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">37</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/issue-area/budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Budgeting</a></div><div class="field-item even"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item odd"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item even"><a href="/en/general-issues/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Health</a></div><div class="field-item odd"><a href="/en/general-issues/immigration" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Immigration</a></div><div class="field-item even"><a href="/en/general-issues/national-international-security" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National &amp; International Security</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

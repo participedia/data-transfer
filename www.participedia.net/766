@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/766" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/766" />
+  <title>Bürgerhaushalt (New York, New York) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"SkaqW-9VwgPLWIX66boqXwIq6bCskpI4GGGUBWBKvtE","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"766"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/766?destination=node\/766":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-766 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/participatory-budgeting-new-york-new-york" class="language-link" xml:lang="en" title="Participatory Budgeting (New York, New York)">English</a></li>
+<li class="de last"><a href="/de/faelle/b-rgerhaushalt-new-york-new-york" class="language-link" xml:lang="de" title="Bürgerhaushalt (New York, New York)">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/766?destination=node/766" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-UoW1FoWcL78yMxk4NCbuxWb3onG8SIjTw5821Ut-Hz0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Bürgerhaushalt (New York, New York)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Bürgerhaushalt (New York, New York)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/merete-schultze" title="View user profile." class="username" xml:lang="" about="/en/people/merete-schultze" typeof="sioc:UserAccount" property="foaf:name" datatype="">Merete Schultze</a> on Sat, 01/19/2013 - 04:20</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sat, 05/28/2016 - 15:16</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="B&amp;Atilde;&amp;frac14;rgerhaushalt (New York, New York) - Participedia" addthis:url="http://participedia.net/en/node/766"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/Expo39_1.jpg?itok=E9ROnZC5" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Originalversion abrufbar unter </em><a href="http://participedia.net/en/cases/participatory-budgeting-new-york-new-york">http://participedia.net/en/cases/participatory-budgeting-new-york-new-york</a></p><p><em>Note: this is a German translation of an English case study available at </em><a href="http://participedia.net/en/cases/participatory-budgeting-new-york-new-york">http://participedia.net/en/cases/participatory-budgeting-new-york-new-york</a></p><p> </p><h3>Zweck und Problemstellung</h3><p>Die Aufstellung des Budgets von New York City ist von jeher, historisch gesehen, ein korrupter und nicht-transparenter Prozess. Der New York City Council (Stadtrat) ist außerdem bekannt für seine undurchsichtige Finanzierungsstruktur, in der der Sprecher der Mehrheit im Stadtrat bestimmen kann welches Budget den jeweiligen Ratsmitglieder zur Verfügung steht. Dieses variiert dabei zwischen drei und elf Millionen US-Dollar. Auch gab es eine Menge Korruptionsskandale, die Ratsmitglieder mit  Vetternwirtschaft in Zusammenhang brachten. In diesem Umfeld ist das Programm für ein Partizipatives Budget in New York City (PBNYC) im Finanzjahr 2012-2013 das größte Pilotprogramm dieser Art in den USA. Dieses Programm hat größere Transparenz, Rechenschaftspflicht und Bürgerengagement zum Ziel. Einerseits sollen die Bürger direkt Projekte erstellen und über deren Finanzierung entscheiden, andererseits soll gleichzeitig eine größere öffentliche Aufmerksamkeit hergestellt werden, die letztendlich den Druck für einen transparenteren Prozess erhöht.</p><h3>Geschichte</h3><p>Obwohl der Bürgerhaushalt oder auch direkt übersetzt das Partizipative Budget (PB) sich vielerorts als ein erfolgreiches Modell der Bürgerbeteiligung erwiesen hat, angefangen in Porto Alegre (Brasilien) in 1989, muss es sich in den Vereinigten Staaten erst noch durchsetzen (Fung 2011). Seit dem Start in Brasilien hat sich die Praxis des partizipativen Budgets in über 300 Kommunen weltweit durchgesetzt (Cabannes n.d.; Wampler 2004; Wampler und Avritzer 2005). Das einzige andere Beispiel für einen Bürgerhaushalt in den USA ist der 49. Bezirk von Chicago. Diese Art von Budgetierung ist ein generativer Prozess, der viele verschiedene Formen je nach Größe der politischen Ebene, in der er angewandt wird, haben kann. Das Partizipative Budget ist untrennbar mit der politischen Struktur verbunden, die es ermächtigt, d.h. die Ebene der Stadt, der Kommune oder des Landes. So wurde z.B. in der brasilianischen Verfassung von 1988 festgelegt, in welchen Strukturen PB angewandt werden darf (Baiocchi et al.2011, p.39).</p><p>Oftmals wird festgestellt, dass die Idee Bürgerhaushalt großes Potential und Einfluss für die sich entwickelnde Welt besitzt. Allerdings ist weniger klar, ob er auch entsprechend in den USA angewendet werden kann. In einem aktuellen Weltbank-Report zum partizipativen Budget schreibt der Experte Brian Wampler: "einer der Gründe, dass PB auf andere Orte übertragen werden kann, vor allem in den Entwicklungsländern, ist dass Vetternwirtschaft und soziale Ausgrenzung Alltag in vielen Teilen von Entwicklungsländern sind" (Shah 2007).</p><p>Wenn man über Partizipatives Budgeting/Bürgerhaushalt diskutiert, muss man vor allem die verschiedenen Typen partizipativer demokratischer Innovation, von denen einige Budgetierung enthalten, von der spezifischen Form des PB bekannt als Brasilianische Partizipative Budgetierung aus dem Jahr 1989 unterscheiden.</p><p>In Brasilien verbreitete die Arbeiterpartei (Workers Party, WP) als eine demokratisch sozialistische Partei PB um Bürger zu mobilisieren und allgemeine Unterstützung und Legitimität aus der Bevölkerung zu erlangen. Die Motivation PB in den USA zu implementieren ist eine ganz andere, da sich die politische und die soziale Sphäre der USA von der in Brasilien unterscheiden. Joe Moore, Stadtrat des 49. Chicagoer Bezirks, war der erste, der PB in den Vereinigten Staaten implementierte.</p><h3>Ausgangsorganisationen und Finanzierung</h3><p>PBNYC wurde von zwei Organisationen getragen: dem Participatory Budget Project (PBP) und <a href="http://www.cvhaction.org/">Community Voices Heard</a> (CVH). Diese leiteten das stadtweite Steuerungskomitee, dem sowohl Repräsentanten der vier Bezirke des Stadtrats als auch Abgeordnete aus verschiedenen gesellschaftlichen Organisationen (community-based organizations, CBOs) aus New York City angehörten. Zusätzlich entstanden Steuerungskomitees in den einzelnen vier Bezirken, die aus Bürgern und Repräsentanten lokaler Organisationen und Bürgerverbänden bestanden.</p><p>Die Stadtratsmitglieder stellten die erforderlichen finanziellen Mittel für den Prozess, einige direkt, andere durch Sachleistungen und andere über Spenden an CVH. Das Vorgehen erhielt außerdem externe Förderung und Unterstützung durch Spenden. Trotzdem fehlte es vor allem dem Forschungs- und Evaluationsteam, aufgestellt durch das <a href="http://www.urbanjustice.org/ujc/projects/sex.html">Urban Justice Center (</a>UJC), an Mitteln. Insgesamt bekam man circa 200.000 US-Dollar weniger zusammen, als veranschlagt worden waren. Deswegen arbeitete die Mehrheit der Mitarbeiter auf dem Governance Level undentgeltlich und stellten ihre Zeit und Ressourcen zur Verfügung um PBNYC zu ermöglichen.</p><p>Jedes Stadtratsmitglied versprach mindestens eine Million aus ihren frei verfügbaren Mitteln, Geld das in große Infrastrukturprojekte fließen soll, in durch die Bürger gewählte Projekte zu investieren.</p><h3>Auswahl der Teilnehmer</h3><p>Das Projekt startete im September 2011 und die finale Abstimmung fand im März 2012 statt. Anfangs wurden Informationsveranstaltungen in den Bezirken abgehalten, in denen Gemeinschaftsmitglieder und -leiter, sowie zivilgesellschaftliche Organisationen sich zusammenfanden. Sie lernten den geplanten Prozess kennen und konnten sich freiwillig für die Steuerungskomitees der Bezirke melden. Diese Komitees halfen dabei jeden Bezirk in Nachbarschaften zu unterteilen, die wiederum eine erste Runde von Nachbarschaftsversammlungen im Oktober 2011 organisierten. Bei diesen Veranstaltungen teilten sich die Teilnehmer in Kleingruppen auf, die durch Brainstorming potentielle Projekte in ihren Nachbarschaften fanden - jeder Bezirk besteht aus vier bis fünf Nachbarschaften. Außerdem wurden auf diesen Nachbarschaftsversammlungen Delegierte ausgewählt, die dann zwischen November und Februar tatsächliche Projektvorschläge ausarbeiten sollten. Es war nicht erforderlich in einem Bezirk oder einer Nachbarschaft gemeldet zu sein um an den Versammlungen teilzunehmen oder als Delegierter gewählt zu werden. Jedoch muss man in der Stadt gemeldet sein um seine Stimme abzugeben. Allgemein waren die Abstimmungen somit offen für alle Bewohner der Stadt über 18 Jahre. Auch für Nicht-Bürger der USA.</p><p>Die Delegierten arbeiteten direkt mit der Stadtverwaltung in verschiedenen thematisch abgegrenzten Komitees zusammen, darunter Transport, Parks und Erholung, sowie Bildung u.ä. und erarbeiteten Vorschläge. Im Februar 2012 wurde eine zweiten Runde von Nachbarschaftsversammlungen veranstaltet in denen die Teilnehmer diskutierten und die Vorschläge kommentierten. Nach darauf beruhenden Überarbeitungen wurde im März 2012 eine finale Abstimmung in allen Bezirken durchgeführt. Die Stadtratsmitglieder hatten sich verpflichtet mindestens jeweils eine Million US-Dollar für die gewählten Projekte bereitzustellen. Wie unten ersichtlich gab es jedoch auch weit höhere Summen, so verwendete Stadtratsmitglied Lander letztendlich über fünf Millionen um PBNYC Projekte zu finanzieren. Zusätzlich hatten die Ratsmitglieder zugesagt, sich um andere Finanzierungsmöglichkeiten für weitere Ideen aus dem PBNYC-Projekt zu kümmern um nicht nur die Projekte mit den meisten Stimmen realisieren zu können, was auch getan wurde.</p><h3>Deliberation, Entscheidungen und Öffentliche Interaktion</h3><p>Während der verschiedenen Schritte im Prozess gab es viele Möglichkeiten zur Deliberation, Entscheidungsfindung und öffentlicher Interaktion. Die Mitglieder des Bezirkskomitees mussten entscheiden, wo die Veranstaltungen abgehalten wurden und arbeiteten mit den Büros der Stadtratsmitglieder zusammen um diese Versammlungen zu bewerben. In der ersten Runde der Nachbarschaftsversammlungen waren die Stadtratsmitglieder anwesend und interagierten direkt mit den Bewohnern und anderen Teilnehmern der Kommunen. Dies eröffnete Möglichkeiten neue Leute aus seiner Nachbarschaft kennen zu lernen und mit ihnen sowohl gemeinsame als auch unterschiedliche Probleme zu diskutieren. Die Bürger deliberierten in dieser ersten Runde und entwarfen Projektvorschläge. Ein weitreichender Ideenaustausch fand durch das groß angelegt Brainstorming statt, indem überlegt wurde, welche verschiedenen Teile ihrer Kommunen finanzielle Hilfen für Projekte benötigten.</p><p>Die Listen der Projekte aus dieser ersten Entscheidungsrunde wurde zusammengefügt und dann den Delegierten vorgelegt. Jede Gruppe von Delegierten beschäftigte sich mit einem andere Oberthema von Projekten, z.B. Parks und Erholung oder Transport. Jedes dieser Subkomitees besaß einen Prozessbegleiter, der entweder als Moderator ausgebildet war oder bereits im Bezirkskomitee gesessen hatte und so die Diskussionsprozesse verstand. In den Subkomitees wurden auch Experten aus den kommunalen Verwaltungen gehört, z.B. wenn ein Projekt mit Bildung zu tun hatte, nahm ein Mitarbeiter der Bildungsabteilung teil und konsultierte und beriet die Delegierten. Die Büros der Stadtratsmitglieder dienten als Vermittler zwischen den Delegierten und der Stadtverwaltung.</p><p>Der Großteil der Deliberation und Diskussion fand in diesen Subkomitees der Delegierten statt, da sie normalerweise eine Anzahl von Mitglieder hatten, die klein genug war um wahre Diskussion und Deliberation entstehen zu lassen. Einige dieser thematischen Subkomitees hatten wiederum Unterkomitees, so gab es z.B. ein "Straßen und Bürgersteige"-Subkomitee unter dem größeren Thema "Parks und Erholung". Die Delegierten trafen sich ungefähr alle zwei Wochen über eine Zeitspanne mehrerer Monate und kommunizierten außerdem über E-Mails und Telefon. Hieraus ergaben sich viele verschiedene Möglichkeiten zur Diskussion, Deliberation und Interaktion. Das Level der Online-Interaktion war hierbei sehr unterschiedlich in den verschiedenen Bezirken, so benutzten D-39 und D-8 Onlinetools am häufigsten. In D-39 wurden 180 Projektvorschläge online eingereicht; 40 in D-8, siebzehn in  D-45 und acht in D-32. D-45, D-8 und D-39 verwendeten ebenfalls social media Plattformen wie Facebook, Twitter und Blogs als Teil ihrer Projektarbeit und ihrer Kommunikationsstrategie mit den Stadtratsmitgliedern. Die verschiedenen demographischen Gegebenheiten in den einzelnen Bezirken und auch die Erfahrung der Stadtratsmitglieder mit technologischen Medien beeinflusste die Nutzung von Internet Communication Technologies (ICT) sehr stark im PBNYC. Insgesamt kann man jedoch sagen, dass der Prozess extrem wenig Technologie verwendete.</p><h3>Einfluss, Outcomes und Effekte</h3><p><strong>Vorläufige Budget Optionen nach Stimmen:</strong></p><p><u><em>Distrikt 39:  </em>2,200 Wähler insgesamt $1,4 Millionen</u></p><ol><li>Renovierung von zwei nicht funktionsfähigen öffentlichen Toiletten ($150-000, 958 Stimmen)</li><li>Innovatives Kompost System nahe dem Gowanus Kanal um eine Tonne Essensabfälle pro Tag kompostieren zu können ($165.000, 919 Stimmen)</li><li>Pflanzung von einhundert neuen Bäumen in Straßenblöcken des Bezirks mit keinen oder nur wenig Bäumen  ($100.000, 767 Stimmen)</li><li>Neue Technologien für PS 130 und PS 154 ($140.000, 758 Stimmen)</li><li>Reparatur der Fußwege im Prospekt Park um Überflutung zu verhindern, sowie Aufstellung zusätzlicher Mülleimer im Park ($205.000, 648 Stimmen)</li><li>Reparaturen und Verbesserte Sicherungsmaßnahmen am Fußgängerübergang an der gefährlichen Kreuzung Prospect Expressway/Church Avenue ($200.000, 606 Stimmen)</li><li>Anschaffung von neuen Büchern und anderem Equipment für die Kensingtoner Stadtbücherei um deren Nutzungsmöglichkeiten auch als Ort für Treffen, Geschichtenerzählen, Proben oder kleineren Auftritten zu verbessern und so Kensington's kulturelle Diversität zu fördern ($80.000, 582 Stimmen)</li></ol><p><strong><em>Distrikt 8: </em></strong><strong>1,132 Wähler, insgesamt $1,54 Millionen</strong></p><ol><li>Lieferwagen zur Beförderung für Senioren und für Essen-auf-Rädern  ($100.000) - 579  Stimmen. Der Lieferwagen wird durch die Union Settlement Association betrieben. </li><li>Überwachungskameras in verschiedenen NYCHA Wohnungsbauanlagen ($525.000) - 499 Stimmen <br />Beinhaltet Jefferson, Johnson, Betances, Millbrook, Washington, Taft, Clinton, &amp; Wagner Wohnungskomplexe.</li><li>Spielplatz Renovierungen ($500.000) - 300 Stimmen. </li><li>Ein neuer Platz für Harlem RBI und die Dream Charter School ($250.000) - 292 Stimmen</li><li>Ultraschallsystem für das Metropolitan  Krankenhaus ($105.000) - 252 Stimmen</li><li>Neue Technologien für die Aguilar Zweigstelle der New Public Library ($60.000) - 248 Stimmen</li></ol><p><u><em>Distrikt 45: </em>1.100 Wähler, insgesamt $1,05 Millionen</u></p><ol><li>Installation von zwei Überwachungskameras an verschiedenen Orten im ganzen Distrikt.</li><li>Finanzierung für den Bau eines neuen oder aber der Renovierung eines bestehenden Gebäudes für ein vorgeschlagenes Gemeindecenter.</li><li>Installation von Flutlicht in den Parks des Bezirks.</li><li>Der Kauf von Computern, Laptops, eines Sicherheitskarts und eines Smartboards für die Studenten des CAMBA Beacon Programm.</li></ol><p><u><em>Distrikt 32:  </em>1.639 Wähler, insgesamt $1,32 Millionen</u></p><ol><li>Technology Upgrades bei PS47, PS317/MS318, PS114.</li><li>Kaskadensystem (Sauerstoff Auffüllung) für freiwillige Feuerwehren</li><li>Wasserpumpen für Freiwillige Feuerwehren um Überflutungen zu verhindern</li><li>Pagers für vier freiwillige Feuerwehren</li><li>Knights of Columbus, Rockaways – Renovierung der Behindertentoilette</li><li>Pavillon/Outdoor-Platz für Auftritte am Shorefront Parkway</li><li>Automat in der Bücherei in Breezy Point</li><li>Sechs Argus Überwachungskameras im 100. Revier (an drei Orten)</li><li>Renovierung der Bücherei Zweigstelle Peninsula</li></ol><h3>Analyse und Kritik</h3><p>Es gibt Bedenken über die Skalierbarkeit und Durchführbarkeit des Projekts. Obwohl vier weitere Bezirksratsmitglieder bereits für eine zweite Runde des Projekts ihre Hilfe zugesagt haben, bezweifeln einige, dass CBO's zu tief in den Prozess eingebettet sind und ihnen gleichzeitig die Ressourcen zur Aufrechterhaltung des Projekts fehlen. Außerdem steht in Frage, wie repräsentativ das Projekt war, da die Teilnehmer aktiv entschieden sich zu beteiligen und Partizipation zu fördern, was jedoch nicht gleichbedeutend ist mit der Garantie von größtmöglicher Repräsentation über das gesamte Spektrum hinweg. Während des Deliberationsprozesses und der Entscheidungsfindung finden sich die klassischen Kritiken am deliberativen Prozess: der Wiederaufbau sozio-ökonomischer Spaltungen und dass die Höhergebildeten eher gehört werden. Die Mikroentscheidungen der Moderatoren und ihre Effekte, sowie die Organisation der Bezirkskomitees und außerdem die Mittel der Stadtratsmitglieder sorgten für Variation im Prozess.</p><p>Die Bedenken konzentrierten sich nicht nur auf Mittel der Organisationen sondern auch auf die der Stadtratsmitglieder und ihrer Büros, da der Prozess insgesamt sehr arbeitsintensiv war. Auch ist die Frage nach dem politischen Hintergrund des gesamten Projekts und der damit verbundenen Motivation der Stadtratsmitglieder. Ab wann kann man politische Motivation von wirklichem Bürgerengagement trennen? Kann dieser Prozess Menschen dazu bringen für Projekte zu stimmen und Koalitionen um ihre Stadtratsmitglieder zu bilden, oder können wirklich tiefere Bürgerverbindungen entstehen? Wenn das Projekt ehrgeizig alle diese Ziele auf einmal zu erreichen, wie können sie dann nachhaltig alle realisiert werden?</p><p>Während die erste Partizipationsrunde abgeschlossen ist, bleibt nun die Frage, ob die Bürger die Implementation ihrer gewählten Projekte nun überhaupt überwachen können. PB in den USA hat die Möglichkeiten des Internet und der damit verbundenen Vernetzung nicht so effektiv benutzt wie PB-Projekte anderenorts (z.B. in der Demokratischen Republik Kongo, Brasilien oder in der Dominikanischen Republik). Somit bleibt die Frage durch welche Werkzeuge die Teilnehmer ihre Projekte weiter beobachten wollen.</p><p>Zum Schluss ist es auch eine Herausforderung die Transparenz und Nachhaltigkeit von PBNYC zu erhöhen. Der PB-Miterfinder und Brown Professor Gianpaolo Baiocchi schreibt: "Die Herausforderung ist es die frei verfügbaren Mittel als ersten Schritt hin zu anderen Arten von Entscheidungsfindung zu benutzen. Stellen Sie sich vor, wie transformativ es wäre das Gesamtbudget der Stadt zu kontrollieren!"</p><p> </p><h3>Sekundärquellen</h3><p><a href="http://siteresources.worldbank.org/PSGLP/Resources/ParticipatoryBudgeting.pdf">http://siteresources.worldbank.org/PSGLP/Resources/ParticipatoryBudgetin...</a></p><p><a href="http://www.nytimes.com/2012/04/01/nyregion/for-some-new-yorkers-a-grand-experiment-in-participatory-budgeting.html?_r=4&amp;pagewanted=1&amp;ref=nyregion">http://www.nytimes.com/2012/04/01/nyregion/for-some-new-yorkers-a-grand-...</a></p><p><a href="http://www.nytimes.com/2012/04/08/nyregion/voters-speak-in-budget-experiment-saying-yes-to-bathrooms.html?_r=1&amp;ref=nyregion">http://www.nytimes.com/2012/04/08/nyregion/voters-speak-in-budget-experi...</a></p><p><a href="http://blogs.cfr.org/coleman/2012/06/19/ict4gov-improving-governance-through-technology/">http://blogs.cfr.org/coleman/2012/06/19/ict4gov-improving-governance-thr...</a></p><p><a href="http://www.nytimes.com/2011/08/23/nyregion/christine-quinn-uses-council-funds-to-reward-allies.html">http://www.nytimes.com/2011/08/23/nyregion/christine-quinn-uses-council-...</a></p><h3>Externe Links</h3><p><a href="http://labs.council.nyc/pb/">Official PBNYC Website</a></p><p><a href="http://siteresources.worldbank.org/PSGLP/Resources/ParticipatoryBudgeting.pdf">Participatory Budgeting - The World Bank </a></p><p><a href="http://www.socialinnovation.ash.harvard.edu/hollie-russon-gilman-largest-participatory-budgeting-experiment-in-the-u-s-underway-in-nyc.html">Harvard Social Innovators Blog - "Largest Participatory Budgeting Experiment Underway in NYC"</a></p><p><a href="http://www.thenation.com/article/167406/participatory-budgeting-hits-new-york-city">The Nation - "Participatory Budgeting hits New York City"</a></p><p><a href="http://socialinnovation.ash.harvard.edu/milestone-for-nycs-experiment-in-participatory-budgeting">http://socialinnovation.ash.harvard.edu/milestone-for-nycs-experiment-in...</a> [BROKEN LINK]</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/participatory-budget" typeof="skos:Concept" property="rdfs:label skos:prefLabel">participatory budget</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1544">Municipal Participatory Budgeting</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      New York      </span>
+              ,                     <span class="region" itemprop="addressRegion">NY</span>
+              <div class="country-name" itemprop="addressCountry">Vereinigte Staaten</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+New+York%2C+NY%2C+%2C+us">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        New York        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A171">Peer Facilitators (i.e. other participants not professional facilitators)</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A58">Listen/watch as spectator</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">New York City Council</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/participatory-budgeting-project">The Participatory Budgeting Project</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A20">Community Based Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Community Voices Heard</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">District Wide Steering Committees, Urban Justice Center</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A26">Academic Institution</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A20">Community Based Organization</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$61 500 000.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Council Member&#039;s Staffers, Civil Society Organization&#039;s staffers dedicated to the project</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-5349f6314bbf435100de10bc195e690a">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/766">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

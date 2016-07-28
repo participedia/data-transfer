@@ -1,0 +1,343 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/jefferson-center" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/260" />
+  <title>Jefferson Center | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"UhEmKa1MY0NhFSMXVDuZpm6kg1ew2FgmsGUcmXamBYc","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/jefferson-center?destination=node\/260":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-260 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/jefferson-center" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/jefferson-center?destination=node/260" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-GCKD6ODcFwxw1Wu65d8cQdzaR_50m9Lte48BQe2iOXs" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Jefferson Center</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Jefferson Center - Participedia" addthis:url="http://participedia.net/en/organizations/jefferson-center"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 3 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/henley-bryce" title="View user profile." class="username" xml:lang="" about="/en/users/henley-bryce" typeof="sioc:UserAccount" property="foaf:name" datatype="">Bryce David Henley</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Mission_and_Purpose" name="Mission_and_Purpose"></a></p><h1>Mission and Purpose</h1><p>The Jefferson Center for New Democratic Processes is the originator of the <em>Citizens Jury</em> , which creates opportunities for everyday citizens to provide high-quality input on a variety of public policy issues.</p><p>In a <a href="http://participedia.net/en/methods/citizens-jury"><em>Citizens Jury</em></a><em>, </em>a representative group of randomly-chosen citizens make recommendations on policy concerns after they are provided with information from all key perspectives. A typical Jury consists of 24 members who meet for five to seven full days, though the number of jurors and the duration of the project varies depending on the issue in question.</p><p>Jefferson Center founder, Ned Crosby, first created the Citizen Jury method in the early 1970s. Since that time, the Jefferson Center has led or assisted in more than 30 Juries on public policy issues from climate change to property taxes to health care. A full history of the Jefferson Center can be found on the <a href="http://jefferson-center.org/who-we-are/our-history">Center's Website. </a>The Jefferson Center is a 501(c)(3) nonprofit; in 2005 a partner organization, <a href="http://www.jeffersonaction.org/">Jefferson Action</a>, (formerly Promoting Healthy Democracy) was formed to promote and apply the Citizens Jury method in ways appropriate for a 501(c)(4) nonprofit, such as electoral contexts or lobbying for specific legislative changes.<a id="History" name="History"></a></p><h1>History</h1><p> </p><p>Founded by political scientist Ned Crosby in Minneapolis, Minnesota in 1974, the Jefferson Center (originally named Center for New Democratic Processes) held its first Citizens Jury in 1974 on health care. A 1976 Citizens Jury was the first used to evaluate candidates running for office. Five Juries in 1984 on Agricultural Impact on Water Quality were the first to feature official government sponsors.</p><p>By the late 1980s, the Center began experimenting with using the Citizens Jury method in a new form of political evaluation. Juries were held to examine major political candidates. In 1989, the Jefferson Center convened a Citizen Jury to examine candidates in the mayoral race in St. Paul, Minnesota. In 1990, the Center ran a similar project examining the Governor’s race in Minnesota. And in 1992 a variation on Citizen Jury method called the <a href="http://jeffersonaction.org/how-we-work/citizens-election-forums/"><em>Citizen Election Forum</em></a> was held in cooperation with the League of Women Voters to examine candidates for U.S. Senate race in Pennsylvania. The 1992 project received high praise in various Pennsylvania based publications. The method seemed to be gaining momentum and the League of Women Voters approached the Jefferson Center to offer juries about the race for governor in 1993.</p><p>In 1993, the Center decided to shift gears from specific candidate evaluation towards a more national deliberative style, focusing instead on budgets and the Clinton health care reform plan in 1993. The next projects included the first Jury run by college students, with a class at Yale University in 1994. A Jury on welfare reform was sponsored by a Minnesota-based member of the U.S. House of Representatives. A project conducted in Dakota County, Minnesota was named a semifinalist in the <em>Innovations in American Government</em> award program at Harvard’s Kennedy School of Government.</p><p>Although these Citizens Juries continued to earn praise from observers and high ratings from participants, the leadership of the organization became frustrated that the Juries’ recommendations were not being heeded by policymakers. The Center closed in 2002, although founder Ned Crosby continued to experiment and carry out projects on an ad hoc basis. In 2005, a 501(c)(4) nonprofit partner organization, <a href="http://www.jeffersonaction.org">Jefferson Action,</a> was incorporated.</p><p>By 2008 there was a renewed interest in the Citizens Jury method, sparked in part by a successful application of the method in Oregon. Inspired by work started by Crosby and his wife Pat Benn in Washington State (and with their support), a locally-created independent organization named <a href="http://healthydemocracy.org/">Healthy Democracy Oregon (HDO)</a> developed a process called Citizens Initiative Reviews (CIR) that used the Citizens Jury method to evaluate statewide ballot initiatives. HDO secured state government approval of two pilot CIRs in 2010, and the results were published in the voters’ guide mailed out by the Secretary of State before the election. In 2011 a bill permanently instituting the CIR process was approved by the Oregon state legislature and signed by the governor.</p><p>In 2009, in the aftermath of the close U.S. Senate race between Al Franken and Norm Coleman, the Jefferson Center and Jefferson Action held a <a href="http://jefferson-center.org/who-we-are/our-history/2000s/election-recounts-2009/">Citizens Jury examining election recount processes in Minnesota.</a> The Jury was credited with helping build bi-partisan support for proposed state legislation that had failed only a few months earlier. The results were also presented at the National Association of Secretaries of State meeting in July 2009, where the participants responded to the jury’s report with a standing ovation.</p><p>The Citizens Jury method has proven popular with participants, <a href="http://http:/jefferson-center.org/what-we-do/citizen-juries/bias-evaluation/">who consistently give it positive feedback and rate the process as fair and free of bias by the organizers.</a> Outside observers – including local and national media -- have also generally praised the process. The method has been utilized by other organizations in Finland, Australia, Spain, Germany and elsewhere. The government in Great Britain has held more than 300 Citizens Juries, although these differ significantly from the method as the Jefferson Center implements it.</p><p><a id="Current_Projects" name="Current_Projects"></a></p><h1>Current Projects</h1><p> </p><p>The Jefferson Center continues to explore opportunities where the Citizens Jury process may be utilized to allow citizen voices to influence public policy.  The staff is available to assist public agencies looking for a method to learn the well-considered opinion of representatives of their constituency and they are also alert for opportunities to initiate, in collaboration with partners, worthy projects where a well-informed citizen perspective has the potential to support the development of sound public policy.</p><p><a id="Past_Projects" name="Past_Projects"></a></p><h1>Past Projects</h1><p> </p><p>Most recently, the Jefferson center noticed the long-term demographic and economic trends pose tremendous challenges for the nation and a increasingly-polarized public makes it difficult for policymakers to effectively address these challenges. In May 2012 the Jefferson Center conducted two Citizen Juries asking jurors to choose a set of policy areas that are most important for the economy, and to identify areas of agreement within some of those policy questions. <a href="http://jefferson-center.org/how-we-work/current-projects/">The process was carefully documented,</a> and a <a href="http://jefferson-center.org/who-we-are/our-history/2010s/economy-and-federal-debt-2012/">final report of the jurors’ can be found on the Center’s website.</a> In the fall of 2012, the 501(c)(4) partner Jefferson Action conducted a Citizens Election Forum that covered much of the same policy ground and that added the examination of congressional candidates’ stands. <a href="http://jeffersonaction.org/what-we-do/current-projects/">That process received a large amount of local media coverage and participation from both major party candidates.</a></p><p>Additionally, <a href="http://www.jefferson-center.org/who-we-are/our-history">reports from the Jefferson Center’s 30+ past projects are available on its website.</a> Around 1/3 of its Citizens Juries have been held outside its home state of Minnesota, and issues have included <a href="http://jefferson-center.org/who-we-are/our-history/2000s/early-childhood-education-2008/">education</a>, <a href="http://jefferson-center.org/who-we-are/our-history/1990s/low-income-housing-1991/">low-income housing</a>, <a href="http://jefferson-center.org/who-we-are/our-history/1990s/welfare-reform-1994/">welfare reforms</a>, <a href="http://jefferson-center.org/who-we-are/our-history/2000s/375-2/">climate change</a> and <a href="http://jefferson-center.org/who-we-are/our-history/1990s/physician-assisted-suicide-1998/">physician-assisted suicide,</a> as well as locally-relevant issues such as <a href="http://jefferson-center.org/who-we-are/our-history/1990s/traffic-congestion-pricing-1995/">traffic congestion</a> and <a href="http://jefferson-center.org/who-we-are/our-history/1980s/agricultural-impacts-on-water-quality-1984/">agricultural practices.</a> Results of participant evaluations are also <a href="http://jefferson-center.org/what-we-do/citizen-juries/bias-evaluation/">available on the website</a>. In 22 of 27 Citizens Juries held by Jefferson Action and the Jefferson Center, not a single participant expressed dissatisfaction with the fairness of the approach.</p><p><a id="Process" name="Process"></a></p><h1>Process</h1><p>The Citizens Jury process features a representative group of citizens who are given sufficient time and information to make informed recommendations on policy issues. A “jury pool” is created by inviting a randomly-selected group of citizens to participate; the final Jury is chosen to represent the ideological viewpoints and demographic characteristics of the larger population. Typically a Citizens Jury consists of 18-24 people and runs for approximately five days. Participants in a Citizens Jury are paid (roughly equal to the average day’s wage in their area--usually $100 to $150), and other expenses are covered (meals, lodging if necessary), as a way of further reducing barriers and encouraging participation from a representative group.</p><p>Once selected, and provided with the main policy question (called a charge), the Jury listens to expert witnesses and deliberates about the issue. The process includes time for the Jurors to question the witnesses directly, and to call back experts they wish to question again. The Jury expresses their final recommendations in their own words and Jurors review the final report before it is made public. The Jury typically chooses some of its members to serve as spokespersons at press conferences or to provide testimony before policymakers.</p><p>Throughout a Citizens Jury, Jurors complete a daily evaluation of the process, including questions designed to assess whether the Jury was conducted in a fair manner. At times the Center has created an Advisory Committee to oversee a Citizens Jury; the Committee includes a range of individuals with different perspectives on the topic that is being deliberated and helps provide a safeguard against bias.</p><p>With their small group size and lengthy time for deliberation, Citizens Juries provide for in-depth discussion of policy issues. Yet by randomly selecting the participants and carefully choosing a Jury that reflects the broader community, it also provides a representation of the community’s demographic characteristics and ideological views. The process is designed to circumvent the “ideological noise” that is present in our current policy environment so that ordinary citizens can advise and vote for leaders to create better public policy.</p><p>While the Citizens Jury has been the most successful method developed by the Center, it has experimented with other approaches, such as Extended Policy Discussions with policy experts, or Values Reviews identifying areas of agreement or disagreement among ordinary citizens.</p><p><a id="Funding" name="Funding"></a></p><h1>Resources</h1><p> </p><p>The Jefferson Center website is <a href="http://www.jefferson-center.org/">www.jefferson-center.org</a></p><p>The website of the Center’s 501(c)(4) nonprofit partner, Jefferson Action, is <a href="http://www.jeffersonaction.org/">www.jeffersonaction.org</a></p><p>For more information on the Citizens Initiative Review process run by Healthy Democracy Oregon and the Healthy Democracy Fund, go to <a href="http://www.healthydemocracyoregon.org/">www.healthydemocracyoregon.org</a> or <a href="http://www.healthydemocracyfund.org/">www.healthydemocracyfund.org</a>.</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">St. Paul, Minnesota</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">325 Cedar Street </span>
+                  <span class="additional" itemprop="streetAddress">
+             Suite 700          </span>
+              </div>
+              <span class="postal-code" itemprop="postalCode">55101</span>
+              <span class="locality" itemprop="addressLocality">
+      St. Paul      </span>
+                        <div class="country-name" itemprop="addressCountry">United States</div>
+                  <div class="tel">
+        <abbr class="type" title="voice">Phone:</abbr>
+        <span class="value" itemprop="telephone">651-209-7672</span>
+      </div>
+                                    <span class="geo"><abbr class="latitude" title="44.945105">44° 56' 42.378" N</abbr>, <abbr
+            class="longitude" title="-93.092443">93° 5' 32.7948" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=44.945105+-93.092443+%28325+Cedar+Street+%2C+St.+Paul%2C+%2C+55101%2C+us%29">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                US      </div>
+          </div>
+  </div>
+<div class="field field-name-field-pt-staff-count field-type-text field-label-above"><div class="field-label">Part-time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizens-jury">Citizens&#039; Jury</a></div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/issue-area/budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Budgeting</a></div><div class="field-item even"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item odd"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item even"><a href="/en/general-issues/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Health</a></div><div class="field-item odd"><a href="/en/general-issues/immigration" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Immigration</a></div><div class="field-item even"><a href="/en/general-issues/national-international-security" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National &amp; International Security</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

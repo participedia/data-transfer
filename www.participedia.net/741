@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/citizens-dialogue-sharing-funds-better-canada" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/741" />
+  <title>Citizens&#039; Dialogue on Sharing Funds for a Better Canada | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"eXwpFE29wIgHQS7d2PFSVP8deXTkiFXImsyyCe9_Zt4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"741"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/citizens-dialogue-sharing-funds-better-canada?destination=node\/741":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-741 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/citizens-dialogue-sharing-funds-better-canada" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/citizens-dialogue-sharing-funds-better-canada?destination=node/741" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-J4vC2ikDPzwXX5_tIMhrphH8KF5do3zlw_Cg1uTsgD4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Citizens&#039; Dialogue on Sharing Funds for a Better Canada</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Citizens&#039; Dialogue on Sharing Funds for a Better Canada</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/barrister2bgw" title="View user profile." class="username" xml:lang="" about="/en/people/barrister2bgw" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jorden M. Mousaw</a> on Sat, 12/08/2012 - 11:57</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Wed, 02/24/2016 - 08:15</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Citizens&#039; Dialogue on Sharing Funds for a Better Canada - Participedia" addthis:url="http://participedia.net/en/cases/citizens-dialogue-sharing-funds-better-canada"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/43190.jpg?itok=hgY3hgU6" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Problems and Purpose</h3><p>The Citizen’s dialogue on sharing public funds for a better Canada occurred in December 2005 to January 2006. "It was an initiative of the advisory panel on fiscal imbalance established by the council of the federation led by Canada’s premiers." (CPRN) "The initiative was developed at the request of the advisory panel, and the Canadian policy research networks (CPRN) led a dialogue with Canadian citizens to seek their views on the best avenues to share public funds between the federal and provincial governments to allow each to provide quality services to citizens, invest in their future, and improve competitiveness." (CPRN)</p><h3>History</h3><p>CPRN is a nonprofit think tank based in Ottawa, Canada. The organization "has been using public dialogue for a number of years as a way to involve citizens more directly in research and public policy discussions." (CPRN) Some examples of issues that CPRN addresses are the long term management of nuclear fuel, the Ontario budget strategy, health care reform, quality of life indicators, Canada’s children, aging, and the society we want. These are just a few examples of the vast topics CPRN addresses to citizens. In this particular citizens dialogue regarding the sharing of funds to create a better Canada citizens were able to discuss various aspects of important issues surrounding where the funds be distrubuted and the reasons why. *Note-this section needs more detail.*</p><h3>Originating Entities and Funding</h3><p>Advisory Panel on Fiscal Imbalance established by the Council of the Federation led by Canada’s Premiers</p><p>Canadian Policy Research Networks (CPRN)</p><p>*Section needs more detail*</p><h3>Participant Selection</h3><p>Ninety three participants were chosen randomly during this initiative. The participants "were a diverse group of individuals ranging from old, middle aged, and young." (CPRN) Some were life long citizens of Canada, and others were new cititzens of Canada. The group of participants was made up of married, single, and divorced individuals. The occupations of the participants included professionals, homemakers, retail workers, trades people, and students. Those who were selected in this initiative participated in a professionally facilitated day long regional dialogue sessions in the following locations: Halifax, Toronto, Montreal, Edmonton, and Vancouver in December 2005. During a national session, "involving 21 participants drawn from the regional sessions which reflected diverse backgrounds and perspectives was held in January 2006 to further explore issues that were found during the regional sessions." (CPRN) A participant workbook was given out which described the dialogue process. The workbook also addressed the ground rules for dialogue, and provided key facts and background on the sharing of public funds between the federal and provincial governments. The background information that was provided included: "current positions of governments on vertical and horizontal imbalance, seven principles currently at play in transfer programs, an overview of four approaches used by the federal government to share funds and two case studies used in the dialogue." (CPRN)</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>During the deliberation, participants were provided with four approaches to sharing the public funds for Canada. Approach one included: provinces/territories receiving tax points. The second approach included: province/territories receiving federal cash transfers <em>without</em> conditions. The third approach included: provinces/territories receiving federal cash transfers <em>with </em>conditions. The fourth and final approach included: federal governments provide more direct spending to citizens and institutions.  During the opening session, the participants in this deliberation were asked to complete a pre-questionnaire designed to rank their individual support for each of the four approaches listed above.</p><p><br />The participants "worked in a plenary setting with the aid of a facilitator, and with the support of policy experts." (CPRN) Any questions that the participants had regarding certain aspects on policy were answered by experts.  Participants discussed the four approaches to sharing funds, identified what their likes and dislikes were to each approach and why. During the deliberation session, "participants agreed on their common ground and differences, probed tensions among competing values and determined the tradeoffs that they were prepared to make." (CPRN) Throughout the deliberation process the participants identified the values and principles that they wanted to see guide the sharing of funds in Canada. During the second part of the citizen’s dialogue, "the participants moved into pre-selected groups to further discuss the possible approaches to transfer funds, while applying the values that had previously identified." (CPRN) The participants then reconvened in plenary to report back and explore common ground and differences. Prior to concluding their individual key messages to decision makers, participants completed the post-questionnaire to once again rank the four approaches. During the deliberation participants were also given two case studies to examine. Case study one pertained to access to post secondary education and focusing the discussion on the vertical fiscal imbalance. The case study that was provided contained four different approaches that could have been used by the federal government. Case study two involved the equalization program which focuses on the discussion of horizontal fiscal imbalance. Similar to the first case study provided, this particular case contained three different approaches on the federal government "deciding the size and allocation of the equalization program." (CPRN) *See secondary source provided below for more information on case studies*</p><h3>Influence, Outcomes, and Effects</h3><p>During the deliberation a chart was provided outlining the key values and principles that emerged from the regional sessions and which were reinforced in the national session. Participants wanted decisions makers to be guided by the following principals and values as they negotiated the sharing of funds.  Listed below is chart 2 which contains the established values and principles established by the participants. (CPRN)</p><p>Fairness</p><ul><li>Promote shared national standards / goals to ensure the ‘same acceptable standards’ for all Canadians</li></ul><p>Access</p><ul><li>Canadians deserve access to the same acceptable level of service across the country</li><li>Support mobility of people to move across the country</li></ul><p>Transparency &amp; Accountability</p><ul><li>Promote greater trust of governments</li><li>Measure progress and report to Canadians</li><li>Enhance accountability between governments and to citizens</li><li>Provide a process to ensure citizen input</li></ul><p>Sustainability</p><ul><li>Embrace a long-term vision for Canada</li><li>Provide continuity of services across changes in government</li><li>Ensure affordability</li></ul><p>Efficiency</p><ul><li>Collaborate to avoid duplication, reduce waste and share best practices</li><li>Coordinate services across provinces</li><li>Remove inter-provincial barriers</li><li>Enable skilled newcomers to work in their field</li><li>Improve Canada’s competitiveness</li></ul><p><em>1. "<u>Create a national vision and define the same acceptable standards for </u></em><em><u>all Canadians</u>"</em></p><ul><li>Replace the notion of minimum standards with ‘same acceptable standards’.</li><li>As all Canadians are equal, essential programs and services must be accessible regardless of jurisdiction.</li><li>Common standards for essential services such as education and health help to strengthen our competitive position in the global market.</li><li>Canadians are mobile and want to be able to move across the country to pursue education and jobs or to retire without facing barriers.</li><li>Provinces can move beyond the acceptable standard if that is where their populations choose to invest resources.</li><li>Provinces should exercise their authority within a common framework of services across the country, recognizing the need for provincial flexibility to tailor programs to meet specific needs.</li></ul><p><em>2. "<u>Define the vision and standards in a collaborative way"</u></em></p><ul><li>It is the responsibility of the federal government, working in close collaboration with the provinces/territories, to articulate and implement a national vision and standards. This does not mean giving the federal government free rein.</li><li>Include all levels of government, citizens and stakeholders in developing the vision and standards</li><li>Governments need to move beyond outmoded territorialism and collaborate on programs to reduce inefficiencies and duplication of effort</li></ul><p><em>3. <u>"Set standards first and then determine the transfer formula"</u></em></p><ul><li>The Equalization program is an important and necessary part of fair federalism but it is not the best vehicle to address the growing horizontal imbalance.</li><li>The current fiscally-driven formula should be replaced with one that is driven by what we want to achieve. We need to focus on outcomes rather than inputs.</li><li>Affordability and avoiding increases in our national and provincial debt are important and must be considered when designing mechanisms to achieve new standards.</li></ul><p><em>4.<u> "Preference for conditional transfers in addressing fiscal imbalance"</u></em></p><ul><li>This is a better and fairer way to achieve the ‘same acceptable’ standards across Canada while giving provinces some flexibility in how to best meet the needs of their citizens.</li><li>Improved monitoring against standards and transparent reporting will provide</li><li>Canadians with better tools to hold governments to account for how public funds are spent.</li></ul><p><em>5<u>. "Support direct federal spending with some conditions"</u></em></p><ul><li>This approach is well suited to help address the special needs of both individuals and institutions.</li><li>Direct federal funding facilitates mobility and portability for individual Canadians.</li><li>Some conditions should apply (e.g. institutions to report in a transparent way what has been achieved with funds spent; students must successfully complete their program).</li></ul><p>Some of the <em><u>key quantitative</u></em> results went as follows: "At the outset of the regional dialogues the highest ratings were for the conditional transfers which were listed at 62%. Tax points received a rating of 56%." (CPRN) "Over the course of the day long citizens dialogue support for the regional sessions grew a substantial amount over the conditional transfers which received 80%." (CPRN) Finally, direct transfers reached 58%.</p><p>The national session ratings showed that "there was even higher support for conditional transfers and a further decline in support for tax points." (CPRN) This analysis reflects the participants strong want for greater accountability of governments and common standards across Canada. The participants did not see how the transfer of additional tax points would contribute to either of these objectives. When it came to the "decreased support for unconditional transfers it was driven by the same desires, but also reflected participants calls for provinces to maintain a certain degree of flexibility to tailor programs to the particular needs of Canadian citizens." (CPRN)</p><p>In terms of the increase of support for direct transfers it reflected participants "desire to support a mobile population and recognition of direct transfers as a means to target the imperative needs of citizens and institutions." (CPRN) During the final hours of the citizens dialogue, participants took the opportunity to give comments or impose conditions on their ratings. As a result, in total 176 conditions or comments were noted from the participants. Of these 176, "the highest number were related to the lack of trust in governments and called for greater accountability this was found to be 22% that felt this way." (CPRN) The need for a standard level of quality services across the country was found to be at 20%. The key findings of this dialogue also "showed that 15% of the conditions were related to the need for a long term national vision." (CPRN) 18% called for a cooperative approach to developing the vision and standards between the federal and provincial governments, citizens and stakeholders.</p><p>During this citizens' dialogue it was found that the questionnaire rankings, conditions and comments the participants provided reinforced the key themes identified in their group discussions. The dialogue found that the repetition and similar pattern of messages from both the qualitative and quantitative data demonstrates a high degree of consistency between the group conclusions and individual views on the topics at hand. The findings of this dialogue also concluded that there was some differences across the regional sessions. For example, during the Montreal session the rating for conditional transfers was the lowest of all five sessions. An important note: it did increase from 42% to 68% at the end of the day, and was the most favored of the four approaches.</p><p>The Montreal sessions was the only one to support unconditional transfers as it was received over 50% at the beginning of the day and increased to 63% at the end of the day. There was "more support for the unconditional transfers during the Toronto session where it went from 35% in the morning to 41% at the end of the day." (CPRN) The decline in support for unconditional transfers was concluded by the Halifax session. In this case the ratings went from 47% in the morning to 26% at the end of the day. The Vancouver support dropped slightly from 35% to 33% at the end of the day. The Edmonton session stayed the same over the course of the day.</p><p>It is also important to note some other key factors in the findings of this citizens' dialogue. In terms of geographic location the citizens that participated in the dialogue did not limit their thinking to their own person location. Rather, "their sense of Canada is broad and they don't want to bring barriers to inhibit thier movement whether for school, work, or retirement." (CPRN) As it turned out the participants felt strongly that transfer programs should have supported a stronger Canada which then would have resulted in benefitting all regions of Canada.</p><p>Another key factor that resulted from the citizens' dialogue was the want for politicians to be more focused on what is best for Canadian citizens. The results of the deliberation showed that citizens were extrememly frustrated with politicians who let jurisdictional arguements impede the progress in addressing the needs of the citizens. The participants in this deliberation were wanting politicians "to promote a long term vision that can move beyond the rigidities of the Constitution to address today's realities." (CPRN)</p><p>The notions of trust and accountability really were an issue for the citizens of Canada. During the dialogue, participants came to a consensus that in order for trust to increase there needed to be an increase in accountability as well. The participants came up with the following idea: "we need better accountability mechanisms that proactively engage the public in choosing meaningful indicators and the means to asse progress in ways that will influence future actions." (CPRN)</p><p>The Citizens' Dialogue on sharing public funds for a better Canada resulted in many different attitudes and perceptions about how the money should be distributed. Another factor was that participants wanted to start with what exactly Canada wanted to achieve. To further explain this notion, the participants "took to heart the constitutional commitment to reasonably compare services at reasonably comparable rates of taxation." (CPRN) So, in attempting to achieve this the participants felt that the transfer programs should have reflected what Canada wanted to achieve and then "assess what each province needs to attain the desired standards." (CPRN)</p><p>Finally, the overall consensus of participants was that leadership opportunities were at hand. They felt that all governments now had the opportunity to work together "to shape a national agenda through collaborative efforts to develop common standards for key social and economic policies." (CPRN) To further explain this reasoning, the participants made it clear that the Council of Federation was at that point more than able to exercise strong leadership, and develop a more clear sense of Canada's desires to improve. The participants believed that through this sense of leadership it would inevitably halt the decline in public trust for governments  it would require governements "to think beyond their provincial borders and work in the best interest of all Canadians." (CPRN)</p><h3>Analysis and Criticism</h3><p>One criticism of this citizen’s dialogue was a result of the small quantity of participants involved. Due to the small number of people that were involved in this dialogue, it did limit the ability to infer the participant’s conclusions on a national scale. With that said, however, the consistency of messages across regions which were forced at the national session provided valuable insight for the panel and governments. According to the analysis completed by the CPRN the citizens dialogue results demonstrated that Canadians from a wide variety of backgrounds could get a firm comprehension of the complex issues presented in front of them. The partisans were also able to successfully determine what was more imperative to them in making decisions on sharing public funds. The best part of this citizen’s dialogue was the sheer fact that it got Canadian citizens excited about being involved. The Canadian citizens dialogue gave participants involved a desire to be a part of the thought process in dealing with challenging issues in Canada. The successful results of the dialogue helped government’s identity the policy preferences of the public. They also "identified the key issues for further exploration and provided insight on how to best engage Canadian citizens the discussing such issues." (CPRN)</p><h3>Secondary Sources</h3><p>Watling, Judy, Judith Nolte, and Mary P. Mackinnon. "Citizens' Dialogue on Sharing Funds for a Better Canada." Strengthening the Federation. CPRN, Mar. 2006. Web. Dec. 2012. <a href="http://www.cprn.org/theme.cfm?l=en&amp;theme=107">http://www.cprn.org/theme.cfm?l=en&amp;theme=107</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1475">National Budget Allocation</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Halifax, Toronto, Montreal, Edmonton, Vancouver, Ottawa</span>
+                              <div class="country-name" itemprop="addressCountry">Canada</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.ca?q=%2C+%2C+%2C+%2C+ca">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CA      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, December 3, 2005 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, January 14, 2006 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">7.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">93</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizen-dialogue">Citizen Dialogue</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A144">Opinion Survey</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Council of the Federation led by Canada's Premiers...</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/canadian-policy-research-networks-cprn">Canadian Policy Research Networks (CPRN)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">CPRN Staff</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-412ed772831487d00f62c92409e80be9">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/741">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

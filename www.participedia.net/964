@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/legislative-e-democracia" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/964" />
+  <title>Legislative e-Democracia | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"xsA1puEBQ5O2iHTMYZbjc8jGPFY46LvORWrXKML_IQc","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"964"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/legislative-e-democracia?destination=node\/964":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-964 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/legislative-e-democracia" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/legislative-e-democracia?destination=node/964" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-BSEpoUCE7aYnXwLJRI9lXCuJGrOx6oyslnLctltAEos" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Legislative e-Democracia</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Legislative e-Democracia</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/cristiano-ferri-faria" title="View user profile." class="username" xml:lang="" about="/en/people/cristiano-ferri-faria" typeof="sioc:UserAccount" property="foaf:name" datatype="">Cristiano Ferri S. Faria</a> on Tue, 05/21/2013 - 12:10</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 02/19/2016 - 08:30</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Legislative e-Democracia - Participedia" addthis:url="http://participedia.net/en/cases/legislative-e-democracia"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/e-democracia_0.jpg?itok=sNVpdW6n" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>The original version of this case study first appeared on </em><a href="http://www.vitalizing-democracy.org">Vitalizing Democracy</a><em> in 2010 and was a contestant for the 2011 Reinhard Mohn Prize. It was originally submitted by </em>Cristiano Ferri S. Faria<em>.</em></p><p>Brazil's Legislative e-Democracia is driven by a belief that the lawmaking process can benefit from the convergence of political representation and citizen participation, in a virtuous cycle where one model strengthens the other. People in contemporary societies have very diverse interests, experiences, expertise and values. The great challenge in making social participation feasible is to find out how to take advantage of such diversity and incorporate it into the policy-making system. The engine behind e-Democracia is a ‘multiple participatory mechanism,’ a kind of electronic, permeable sponge that enables people to share their professional experience and expertise, express their personal and collective interests and values, and foster creative ideas in different forms and intensity, in all phases of the policy-making cycle. That participation may consider any contribution that citizens want to deliver, or are technically able to present. Some persons would be interested in merely discussing ideas (solutions) in public forums, whereas others can be engaged in drafting, simply uploading useful information to describe the problem or presenting arguments to support ideas. One could even help to merely rank better ideas. Besides participants, there will be many other citizens who are satisfied with simply monitoring the legislative discussion.</p><h2>Project Description</h2><h3>Problem and Objective</h3><p>The level of mistrust in parliaments has increased in the last decades. The most frequent reasons come from the limitations of traditional political representation, which creates democratic deficits, to the lack of capacity of dealing with complex social problems in lawmaking, besides corruption and greater influence of powerful interest groups and corporations in the decision-making process.</p><p>In terms of efficiency for lawmaking, Brazil's e-Democracia departs from the perspective that by crowdsourcing ideas (creativity) and information during the bills’ discussion, representatives will have better conditions to make political judgment. In addition, it will bring more transparency and more inclusion to the legislative process.</p><p>Relying on the use of social media, combined with offline legislative events (e.g. committee hearings, conferences), the initiative is intended to reach a broad public that includes citizens, parliamentarians, civil servants, researchers, nongovernmental organizations and interest groups.</p><p>In particular, the e-Democracia website attracts and draws together the diffuse participation of individual citizens and minority groups. The main goal is to permit easier access to the decision-making process by citizens who are not associated with strong interest groups or corporations that usually lobby for access to the center of power in Brasilia where the national government is located.</p><p>The backbone of the initiative is its website. It aims to involve citizens in three core moments of the lawmaking process:</p><ul><li>The sharing of information about a problem that needs to be addressed by law;</li><li>The identification and discussion of possible solutions to the problem; and</li><li>The drafting of a bill itself.</li></ul><p>Besides the need to empower new voices, it aims to incorporate strategic information and ideas from diverse Brazilian citizens for policymaking. Then, there is also a collective intelligence objective.</p><p>The website can also be used for checks and balances concerning the Executive branch, another important Congress’ role. People can collaboratively feed Congress with information about the problems of service delivery, for instance.</p><h3>Structure and Process</h3><p>In the e-Democracia, the project began as a pilot initially developed by technicians that achieved to convince the House of Representatives’ political and administrative board for an experimental period.</p><p>e-Democracia was born in a heterogenic group, a kind of “organizational activists” or policy entrepreneurs. Consisting of young multi-tasking legislative officials, external consultants who are skilled in virtual communities at other governmental bodies and general e-participation, this group intended to bring more transparency and participation to the legislative process.</p><p>Initially, this group mapped out electronic legislative experiments worldwide. Most of them consisted of blogs, forums and opinion polls without a more structured deliberative process at the lawmaking stage. After months of brainstorming, an approach was found. It is to adapt the mechanism of virtual communities of practice to the formulation of laws to engage a broader segment of society in debates of national legislative issues.</p><p>The first main challenge was to convince lawmakers to accept the project. With the support of the superior administrative board, the e-Democracia staff held several meetings with representatives and social groups to present the project and obtain initial reactions. Surprisingly, most of the representatives received the idea with enthusiasm as they perceived it as an opportunity to make their work more visible. On the other hand, the social groups wanted a stronger interaction with Parliament.</p><p>After months of an intense process of persuasion, the Speaker of the House, Representative Michel Temer, authorized the development of a beta version for an experimental period. The next challenge was the selection of 3 to 5 legislative bill subjects to discuss during the June 2009 to June 2010 pilot period. There were two major elements necessary for success. 1. the potential engagement of representatives in the digital discussions and 2. the issues needed to be “hot”, i.e., subjects that a significant segment of Brazilian society urgently wanted to discuss, instead of more secondary issues.</p><p>Several conversations between a couple of representatives, the administrative board, the e-Democracia staff and legislative consultants resulted in the selection of two major ongoing bills from the many possibilities due to their importance and political momentum. They were the Climate Change Policy and Youth Statute. Now e-Democracia added two more – the Lan House Bill and the Space Policy.</p><p>At the moment, a new system for selection of future discussions is under study. One alternative is to base the selection on opinion polls at the e-Democracia website. In the Citizen Room, a virtual space for free discussions, participants propose different legislative issues. They have already suggested about 45 new themes for the following potential thematic legislative communities.</p><p>e-Democracia is not only an interactive portal. It has an embedded organizational process to filter, organize and optimize the ideas delivered by people and deliver it to the legislators.</p><p>The organization of human resources and the formation of internal workflow is essential to transform inputs in a powerful and relevant content able to influence the legislators. The future impact of this mechanism to the empowerment of voiceless and marginalized minority groups and citizens seems promising.</p><p>Considering the challenges involved in the implementation of such a project, the use of technology per se is far from being the only ingredient for success. Citizen involvement is essential, but it is only sustainable if the initiative allows users to have an actual voice in the decision-making process. However, in ensuring this kind of participation, numerous political, institutional and organizational variables come into play. For example, a previous commitment from Members of Parliament and from legislative staff – beyond those directly in charge of the project – is fundamental. In other words, internal support is also a key factor.</p><p>Based on this assumption, at a very early stage, a particular effort was deployed to involve – along with external stakeholders – MPs, their staff, and the servants of the House in the co-design of the initiative. Currently hosting a specific discussion regarding “The National Policy of Climate Change,” the project relies on a great deal of support from the political and administrative spheres of the House. A high degree of involvement has been generated among major internal actors such as the speaker of the House himself, the Environmental Parliamentary Group, the Committee on Environment and Sustainable Development, and a multitude of civil servants from different House departments.</p><p>One project manager, three assistants and two trainees nowadays compose the e-Democracia’s team. Besides that there are four professionals in charge for technology development. To support every virtual community, an ad hoc team is formed: one consultant in the specific subject, one information manager and one representative direct adviser. Participants from society are eventually invited to be moderators.</p><h3>Impact</h3><p>As to the sharing of information concerning thematic legislative virtual communities, the website provides users with the possibility to upload and download resources in text, audio and video format, and the possibility to follow up on pertinent legislative action being taken at the House of Representatives. To enhance the debate among the participants, different resources are available, such as video chats, forums and customizable surveys. Users are also able to create and edit their own personal profiles and to form thematic social networks.</p><p>These networks have been particularly useful as a means to bring together different users across the country around a specific topic. In addition, considering that in the legislative process much of the relevant discussion takes place during the drafting of a bill itself, the website provides users with the “wikilegis” area. In this collaborative environment, users can elaborate their own version of a bill or suggest amendments to existing bills while simultaneously discussing and qualitatively evaluating bill proposals.</p><p><u>Real impact in bills</u></p><p>Since June 2009, e-Democracia has acquired five virtual thematic legislative communities (VLC), several forums, more than 100 topics, 700 contributions and 4000 registered participants. The most successful experiments so far have been the lan houses policy and youth statute virtual communities. As a result of the latter, ideas and suggestions delivered by youngsters throughout Brazil have been taken seriously by (some) policy-makers and, in fact, reflected in the draft of the bill, not yet passed.</p><p>One important issue that normally causes digital participation to fail is the lack of connection between people’s contributions and how laws are actually drafted. Writing legal text involves great technical complexity. e-Democracia has minimized this problem by engaging the assistance of legislative consultants, who serve, essentially, as “technical translators” during the entire participatory process.</p><p>Participants of the youth statute discussion have posted comments and discussed several ideas during recent months. Legislative consultants summarized this participatory content and presented it to the lawmaker in charge of drafting the bill. After her approval, the legislative consultants transformed her suggestions into legal text. Then, the lawmaker herself submitted it to the Youth Affairs Committee.</p><p>Thus, there are some examples how virtual contributions reflected in real modifications of the youth policy bill draft (still in discussion):</p><p>1) Participants’ contribution - Participants wanted greater investment in internships and other professional programs for undergraduates, as well as greater flexibility in working conditions for students.</p><p>Bill Draft:</p><p>“art. 19. The action of the State to make effective the rights of youngsters to professionalization, labor and income includes the following measures:</p><ul><li>…………&amp; #8230;……</li><li>III – an offer of special conditions of labor by matching the professional and educational schedule;</li><li>…………&amp; #8230;……</li><li>VI – the application of instruments of legal accountability for relevant organizations;</li><li>VII - the creation of special credit for working students;</li><li>…………&amp; #8230;……</li><li>IX - the introduction of apprenticeships in public administration.”</li></ul><p>2) Participants’ contribution - Participants have cried out for greater empowerment of the local youth councils, bodies composed of youth representatives, politicians and experts.</p><p>Bill Draft:</p><p>“Art. 46 The youth councils are permanent and autonomous bodies committed to formulating policies for the youth and guaranteeing effective implementation of the rights of the youth.</p><p>Art. 47 The youth council duties are:</p><ul><li>I – informing the General Attorney of any criminal infraction committed against youngsters;</li><li>...........................</li><li>IV – requesting information about matters of youth policy from public authorities;</li><li>V – advising the government on the formulation of youth policy;”</li><li>(and other measures)."</li></ul><p><u>Transparency</u></p><p>Citizens can also see what was actually proposed by citizens and compare it to the actual bill that is drafted. This brings disclosure to the lawmaking process because people can use the public participatory process to demand that their representatives explain why certain suggestions and ideas were considered instead of others. Moreover, after a first round of public participation in the debate on the youth statute, participants pressed the Youth Affairs Committee lawmakers for a decision on the issue.</p><p>Then, one major benefit of the e-Democracia is to disclose the tricky pandora box of the legislative process by letting people track the day-by-day of the parliamentarian debate. Participation brings transparency because forces people to think, discuss and understand the complex lawmaking process. The public legislative discussions may inhibit or at least help to disclose the influence of the corporations in the legislative process and the backroom agreements.</p><p><u>Politicians' engagement</u></p><p>The engagement of politicians in virtual discussions is relevant to their success. It is a symbolic demonstration of respect to society. The debate of the youth statute engaged some (not many) active congressmen in it. For example, Representative Manuela D’Avila is the lawmaker in charge to formulating the first draft of the youth statute. Besides being quite young (28 years of age) and used to blogs, Twitter and other Web 2.0 tools, Manuela represents a new generation of politicians who intend to have a more dynamic relationship with her voters and the nation’s citizens. She has twittered e-Democracia happenings.</p><h3>Detailed Information</h3><h4>Broader Context</h4><p>Yes, part of a legislative intelligence project. In addition to e-Democracia there are new projects in development that seek to improve the interconnection between Legislature, Executive and Justice’s information system to facilitate exchange of information for policy evaluation. That will be a learning system that lets citizens helping representatives to evaluate policy implementations. In these other projects citizens are invited to join representatives to evaluate the quality of laws. The creation of a feedback loop system can stimulate Congress to correct bad laws quickly.</p><h4>Type of Contribution by Participants</h4><p>They commented or evaluated project measures.</p><h4>Target Group</h4><p>In the project development, meetings with representatives, officials and interest groups happened in order to check the project feasibility. Besides, there were meeting with social entrepreneurs when eDemocracia’s team could listen suggestions and contributions to the e-Democracia new website. And there is also an open forum at e-Democracia website where people can discuss the problems and possible solutions for a better portal.</p><h4>Total Number of People Addressed by the Project (approx.)</h4><p>500,000 (in 5 years)</p><h4>Total Number of Active Participants (approx.)</h4><p>4000</p><h4>Specific Effort Made to Include Disadvantaged Groups</h4><p>Some effort to address disadvantaged groups</p><p>The project stimulates the participation of “digital connectors”, people from offline groups or communities who can intermediate the conversation between those and the parliament being a kind of proxy in this process. One of the most interesting messages posted at the e-Democracia platform was put forward for a native from the Amazon in Brazil. She did not present any substantial ideas to the discussion, but her participation helps to enlighten unexplored paths of inclusiveness in the legislative decision-making process - the connection between the online world and offline participants. That native is a leader of a local native youth community of a certain tribe in the Amazon jungle. She speaks Portuguese and knows how to manage email and navigate on the Internet. She is a potential connector between the online participation in the Brazilian House of Representatives and the offline community group that she leads, simply by using a personal computer and dial-up Internet access. Connection between online and offline worlds – the project next approach is to connect the portal with old-fashion systems of communication in order to involve the offline part of Brazilian society. For instance, one strategy is focused on the development of user-friendly use of communitarian radio system and sms in regular mobile phones to promote more inclusive participation in the e-Democracia.</p><h4>Specific Effort Made to Strengthen Democratic Capacities</h4><p>Civic education: participants start to believe they can make difference with their contributions once they are taken seriously by representatives. This creates a positive and sustainable cycle of engagement in politics. Politicians behavior: representatives tend to pay more attention to peoples’ opinion once politicians become aware of digital channels of interaction. Transparency: when participating people can better understand the complexity of lawmaking and become more capable to realize distortions and dirty tricks that can be inserted into bill drafts by representatives to privilege some groups or interests.</p><h2>Links</h2><p><a href="http://edemocracia.camara.gov.br/">e-Democracia website</a></p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/lawmaking" typeof="skos:Concept" property="rdfs:label skos:prefLabel">lawmaking</a></div><div class="field-item odd"><a href="/en/tags/e-democracy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">e-democracy</a></div><div class="field-item even"><a href="/en/tags/participation-crowdsourcing" typeof="skos:Concept" property="rdfs:label skos:prefLabel">participation crowdsourcing</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1454">Legislation Crowdsourcing</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                              <div class="country-name" itemprop="addressCountry">Brazil</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com.br?q=%2C+%2C+%2C+%2C+br">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                BR      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A52">Develop individual capacities (e.g. skills, learning)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A132">Appointed Public Servants (e.g. Bureaucrats)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/online-consultations">Online Consultations</a></div><div class="field-item odd"><a href="/en/methods/crowdsourcing">Crowdsourcing</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A171">Peer Facilitators (i.e. other participants not professional facilitators)</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Government of Brazil</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/government-brazil">Government of Brazil</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A30">National Government</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">10</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-18108d671d95a080991490b7852514a6">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/964">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

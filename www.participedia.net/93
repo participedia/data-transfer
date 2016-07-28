@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/no-la-costanera-norte" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/93" />
+  <title>No a la Costanera Norte | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"SoN0xuc7SNabgvpR05Vq9dsz8DcH3xw1n1tHht6UHW4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"93"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/no-la-costanera-norte?destination=node\/93":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-93 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/no-la-costanera-norte" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/no-la-costanera-norte?destination=node/93" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-8PoCHG2r15IcSy76VB8IdhWU8Fn7I1BxDgxNrX-kGdE" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">No a la Costanera Norte</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">No a la Costanera Norte</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/mrcayoja" title="View user profile." class="username" xml:lang="" about="/en/users/mrcayoja" typeof="sioc:UserAccount" property="foaf:name" datatype="">Milka</a> on Tue, 05/31/2011 - 22:01</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Thu, 05/26/2016 - 12:36</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="No a la Costanera Norte - Participedia" addthis:url="http://participedia.net/en/cases/no-la-costanera-norte"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/Chile_Costanera_Norte_crossing_downtown_Santiago.JPG?itok=xve5VrKx" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Note: an English translation of this case is available here: <a href="http://participedia.net/en/cases/no-costanera-norte-coalition">http://participedia.net/en/cases/no-costanera-norte-coalition</a></em></p><h3>Resumen</h3><p>La construcción del Sistema Oriente Poniente (Costanera Norte), la primera autopista urbana concesionada en la Región Metropolitana de Chile, fue un proceso dilatado y complejo, en un contexto de instalación de la institucionalidad ambiental, coincidente además con el ingreso de actores privados en la construcción de infraestructura pública a través del sistema de concesiones. El conflicto radica en la oposición ciudadana ante este proyecto, configurado bajo la figura de la coordinadora “No a la Costanera Norte”. Ésta organización estaba compuesta por un grupo de organizaciones ciudadanas afectadas. Luego de su intervención, hubo modificaciones al proyecto que favoreció en parte los intereses de los ciudadanos organizados bajo la coordinadora. Una vez resuelto el conflicto y materializadas las obras de la concesión, la coordinadora canalizó su capital social e intereses orientados hacia una ciudad sustentable en la figura de la Organización No Gubernamental Ciudad Viva, llegando a constituirse en un respetable y visible grupo ciudadano reconocido por autoridades políticas, académicos y ciudadanos hasta la actualidad. Se evidencia que a través de los conflictos entre ciudadanos y Estado, el legado finalmente es un aprendizaje para todos los actores, quienes se ven sometidos a nuevas formas de proyectar y entender la ciudad y de un ente Estatal que debe hacerse cargo de escenarios más complejos en cuanto a lo ambiental y a la vez de una nueva concepción de ciudadano activo y demandante.</p><h3>Historia</h3><p>El conflicto comenzó en 1996, cuando el comité Ecológico de Bellavista, más los vecinos de Bellavista se enteraron por medio de rumores de un proyecto de carretera que atravesaría su barrio. Se trataba de un megaproyecto urbano, de 33 km de extensión, lo cual se convierte en conflicto por los efectos proyectados hacia un barrio antiguo y tradicional ubicado al norte del centro de Santiago, caracterizado por ser un lugar de artistas y bohemios con presencia de restaurantes, y locales de baile. Sus habitantes estaban enfocado en mejorar el barrio por lo cual existía una organización de vecino previo al conflicto que se ocupaban por problemas como el ruido excesivo y la basura. Los líderes de organización vecinal Ricardo Araya y Lake Sagaris, ya teniendo experiencia acerca de la participación ciudadana, comenzaron la búsqueda de información del tema, llevándolos a convocar a una reunión vecinal a la cual asistieron trescientos residentes, impactados por la noticia de la autopista y preocupados por la falta de información, situación que pasaría a ser tónica de la relación proponente-afectados (Araya y Sagaris 1997 en Ducci, 2000). En el mes de junio del mismo año los vecinos confirmaron que la carretera cruzaría el barrio en forma subterránea, lo que los llevó a organizarse formando una campaña “No a la Costanera Norte” que tuvo una cobertura de los medios de prensa y usó como escenario de organización una plaza del barrio. Ese año alrededor del mismo conflicto surgieron más grupos: el Comité de Defensa de Recoleta, El comité de Desarrollo de Patronato y organizaciones previamente creadas de la Vega central, sumándose así a la lucha por defender el barrio. Sin embargo, uno de los grupos conformados por locatarios de La Vega y de Patronato lograron acuerdos con el MOP, desprendiéndose posteriormente del movimiento.</p><p>A medida que la organización se fortalecía, en 1997, destacaron dos grupos vecinales integrantes de la organización: primero los vecinos de Pedro de Valdivia Norte conformado por habitantes de clase media, quienes se informaron y comprometieron con la causa y los del comité de defensa del Parque Metropolitano que también se integraron de manera activa al proceso. En el mismo año en el mes de abril, el MOP abrió la licitación para la construcción del proyecto lo cual provocó que los vecinos se levantaran y exigieran la paralización del proyecto para la realización de un Estudio de Impacto Ambiental. Cabe destacar que en el momento de inicio del conflicto, ya existía la Ley General sobre Bases del Medio Ambiente, pero no se encontraba vigente aún su reglamento que daba validez a lo dispuesto ahí, por lo cual la participación ciudadana no constituía una instancia establecida y formal. Los vecinos, conjuntamente con la Corema Metropolitana organizaron un proceso de participación ciudadana que no llegó a cubrir las exigencias de los vecinos, que la consideraron insatisfactoria. Por ende decidieron crear la Coordinadora No a la Costanera Norte conformada por catorce organizaciones ciudadanas, incluyendo las asociaciones gremiales del mercado Tirso de Molina y de la Vega Chica, la Asociación de Comerciantes de la Periferia de la Vega y las Asociaciones de propietarios y Arrendatarios de Independencia, conformando así una potente asociación con protagonismo en la situación existente. En 1998 la Coordinadora contaba con veinte organizaciones que participaron en el Sistema de Evaluación de Impacto Ambiental en un trabajo conjunto con la Corema. Más tarde la coordinadora oficializó en un evento organizado por ellos, la entrega de las respuestas que llevó a sus dirigentes a pronunciarse de manera positiva porque lograron un trabajo significativo. Organizaron una conferencia de prensa que fue producto de la gran respuesta a la convocatoria de participación y el apoyo constante de las asociaciones en el trabajo de difusión y la importante asistencia de trescientas personas concluyendo con una marcha hasta la oficina de la Corema. Tras el evento, la organización envió delegaciones a la Comisión del Medio Ambiente del Senado, a un congreso organizado por la Comisión del Medio Ambiente de la Cámara de Diputados, al Colegio Médico de Santiago, a la Comisión del Medio Ambiente del Colegio Nacional, a varias comisiones del Colegio de Arquitectos, del Colegio de Psicólogos, y a distintas organizaciones ambientalistas, entre ellos, Renace, el Instituto de Ecología Política y el Observatorio Latinoamericano de Conflictos Ambientales. Recibieron apoyo de la Clínica Jurídica de la Universidad Diego Portales, del Colegio de Ingenieros, y de diversos profesionales destacados. Con gran esfuerzo, la Coordinadora preparó varias carpetas informativas, comunicados de prensa, etc., los que fueron impactando cada vez más en la opinión pública y cambiando la actitud de los periodistas y la prensa en general (Ducci, 2000). En 1998 la corte de apelaciones falló en contra del recurso de protección que la coordinadora había interpuesto, lo que los llevó a la apelación, mientras se iban elevando los costos del proyecto por las demandas y reclamos de los vecinos de los distintos barrios. Al finalizar el año el proyecto suspendió la licitación por la falta de empresas oferentes.</p><p>En 1999, nuevamente el MOP lanzó la licitación para la Costanera Norte adjudicándose el proyecto un consorcio de empresas encabezado por la constructora Impregilio. A finales del 2000 se sostuvieron conversaciones entre la coordinadora, el consorcio y la dirección de concesiones del MOP, desembocando en una propuesta por parte del consorcio de un cambio de trazado de la carretera en los barrios Pedro de Valdivia Norte, Bellavista, Recoleta e Independencia, el cual pasaría al interior del cauce del río Mapocho, lo que llevó al MOP a contratar nuevos estudios de impacto ambiental dando se así la iniciación de las obras en el año 2001.</p><h3>Propósito y Problema</h3><p>La problemática comienza por la reacción ciudadana hacia la construcción del proyecto Sistema Oriente Poniente cuyo trazado impactaría 7 comunas de la región metropolitana. Luego de conocer las características y trazado del proyecto, los vecinos reaccionan ante la magnitud de los impactos proyectados. En el caso de los habitantes de Pedro de Valdivia Norte y Bellavista se trataba de impactos severos a su sistema de vida y costumbres, en donde las dinámicas de convivencia a nivel barrial y con alto componente cultural se verían entorpecidos con la existencia de una carretera de alta velocidad, además de la posibilidad de perder parte de su patrimonio cultural y natural (en el caso del Parque Metropolitano). También existió una previa organización por parte del barrio Bellavista que generó un comienzo para la posterior organización de la coordinadora. El contexto institucional de base contemplaba además la instalación de la institucionalidad ambiental a través de la figura de la Comisión Nacional de Medio Ambiente (CONAMA). En 1994 se había promulgado la Ley 19.300 sobre Bases Generales del Medio Ambiente, produciéndose un período de instalación hasta 1997 con la entrada en vigencia del Reglamento asociado a esta ley. Esta institucionalidad ambiental considera el ingreso al Sistema de Evaluación de Impacto Ambiental en forma de Declaración de Impacto Ambiental (DIA) o Estudio de Impacto Ambiental. La primera modalidad contempla solo una declaración de los impactos a generarse, sin contemplar mitigaciones o compensaciones. En cambio los Estudios de Impacto Ambiental (EIA) consideran relevar los impactos a través de medidas de mitigación, reparación y/o compensación. Además considera una etapa de participación ciudadana formal de 60 días de duración que comienza una vez que el titular publica un extracto del estudio en el diario oficial. El proyecto vial en cuestión, al ser catalogado como autovía y no autopista, no contemplaba la realización de un Estudio de Impacto Ambiental. Cabe destacar que sin embargo, debido a la demanda ciudadana se produjo un proceso de participación antes de la realización del Estudio de Impacto Ambiental, durante el Estudio y luego del cambio del trazado. El proyecto, al tratarse de una autopista urbana y atravesar siete comunas, dejaba a su paso gran cantidad de actores afectados, dispersos a través de distintos barrios y organizados en diversos tipos de organizaciones ciudadanas. Sin embargo, la autoridad contemplaba que la contraparte ciudadana estuviera organizada en tres subgrupos, cuyo criterio sería la agrupación de comunas con perfiles socioeconómicos homogéneos: Providencia - Las Condes - Lo Barnechea (Clase alta), Independencia – Recoleta (Clase Media) y Pudahuel – Renca (Clase Baja). Esta forma de ver a la ciudadanía podía ser más fácil para la autoridad, pero conllevaba la fragmentación de las organizaciones sociales, ya sea preexistente al conflicto o a las conformadas a propósito de éste. El ejemplo más claro es el del Barrio Bellavista, el cual se emplaza en las comunas de Recoleta y Providencia, pero representa una unidad independiente, debido a su carácter de barrio bohemio y con vocación cultural, y por ende, con impactos ambientales específicos y distintos a los de un sector residencial. En este caso de estudio “No a la Costanera Norte” dicho componente cobró relevancia dado que la comunidad estaba altamente movilizada, organizada y contaba entre sus miembros profesionales que podían dialogar de igual a igual, en términos técnicos, con los planificadores del proyecto. (Cáceres, 2008) El capital social pre existente, y la existencia de profesionales conocedores de temáticas urbanas fueron un factor clave para lograr ser un interlocutor válido en el conflicto, tanto en la etapa inicial donde los habitantes recabaron información sobre el proyecto, como en el proceso y el diálogo que se entabló con la concesionaria y el MOP, logrando comprender los aspectos técnicos del proyecto. En cuanto a la contribución de la coordinadora al mejoramiento ambiental del proyecto parece innegable. También ha contribuido a posicionar entre el público el tema de fondo: qué ciudad queremos los santiaguinos. (Sabatini, 1999) Sin embargo, la complejización de la problemática se ve alimentada por la postura irrenunciable de la coordinadora “No a la Costanera Norte”. Su postura ante el proyecto, tal como lo enuncia su nombre, es la no realización de las obras, lo cual no deja mucho espacio para el diálogo o negociación.</p><p>Los antecedentes indican entonces que el propósito de la coordinadora era formar un bloque cuyo objetivo era paralizar el proyecto, impulsados por los potenciales impactos a sus sistemas de vida que la construcción de la autopista acarrearía. Sin embargo, esta demanda ciudadana no puede ser acogida de manera plena e inmediata, especialmente por el peso de las decisiones políticas imperantes. Es importante recalcar que este tipo de emprendimiento no se somete a votación popular, por lo que los conflictos y demandas ciudadanas pueden transformarse en expectativas no recogidas catalizando problemas de frustración y descontento popular.</p><h3>Entidades de Origen y Financiamiento</h3><p>La organización vecinal de Bellavista constituyó la entidad de origen, cuyas capacidades instaladas atrajeron a otras 25 organizaciones igualmente afectadas por el proyecto Costanera Norte. Este germen organizacional fue evolucionando a medida que se incorporaban los vecinos de Pedro de Valdivia Norte, Independencia, Recoleta, representantes del Parque Metropolitano, Patronato y La Vega, tomando fuerza el concepto de defensa del barrio y los aspectos culturales tradicionales asociados a éstos. En cuanto al financiamiento, el compromiso de los ciudadanos se reflejó en el aporte monetario y de capital humano que los miembros de las organizaciones activas realizaron a la causa.</p><h3>Creación y Selección de Participantes</h3><p>Cabe destacar que el MOP, por la naturaleza de los proyectos que realiza, no siempre debe ingresar al SEIA, por lo que cuenta con sus propios manuales y procedimientos de participación ciudadana. Sin embargo, el proyecto Costanera Norte se trata de un mega proyecto a escala urbana, por lo tanto la reacción de los ciudadanos y la demanda por ser parte del proceso fueron una variable a considerar en el momento de incluirlos como interlocutores en la problemática. El ingreso de los actores participantes en el conflicto fue un resultado de su interés y organización ciudadana por influir en el resultado del proyecto. Los ciudadanos potencialmente afectados tuvieron que organizarse en primera instancia para poder ser parte del proceso. Ellos mismos fueron quienes demandaron presencia en el conflicto, luego de conocer los aspectos técnicos del proyecto y promover su difusión y conocimiento entre los vecinos. Sin embargo, una vez que consiguieron participar de manera formal en el proceso, la modalidad de participación que propugnó CONAMA, no fue satisfactoria para muchas de las organizaciones debido a que les impedía actuar como un solo grupo de interés, restándoles fuerzas, (Cáceres, 2008). Es por ello que la creación de la coordinadora “No a la Costanera Norte” es producto de este obstáculo que la institucionalidad le planteó y que ellos debieron sortear para evitar la fragmentación, y por ello mantener una relación parcializada con la autoridad. La estrategia de los vecinos para enfrentar esta sectorialización fue acelerar un proceso que ya estaba en camino: la creación y consolidación de la Coordinadora No a la Costanera Norte. (Cáceres, 2008) Esta acción fue el aspecto clave para enfrentar la problemática, ya que Conama había agrupado a las comunas afectadas según perfiles socioeconómicos similares (Providencia - Las Condes - Lo Barnechea, Independencia - Recoleta y Pudahuel -Renca). Se trató de un proceso inclusivo, ya que fue capaz de incorporar a otras organizaciones al proceso bajo la figura de la coordinadora, cuyo detonante fue la organización del barrio Bellavista. La particularidad de este proceso de participación es que estuvo conformado exclusivamente por stakeholders o grupos de interés directamente afectados por la problemática y que fueron capaces de aportar al proceso con sus conocimientos sobre la materia, dedicaron tiempo y recursos a la participación y cuyo éxito radica en la legimidad con la que contaban los grupos y actores a la hora de organizarse. Esto último es el aspecto clave en la conformación de “Ciudad Viva”</p><h3>Deliberaciones, Decisiones y la Interacción Pública</h3><p>Los líderes de la organización, vecinos de Bellavista oficiaron el liderazgo de la organización, iniciando el proceso informando a los vecinos afectados de las características del proyecto. Luego la coordinadora decide ser parte de manera formal de la problemática para lograr su meta de paralizar el proyecto, concertando reuniones con el MOP y luego con el Consorcio, logrando una interacción que fue conocida y bullada en los medios de comunicación y reconocida hasta hoy, destacando entre éstos hitos la marcha que realizaron hacia la oficina de la Corema Metropolitana.</p><h3>Resultados y Efectos:</h3><p>Entre los resultados y efectos más evidentes, se encuentra el posicionamiento ciudadano en temáticas de desarrollo urbano, combinado con un escenario de instalación de institucionalidad ambiental y creciente interés de actores privados por ingresar al escenario de construcción de infraestructura pública. Más allá del resultado concreto, y por lo complejo de medir este tipo de logros, un resultado relevante fue la inclusión en la mesa de trabajo de la ciudadanía demandante, lo cual es atribuible en gran medida a las características del capital humano y social imperante en las organizaciones ciudadanas. A pesar del carácter reactivo de la ciudadanía en este conflicto, es interesante el resultado posterior, incluso no habiéndose logrado la premisa del grupo “No a la Costanera Norte”. La autopista fue construida de todas formas, con algún grado de modificación atribuible a un conjunto de variables, pero el legado simbólico fue sin dudas el capital social producto de las acciones ciudadanas en torno a este conflicto urbano ambiental y que fue canalizado hacia “Ciudad Viva”. Cabe destacar que a pesar de la importancia del caso y más específicamente de la organización ciudadana lograda, el cambio de trazado propuesto por la concesionaria y aprobado por el MOP responde a una serie de variables, paralelas a las demandas ciudadanas, tales como aspectos técnicos y económicos del proyecto, y no solo fue por una mera influencia de la coordinadora. Según los antecedentes aportados por una funcionaria del MOP, el cambio de trazado fue ocasionado por una serie de variables técnicas, económicas y también relativas a la afectación a los barrios, la comunidad y los servicios allí existentes. Consultado por el costo de este nuevo trazado, indicó que si bien hay un alza en la inversión estatal - en torno a los US$ 40 millones-, no es menos cierto que también hay un ahorro importante para el Fisco, ya que una parte de la inversión inicial se evita al no haber cambios de servicios y por una menor cantidad de expropiaciones. (El Mercurio, Julio 2001)</p><p>También es interesante ponderar que el conflicto en contra de la “Costanera Norte” surgió en los primeros años de la instalación de la institucionalidad ambiental, por lo que los logros de participación de las organizaciones ciudadanas de entonces sientan las bases del actuar de una sociedad informada y organizada ante los sucesos que las afectan, sin desconocer la importancia de otros conflictos territoriales a lo largo del país, ya sea en contextos rurales y con componentes culturales y étnicos en juego.</p><h3>Análisis y Críticas</h3><p>En el momento del conflicto, la coordinadora argumentaba que su rechazo al proyecto era también propiciado por la intención de no seguir aumentando el flujo vehicular en la ciudad, el cual se vería potenciado gracias a estas infraestructuras urbanas. Si bien se trataba en gran parte de ciudadanos profesionales provenientes de barrios con cargado capital humano, compuesto por intelectuales y técnicos, éstos fueron capaces de orientar sus esfuerzos y expectativas hacia una problemática común, creando una organización que en la actualidad sigue presente en el debate ambiental en la ciudad y que también mira al resto del territorio. Considerando los diversos tenores del rol de la coordinadora en el caso analizado, es insoslayable reconocer que su heredera, “Ciudad Viva” entra en el debate y es un actor legitimado y de renombre, sentando las bases de la participación de las organizaciones ciudadanas, y que en la actualidad mira al territorio aprehendiéndolo desde otras problemáticas, siempre ligadas a las temáticas ambientales y comunitarias. La organización de un grupo de vecinos de Pedro de Valdivia Norte y Bellavista a mediados de los noventa para oponerse al trazado propuesto por el MOP para la Costanera Norte, es usualmente sindicada como el nacimiento de las OCs en la ciudad (Poduje, 2008 en Tironi 2010). Es posible pensar que la historia ocurrida durante la larga dilatación de la evaluación del Sistema Oriente Poniente habría sido diferente en un contexto de capital social más débil, tanto por la respuesta ciudadana como por las medidas de mitigación. En los sectores de Pedro de Valdivia y Bellavista había mucho que perder en cuanto a equipamiento público y cultural en relación con las áreas de la comuna de Pudahuel y Renca y ante ello es innegable que estas reacciones de defensa del barrio, tanto a nivel de acción como de discurso, son una herramienta más de mantención de disparidades territoriales legitimadas por el discurso acerca del derecho a vivir en un ambiente tranquilo conservando el estilo de vida barrial. Es necesario hacer hincapié en los criterios técnicos y económicos que resolvieron este conflicto, en donde se le ha atribuido a la coordinadora la totalidad del mérito en el rescate de su barrio. Es necesario desmitificar este caso, ya que existían una serie de actores y variables que configuraron la problemática, sin desconocer el aporte que hasta el día de hoy realiza “Ciudad Viva” en cuanto a problemáticas territoriales y ambientales.</p><h3>Conclusión</h3><p>El caso de estudio muestra cómo la reacción de una asociación ciudadana al verse potencialmente afectada puede lograr dinámicas organizacionales perdurables y conseguir ser actor relevante en un conflicto que involucra actores estatales y privados. Si bien en el momento de evaluación del Sistema Oriente Poniente, la institucionalidad ambiental daba sus primeros pasos, en la actualidad, con un procedimiento de participación ciudadana más consolidado, es deseable que al implementar un proceso de participación ciudadana, éste sea de carácter temprano, para no depender de la reactividad de la población afectada, y así poder hacer de éste un proceso más equitativo y posicionarlo como una herramienta para la reducción de disparidades territoriales. La resolución de caso No a la Costanera Norte impacta por haber marcado un hito en cuanto a la organización ciudadana informada, sin embargo, es lamentable reconocer que las ventajas socioeconómicas son el aspecto clave en el éxito de este tipo de organizaciones, en cuanto a la sostenibilidad, prosperidad y habilidades directivas que son necesarios para manejar una organización exitosa y duradera.</p><h3> </h3><h3>Fuentes Secundarias</h3><p>Cáceres, T. (2008) Territorio y poder: el territorio de la carretera y el territorio de la Chimba</p><p>Ducci, M. (2000) Batallas urbanas de principio del tercer milenio. En Santiago en la globalización: ¿Una nueva ciudad?</p><p>Sabatini, F. (1999) Participación ciudadana para enfrentar los conflictos ambientales urbanos: Una estrategia para los municipios.</p><p>Tironi, M., Poduje, I., Somma, N. y Yáñez, G. (2010) Organizaciones emergentes, participación ciudadana y planificación urbana: una propuesta de política pública. (V concurso de Políticas Públicas UC)</p><p>Juego informativo sobre el estado actual de la costanera norte, para dirigentes y asesores de las organizaciones del barrio Bellavista. Artículo de El Mercurio, 21 de Julio de 2001.</p><h3>Enlaces de Consulta</h3><p><a href="http://www.sea.gob.cl/">http://www.sea.gob.cl/</a></p><p><a href="http://www.laciudadviva.org/">http://www.laciudadviva.org/</a></p><p><a href="http://web.costaneranorte.cl/">http://web.costaneranorte.cl/</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1458">Protest of Highway Project</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Barrio Bellavista</span>
+                      <span class="locality" itemprop="addressLocality">
+      Santiago      </span>
+                        <div class="country-name" itemprop="addressCountry">Chile</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Santiago%2C+%2C+%2C+cl">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CL      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A110">Protest</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/community-organizing">Community Organizing</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A141">Organized Demonstrations</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A142">Not Applicable</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A162">Other</a></div></div></div><div class="field field-name-field-audience-comm-method-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even">Protest</div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A20">Community Based Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A20">Community Based Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-cdbdb0296a3dde8e592dfe8dc7e31eb2">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/93">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

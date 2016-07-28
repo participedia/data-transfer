@@ -1,0 +1,373 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/oregon-citizens-initiative-review-2012-measure-85" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/689" />
+  <title>Oregon Citizen&#039;s Initiative Review 2012 - Measure 85 | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"qn-F7UWLJVXOFklAgGlJ7u2NQT4HzwWriQQpDttNOhg","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"689"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/oregon-citizens-initiative-review-2012-measure-85?destination=node\/689":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-689 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/oregon-citizens-initiative-review-2012-measure-85" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/oregon-citizens-initiative-review-2012-measure-85?destination=node/689" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-1N76qZfftr-p-nUvpWN4jP-MvovBCLAmUlLFnOwixfQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Oregon Citizen&#039;s Initiative Review 2012 - Measure 85</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Oregon Citizen&#039;s Initiative Review 2012 - Measure 85</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/arieltang" title="View user profile." class="username" xml:lang="" about="/en/people/arieltang" typeof="sioc:UserAccount" property="foaf:name" datatype="">Ariel Tang</a> on Mon, 11/12/2012 - 15:01</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 05/27/2016 - 11:23</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Oregon Citizen&#039;s Initiative Review 2012 - Measure 85 - Participedia" addthis:url="http://participedia.net/en/cases/oregon-citizens-initiative-review-2012-measure-85"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>See <a href="http://participedia.net/en/methods/citizens-initiative-review">here</a> f</em><em>or a comprehensive general account of the Citizens' Initiative Review process .</em></p><h3>Definition</h3><p>Oregon Citizens’ Initiative Review Measure 85 is a ballot initiative examined by the Oregon Citizen’s Initiative Review Commission in Oregon State. Citizens’ Initiative Review of Ballot Measure 85 is a proposal titled “Amends Constitution: Allocates Corporate Income/Excise Tax ‘Kicker’ Refund To Additionally Fund K Through 12 Public Education” (Healthy Democracy). A panel of 24 registered voters from Oregon gathered at the Salem Conference Center in Salem, Oregon to deliberate and evaluate Ballot Measure 85. On August 10, 2012, the panel has released its analysis on Measure 85 and recommended Oregon voters to support this initiative on 19-5 vote. </p><h3>Problems and Purpose</h3><p>The Citizens’ Initiative Review (CIR) is a platform for Oregonian citizens to publicly evaluating ballot measures for voters to have easy access to useful information of ballot initiatives during election time.  CIR is designed to give comprehensive and clear analysis of initiatives to voters to make informed decisions. Results and findings produced by the CIR will be published in the Oregon voters’ pamphlet.</p><p>CIR Ballot Measure 85 is an initiative that redirects the corporate income and excise tax “kicker” refunds to fund K-12 public education. “Kicker” in this context refers to the Oregon state surplus refund. In 1979 Oregon Legislature passed the “2 percent kicker law” that requires the state to return excess revenue to both individual and corporate taxpayers when actual General Fund revenues exceed the forecast amount by more than 2 percent. With CIR Measure 85, the kicker refund money would be redirect to State’s General Funds on K-12 public education instead of returning to the corporations. Measure 85 would only allocate kicker refund money of the corporations and would not have any impact on the kicker refunds for individuals.</p><h3>History</h3><p>In 2006, two graduate students from the University of Oregon, Tyrone Reitman and Elliot Shuford, organized a project that introduced the CIR concept in Oregon. Ned Crosby, the founder of the Jefferson Center who developed the Citizens’ Jury, and his wife, Patricia Been, agreed to fund the CIR project in Oregon. With the support and fund, Ritman and Shuford founded an organization called Healthy Democracy Oregon (HDO) that would execute the project, which was named the Oregon Citizens’ Initiative Review. The foundation of the CIR process is inspired and based on Crosby’s pioneering work of the Citizens Jury method, which is an innovative method of public deliberation and engagement. In 2008, HDO advocated for CIR and ran a test trail that was successful at raising awareness and funds to assemble an official CIR pilot in 2010. HDO worked with professionals and experts from the Secretary of State’s office, State Elections Office, campaign officials, and policy makers to conduct two Oregon CIR reviews on Measure 73 and Measure 74. An evaluation team, funded by the National Science Foundation, concluded that the two CIR panels were highly deliberative and the CIR Citizens’ Statements were useful to majority of voters. The Oregon legislature approved House Bill 2634 and recognized the CIR as a permanent part of Oregon elections in June 2011. This made Oregon the first state in the nation to adopt this policy into law and the CIR will be applied during the 2012 election.</p><p>In 2011, the act of the Oregon Legislature also established the Oregon Citizens’ Initiative Review Commission to oversee and authorize the Oregon CIR. The CIR Commission is solely funded by charitable foundations and individual donations. State funds are not involved in the support of the CIR Commission and the law prohibits any corporate or union treasuries’ contributions to the Commission. The CIR Commission has been working with Healthy Democracy for the two ballot initiatives, Measure 82 and Measure 85, since August 2012.</p><h3>Participant Selection</h3><p>For each CIR measure ballot, including Measure 85, a panel of 24 “randomly selected and demographically diverse” registered voters from across the Oregon state is convened (Healthy Democracy). Those 24 participants gathered at the Salem Conference Center in Salem, Oregon to engage in a comprehensive public deliberation of Ballot Measure 85. Stratified random sampling was used in the process of selecting the participants as a method to fairly reflect the diverse demographics of Oregon’s electorate. Selected panelist is given a compensation for participating along with travel expenses to the panel location.</p><p>A two-step selection is taken place during the process of forming the panel. First, 10,000 voters are randomly selected from the Oregon statewide voter registration list. Invitations mails are sent through the postal office to request voters’ applications to participate. Secondly, Potential panelists who agreed to serve are compiled into a large pool for selection and each person in the pool is assigned a number for privacy protection. More than 800 registered Oregonian voters volunteered to serve in the 2012 panel. Lastly, 24 voters are chosen through stratified random sampling to match the demographics of state electorate in a public meeting. Age, gender, ethnicity, education, and partisan affiliation and location of residence are taken into concern when matching the demographics.</p><p>The CIR panel demographic composition for Measure 85 included 13 female and 11 male participants. 12 panelists have voted in 2 or more of last 4 elections and 12 panelists have voted in less than 2 of the last 4 elections. 21 out of the 24 panelists are Caucasians or white and 3 are non-Caucasian or white. There were 10 Democrats, 8 Republicans, and 6 non-partisan, independent, or other. 6 panelists are between the age of 18 to 34, 11 are between 35 to 59 years old, and 7 are 60 years old and over. 7 panelists attended High School or less for their highest education status, 9 attended some College, and 8 own Bachelor’s degree. 5 panelists are in the first congressional district, 5 are in the second, 4 are in the third, 5 are in the fourth, and 5 are in the fifth.      </p><p>In addition to the 24 panelists, the CIR also involves three other categories of participants and they are: advocate team that is in favor of the Measure; advocate team that is in opposition to the Measure; and black ground presenters who will present neutral background information related to the Measure to the panelists.</p><p>There were four organizations representing the advocate team in favor of the Measure, and two institutions in opposition to the Measure. Nine background witnesses worked as experts to present background information related to Measure 85 to the 24 panelists.</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>Healthy Democracy and the Oregon CIR Commission conducted the CIR for Measure 85 from August 6 to August 10, 2012. Each day, the panel met at the Salem Conference Center to review the measure for five consecutive days. During the five-day-event, proponents and opponents of Ballot Measure 85 presented their arguments to the 24 panelists in a public hearing manner. After hearing the arguments from both sides, panelists had the opportunity to call upon additional policy experts, background presenters, for additional information relating to Measure 85.  </p><p>With background presenters’ testimony and both advocate teams’ arguments, panelists learned sufficient information to deliberate over the merits of Measure 85. During deliberation, panelists identified key findings along with statements in favor and against Measure 85, which is drafted as a <em>Citizens’ Statement</em>. On August 10, 2012, the CIR released their analysis on Measure 85 and published their conclusions in the fall voters’ pamphlet statement. The pamphlet is available and will be mailed to all Oregonian voters (Healthy Democracy).</p><p>19 of 24 panelists were in support of Measure 85 and some reasons are:</p><ul><li>Measure 85 will not affect the personal “kicker” and increase personal or corporate taxes.</li><li>There are criticisms from the broad bipartisan that stated the corporate “kicker” is a flawed public policy and Measure 85 can improve the unreasonable refund to corporations from the result of inaccurate revenue projections.</li><li>With Measure 85, corporate “kicker” money would stay in Oregon State instead of out state, where corporations’ headquarters are located.</li><li>Measure 85 will redirect 100% of the corporate “kicker” to K-12 public education and this will be an addition to, but not a replacement for the current Oregon education funds.</li><li>Due to inflation and increased funding of other services and costs, the K-12 education budget is decreasing. Measure 85 will encourage Oregon to improve and focus on education.</li></ul><p>5 of 24 panelists were opposed to Measure 85 and some reasons are:</p><ul><li>Measure 85 does not guarantee additional funding for K-12 education thus can’t assure improvement for K-12 school funding and might mislead public’s perception that Measure 85 is the solution.</li><li>Measure 85 eliminates corporations’ flexibility of using the kicker funds at times of emergency.</li><li>“Kicker” cannot be considered as a reliable funding because of the infrequent historical kicker return and unpredictable projection.     </li><li>There are risks to allocate funds into Oregon General Fund since Oregon Legislators have spent on average 99% of all the funds over the past 30 years.</li></ul><h3>Influence, Outcomes, and Effects</h3><p>Ballot Measure 85 will be voted on Nov. 6, 2012 in Oregon along with eight other ballot initiatives range from Measure 77 through 84. Therefore, it is hard to predict the final outcome of Measure 85. However, SurveyUSA conducted a poll from Sept. 10-13 on Ballot Measure 85 by interviewing 700 adults in Oregon. 633 out of the 700 adults were registered to vote and 522 out of the registered voters were determined to vote in the 2012 election. The poll question was:</p><p><em>“On Measure 85, which is about a corporate tax “kicker,” are you…? Certain to vote yes? Certain to vote no? Or not certain?” </em>(SurveyUSA)</p><p>The result of the poll found 14% in support, 21% opposed, and 65% undecided. Many criticized that the poll question failed to inform the respondents what Measure 85 is. The poll question has no indication and explanation of the Measure’s influence on corporate kicker. Perhaps, that is the reason why the vast majority of respondents were undecided. Both Democrats and Republicans are not the majority in the 14% support of this Measure.   </p><p>Due to the unsatisfied poll result, SurveyUSA conducted a new poll with the same question on Oct. 16-18. The results were 15% in favor, 25% opposed, and 60% undecided. In addition with the previous poll question, SurveyUSA asked a detailed follow-up question to explain the impact of Measure 85 on the corporate kicker. The follow-up question states:</p><p>Let me read you a more detailed description of Measure 85: The title of the ballot measure says: Amends Constitution: Allocates corporate income/excise tax "kicker" refund to additionally fund K through 12 public education. A Yes vote allocates the corporate income and excise tax "kicker" refund to the General Fund to provide additional funding for K through 12 public education. A NO vote retains existing corporate income and excise tax "kicker" that requires refund to corporations when revenue exceeds estimated collections by two percent or more. Based on this description, will you vote yes? Or vote No? on Measure 85? (SurveyUSA)</p><p>The results for the follow-up question were 53% in favor, 26% opposed, and 21% undecided. As expected, the majority of respondents who voted in favor were Democrats. However, Republican votes were in an equal split where 38% voted in favor, 38% opposed, and 24% undecided.</p><p>The SurveyUSA poll shows that majority voters in Oregon have little knowledge on Ballot Measure 85 and voters need additional information in order to make a better decision. In this case, the CIR analysis released in the fall voters’ pamphlet can have an educational impact to give comprehensive and trustworthy information on Measure 85 to voters. Fortunately, the CIR on Measure 85 can encourage voters in Oregon to learn about both sides of the arguments and perform better decision-makings.     </p><h3>Analysis and Criticism</h3><p>Researchers from University of Washington and Pennsylvania State University compiled Participant Evaluations of the Oregon Citizens’ Initiative Review on Measure 85. University grant funding and contribution from the Kettering Foundation funded this evaluation research. Questionnaires were distributed daily to the 24 panelists who engaged deliberation for Measure 85. First, they were asked to look back over the five-day-event and rate their overall satisfaction with the CIR process. 50% responded “high satisfaction” and the other 50% responded “very high satisfaction.” Secondly, panelists believed the CIR process was fair and stated both proponents and opponents had equal time to present their argument. Thirdly, participants rated and perceived the moderators for the panel as neutral. Lastly, majority of panelists indicated having equal opportunity to speak during deliberation process and consented that they had little trouble at understanding the discussion.</p><p>Editorial from OregonLive, powered by <em>The Oregonian</em>, raised several concerns and criticisms on the CIR in general and CIR Measure 85. The editorial pointed out that Oregon state officials, the driving force behind Measure 85, were refused to participate in the CIR process. This may lead to exclusion of future campaigns participating in CIR. Furthermore, the editorial noted the pilot test, Ballot Measure 74, of the review in 2010 was incapable of representing the Oregon electorate as a whole. In the CIR review for Measure 74, 13 of 24 panelists were in favor of the ballot, which would pass legalization of medical marijuana dispensary system. However, 55% of voters in Oregon opposed the measure. Some argued that Oregonian voters do not need the key findings and scientific report produced by the CIR panel.</p><p>On the other hand, a report funded by the National Science Foundation proved that the pilot in 2010 review did have an impact on voters (Frohnmaver). The report stated that more than 40% of voters in Oregon saw the Voters’ Pamphlet statement and 30% among those voters used it as a reference to decide how to vote in 2010. Those 30% who found the pamphlet helpful is equivalent to more than 400,000 voters in Oregon.</p><h3>Secondary Sources</h3><p>Chisholm, K. (2012, October 19). <em><a href="http://www.blueoregon.com/2012/10/surveyusa-uses-mulligan-measure-85-and-surprise-its-passing/">SurveyUSA Uses A Mulligan On Measure 85, and (Surprise!) It’s Passing</a>.</em><br />Frohnmayer, D. and Keisling, P. (2012, August 07). <a href="http://www.oregonlive.com/opinion/index.ssf/2012/08/citizens_initiative_review_pro.html"><em>Citizens’ Initiative Review Problems Show Improving Democracy Takes Work</em></a>.<br />Gastil, J. (2012, August 07). <a href="http://www.oregonlive.com/opinion/index.ssf/2012/08/citizens_initiative_review_doe.html"><em>Citizens’ Initiative Review Does Help Voters, Study Shows</em>.</a><br />Hubbard, Saul. (2012, August 11). <a href="http://healthydemocracy.org/panel-supports-kicker-change/"><em>Panel Supports ‘Kicker’ Change</em>.</a><br />Mapes, J. (2012, October 2). <em><a href="http://www.oregonlive.com/mapes/index.ssf/2012/09/did_surveyusa_get_oregon_voter.html">Did SurveyUSA Get Oregon Voter Sentiment Wrong On Repealing the Corporate Kicker?.</a></em><br />The Oregonian Editorial Board. (2012, August 01). <a href="http://www.oregonlive.com/opinion/index.ssf/2012/08/a_bad_omen_for_citizen_initiat_1.html"><em>A Bad Omen For Citizen Initiative Review Panels</em></a>.<br />SurveyUSA. (2012, September 13). <a href="http://www.surveyusa.com/client/PollReport.aspx?g=f35f6734-8377-4585-bb0e-a1a5fc418199">Results of SurveyUSA Election Poll #19677</a>.<br />SurveyUSA. (2012, October 18). <a href="http://www.surveyusa.com/client/PollReport.aspx?g=242a16b4-1a4c-47eb-a09e-52040667cc42">Results of SurveyUSA Election Poll #19925</a>.</p><h3>Other Citizens' Initiative Reviews on Participedia </h3><p><a href="http://participedia.net/en/cases/oregon-citizens-initiative-review-2010-measure-73">Measure 73 (2010)</a><br /><a href="http://participedia.net/en/cases/oregon-citizens-initiative-review-2010-measure-74">Measure 74 (2010)</a><br /><a href="http://participedia.net/en/cases/oregon-citizens-initiative-review-measure-82-0">Measure 82 (2012)</a></p><h3>External Links</h3><ul><li>Healthy Democracy Oregon. (2010). <a href="http://healthydemocracy.org/wp-content/uploads/2012/08/Prelim_Final_Report_8.10.12.pdf"><em>Citizens’ Initiative Review 2010, Measure 85, Interim Final Report</em></a>.</li><li>Healthy Democracy Oregon, <a href="http://healthydemocracy.org/citizens-initiative-review/measure-85/">Citizens’ Initiative Review of Ballot Measure 85</a>.</li><li>Healthy Democracy Oregon, <a href="http://healthydemocracyoregon.org/citizens-initiative-review">Citizens’ </a><a href="http://healthydemocracy.org/citizens-initiative-review/oregon/how-it-works/">Initiative Review.</a></li><li><a href="http://www.oregon.gov/DOR/programs/gov-research/Documents/2012-personal-income-tax-statistics_101-406_2014.pdf">Oregon Corporate Excise and Income Tax Statistics, <em>Appendix A: 2 Percent Surplus Refund (Kicker) History</em></a></li><li><a href="http://www.oregon.gov/circ/Pages/Initiative-Review.aspx">Oregon.gov, <em>Citizens’ Initiative Review Commission- Initiative Review</em></a>.</li><li><a href="https://www.oregonlegislature.gov/lro/Documents/Measure_85_RR.pdf"><cite>State of Oregon, </cite><cite>Legislative Revenue Office: Measure 85</cite><cite>.</cite></a></li></ul><p> </p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A40">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1496">State Budget Allocation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1497">K-12 Funding</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A807">tax reform</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Salem Conference Center</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">200 Commercial Street SE</span>
+              </div>
+              <span class="postal-code" itemprop="postalCode">97301</span>
+              <span class="locality" itemprop="addressLocality">
+      Salem      </span>
+              ,                     <span class="region" itemprop="addressRegion">OR</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=200+Commercial+Street+SE%2C+Salem%2C+OR%2C+97301%2C+us">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Oregon        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A111">Other</a></div></div></div><div class="field field-name-field-influence-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Intended Purpose(s):&nbsp;</div><div class="field-items"><div class="field-item even">Evaluate Proposed Initiatives to Advise Voters</div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, August 6, 2012 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, August 10, 2012 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">5.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">24</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A126">Other</a></div></div></div><div class="field field-name-field-participant-select-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even">Invitation/Request</div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizens-initiative-review">Citizens&#039; Initiative Review</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A137">Formal Testimony</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A147">Consensus</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A155">Media</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A162">Other</a></div></div></div><div class="field field-name-field-audience-comm-method-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even">Pamphlets Mailed to Voters</div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Oregon Legislature</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/healthy-democracy-oregon">Healthy Democracy</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Oregon Citizens’ Initiative Review Commission</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A20">Community Based Organization</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A37">Individual</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A166">For Profit Business</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-16ebf02f32755a32845c5ee4ffc56040">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/689">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

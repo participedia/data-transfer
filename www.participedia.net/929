@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/929" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/929" />
+  <title>Indonesiens Direktdemokratie Experiment | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"wjuqifaKZOGdi_xLAULj6ZazUTtniuT36ZtfQrjkFnM","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"929"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/929?destination=node\/929":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-929 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/indonesia-direct-democracy-experiment" class="language-link" xml:lang="en" title="Indonesia Direct Democracy Experiment">English</a></li>
+<li class="de last"><a href="/de/faelle/indonesiens-direktdemokratie-experiment" class="language-link" xml:lang="de" title="Indonesiens Direktdemokratie Experiment">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/929?destination=node/929" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-HTtzTHfBJjLrJW-qRixDxzlkUy0L5RKwskTwXxxVvWQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Indonesiens Direktdemokratie Experiment</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Indonesiens Direktdemokratie Experiment</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/tupai" title="View user profile." class="username" xml:lang="" about="/en/people/tupai" typeof="sioc:UserAccount" property="foaf:name" datatype="">Christopher Eichhorn</a> on Mon, 05/06/2013 - 05:45</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Tue, 06/17/2014 - 07:17</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Indonesiens Direktdemokratie Experiment - Participedia" addthis:url="http://participedia.net/en/node/929"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Purpose_and_Problem" name="Purpose_and_Problem"></a></p><h2>Zweck und Problemstellung</h2><p>Der Zweck des Indonesischen Direktdemokratie Experiments war es die Vorteile einer direkten Demokratie zu erschließen und zu ermessen. Das Experiment ist dem Kecamatan Development Project (KDP) entsprungen und zielte darauf ab, das Konzept zu ergründen, nach welchem direkte Partizipation in Prozessen der Entscheidungsfindung zu höherer Zufriedenheit und Legitimität in einer Gemeinschaft führen kann. Olken, der Urheber des Experiments, war angetrieben von der Vorstellung, dass Gemeinschaften wohlmöglich zufriedener wären und mehr in ihre Regierung investierten, wenn sie sich in den politischen Prozess einbezogen fühlten. Basierend auf den Befunden Olkens kommt man zu dem Schluss, dass Gesellschaften, welche sich in politische Prozesse direkter eingebunden fühlen, letztendlich im Ganzen auch zufriedener sind.</p><p><a id="History" name="History"></a></p><h2>Geschichte</h2><p>Indonesien wurde aufgrund seiner politischen Vergangenheit als Hauptkandidat für diese Art von Experiment gesehen. Die Nation erholte sich gerade von den Auswirkungen der 31 Jahre andauernden Herrschaft des autoritären Suharto Regimes. Im Jahr 1998 suchte das Land nach Wegen, seine Regierung erfolgreich zu dezentralisieren. Die sehnsüchtige Suche nach Alternativen führte 1998 zur Kreierung des Kecamatan Development Project (KDP), welches von der Weltbank finanziert wurde. Im Wesentlichen wurden im Rahmen des KDP Projekte in tausenden indonesischen Dörfern mit Geldmitteln versehen. Die von dieser Finanzierung betroffenen Dörfer wurden mit Hinblick darauf ausgewählt, dass sie augenscheinlich die diversen Bedingungen des ländlichen Indonesiens repräsentierten. In dem Bemühen unabhängige Entscheidungsfindung zu fördern wurde jedem Dorf die Möglichkeit gegeben, einen Vorschlag für ein Infrastrukturprojekt in kleinem Maßstab zu machen. Das vorherige Regime des Landes war eine beratende Versammlung gewesen. Dieser Umstand unterschied das KDP sehr von der Prozedur, an welche die Bevölkerung bisher gewöhnt gewesen war. Olkens Direktdemokratie-Experiment entsprang der Existenz ebendieses KDP. Das Experiment wurde mit der Absicht gestaltet, die Art, in welcher die jeweiligen Projekte innerhalb der teilnehmenden Dörfer ausgewählt werden, zu untersuchen.    </p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h2>Auswahl der Teilnehmer</h2><p>Zwischen September 2005 und Januar 2006 begann Olken ein Experiment, in welchem der übliche Entscheidungsfindungsmechanismus zur Auswahl der KDP-Projekte geändert wurde. Das festgeschriebene KDP Protokoll empfahl, die von jedem Dorf vorgeschlagenen Projekte in einem auf Versammlungen basierenden Prozess auszuwählen. Dörfer wurden zufallsbedingt von den drei ländlichen Unterbezirken Ost-Java, Nord-Sumatra und Südost-Sulawesi ausgewählt. Die ausgewählten Dörfer würden sich dann für ihre Projekte mittels auf direkten Wahlen basierenden Volksabstimmungen entscheiden. Kurzgesagt nahm Olken an, dass ein erhöht partizipativer Prozess die Möglichkeit eines elitären Verzerrungseffekts, welcher in Dorfversammlungen zu wirken vermutet wurde, eliminieren würde.</p><p>Das Experiment hatte zwei unterschiedliche Phasen. Die erste Phase wurde in 10 Dörfern der Provinz Ost-Java und 19 Dörfern der Provinz Nord-Sumatra durchgeführt. Nach Erhalt der Ergebnisse der ersten Phase wurde das Protokoll geändert und dann auf 20 weitere Dörfer in der Provinz Sulawesi für die zweite Phase des Experiments angewandt. Während der ersten Phase entschieden 25 Prozent der Dörfer per Volksentscheid. In der zweiten Phase waren es dann 45 Prozent. Beide Phasen umfassten Dörfer, welche nach einer Vielzahl von Variablen ausgewählt worden waren. Zu diesen Variablen zählten unter anderem, aber nicht ausschließlich, Bevölkerung, ethnische Fragmentierung und Eigenschaften der dörflichen legislativen und exekutiven Organe.   </p><p><a id="Deliberations.2C_Decisions.2C_and_Public_Interaction" name="Deliberations.2C_Decisions.2C_and_Public_Interaction"></a></p><h2>Beratungen, Entscheidungen und öffentliches Zusammenwirken</h2><p>Um die von dem Experiment unternommenen Änderungen im Beratungs- und Entscheidungsfindungsprozess verstehen zu können, ist es wichtig, den KDP-Prozess als Ganzen zu betrachten. Relevante Projekte wurden im Rahmen des KDP in einem dreistufigen Prozess ausgewählt. (1) Festsetzen der Agenda, (2) Konzeption der Vorschläge und (3) Finanzierungsentscheidungen waren die drei Schritte, welche zu einem dorfweiten Beschluss bezüglich des Projekts, das letztendlich vorgeschlagen werden sollte, führten. Das Experiment Olkens änderte nur den zweiten der drei Schritte, indem es den auf Versammlungen basierenden Mechanismus durch einen auf Volksentscheid basierenden Mechanismus ersetzte. Die Nutzung eines auf Versammlungen basierenden Mechanismus setzt die Präsenz von Führern der Gemeinschaft und Eliten, welche die jeweiligen Versammlungen leiten und die Konzeption der hervorgebrachten Vorschläge gestalten und prägen, voraus. Im Gegensatz dazu verhindert ein auf Volksentscheid basierender Mechanismus, dass irgendeine Einzelperson den Prozess der Vorschlagsfindung steuert, weil jeder Dorfbewohner seine eigene Stimme bezüglich der gesammelten Liste an Prioritäten hat. Im Wesentlichen änderte Olken den im zweiten Schritt verwendeten Mechanismus, um zu sehen, inwieweit direkte Partizipation die Auswahl der Projekte durch das ganze Dorf beeinflussen würde. Diese Änderung im zweiten Schritt würde sowohl die im ersten Schritt festgesetzten Prioritäten als auch die im dritten Schritt getroffenen Entscheidungen beeinflussen. Das Experiment berücksichtigt die Möglichkeit, dass die an den Volksentscheiden teilnehmenden Dorfbewohner Vorschläge strategisch wählen und diejenigen Vorschläge wählen, von welchen sie glauben, dass sie die besten Chancen haben, im dritten Schritt auch die Finanzierung zu bekommen. In Angesicht des Umstandes, dass Eliten im dritten Schritt auf bestimmte Finanzierungen drängen werden, behauptet Olken, könnten die Dorfbewohner Projekte wählen, welche in Einklang mit den Auffassungen der Eliten seien, um eine angemessene Fürsprache sicherzustellen. In beiden Arten von Dörfern wurden identische Agenda festsetzende Prozesse umgesetzt, was eine Standardisierung der Liste potentieller Projekte, welche jeder Art von Dorf zur Berücksichtigung und Bewertung vorliegen würde, zur Folge hatte. Durch die Einhaltung eines Grades an Einheitlichkeit im ersten Schritt, eliminierte Olken die Möglichkeit verzerrter Ergebnisse; Dörfern mit Volksabstimmungen und auf Versammlungen beruhenden Entscheidungsfindungsprozessen würden die gleichen Daten zur Abarbeitung gegeben.</p><p><a id="Influence.2C_Outcomes.2C_and_Effects" name="Influence.2C_Outcomes.2C_and_Effects"></a></p><h2>Einfluss, Ergebnisse und Auswirkungen</h2><p>Das Experiments Olkens führte generell zu zwei Ergebnissen. Erstens, und am wichtigsten, zeigten die erfassten Daten, dass Volksabstimmungen keinen Einfluss auf die allgemeinen Arten der von den teilnehmenden Dörfern ausgewählten Projekte hatten. Um spezifischer zu sein, die ausgewählten Projekte, die Auswirkungen für Frauen haben, spiegelten generell mehr die Ansichten der Dorfeliten als die der allgemeinen Bevölkerung wider. Volksabstimmungen schienen die Vorzüge des durchschnittlichen Wählers im Falle von allgemeinen Angelegenheiten zu berücksichtigen, aber weniger im Falle frauenspezifischer Anliegen. Direkte Partizipation beeinflusste ebenfalls den Standort, für welchen das jeweilige Projekt vorgesehen war; da die Abstimmung mehr auf Zahlen als auf Repräsentanten beruhte, hatten diejenigen Projekte, die in abgelegenen Gegenden des Dorfes stattfinden sollten, eine geringere Wahrscheinlichkeit ausgewählt zu werden; die meistbevölkerten Nachbarschaften wurden somit in der Abstimmung bevorzugt. Der zweite Gesichtspunkt, der zu berücksichtigen ist, ist der Grad an Zufriedenheit und Unterstützung, welchen der auf Volksabstimmung basierende Mechanismus im zweiten Schritt zur Folge hatte. Die Ergebnisse des Experiments zeigen, dass ein auf Volksabstimmung basierender Prozess zu allgemein weitaus höherer Zufriedenheit unter den Dorfbewohnern führte. Einwohner der Dörfer, in welchen Volksabstimmungen stattfanden, gaben an, dass die ausgewählten Projekte mit ihren Bedürfnissen übereinstimmten und unerlässlich für ihr Wohlbefinden  seien. Statistisch betrachtet, wird diese Veränderung durch einen Zuwachs von 13 Prozent in der Zufriedenheit der Menschen mit dem KDP insgesamt deutlich.       </p><p>Als wichtigste Erkenntnis ist den Befunden Olkens zu entnehmen, dass der Prozess, in welchem Entscheidungen getroffen werden, wirklich von Bedeutung ist. Die Ergebnisse des Experiments haben gezeigt, dass Volksabstimmungen wenig bis keinen Einfluss auf die Arten der von den Dörfern ausgewählten Projekte haben. Dieses Ergebnis beweist, dass die allgemeine Bevölkerung genauso im Stande ist, die Ansichten der Gemeinschaft widerzuspiegeln, wie es Repräsentanten wären. Die eigentliche Auswirkung von Volksentscheiden wird in dem Grad an Zufriedenheit und Teilhabe, welchen Volksentscheide in Dörfern säen, deutlich. Nach Auffassung von Olken führte die Durchführung von Volksentscheiden zu einer erhöhten Wählerbeteiligung sowie zu besserer Kenntnis über die zur Auswahl stehenden Projekte. In denjenigen Dörfern, welche per Volksentscheid über ihre Projekte abstimmten, lässt sich diesbezüglich ein Zuwachs von 20 Prozent vermerken. In gleicher Weise zeigten die Ergebnisse einen Anstieg in der Zufriedenheit der Dorfbewohner mit ihren Entscheidungen, welcher den Anstieg in Wählerpartizipation widerspiegelt. Offensichtlich führt die Möglichkeit der Beteiligung an politischen Prozessen zu einem höheren Maß an Zustimmung unter den Staatsbürgern.    </p><p><a id="Analysis_and_Criticism" name="Analysis_and_Criticism"></a></p><h2>Analyse und Kritik</h2><p>Es ist eindeutig, dass direkte Demokratie positive Einflüsse auf Legitimität und Zufriedenheit unter den in Olkens Experiment einbezogenen Dörfern hatte. Hinsichtlich der ausgewählten Projekte hatten Volksabstimmungen keinen konkreten Einfluss was die Auswahl der jeweiligen Dörfer in allgemeinen Angelegenheiten betraf. Darüber hinaus stimmten die ausgewählten Projekte, die direkt auf Frauen Auswirkungen haben, eher mit den Vorzügen von Eliten überein, obwohl der Prozess der Volksabstimmung keine elitären Meinungen bevorzugte. Das Ergebnis erhöhter Zufriedenheit zeigt, dass direkte Demokratie erfolgreich politische Legitimität erhöhen kann, ohne die Prioritäten einer Regierung zu ändern. Obwohl dies theoretisch gesehen ein positiver Effekt ist, könnte er in der Praxis ebenso ein Hindernis in der Verteilung von Wohlstand in einem Entwicklungsland darstellen. Denn, in Beachtung von Olkens Experiment, führt eine Änderung des Prozesses keineswegs zu einer Veränderung der Resultate. Außerdem würden auf Volksabstimmungen basierende Entscheidungen, gerade weil sie die Wahl durch Repräsentanten beseitigen, lediglich den Willen und die Perspektiven der größeren Dörfer widerspiegeln und isolierte, kleinere Dörfer letztendlich ausschließen. Folglich hat das Konzept des plebiszitären Wählens nicht unbedingt positive Auswirkungen auf alle Dörfer, auch wenn es generell die Legitimation und Zufriedenheit erhöht. In anderer Hinsicht hat das Experiment gezeigt, dass Volksabstimmungen die Wähler dazu veranlassten, sich über die Art und den Standort der jeweils für ihr Dorf zur Auswahl stehenden Projekte zu informieren. Die Ergebnisse des Experiments zeigten, dass sich im Falle von Volksentscheiden die Wahrscheinlichkeit, dass befragte Personen über die sie betreffenden KDP Vorschläge in Kenntnis waren, um 18 Prozent erhöhte. Dieser Befund belegt, dass eine erhöhte politische Partizipation gleichzeitig eine besser informierte und zufriedenere Bevölkerung zur Folge hat.  </p><p>Gegen das Experiment in Indonesien wurden viele gewöhnliche Einwände erhoben. Insbesondere wurde darauf aufmerksam gemacht, dass auch langzeitige Auswirkungen des Wählens per Volksabstimmung berücksichtigt werden müssten. Während auf kurze Sicht plebiszitäre Methoden ein erhöhtes Gefühl der Zufriedenheit als unmittelbares Ergebnis vorweisen konnten, bleiben die langfristigen Auswirkungen der per Plebiszit gewählten Entscheidungen unvorhersehbar und dementsprechend bleibt ebenso ungewiss, ob der erhöhte Grad der Zufriedenheit zukünftig bestehen bleibt oder wieder abflacht. Darüber hinaus ist es wichtig zu erkennen, dass sich die zur Wahl stehenden Angelegenheiten abhängig vom Ort ändern. Kontext ist also überaus entscheidend was die Beurteilung der Eignung von direkter Demokratie angeht, da Volksabstimmungen Teilgruppen einer bestimmten Gegend entweder erheblich helfen oder auch schaden können. Zuletzt, erklärt Olken, sei es durchaus möglich, dass die Teilnehmer des Experiments, weil es sich um eine einmalige Studie handelte, fairere Entscheidungen getroffen hätten mit der Absicht, sich vernünftig zu präsentieren. Zur Verteidigung und Bestätigung seiner Ergebnisse müsste diese Art von Experiment in unterschiedlichen Gegenden über eine längere Zeitspanne in die Praxis umgesetzt werden.</p><p><a id="References" name="References"></a></p><h2>Literatur</h2><p>Olken, Benjamin A. "Direct Democracy and Local Public Goods: Evidence from a Field Experiment in Indonesia." American Political Science Review 104.2 (2010): 243-67. MIT and National Bureau of Economic Research, May 2010. Web.</p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Sekundärliteratur</h2><p>Dizikes, Peter. "Democracy Put to the Test." MIT. 08 Feb. 2010. Web. 02 Dec. 2010. &lt;<a class="external free" href="http://web.mit.edu/newsoffice/2010/java-democracy-0208.html" rel="nofollow" title="http://web.mit.edu/newsoffice/2010/java-democracy-0208.html">http://web.mit.edu/newsoffice/2010/java-democracy-0208.html</a>&gt;.</p><p>Friedland, Lewis, and Carmen Sirianni. "CPN - Tools." Civic Practices Network. Web. 07 Dec. 2010. &lt;<a class="external free" href="http://www.cpn.org/tools/dictionary/deliberate.html" rel="nofollow" title="http://www.cpn.org/tools/dictionary/deliberate.html">http://www.cpn.org/tools/dictionary/deliberate.html</a>&gt;.</p><p>Atchade, Yves, and Leonard Wantchekon. "Randomized Evaluation of Institutions: Theory with Applications to Voting and Deliberation Experiments." (2009): 1-21. NYU, 24 June 2009. Web. &lt;<a class="external free" href="http://as.nyu.edu/docs/IO/2807/20090620_LW_YA.pdf" rel="nofollow" title="http://as.nyu.edu/docs/IO/2807/20090620_LW_YA.pdf">http://as.nyu.edu/docs/IO/2807/20090620_LW_YA.pdf</a>&gt;.</p><p><a id="External_Links" name="External_Links"></a></p><h2>Externe Links</h2><p><a class="external free" href="http://www.cpn.org/tools/dictionary/deliberate.html" rel="nofollow" title="http://www.cpn.org/tools/dictionary/deliberate.html">http://www.cpn.org/tools/dictionary/deliberate.html</a></p><p><a class="external free" href="http://wn.com/direct_democracy" rel="nofollow" title="http://wn.com/direct_democracy">http://wn.com/direct_democracy</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A871">zivile Infrastruktur</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A872">unprofessionelles Engagement</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A873">kontextuelle und gemeinschaftliche Problemlösung</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A874">direkte Democratie</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A875">Direktdemokratie</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, August 31, 2005 - 17:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, December 31, 2005 - 16:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">49</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A113">Women</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A121">Racial/Ethnic Group(s)</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A127">Appointment</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/direct-democracy">Direct Democracy</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Kecamatan Development Project</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A169">International Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A26">Academic Institution</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-1b70fad176fe8ef5b17b63eb80934356">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/929">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

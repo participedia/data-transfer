@@ -1,0 +1,461 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/delib" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/263" />
+  <title>Delib | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"NxY5rQkIrGLHxm6I3n0mLgG633GSmQogAL9DhhIqEyk","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/delib?destination=node\/263":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-263 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/delib" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/delib?destination=node/263" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form--Q6yI8m6O6rFqtdza86Q_Hz-8kLki9ivwhOF1B515lA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Delib</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Delib - Participedia" addthis:url="http://participedia.net/en/organizations/delib"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 3 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/fjimenez" title="View user profile." class="username" xml:lang="" about="/en/users/fjimenez" typeof="sioc:UserAccount" property="foaf:name" datatype="">Fabiola J.</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Mission_and_Purpose" id="Mission_and_Purpose"></a><h2>Mission and Purpose</h2>
+<p>This deliberative company is dedicated to helping organizations facilitate discussions with in their company or collect information and data from their organization. It is essentially a specialist online opinion research and public consultation company. It helps organizations use the internet in efficient and structured ways to gain information from their target audience (employees, citizens ect.) as well as to help people who feel as if their opinion does not matter get their voice heard. The service based business provides the best matches between people or organizations with the most compatible products and tools. They have a range of tools and processes to help with consultations, debates, conversations, stakeholder relations and engagement. With so many products, the company that hires Delib is in complete control of the level of involvment between them and Delib. Meaning that the methods offered cater to all different types of teaching and learning styles. Whether a company feels more comfortable working with people one on one and talking to live representative. Or if the company feels that working solely with purchpased and self regulating products, Delib is able to adequately adapt to the needs of even the most fickle customers.This is an online-based business in the United Kingdom, but their work spans throughout the world to include the United States and all different parts of Europe. Successful projects delve into healthcare, environment, finance, local authorities, third sector and central government .
+</p><p>Citation:
+Delib. Web. 03 June 2010. &lt;<a href="http://www.delib.co.uk/" class="external free" title="http://www.delib.co.uk/" rel="nofollow">http://www.delib.co.uk/</a>&gt;.
+</p>
+<a name="History" id="History"></a><h2>History</h2>
+<p>Since 2004 this firm has been one of the top online opinion research and consultation companies in the field. Through out their existence, their clientele has consisted of central governments such as that of the United Kingdom and the United States of America. As well as including one hundred local councils and plenty of third sector organizations. Over their experiences as a consultation firm, they have come to show that their areas of expertise focus on policy discussions that are tailor-made platforms that support form discussions around policy proposals. Formal consultations that translate formal discussions to the wold wide web. Online led tools that facilitate debate and support public debate issues. The gathering of ideas from participating and sometimes none-participatory stakeholders which results in great public engagement. The simplification of reporting and management and a great case support system which details everything step the client needs to know. Every major coordinator that has ever worked with a client or on a case can easily be found on Delib's website as a means to keep a detailed history of those involved in different activities. Phone numbers and email addresses of Delib's employees can easily be found to help answer any questions. 
+</p><p>Citation: 
+About Delib. Web. 03 June 2010. &lt;<a href="http://www.delib.co.uk/resources/Delib_Presentation.pdf" class="external free" title="http://www.delib.co.uk/resources/Delib_Presentation.pdf" rel="nofollow">http://www.delib.co.uk/resources/Delib_Presentation.pdf</a>&gt;.
+</p><p>
+</p>
+<a name="Activities" id="Activities"></a><h2>Activities</h2>
+<p>1.Budget Simulator: 
+</p><p>This product makes it easy for people to understand complex budgets on different projects or accounts. It makes it easy to obtain informed opinions on the budget in question as well as giving views on what is important regarding the budget; For example, whether to increase or decrease spending on a certain expenditure. It also allows to engage people who are hard to reach or sustain attention from, such as the lack of attentiveness that may arise from a regular, “boring” meeting. The cost of engaging so many people is done at minimal cost.
+</p><p>2.Dialogue App or Dialogue Platform: 
+</p><p>This product allows for the sharing of ideas, online dynamic interaction (similar to Twitter or FaceBook) and the gathering of customer feedback. It is ideal for crowd-sourcing and promoting innovation and ideas exchange, running debates on issues that your community cares about. This application has been used by the White House and the Department of Homeland Security to get people involved in important discussions. It provides easy to edit pages and built in reports that make it easy to look into and report on what is being discussed in the dialogue. And information on the site traffic to keep track of who and how often people are contributing.
+</p><p>3.Ideas Tree:
+</p><p>This product makes it easy to share, store and rate ideas quickly. Its whole purpose is to be very participatory, the most participation, the bigger it grows. Just like the other products, it is customize designed to fit the company that is using it. Any add on may be attached to the ‘tree’ including photos or images. One example of this is the use of it by the Department for Children, Schools, and Families. Using the 'idea tree'  the department was hoping to obtain information from parents to understand what  they felt were priorities and needs regarding their children.
+</p><p>4. Citizen Space (renamed from Opinion Suite) 
+</p><p>Out of these four major products offered, this one is the only one that has the potential to be used at no cost. The only costs that would be charged to an account would be for those services the owner needs, such as set up, hosting, customization, maintenance, support or advice. Being an open source product it also allows for easy management as well as customization for the organization using it  . 
+</p><p>An example of how a standard partnership may work includes the initial ‘Consultation design’ which is emphasizing the questions that need to be answered by the organization or enlighten the problems that need to be addressed. Background information is also acquired and as well as distribution of all policy documents and multimedia resources available. After all of the information is gathered then the ‘Consultation distribution’ phase is enabled where the delivery of the online and paper surveys are distributed. Paper surveys are offered to give the company more options on their research method. Once, this is done, phase three of the ‘Stakeholder engagement and recruitment’ begins. This includes recruiting participants, publicizing the products that have been chosen to be used as well as to hold events to further advertise and bring awareness of the actions to be taken. Phase four of ‘Data entry and coding’ is the cost efficient input of the results of the offline surveys. Phase five of ‘Report writing and statistical analysis’ is the complete analysis and report of the data collected which also includes publications to the stakeholders. The final phase is ‘Consultancy’ where advice is given and specialist project management is offered. 
+</p><p>Citation:
+</p><p>Budget Simulator. Web. 03 June 2010. &lt;<a href="http://www.budgetsimulator.com/" class="external free" title="http://www.budgetsimulator.com/" rel="nofollow">http://www.budgetsimulator.com/</a>&gt;.
+</p><p>"Dialogue App - Delib." Dialoque App. Web. 03 June 2010. &lt;<a href="http://www.delib.co.uk/products_and_services/dialogue-app" class="external free" title="http://www.delib.co.uk/products_and_services/dialogue-app" rel="nofollow">http://www.delib.co.uk/products_and_services/dialogue-app</a>&gt;.
+</p>
+"Ideas Tree - Delib." Idea Trees. Web. 03 June 2010. &lt;<a href="http://www.delib.co.uk/products_and_services/ideastree" class="external free" title="http://www.delib.co.uk/products_and_services/ideastree" rel="nofollow">http://www.delib.co.uk/products_and_services/ideastree</a>&gt;.
+
+"Opinion Suite - Delib." Opinion Suite. Web. 03 June 2010. &lt;<a href="http://www.delib.co.uk/products_and_services/opinion-suite" class="external free" title="http://www.delib.co.uk/products_and_services/opinion-suite" rel="nofollow">http://www.delib.co.uk/products_and_services/opinion-suite</a>&gt;.
+
+<p>
+Among all of the products that Delib offers, they specialize in a number of areas.  
+</p><p>1.Policy discussion is a tailor-made platform that is created for a company in order to help  support formal discussion around policy proposals.
+</p><p>2.Formal consultation is managing and translating a formal consultation processes in to the web. Using managed service and varying, customizable survey software to power large-scale government consultations on key issues.
+</p><p>3.Debates created are sophisticated, online-led tools that facilitate and support public or stakeholder debates on important issues among any number of participants.
+</p><p>4.Idea gathering, whether it is obtained using software like the ‘Idea Tree’ they provide or the ‘Opinion Tracker’ follow existing conversations or gather ideas from major actors in the process.
+</p><p>5.Public engagement is handled using a range of methods. From easy blogging to gaming consultations, really using any means necessary to get people talking, thinking and participating.
+</p><p>6.Reporting and management is made easy by managing the consultation process and data collection in a simple, comprehensive manner that produces easy report findings and analysis.
+</p>
+<a name="Funding" id="Funding"></a><h2>Funding</h2>
+<p>This organization is a for-profit company as they work for various large organizations and governments. Although they do have some services available for free such as their 'Opinion Suite,' all of their products are for sale at a fee depending on the level of involvement from Delib and the company that hired them. Some examples of partners they have worked with and for include:
+</p><p>NHS, BBC Trust, Defra, European Parliament, 
+NAPA, DoH, Cabinet Office, Bristol City Council, 
+London Fire and Emergency Planning Authority, 
+London Borough of Hammersmith and Fulham,and Macmillan Cancer Care.
+</p>
+<a name="Major_Projects" id="Major_Projects"></a><h2>Major Projects</h2>
+<p>1. Cumbria's Community Project
+This is a website for people to have a say in Cumbria’s ( a rural county in Northwest England ) community. Their voice can be heard in many venues such as local councils, and on police and health services. It also shows upcoming surveys that people can participate in, open consultations and closed consultations and past surveys.
+</p><p>2. London Fire Brigade (2009) Draft Fourth London Safety Plan ( since closed for any more responses)
+</p><p>From November 30th 2009 to February 22 2010 the London Fire Brigade consulted on the draft of the London Safety Plan 2010/13. This was the fourth London Safety Plan and explains how the Brigade plan to build on its reputation as one of the world’s leading fire 
+and  rescue services. All responses were assessed and taken into consideration by the Authority at its meeting in March 2010. The views helped decide upon the content of the final plan, which was published in April 2010 on our website at
+<a href="http://www.london-fire.gov.uk" class="external free" title="http://www.london-fire.gov.uk" rel="nofollow">http://www.london-fire.gov.uk</a>. 
+</p><p>The Plan includes a shake up of where some specialist vehicles and equipment are located across the capital. This is to deliver greater efficiency and improvement in the way equipment is deployed and firefighters are trained. It also includes new performance 
+targets, which will see the Brigade aim to reduce fires, which damage property, reduce arson and reduce the number of unwanted calls we attend.
+</p><p>Community Safety: We work to help people stay safe from fire and other emergencies, in the home, at work and in London’s other buildings. Accidental fires in the home are the main cause of fire deaths and we do all we can to reduce these fatalities. We work to educate people about what they can do to protect themselves from fire. We do this by:  
+</p><p>1. Home fire safety visits - firefighters visiting people in their homes to give advice on fire safety and fitting smoke alarms for free if necessary.
+</p><p>2. Working with other organisations who work with people we know are most at risk from fires and help us to reach and protect them.
+</p><p>3. Informing people at a young age about the dangers of fire, how they can protect themselves and the consequences of making hoax calls. We have successful and award winning initiatives to do this, including a schools team.
+</p><p>4. Reducing deliberately started fires - we have a specialist team to tackle fire setting behavior by young people and another working with partners to reduce fire related crime.
+</p><p>5. Advising on fire safety in the workplace - as an employer you are responsible for making sure you and your staff know what to do to prevent a fire in the workplace and how to escape if a fire does break out.
+</p><p>6. Carry out inspections of buildings - to improve the safety of the buildings we work with  developers at an early stage, carry out inspections to make sure they meet fire regulations, and we take enforcement action when necessary.
+</p>
+<a name="Case_Studies" id="Case_Studies"></a><h2>Case Studies</h2>
+<p>Delib is dedicated to help their clients excel in their efforts of helping the communities and businesses. Through previous case studies Delib has been successful in developing consultations that connect government departments and local organizations with regular citizens. Delib has developed a strategy for their case studies which consists of the brief, the work, the results and finally, how to find out more information.  
+</p><p>1. Barnet, Enfield and Haringey PCTS
+</p><p>They have worked with Barnet, Enfield and Haringey PCTS, which are three hospitals that are interested in providing better qualified local doctors and better building for their patients to enjoy. BE&amp;H is interested in engaging and consulting local citizens about health care issues that are most sensitive. Delib managed a bespoke e-consultation campaign which received a lot of community engagement. The number of particpants reached over 10,000 and hundreds of responses to the surveys conducted. 
+</p><p>To find out more contact Gez: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#c3a4a6b983a7a6afaaa1eda0acedb6a8"><span class="__cf_email__" data-cfemail="f097958ab094959c9992de939fde859b">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+</p><p>2. Macmillan Cancer Support Center
+</p><p>With the use of an 'Idea Tree,' Delib was able to manage a successful campaign with MCSC. Macmillan cancer support center is dedicated to helping people whose lives have been affected by cancer. They wanted to build engagement and research how people think cancer should look like in 2016. They developed an idea tree which helped people read, rate, and submit ideas for improving the ordeal involved with cancer. Essentially in an effort to push for better cancer care for patients and their families. The number of participants reached over 26,000 and the submitting of more than 250 ideas. 
+</p><p>To find out more contact Gez: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#1077756a5074757c79723e737f3e657b"><span class="__cf_email__" data-cfemail="f3949689b397969f9a91dd909cdd8698">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+</p><p>Citation:  Cancer Care and Support Charity - Macmillan Cancer Support. Web. 03 June 2010. &lt;<a href="http://www.macmillan.org.uk/Home.aspx" class="external free" title="http://www.macmillan.org.uk/Home.aspx" rel="nofollow">http://www.macmillan.org.uk/Home.aspx</a>&gt;.
+</p><p>3. Torbay Council
+</p><p>One of the other case studies was with Torbay Council which is Unitary Authority and their goal was to allow Torbay citizens to be involved in the budget setting process and make their priorities known to council decision-makers. Delib created a budget stimulator that is a customizable tool to help with consultation and prioritizing local issues. Responses were numbered in more than 1,000 Torbayian residents. 
+</p><p>To find out more contact Michaela: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#abc6c2c8c3cacec7caebcfcec7c2c985c8c485dec0"><span class="__cf_email__" data-cfemail="2a474349424b4f464b6a4e4f464348044945045f41">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+</p><p>Citation:  Torbay Council. Web. 03 June 2010. &lt;<a href="http://www.torbay.gov.uk/" class="external free" title="http://www.torbay.gov.uk/" rel="nofollow">http://www.torbay.gov.uk/</a>&gt;.
+</p><p>4. Defra
+</p><p>The Department for Environment Food and Rural Affairs is a government department in the UK. Their desired results were to “ Raise awareness and encourage attitudinal change amongst 11-16 year olds about the urgent need to tackle climate change.” Delib helped them by building “my adobo” which is an online tool that helps people shape a house to suit them, when they are done, they can shape the climate. Over 138,000 visited the site to see the impacts of customizable virtual houses and their effects on the climate. This resulted in over 32,000 adobos being created. 
+</p><p>To find out more contact Michaela: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#44292d272c25212825042021282d266a272b6a312f"><span class="__cf_email__" data-cfemail="e38e8a808b82868f82a387868f8a81cd808ccd9688">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+</p><p>Citation: 
+Department for Environment, Food and Rural Affairs. Web. 03 June 2010. &lt;<a href="http://ww2.defra.gov.uk/" class="external free" title="http://ww2.defra.gov.uk/" rel="nofollow">http://ww2.defra.gov.uk/</a>&gt;.
+</p><p>My Adobo. Web. 3 June 2010. &lt;<a href="http://www.myabodo.com/" class="external free" title="http://www.myabodo.com/" rel="nofollow">http://www.myabodo.com/</a>&gt;.
+</p><p>
+5. London Safety Plan for consultation for LFEPA
+</p><p>The case study for the London Safety Plan for Consultation for LFEPA was to “undertake public, partner and employee consultation on the draft London Safety Plan 2005-8.” The work was to manage a full consultation process that included activities, data analysis, question designs, and an online survey. The results were significant because there was a high level of participation. 
+</p><p>To find out more contact Gez: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#dabdbfa09abebfb6b3b8f4b9b5f4afb1"><span class="__cf_email__" data-cfemail="7c1b19063c181910151e521f13520917">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+Citation: London Fire Brigade. Web. 03 June 2010. &lt;<a href="http://www.london-fire.gov.uk/" class="external free" title="http://www.london-fire.gov.uk/" rel="nofollow">http://www.london-fire.gov.uk/</a>&gt;.
+</p><p>
+6. National Dialogue on Health Care, IT and Privacy for the National Academy of Public Administration
+</p><p>One other important case study was A National Dialoque on Health Care, IT and privacy for the National Academy of Public Administration. They were interested in hearing about ideas and opinons of stakeholders as well as Americans on the issue of healthcare. With the help from delib, they were able to develop an 'opinion tracker' which is an online database that allows people to share their intelligent thoughts while others are able to listen and make-sense of the thousands of voices all going on at once. The results were outstanding because the opinion tracker received over 2800 visitors a week and submitted over 120 unique ideas and more than 500 comments on those ideas.
+</p><p>To find out more contact Michaela: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#224f4b414a43474e436246474e4b400c414d0c5749"><span class="__cf_email__" data-cfemail="771a1e141f16121b163713121b1e1559141859021c">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+</p><p>7.London Borough of Hammersmith and Fulham
+</p><p>The final case study was for London Borough of Hammersmith and Fulham. They are a council that is dedicated to helping residents and businesses during rough times. LBHF wanted to deliver “deliver a full online consultation and stakeholder/public engagement web system to support the authority's consultation work..” The customized version of delib’s e-consultation platform was the tool LBHF was most interested in. This online database includes finder database, survey tool, stakeholder communication system and reporting and management tools. This was a huge success because everyone had an opportunity to engage in discussions. In the end, more than 2,000 residents responded to online surveys.
+</p><p>To learn more contact Gez: 0845 638 1848 | <a href="/cdn-cgi/l/email-protection#2c4b49566c484940454e024f43025947"><span class="__cf_email__" data-cfemail="e483819ea48081888d86ca878bca918f">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+Citation: London Borough of Hammersmith and Fulham. Web. 03 June 2010. &lt;<a href="http://www.lbhf.gov.uk" class="external free" title="http://www.lbhf.gov.uk" rel="nofollow">http://www.lbhf.gov.uk</a>&gt;.
+</p>
+<a name="Methods_Used" id="Methods_Used"></a><h2>Methods Used</h2>
+<p>Delib has unique tools and processes to help with consultation, debate, conversation, stakeholder relations and engagement.
+</p><p>
+1. Online led consultation service. They want all the details so they can help an organization draw up your proposals, guide you through the consultation process, set milestones and offer progress reporting as often as you require.
+</p><p>
+2. Your level of involvement is entirely your choice, and we are happy to work alongside other research agencies to complement existing processes.
+</p><p>
+3. Methods used with clients include: 
+</p><p>A. Consultation design: Question writing, background information, policy documents,multimedia resources.
+</p><p>B. Consultation distribution: Delivering online &amp; paper surveys.
+</p><p>C. Stakeholder engagement &amp; recruitment: Recruiting participants, publicity &amp; events.
+</p><p>D. Data entry &amp; coding: Cost-efficient input of results from offline surveys.
+</p><p>E. Report writing &amp; statistical analysis: Complete analysis and reporting service including publication to stakeholders.
+</p><p>F. Consultancy: Advice and specialist project management.
+</p>
+<a name="Secondary_Literature" id="Secondary_Literature"></a><h2>Secondary Literature</h2>
+<p>1. <a href="http://www.parentsideastree.org.uk/" class="external free" title="http://www.parentsideastree.org.uk/" rel="nofollow">http://www.parentsideastree.org.uk/</a>
+Idea Tree example
+</p><p>2.<a href="http://www.opinionsuite.com/cumbria" class="external free" title="http://www.opinionsuite.com/cumbria" rel="nofollow">http://www.opinionsuite.com/cumbria</a>
+Cumbria major project example. 
+</p><p>3.<a href="http://www.london-fire.gov.uk" class="external free" title="http://www.london-fire.gov.uk" rel="nofollow">http://www.london-fire.gov.uk</a>. 
+The London Fire Brigade's need of suggestions for most recent safety plan.
+</p><p>4.<a href="http://www.behfuture.nhs.uk/" class="external free" title="http://www.behfuture.nhs.uk/" rel="nofollow">http://www.behfuture.nhs.uk/</a>
+The case regarding the three hospitals in the UK.
+</p><p>5.<a href="http://www.macmillan.org.uk/Home.aspx" class="external free" title="http://www.macmillan.org.uk/Home.aspx" rel="nofollow">http://www.macmillan.org.uk/Home.aspx</a>
+Information regarding the Macmillan organization and cancer research.
+</p><p>6.<a href="http://www.torbay.gov.uk/" class="external free" title="http://www.torbay.gov.uk/" rel="nofollow">http://www.torbay.gov.uk/</a>
+An example of the budget simulator.
+</p><p>7.<a href="http://ww2.defra.gov.uk/" class="external free" title="http://ww2.defra.gov.uk/" rel="nofollow">http://ww2.defra.gov.uk/</a>
+An example of 'my adobo.'
+</p><p>8.<a href="http://www.lbhf.gov.uk/" class="external free" title="http://www.lbhf.gov.uk/" rel="nofollow">http://www.lbhf.gov.uk/</a>
+An example of an e-consultation London Borough of Hammersmith and Fulham.
+</p>
+<a name="Links" id="Links"></a><h2>Links</h2>
+<p>1.<a href="http://www.delib.co.uk/" class="external free" title="http://www.delib.co.uk/" rel="nofollow">http://www.delib.co.uk/</a>
+Information regarding Delib services and products.
+</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                              <div class="country-name" itemprop="addressCountry">United Kingdom</div>
+                                            <span class="geo"><abbr class="latitude" title="51.451972">51° 27' 7.0992" N</abbr>, <abbr
+            class="longitude" title="-2.593803">2° 35' 37.6908" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.co.uk?q=%2C+%2C+%2C+gb">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                GB      </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Chris Quigley</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">10</div></div></div><div class="field field-name-field-pt-staff-count field-type-text field-label-above"><div class="field-label">Part-time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">3</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/issue-area/budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Budgeting</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div><div class="field-item even"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item odd"><a href="/en/general-issues/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Health</a></div><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item even"><a href="/en/general-issues/national-international-security" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National &amp; International Security</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>

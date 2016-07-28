@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/ted" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/323" />
+  <title>TED | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"klpH007GM2imI_A7h49gz5dcy9jX-reKZwJ5l89d21E","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/ted?destination=node\/323":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-323 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/ted" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/ted?destination=node/323" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-xy02vZlF4c2JC4DQra4AE1WfJntCroFGXC2RCV_Lurk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">TED</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="TED - Participedia" addthis:url="http://participedia.net/en/organizations/ted"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 7 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/bamitup" title="View user profile." class="username" xml:lang="" about="/en/users/bamitup" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kartik Rishi</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>TED (Technology, Entertainment, Design), whose motto is “Ideas Worth Spreading”, is a 501(c)(3) non-profit organization operated/curated by the Sapling Foundation.<a href="http://www.ted.com/pages/view/id/42" class="external autonumber" title="http://www.ted.com/pages/view/id/42" rel="nofollow">[1]</a> Formed in 1984, TED and its subsidiaries gather scholars of varied disciplines and notable personas in various conference formats to bring to light social/economic/political issues in the world and provide others with a new perspective on possible solutions. Using strictly structured events, TED aims to provide a way to connect visionaries to people that have the capacity to make things happen, to truly form a connected network of human beings that aim for the common good of all. 
+</p><p>In January 2009, videos of talks available on TED.com had been viewed 50 million times; by July 2010, that value has ballooned to 290 million views.<a href="http://www.guardian.co.uk/technology/2010/jul/04/ted-conference-oxford-carole-cadwalladr" class="external autonumber" title="http://www.guardian.co.uk/technology/2010/jul/04/ted-conference-oxford-carole-cadwalladr" rel="nofollow">[2]</a> As the organization has grown, a new breed of events under the name TEDx aim to localize and increase the reach of TED, with 1000 independent events in over 60 countries in 2010.<a href="http://blog.ted.com/2010/11/15/the-1000th-tedx-event-was-today/" class="external autonumber" title="http://blog.ted.com/2010/11/15/the-1000th-tedx-event-was-today/" rel="nofollow">[3]</a> Notable presenters in past TED events include Bill Clinton, Al Gore, Google founders Larry Page and Sergey Brin, Gordon Brown, Bill Gates, and various other university professors and Nobel Prize winners.<a href="http://www.ted.com/index.php/speakers" class="external autonumber" title="http://www.ted.com/index.php/speakers" rel="nofollow">[4]</a>
+</p>
+
+<a name="Purpose_and_Mission" id="Purpose_and_Mission"></a><h2>Purpose and Mission</h2>
+<p>According to the TED website, the mission of TED is to spread ideas. Here is a direct excerpt: 
+“We believe passionately in the power of ideas to change attitudes, lives and ultimately, the world. So we’re building here a clearinghouse that offers free knowledge and inspiration from the world’s most inspired thinkers, and also a community of curious souls to engage with ideas and each other.”<a href="http://www.ted.com/pages/5" class="external autonumber" title="http://www.ted.com/pages/5" rel="nofollow">[5]</a>
+</p>
+<a name="History" id="History"></a><h2>History</h2>
+<p>TED was formed in 1984 as a one-time conference by Richard Saul Wurman, which later became an annual event starting in 1990. Later in 2002, the TED conference was purchased by Chris Anderson for the Sapling Foundation. Only in recent years, as the growth of online media, has TED become the organization we know of today. Starting in 2007, lectures done at TED and TEDx events (otherwise known as “talks”) have been hosted on YouTube and available on iTunes.
+</p><p>To truly appeal to the global community nature of TED, volunteer members of TED have participated in the Open Translation Project to translate the talks into 80 languages, free of charge. Building upon the “radical openness” ethos, TED content is licensed for free to anyone wanted access to TED content.
+</p>
+<a name="Activities" id="Activities"></a><h2>Activities</h2>
+<p>TED as an organization is quite large, with programs that deal with various aspects involved with TED events. 
+</p>
+<a name="TEDx" id="TEDx"></a><h3>TEDx</h3>
+<p>TEDx stands as a program that provides a TED experience on a more regional/local area, enabling schools, businesses, and other interest groups to host events that are independent of the main TED events to address issues more relevant to the area.<a href="http://www.ted.com/tedx" class="external autonumber" title="http://www.ted.com/tedx" rel="nofollow">[6]</a> Well known TEDx events include TEDxParis, TEDxYouth, and TEDxUSC. 
+</p>
+<a name="TED_Fellows" id="TED_Fellows"></a><h3>TED Fellows</h3>
+<p>TED Fellows is a fellowship program that “helps world-changing innovators from around the globe become part of the TED community and, with its help, amplify the impact of their remarkable projects and activities. Fellows are drawn from many disciplines that reflect the diversity of TED's members: technology, entertainment, design, the sciences, the humanities, the arts, NGOs, business and more.”<a href="http://www.ted.com/pages/view/id/241" class="external autonumber" title="http://www.ted.com/pages/view/id/241" rel="nofollow">[7]</a>
+</p>
+<a name="TED_Prizes" id="TED_Prizes"></a><h3>TED Prizes</h3>
+<p>Starting in 2005, TED Prizes awarded three distinguished individuals $100,000 each annually to assist them in fulfilling a wish they expressed in changing the world. In 2010, only one prize winner was chosen, in order to focus resources to increase the winner’s chance of accomplishing his/her wish.<a href="http://www.tedprize.org/" class="external autonumber" title="http://www.tedprize.org/" rel="nofollow">[8]</a>
+</p>
+<a name="Funding" id="Funding"></a><h2>Funding</h2>
+<p>According to TED, “TED is owned by The Sapling Foundation, a private nonprofit foundation, a 501(c)(3) organization under US tax code. It was established in 1996 by Chris Anderson, who was at that time a magazine publishing entrepreneur.”
+</p><p>The main TED event is sponsored by many corporations such as:
+</p>
+<ul><li>Akamai
+</li><li>BlackBerry
+</li><li>AT&amp;T
+</li><li>Autodesk
+</li><li>Cisco
+</li><li>GE
+</li><li>IBM
+</li><li>IDEO
+</li><li>Intel
+</li><li>Liberty Mutual
+</li><li>Rolex
+</li><li>Santander
+</li><li>Steelcase
+</li><li>Tiffany &amp; Co. Foundation
+</li><li>UBC
+</li><li>and many others
+</li></ul><p>TEDx events are responsible for finding their own sponsors for their events, many of which end up being sponsors local to where the event is located. The list of sponsors must be provided prior to an event, and the TED organization heavily regulates who can sponsor and requires transparency in donations.
+</p><p>For events that have less than 100 attendees, total sponsorship funding cannot exceed $5000, while events with more than 100 attendees are limited to less than $20000 per sponsor. Attendees themselves end up sponsoring the event themselves, with ticket prices for the main TED event running around the range of $5000 per person (which not only accounts for attendance, but copies of content TED provides to attendees). TEDx events also have ticket prices to attend, however prices scale to the popularity and location of the event. 
+</p><p>However, TED makes it very clear for their own events and TEDx events that sponsors cannot originate from the weapons/ammunition, tobacco/cigarettes, and Adult-oriented product/service industries. In addition, rules clearly dictate that sponsors cannot have any “editorial control or veto power over your program”<a href="http://www.ted.com/pages/491" class="external autonumber" title="http://www.ted.com/pages/491" rel="nofollow">[9]</a>.  On top of that, sponsors cannot be present in anyway on the stage, further cementing the gap between sponsors and content discussed in TED events, making the talks credible and opening the doors for potentially controversial topics to be discussed.
+</p>
+<a name="Major_Projects" id="Major_Projects"></a><h2>Major Projects</h2>
+<a name="Open_Translation_Project" id="Open_Translation_Project"></a><h3>Open Translation Project</h3>
+<p>To respond to the popularity of TED and TEDx events around the world, TED launched a program called the Open Translation Project. By combining the large human capital of the attendees and TED volunteers, the program aims to provide subtitles and time-coded transcripts for all of the TED talks available. At the time of writing, 80 languages are represented in 13357 translations by 4353 translators on various talks made at TED events. The languages with a large amount of translations include Czech, French, Hebrew, Korean, Romanian, and Spanish.<a href="http://www.ted.com/translation" class="external autonumber" title="http://www.ted.com/translation" rel="nofollow">[10]</a>
+</p>
+<a name="Evaluation_and_Critique" id="Evaluation_and_Critique"></a><h2>Evaluation and Critique</h2>
+<p>Various aspects of TED and TEDx events support deliberation, in the broad sense and in the details. One of the fundamental principles of deliberation is the collaboration of individuals from different perspectives and disciplines combining their intellect and experiences to form a broad and encompassing base of knowledge. At TED events, some of the brightest individuals on the planet are present, setting the potential for very high level deliberation. Some criticism has arisen over the fact that TED attendees must be invited to attend the events, many of which must go through an extensive application process to gauge potential attendee’s dedication to truly participating in the event. In addition, many view the high attendance costs (roughly $5000), as a form of elitism, limiting the accessibility of TED to everyone. However, I counter that the point of TED events are to provide a place for the very best of our society to tackle real-world problems in revolutionary ways, ultimately resulting in high-caliber ideas meeting the attention of those who have the capacity to make change happen. On top of that, much of the content from TED events are available online for the public to view, therefore allowing the viewer to view the talks and discuss it amongst their own peers. 
+</p><p>TED events are structured to have multiple back-to-back lectures at strictly 18 minutes or less from various visionaries, which is meant to stimulate the mind of many. However, this tends to be TED’s weakness in terms of deliberation; where it doesn’t provide time for the group to consider and discuss the pros and cons to ideas/solutions presented to them while the content is still fresh in the attendee’s mind. TEDx events on the other hand allow breakout sessions between each lecture to allow for proper “digestion” of the content being presented to them. The event organizers are strictly told to allow proper time for the group to break up into smaller groups and process talks, which guarantees that events across the board follow the same standard.<a href="http://www.ted.com/pages/480" class="external autonumber" title="http://www.ted.com/pages/480" rel="nofollow">[11]</a> 
+</p><p>In typical deliberative sessions, the group attempts to come to a general consensus and then that consensus is relayed to people or entities that have the power to execute. A major aspect where the TED organization succeeds is being able to make those two groups of people one and the same. With major attendees like Cameron Diaz to philanthropists like Bill Gates, the people with the capacity to make change are the audience to some of the most engaging proposals to benefit the world ever. This adds a step to the deliberative process, execution.
+</p><p>With a large foundation of knowledge combined with the brightest individuals on the planet, TED supports a form of global deliberation. It doesn’t tackle just national problems, but problems that are in the interests of everyone, whether they know it or not. Every idea has a relatively free chance to be presented to everyone, with the no difference between popular and controversial talks. With far ranging topics from global politics to the bleeding edge of technology, deliberation at TED facilitates the propagation of ideas and inspires many to take up an issue.
+</p>
+<a name="References" id="References"></a><h2>References</h2>
+<ol><li><a href="http://www.ted.com/pages/view/id/42" class="external free" title="http://www.ted.com/pages/view/id/42" rel="nofollow">http://www.ted.com/pages/view/id/42</a>
+</li><li><a href="http://www.guardian.co.uk/technology/2010/jul/04/ted-conference-oxford-carole-cadwalladr" class="external free" title="http://www.guardian.co.uk/technology/2010/jul/04/ted-conference-oxford-carole-cadwalladr" rel="nofollow">http://www.guardian.co.uk/technology/2010/jul/04/ted-conference-oxford-carole-cadwalladr</a>
+</li><li><a href="http://blog.ted.com/2010/11/15/the-1000th-tedx-event-was-today/" class="external free" title="http://blog.ted.com/2010/11/15/the-1000th-tedx-event-was-today/" rel="nofollow">http://blog.ted.com/2010/11/15/the-1000th-tedx-event-was-today/</a>
+</li><li><a href="http://www.ted.com/index.php/speakers" class="external free" title="http://www.ted.com/index.php/speakers" rel="nofollow">http://www.ted.com/index.php/speakers</a>
+</li><li><a href="http://www.ted.com/pages/5" class="external free" title="http://www.ted.com/pages/5" rel="nofollow">http://www.ted.com/pages/5</a>
+</li><li><a href="http://www.ted.com/tedx" class="external free" title="http://www.ted.com/tedx" rel="nofollow">http://www.ted.com/tedx</a>
+</li><li><a href="http://www.ted.com/pages/view/id/241" class="external free" title="http://www.ted.com/pages/view/id/241" rel="nofollow">http://www.ted.com/pages/view/id/241</a>
+</li><li><a href="http://www.tedprize.org/" class="external free" title="http://www.tedprize.org/" rel="nofollow">http://www.tedprize.org/</a>
+</li><li><a href="http://www.ted.com/translation" class="external free" title="http://www.ted.com/translation" rel="nofollow">http://www.ted.com/translation</a>
+</li><li><a href="http://www.ted.com/pages/480" class="external free" title="http://www.ted.com/pages/480" rel="nofollow">http://www.ted.com/pages/480</a>
+</li></ol><a name="Secondary_Literature" id="Secondary_Literature"></a><h2>Secondary Literature</h2>
+<ul><li>Zuniga, D., Stanley, C., Arden, D., Latham, S., Gore, A., Brilliant, L. B., Negroponte, N., ... TED. (2007). The future we will create: Inside the world of TED. New York?: Docurama Films.
+</li></ul><ul><li>Orsak, G. C. (January 01, 2009). AT STAKE - Banish the Mundane: It's TED Time - The Technology, Entertainment, Design conference allows people to exchange "ideas worth sharing.". Oem Products/suppliers Issue, 64, 3, 28.
+</li></ul><ul><li>PATEL, P. U. R. V. A. (May 29, 2010). Spread of good ideas is the goal Event to bring in speakers from science, energy TEDx: 'A sort of rebirth of intellectualism'. Houston Chronicle.
+</li></ul><ul><li>Rosenbloom, S. (September 26, 2010). Opening Up An Elite Brand To the Masses. New York Times.
+</li></ul><ul><li>Kamenetz, A. (September 01, 2010). How TED Became the NEW HARVARD. Fast Company, 148, 81-85. 
+</li></ul><a name="Links" id="Links"></a><h2>Links</h2>
+<ol><li><a href="http://www.TED.com" class="external free" title="http://www.TED.com" rel="nofollow">http://www.TED.com</a>
+</li></ol></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Palm Springs, CA</span>
+                                                                <span class="geo"><abbr class="latitude" title="33.830296">33° 49' 49.0656" N</abbr>, <abbr
+            class="longitude" title="-116.545292">116° 32' 43.0512" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Chris Anderson</div></div></div><div class="field field-name-field-budget field-type-text field-label-above"><div class="field-label">Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">87</div></div></div><div class="field field-name-field-pt-staff-count field-type-text field-label-above"><div class="field-label">Part-time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">Varies</div></div></div><div class="field field-name-field-volunteer-count field-type-text field-label-above"><div class="field-label">Volunteer Count:&nbsp;</div><div class="field-items"><div class="field-item even">Varies</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/issue-area/budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Budgeting</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div><div class="field-item even"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item odd"><a href="/en/general-issues/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Health</a></div><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/general-issues/immigration" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Immigration</a></div><div class="field-item even"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item odd"><a href="/en/general-issues/national-international-security" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National &amp; International Security</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

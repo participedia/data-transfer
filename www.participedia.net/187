@@ -1,0 +1,390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/kgotla-public-assembly" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/187" />
+  <title>Kgotla (public assembly) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"EeaBRVus01K0184tpRuD7GADlGkHQzd5Cbjy5-viJBY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/kgotla-public-assembly?destination=node\/187":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-187 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/kgotla-public-assembly" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/kgotla-public-assembly?destination=node/187" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-sKwlEMW6oZ7cuINSCCG9O74C5zJcn2BYhKt88sKrt2M" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Kgotla (public assembly)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Kgotla (public assembly) - Participedia" addthis:url="http://participedia.net/en/methods/kgotla-public-assembly"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 7 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/waddellandrew" title="View user profile." class="username" xml:lang="" about="/en/users/waddellandrew" typeof="sioc:UserAccount" property="foaf:name" datatype="">Waddell.andrew</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="" id=""></a><h1>Definition:</h1>
+<p>	Kgotla meetings were large tribal assemblies that were used by Tswana chiefs to discuss important issues, policies and legislation with their subjects. Boris Weber, writing for the World Bank's anti-corruption blog, described the kgotla assembly as "a democratic process in which the village chief would consult with local villagers who have the right to express their views and concerns."<a href="#cite_note-0" title="">[1]</a> He was of course referring to present day kgotla meetings, which although important to Botswanan political life, are much smaller than the kind of traditional tribal assemblies which occurred during that nation's earlier years. Although their names and procedures varied somewhat depending on the importance of the issue being discussed as well as the nature of the issue itself, meetings of this sort all shared the same basic structure. The general goal of the system was to attain consensus on whatever issue or potential law the assembly happened to be discussing. The system also served to notify chiefs of their proposal's popularity (or lack thereof.) In this respect it was both a consultative and an indirectly participatory practice. Note that the word kgotla actually refers to the building or area in which the assembly takes place but in the literature is commonly used to denote the assemblies that commonly met there as well.
+</p>
+<a name="" id=""></a><h1>Process:</h1>
+<p>	Although the size and scope of the tribal assemblies varied depending on the type of meeting as well as its subject, they all had the same basic format. The chief, his family, and his advisers sat in front of the assembly which would be seated around them in a semi-circle. Other than that there was no set seating arrangement. Once seated, the chief would tell those in attendance his purpose for calling them all together. He would then relinquish the floor to his advisers and trusted headmen (elite political figures) who were charged with opening the debate. After the administrative elites had stated their own positions, the rest of the body was invited to ask questions and discuss the issue. Speakers were given unlimited time to deliver thoughts, criticisms, and to ask questions to every participant including government officials. If more than one participant wished to speak, precedence was given to the most aged and socially prominent one among or between them.
+</p><p>	When the discussion died out, senior headmen and other political elites would again elucidate upon their own opinions. After hearing his officials' perspectives, the chief would announce his own decision on whatever issue they had been considering to the entire assembly, and thus conclude the meeting. <a href="#cite_note-name-1" title="">[2]</a>
+</p>
+<a name="" id=""></a><h1>History:</h1>
+<p>	The Tswana had begun to develop the kgotla tradition during the early 1800s and by the time British Empire had incorporated the nation under their imperialist wing as the Bechuanaland Protectorate in 1885, the Tswana people had already developed a unique political culture centered around public consultation.<a href="#cite_note-2" title="">[3]</a>   The British government, in concurrence with its indirect governance strategy, encouraged this propensity through legislation which put into law what many chiefs had already begun to do, that is, bring all potential laws before a public assembly so as to benefit from their consult. So from then on, after devising legislation together with his advisers, the chief was expected to call a tribal assembly and to put whatever it was that he had produced before them for consideration. If the men assembled liked the proposal, the chief would surely implement it. If they did not like it however, he would more often than not either scrap his plans or modify them to make them more agreeable to his subjects, though he was not legally bound to do so. This was perhaps due to the Tswana's unique political culture, which among other things, emphasized that the "Chief is Chief by grace of his tribe," a sentiment which certainly does not encourage unilateral domestic policy implementation. In the early days the kgotla acted effectively as a means of indirect participation in Tswanan government and  to ensure “competent leadership” <a href="#cite_note-3" title="">[4]</a>
+</p><p>	The British had chosen to leave the traditional government in place partly because they were so effective at keeping things running smoothly. The stability had come at a steep price though. While their support did help the Chiefs maintain political stability in the region it inadvertently degraded the already somewhat specious quality of the Tswana’s only democratic institution. Chiefs no longer ruled "by the grace of the people," rather they served the people at the behest of the British empire. In other words, the popular constraints (civil unrest, disobedience, and general noncooperation) that had kept their tribal sovereigns in line were neutered by foreign money and military support. <a href="#cite_note-4" title="">[5]</a> Still the tribes managed to survive and eventually became the Independent Republic of Botswana in 1966. With the advent of representative democracy came the central bureaucracy which greatly diminished the powers of the old tribal chiefs. Today, kgotla meetings are still held but due to several factors (including an across the board decline in civic participation) are sparsely attended. <a href="#cite_note-5" title="">[6]</a>
+</p>
+<a name="" id=""></a><h1>Case Studies:</h1>
+<p>N/A
+</p>
+<a name="" id=""></a><h1>Evaluation:</h1>
+<p>	Theoretically, these meetings could have been extremely deliberative. Participants were technically permitted to speak their minds to the open assembly and respond to the questions and to the comments of others without restriction. They were given complete and unadulterated access to policy makers whom they could bombard with questions and complaints. Since the ruling elites' goal was to convince the people to support the official policy, they would endeavor to respond to criticisms and answer any questions that were presented to them. Ideally, this “back-and-forth” between both sides would continue until the chief felt that the matter was settled and announced his decision, taking into account the assembly's values and their overall assessment of the law. In some ways these meetings resembled a deliberative public meeting, in theory at least. In practice however, it is unlikely they were very deliberative.
+</p><p>	Even though all men could sit in the kgotla and in some cases were actually forced to attend the event, they were not all able to participate. According to E. H. Ashton, men in subordinate positions would "scarcely have the right, and seldom the temerity, to speak" during the proceedings and that even if they managed to pluck up the courage and attempted to discuss the issue with the assembly "no one would pay much attention to what they said.” <a href="#cite_note-6" title="">[7]</a> Deliberative public meetings make sure that all participants have the opportunity to speak. This clearly was not the case in the chief’s kgotla during such assemblies. 
+</p><p>Another potentially anti-deliberative element of the actual meetings was the fact that although the chief did not state his official position, it was commonly known that he and his advisers had spent a lot of time discussing the issue in private and that therefore the positions of those advisors (which were included in the opening discussions) were probably shared by the chief as well. As a result many dissenters were kept quiet by the awareness that if they raised objections against the ideas of the advisers they could also be attacking the plans of the chief himself.<a href="#cite_note-7" title="">[8]</a> So not only were minorities and other "undesirables" kept out of the discussion, but older, more prominent men were also discouraged from contributing to the assembly if their opinions went against what was assumed to be the status quo. In order for a public meeting to be deliberative it must allow participants to discuss different solutions and weigh them against others. Indirectly silencing dissent in such a manner would obviously impede this kind of analysis. In fact, there is evidence that suggests the meetings were used primarily by the chief to convince his subjects to go along with his proposals, rather than to deliberate on the problem his proposal was supposed to solve. <a href="#cite_note-8" title="">[9]</a>
+</p><p>	Even if the chief happened to be interested in considering the faults of his own favored proposal along with the strengths of alternative solutions, he would still have to be present at the actual event, which from a deliberative stand point was not a good place for him to be. In fact, his presence, while theoretically helping to facilitate an informative discussion between ruler and subject, might have actually impeded the body’s deliberation. In Tswana culture, the chief was a highly respected figure among the people. Thus many men may have chosen to stay quiet in spite of their objections to the Chief’s proposals. Deliberative public meetings require that officials are able to hear the “authentic” and “unfiltered” opinions of the public.<a href="#cite_note-9" title="">[10]</a> However, because of the people’s aforementioned veneration of their chiefs, it is unlikely (except in cases where the proposal and/or the chief himself was unpopular) that they would actually voice disagreement with any proposals that seemed contrary to his will. Though it is important to remember that there were cases in which the assembly aggressively resisted the proposals of their ruler. For instance, in 1940s, an unpopular chief was dethroned by an angry throng of kgotla participants after he tried to keep the position from his nephew (the rightful heir) after ruling in his place for a while during the boy's youth. <a href="#cite_note-10" title="">[11]</a> 
+</p><p>	It is also important to note that all of the discussion that occurred during this event occurred before the entire assembly. So even if a man was of the dominant tribal association and of a high status, his anxiety over addressing such a large group may have kept him from speaking his mind. The historical record makes no mention of the assembly having any special system for encouraging reluctant speakers to stand before the crowd. They did not split up into smaller groups as is necessary for deliberative public meetings.
+</p><p>	At the end of the assembly the chief was expected to announce his decision in light of the assembly's discussions. He took neither poll nor vote (although he could request that they arrange themselves by ward so he could discern each area’s stance on whatever they had been discussing.<a href="#cite_note-11" title="">[12]</a>) In theory, the chief would choose the position with the most support of his people and modify proposals that were not as popular. Even though he was under no legal obligation to obey the will of his subjects, the chief knew that he could not govern without the cooperation of his people. Thus, in the early days at least, these meetings had some deliberative elements as the chief was forced to incorporate the values of his subjects into his decrees as well as consider other ways of solving any problems he had wished to solve with his original proposal.
+</p><p>	One core issue that would have flat out prevented the assemblies from being truly deliberative public meetings was their complete exclusion of women. Cultural concerns aside, women were still part of their society (ie “the public”) and since the goal of any deliberative public meeting is to facilitate a dialogue between public officials and citizens <a href="#cite_note-12" title="">[13]</a>, their absence would obviously harm the process’s deliberative potential, if not kill it outright. Public meetings that do not allow a significant proportion of the public to participate cannot be very deliberative, no matter how informative and lively their discussions are.
+</p>
+<a name="References" id="References"></a><h1>References</h1>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> <a href="http://blogs.worldbank.org/governance/node/810" class="external free" title="http://blogs.worldbank.org/governance/node/810" rel="nofollow">http://blogs.worldbank.org/governance/node/810</a></li>
+<li id="cite_note-name-1"><a href="#cite_ref-name_1-0" title="">↑</a>  Schapera , I. (1955). “A handbook of tswana law and custom.” Norwich, UK: Jarrold and Sons, Ltd. </li>
+<li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a>  Hjort, J. (2010). Pre-colonial culture, post-colonial economic success? the tswana and the african economic miracle. Economic History Review, 63(3), 688–709. </li>
+<li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a>  Hjort, J. (2010). Pre-colonial culture, post-colonial economic success? the tswana and the african economic miracle. Economic History Review, 63(3), 688–709. </li>
+<li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a>  Ashton, EH. (1947). Democracy and indirect rule. Africa: Journal of the International African Institute, 17(4), 235-251. </li>
+<li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> Maundeni, Z, Mpabanga, D, Mfundisi, A, &amp; Sebudubudu, D. (2007). "Consolidating democratic governance in southern africa: botswana." Johannesburg, South Africa: EISA.</li>
+<li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a>  Ashton, EH. (1947). "Democracy and indirect rule." Africa: Journal of the International African Institute, 17(4), 235-251. </li>
+<li id="cite_note-7"><a href="#cite_ref-7" title="">↑</a> Molutsi, PP., &amp; John, HD. (1990). "Developing democracy when civil society is weak: the case of botswana." African Affairs, 89(356), 323-340. </li>
+<li id="cite_note-8"><a href="#cite_ref-8" title="">↑</a>  Ashton, EH. (1947). "Democracy and indirect rule." Africa: Journal of the International African Institute, 17(4), 235-251. </li>
+<li id="cite_note-9"><a href="#cite_ref-9" title="">↑</a>  Gastil, J. (2008). Political communication and deliberation. Teller Oaks, California: Sage Publications, Inc.</li>
+<li id="cite_note-10"><a href="#cite_ref-10" title="">↑</a> Hjort, J. (2010). Pre-colonial culture, post-colonial economic success? the tswana and the african economic miracle. Economic History Review,, 63(3), 688–709.</li>
+<li id="cite_note-11"><a href="#cite_ref-11" title="">↑</a> Schapera , I. (1955). “A handbook of tswana law and custom.” Norwich, UK: Jarrold and Sons, Ltd. </li>
+<li id="cite_note-12"><a href="#cite_ref-12" title="">↑</a>  Gastil, J. (2008). Political communication and deliberation. Teller Oaks, California: Sage Publications, Inc.</li></ol><a name="" id=""></a><h2>Secondary Literature:</h2>
+<ul><li>Gastil, J. (2008). Political communication and deliberation. Teller Oaks, California: Sage Publications, Inc.
+</li><li>Holdar, GG., &amp; Zakharchenko, O. (Ed.). (2002). People's Voice Project International Centre for Policy Studies. "iMedia" Ltd.
+</li><li>Schapera , I. (1955). "A Handbook of Tswana Law and Custom.” Norwich, UK: Jarrold and Sons, Ltd. 
+</li><li>Parson, J. (Ed.). (1990). "Kgotla Democracy Succession to High Office in Botswana." Athens, Ohio:
+</li><li>Lekorwe, M. "The Kgotla and the Freedom Square: One-way or Two-way Communication?"
+</li></ul><a name="" id=""></a><h2>Links:</h2>
+<ul><li><a href="http://www.capafrique.org/cappub.php?id=215" class="external text" title="http://www.capafrique.org/cappub.php?id=215" rel="nofollow">The Kgotla: Towards a Civil Society?</a>
+</li><li><a href="http://www.allbusiness.com/africa/926724-1.html" class="external text" title="http://www.allbusiness.com/africa/926724-1.html" rel="nofollow">Kgotla: Africa's cradle of democracy</a>
+</li></ul></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-64b4d6f49999d19d9203c7445e4fc1d2">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/187">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/forum/future-democracy">The Future of Democracy</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/express-opinionspreferences-only" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Express opinions/preferences only</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Public Hearing</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Criers</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Consensus and Executive Decision</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/regional-eg-state-province-autonomous-region" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item odd"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/2-not-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">2 - Not Very Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/consultation-ie-advise-decision-makers" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Consultation (i.e. to advise decision makers)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

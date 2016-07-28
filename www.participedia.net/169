@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/parliamentary-procedure" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/169" />
+  <title>Parliamentary Procedure | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"shOFzeslCQQfuF6LQZHpu6QU998rhUDMv87NiZae-L4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/parliamentary-procedure?destination=node\/169":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-169 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/parliamentary-procedure" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/parliamentary-procedure?destination=node/169" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-NWbD-0Sfw7y2022WN9kYtusg1YP1kv2FSB60uKHcQQ8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Parliamentary Procedure</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Parliamentary Procedure - Participedia" addthis:url="http://participedia.net/en/methods/parliamentary-procedure"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 4 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/lurkmoar" title="View user profile." class="username" xml:lang="" about="/en/users/lurkmoar" typeof="sioc:UserAccount" property="foaf:name" datatype="">Lurkmoar</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Definition" id="Definition"></a><h2> Definition </h2>
+<p>Parliamentary procedure is the set of rules and bylaws adopted by various groups, ranging from the United States House of Representatives to high school Model United Nations clubs. Though its forms differ greatly between locations where it is implemented, the end goals of parliamentary procedure are the same, including equal opportunity for all members and to maintain orderly, accepted procedure. Parliamentary procedure attempts to ensure civil deliberation among members of an entity by guaranteeing equal rights and opportunities to those involved. Another key feature of parliamentary procedure, as described in Mason’s Manual, a handbook for one version of parliamentary procedure commonly seen in the United States, is that any entity that uses parliamentary procedure allow its members the chance to debate the question at hand, and that any debate be resolved by democratic voting. <a href="#cite_note-0" title="">[1]</a>
+</p>
+<a name="Forms" id="Forms"></a><h2> Forms </h2>
+<p>Two of the main forms of parliamentary procedure are based on books – the one most commonly seen in the United States is based on Mason’s Manual, which focuses on ensuring democratic voting, as well as equal access and privileges to all those involved. Mason’s Manual was written specifically to help legislative bodies run more smoothly, with its egalitarian, democratic framework for parliamentary procedure. <a href="#cite_note-1" title="">[2]</a> Robert’s Rules of Order was the first set of published rules of parliamentary procedure published in book form. It was published in 1876 and laid the groundwork for what has since become modern parliamentary procedure. Robert’s Rules of Order, unlike Mason’s Manual, was not intended for governmental use, rather for other societal entities and groups. Both forms strive to protect all voices in the group, even those which have little to no support. Robert's Rules of Order and Mason's Manual are both highly complex systems, with Mason's Manual being the more stringent as it was designed for matters of legislative significance. Mason's Manual has specific provisions in it which relate directly to certain governmental offices, so as to avoid any possible confusion on the floor. <a href="#cite_note-2" title="">[3]</a>
+</p>
+<a name="Participant_Selection" id="Participant_Selection"></a><h2> Participant Selection </h2>
+<p>Participant selection is normally done through election or nomination, as is the case with parliamentary governments, but this holds true even in the case of high school clubs. Normally those already familiar with parliamentary procedure are selected, which makes the transition into their new role more fluid for the whole group.
+</p>
+<a name="Process" id="Process"></a><h2> Process </h2>
+<p>Parliamentary procedure is generally communally agreed upon by the members of a deliberative entity, and is thus established and enacted as the rules governing that group's deliberative procedure. Various groups approach this in different ways, hence the vast array of different forms of deliberation out there that fall under "parliamentary procedure." Most forms require a facilitator of some sort, such as a debate moderator, to ensure the maintenance of order and procedure within the group. The facilitator serves to rein in the discussion if it gets out of hand, maintain orderly voting, and sometimes determine the order of speakers if there is confusion.
+</p><p>Parliamentary procedure also requires that there be sufficient advance notice of a meeting given to all members in order for it to be considered legitimate. This prevents the majority group from having a meeting without the presence of minority voices. <a href="#cite_note-3" title="">[4]</a>
+</p>
+<a name="Quorum" id="Quorum"></a><h3> Quorum </h3>
+<p>Parliamentary procedure is most often used by governing entities, and elected representatives are generally the ones who partake in such deliberation. In order for a hearing to be held, there must be a quorum, or sufficient numbers in attendance. If quorum is not met, the hearing is adjourned. In the United States, quorum is a simple majority of those expected to be in attendance. A simple majority of votes is the requirement to make a decision, though in some places these numbers are changed based on circumstances.
+</p>
+<a name="Speaking" id="Speaking"></a><h3> Speaking </h3>
+<p>One of the core values of parliamentary procedure is to ensure that everyone has an equal opportunity to speak, regardless of whether they are in the majority or minority. This was first developed in Robert’s Rules of Order, for the sake of both guaranteeing the rights of the majority and protecting the rights of the minority. <a href="#cite_note-4" title="">[5]</a> All forms of parliamentary procedure strive to ensure equality among all participants, regardless of majority or minority status. Speakers take turns giving speeches and addressing questions from other participants.
+</p>
+<a name="Motions" id="Motions"></a><h3> Motions </h3>
+<p>A motion is an action suggested by a member of the body. In order for a motion to be considered, it must be seconded by another member. At this point, the body must vote whether to approve the motion or reject it. Normally motions relate to postponing the legislation or calling the body to vote. Motions among motions are the motion to table, which means to set aside the topic at hand and move to another topic, a motion to commit, which means to refer a motion to a smaller committee it would be fitting for, a motion to previous question, which calls for an immediate vote and an end to deliberation, and a motion of no confidence, used to express dissent toward or a lack of faith in those in power. Any member can propose a motion at any time. <a href="#cite_note-5" title="">[6]</a>
+</p>
+<a name="Voting" id="Voting"></a><h3> Voting </h3>
+<p>After everyone who wanted to speak has gotten the chance to, there is normally a motion to vote. Voting can be spoken (yea or nay) en masse, written in ballot form, conducted by counting raised hands, or each member of the body will be individually asked his or her vote, depending on the group and its bylaws. Votes are then tallied if needed, and the winner is announced after all votes have been counted. Each individual’s vote is equal, as the system is democratic. In some organizations, the facilitator, often a chairperson of some sort, is granted the power to break ties. <a href="#cite_note-6" title="">[7]</a>
+</p>
+<a name="Application_and_History" id="Application_and_History"></a><h2> Application and History </h2>
+<p>Parliamentary procedure is used in numerous governments, including but not limited to the United States, the United Kingdom, Iceland, Australia, Finland, Russia, Spain, and Poland. <a href="#cite_note-7" title="">[8]</a> In these cases (and many others), parliaments are used to deliberate on the merits of pieces of legislation, as well as discuss matters that may need to be made into legislation. 
+</p><p>The history of parliamentary procedure as we know it dates back to the 18th century in the United Kingdom, though parliamentary procedure itself is said to date back to ancient Greece. The United Kingdom’s parliamentary laws crossed the sea when its citizens did, and thus were implemented in the government of the United States. Thomas Jefferson made some revisions to the British laws in what he called Jefferson’s Manual, a book on parliamentary procedure written specifically for the United States at the turn of the 19th century. <a href="#cite_note-8" title="">[9]</a> In the late 19th century, Robert’s Rules of Order was written, and by the early 20th century, had become the definitive guide for parliamentary procedure. When Mason’s Manual was written in 1950, states began adopting it, seeing as it was specifically tailored to the needs of legislative bodies. Currently, different states use different versions of parliamentary procedure based on what has been adopted, though the majority use Mason’s Manual.
+</p>
+<a name="References" id="References"></a><h2> References </h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> Mason, Paul. Mason’s Manual of Legislative Procedure (2000). <a href="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" class="external free" title="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" rel="nofollow">http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx</a></li>
+<li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> Mason, Paul. Mason’s Manual of Legislative Procedure (2000). <a href="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" class="external free" title="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" rel="nofollow">http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx</a></li>
+<li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a> Mason, Paul. Mason’s Manual of Legislative Procedure (2000). <a href="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" class="external free" title="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" rel="nofollow">http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx</a></li>
+<li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> Lukas, Scott. (2008) <a href="http://www.laccd.edu/das/ParliamentaryProcedure.html" class="external free" title="http://www.laccd.edu/das/ParliamentaryProcedure.html" rel="nofollow">http://www.laccd.edu/das/ParliamentaryProcedure.html</a></li>
+<li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> Robert's Rules of Order Newly Revised, 10th edition, Perseus Books Group, Cambridge MA, 2000.</li>
+<li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> Bergman, Gary (2000) p.3. <a href="http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1171&amp;context=extensionhist" class="external free" title="http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1171&amp;context=extensionhist" rel="nofollow">http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1171&amp;context=extensionhist</a></li>
+<li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a> Mason, Paul. Mason’s Manual of Legislative Procedure (2000). <a href="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" class="external free" title="http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx" rel="nofollow">http://www.ncsl.org/LegislaturesElections/OrganizationProcedureFacilities/2000MasonsManualofLegislativeProcedure/tabid/13503/Default.aspx</a></li>
+<li id="cite_note-7"><a href="#cite_ref-7" title="">↑</a> Unknown author. Web Sites of National Parliaments. <a href="http://www.ipu.org/english/parlweb.htm" class="external free" title="http://www.ipu.org/english/parlweb.htm" rel="nofollow">http://www.ipu.org/english/parlweb.htm</a></li>
+<li id="cite_note-8"><a href="#cite_ref-8" title="">↑</a> Demeter, George (1969). Demeter's Manual of Parliamentary Law and Procedure, p. 5–9.
+</li></ol></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-e97c309eea990183cbfbb0902ba2f4ee">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/169">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">365</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/election" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Election</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial Preference Aggregation</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">The media often covers parliamentary hearings</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Voting by standing vote</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/agenda-formation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Agenda Formation</a></div><div class="field-item odd"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item even"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/3-somewhat-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/4-often-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Often Interdependent with Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/make-public-decisions-ie-exert-direct-authority" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Make public decisions (i.e. exert direct authority)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item even"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item even"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-face</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

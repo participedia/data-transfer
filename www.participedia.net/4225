@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/electronic-participatory-budgeting-iceland" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/4225" />
+  <title>Electronic Participatory Budgeting in Iceland  | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"T1TVo-dWXxVOzHaGz54TmIHm7N0yiT7MOam1fIsCPYg","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"4225"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/electronic-participatory-budgeting-iceland?destination=node\/4225":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4225 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/electronic-participatory-budgeting-iceland" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/electronic-participatory-budgeting-iceland?destination=node/4225" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-v25quibUDITMlP2h129mkWoUD7AFCErO0REWo8mgxEA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Electronic Participatory Budgeting in Iceland </h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Electronic Participatory Budgeting in Iceland </h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/andruzziubc2015" title="View user profile." class="username" xml:lang="" about="/en/people/andruzziubc2015" typeof="sioc:UserAccount" property="foaf:name" datatype="">Alexander Andruzzi</a> on Sat, 05/16/2015 - 20:26</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 02/01/2016 - 18:31</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Electronic Participatory Budgeting in Iceland  - Participedia" addthis:url="http://participedia.net/en/cases/electronic-participatory-budgeting-iceland"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-field-images field-type-image field-label-above"><div class="field-label">Other images:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/images/cases/Screen%20shot%202015-06-27%20at%2011.44.54%20PM_0.png?itok=hDvMMX1l" title="" class="colorbox" rel="gallery-node-4225-qgsLElgs7Hw"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/images/cases/Screen%20shot%202015-06-27%20at%2011.44.54%20PM_0.png?itok=cu_jT56o" width="40" height="40" alt="" title="Demographic Information - Better Reykjavik. Image from Citizens&amp;#039; Foundation" /></a></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This case study was originally done as a requirement for an undergraduate seminar (POLI 420A) at the University of British Columbia in June 2015. Original authors: Alexander Andruzzi, Paddy Cole, Kevin Zhao.</p><h3>Problems and Purpose</h3><p>Following the 2008 financial crisis that devastated the Icelandic economy (see History), mistrust of political officials was rampant throughout the entire country (Bjarnason, 2014). However, with tragedy often comes opportunity. Leading up to the municipal elections of Reykjavik in 2010, Robert Bjarnason and Gunnar Grimsson launched the 'Better Reykjavik' website, which offered running candidates a space to crowdsource ideas in an effort to rebuild the relationship between elected officials and the citizenry. Following the 2010 election, the Better Reykjavik platform was used to stimulate civic engagement in the decision-making process by giving citizens the opportunity to upload ideas and vote (up or down) ideas that were appealing or unappealing. During the month of the election (both preceding and proceeding it), approximately two-thousand ideas were uploaded by roughly forty percent of Reykjavik's population (Bjarnason, 2014). Expanding upon the success of the Better Reykjavik platform, e-participatory budgeting was launched in the form of the Better Neighborhoods website. Better Neighborhoods further involves citizens in the decision-making process by allowing participation in the allocation of funds for projects. The popularity of both the Better Reykjavik and Better Neighborhoods websites as well as the effectiveness in getting popular, citizen-devised projects to come to fruition, shows the success of the websites at improving citizen participation. Additionally, when citizens see if the fruits of their participatory labour (i.e. citizen-driven projects) coming into existence, trust in the political system starts to re-emerge. E-democracy and e-participatory budgeting, in this case, have been successful at overcoming a typical problem in democracy: declining voter turnout, especially among the youth (though it is still low, see Figure 1). In sum, the Better Reykjavik and Better Neighborhoods platforms have begun to successfully tackle the problem of rampant political mistrust by bringing citizens into the political realm.</p><h3><strong>History:</strong></h3><p>The 2008 financial crisis in Iceland, which caused a lot of financial hardship and grief among the Icelanders, significantly reduced the confidence and trust people had in the country’s political and economic system and gave rise to the emergence of new forms of democratic movements that aim to entrust ordinary citizens with the power of governance and deliberation of important public policies. The Better Reykjavik is one of such movements.</p><p>Before the crisis, Iceland underwent a successful economic transformation from a low value industry based on fishing to a high value industry based on finances. Iceland’s economic liberalization and financial deregulation policies boosted the country’s economy and won high praise from scholars and politicians. With low unemployment and strong economic growth, Iceland seemed to be poised to enter into an era of prosperity. However, in September 2008, Iceland fell into a deep economic recession. The collapse of the three major banks generated not only a deep sense of crisis and fear among Icelandic citizens but also a widespread sentiment of frustration and anger toward the dominant political and economic system. The sudden economic collapse captured a lot of global attention. Nobel Prize winning economist Paul Krugman has called Iceland “the poster child for financial excess.”  In January 2009, thousands of citizens gathered in front of the parliament in what was known as the ‘pots-and-pans-revolution’, demanding politicians to step down and culminating in replacing the ruling party with the election of the first social democrat government in Icelandic history. As a response to the crisis and the protests, the Icelandic politicians began to consider the possibility of the inclusion of ordinary citizens in policy-making process. The online crowdsourcing of the new constitution was one of the solutions to involve citizen participation in governance. The two national referendums in 2010 and 2011on foreign debt are “the only known direct democratic votes on sovereign debt resettlement in history” (Johnsson, p6), and in the capital of Reykjavik, we witnessed the birth of the grassroots movement called Better Reykjavik. The case of democratic innovations in Reykjavik in Iceland started with the launch of the participatory online platform Shadow City by two web developers named Gunnar Grimsson and Robert Bjarnason, which later turned into ‘Better Reykjavik.’</p><h3><strong>Originating Entities and Funding: </strong></h3><p>Better Reykjavik was created and initially funded by two private citizens. Eventually, the program was turned into the Icelandic-equivalent of a non-profit organization. Funding ranges from €1,500-€1,600 per month. In 2011, the Better Reykjavik website was formally accepted as a collaborator by the Reykjavik City Council. This formal collaboration sparked the emergence of the Better Neighborhoods website by Robert Bjarnason and Gunnar Grimsson. Better Neighborhoods received a €5.7 million initial investment from the city of Reykjavik (Bjarnason, 2014).</p><h3><strong>Participant Selection: </strong></h3><p>There are no qualifying or disqualifying factors for participants in the Better Reykjavik and Better Neighborhoods projects. The purpose of the Better Reykjavik and Better Neighborhoods projects is to increase citizen participation in political decision-making. As a result, limiting participant selection is contrary to the goals of the projects. Perhaps no better example of the inclusiveness of the Better Reykjavik project can be found than the 9-year-old who proposed the idea of more field trips for her class on the Better Reykjavik website. The idea was upvoted on the website, passed by the City Council and then implemented (see Video 1).</p><p>The success of the Better Reykjavik program can be seen in the age demographics of its participants. There has been a steady increase in participation in all age groups (see Figure 1) and there does not appear to be decrease in participation or enthusiasm since the Best Party has been dissolved. Participants in the 26-35 and 36-45 years of age have the highest representation (approximately 25% for both groups). Interestingly, however, participants in the 16-20 and 21-25 age ranges are actually represented <em>less</em> than participants in the 50-60 and 61+ years of age with less than 8% representation for both of the former groups and between 8 and 15% for the latter groups. Based on this information, it can be inferred that the Better Reykjavik project was meant to encourage the participation of all age groups in the democratic process and was not targeted towards any specific age group (e.g. young people), as was stated in an interview the original authors conducted with Gunnar Grimsson and Robert Bjarnason in May 2015.</p><h3><strong>Deliberation, Decisions, and Public Interaction</strong></h3><p>The lack of political participation in contemporary society is a growing problem, and “politics is too important to be left in the hands of politicians,” (Bjarnason). Better Reykjavik is an attempt to remedy this by using electronic democracy to make citizen participation simpler and more convenient. It gives people the opportunity to propose ideas and deliberate on other proposals. It is set up in a way to encourage debate while making it difficult to argue (Citizens Foundation). By separating points for and against into columns, people are able to see the most popular points of view on the topic. The non-profit group, Citizens Foundation who started Better Reykjavik, stated that the online platform, “allows large groups to speak with one voice and organize ideas.”</p><p>For this process to be effective, it is imperative that political will exists.  According to Robert Bjarnason, “the city council committed itself to review, every month, the 10 ideas which had the most votes on the online platform.” The municipal government also informs the citizens about whether or not the ideas were approved. This gives the citizens the ability to see the tangible results of their participation. Although the final decision is not in the hands of the public, city council understands that the ideas that are brought to them are highly supported by citizens. As of August 2014, roughly 64% of proposals were accepted by Reykjavik city council. Although the political party in power changed in 2014, political will is still present and Better Reykjavik continues to be a successful platform for debate, deliberation and participation.  </p><p>Although there is no clear budget limit for each individual idea, it is difficult to gain support from citizens and especially the city council if the financial requirements are excessive. In an interview with Gunnar Grimson and Robert Bjarnason, they mentioned a proposal to move the Reykjavik Airport. And although this gained support from citizens, it was deemed unrealistic by the city council. This demonstrates that support is important, but feasibility is integral.</p><p>When implementing an online platform for participatory budgeting, security is a major concern. Better Reykjavik is fairly relaxed in that authentication is open and users can log in with their Facebook, Twitter, and email accounts. This integration with social media allows for easier diffusion of ideas as well as drawing attention to Better Reykjavik. However, when it comes time to vote, an electronic ID or a password delivered through citizens’ online bank is required for participation. In addition, advanced security measures are utilized to protect user and website information.</p><h3><strong>Influence Outcomes and Effects</strong></h3><p>In the first 3 years of Better Reykjavik, over 150 citizen ideas were approved by city council. These projects give people the power to improve their own lives in the city. The Better Reykjavik program has developed and now includes Better Neighbourhoods. This allows citizens to register in their neighbourhood, based on their address. It enables people to propose ideas and vote for and against ideas that will improve their lives more directly than Better Reykjavik can. So far, “Better Neighbourhoods has seen over 200 different project ideas come to fruition following an investment totaling EUR 5.7 million from the city” (Bjarnason). Although the budget is rather small, the fact that it gives people the opportunity to participate in the budgeting process is quite valuable.</p><p>Due to the success in Reykjavik, other Icelandic cities have begun to adopt similar forms of electronic democracy. In 2012 Estonia experienced a political scandal that caused a large amount of mistrust in the national government. To remedy this, the President used the Your Priorities platform (the same platform as Better Reykjavik) to crowdsource legal reforms. The 15 ideas that received the most public support were submitted to parliament, and 7 of them have been passed into law. Your Priorities has also been used in Bulgaria, United Kingdom, India, and the USA (Citizens Foundation). Because it relies on a high level of internet penetration in order to be truly representative of the population, electronic democracy will likely continue to grow in developed countries.</p><h3><strong>Analysis</strong></h3><p>Participatory governance has an intrinsic value for human life in a democratic society. Through political participation, the citizens gain a sense of empowerment and fulfillment. The Better Reykjavik project clearly achieves this central goal of participatory democracy by providing an important channel for ordinary citizens to become involved in the political decision-making process.  Through open deliberation and participation, citizens’ voices have been heard and their opinions have been taken into consideration, as in the successful implementation of many citizen-led proposals including increasing the number of school field trips and providing homeless shelters. In the case of school field trip proposal, it is quite remarkable that the idea comes from a nine year old child and that the city council has taken her idea seriously. This goes to show the power of participatory governance and the Reykjavik government’s political will in supporting democratic innovation.</p><p>As a case of democratic innovation, the BR brings real changes to the local political structure. One of its core principles is crowd-sourcing, which is a process of “collaborative knowledge production” based on the collection of input from the public as opposed to from the experts. It has empowered ordinary citizens to engage in deliberations on important public policies and at the same time greatly reduced the influence of elite interests in politics. It marks a significant departure from representative democracy. The BR project shows significant potential in elevating the everyday life of the citizen to a higher level: instead of spending their time on passive consumption and private pleasures, citizens collectively participate in the building of a better community and fulfill their duty for the common good. The medium of the innovation of BR, the internet, is another revolutionary feature that has an intrinsic democratic value. As Grimsson and Bjarnason argue, eparticipation is inherently liberating and transcending since the internet promotes free flow of ideas and transparency whereas traditional print media and broadcast strictly control the information that is disseminated to the public (Grimsson and Bjarnason, p4). Marco Bani also argues that the internet and social media have demolished the traditional boundaries of time and space of political deliberation where physical presence is necessary and public input is slow to materialize (Bani, p2). E-democracy is an extremely valuable tool to engage public interest in participation because it gives those who are disillusioned with traditional forms of participation a new way to express their voices and concerns. Dani talks about the fact that there is an alarming trend of growing political apathy in contemporary democratic societies marked by “a collapse of turnouts in elections, a decline of community life and growing cynicism and distrust of political parties and institutions.” Eparticipation is also more likely to attract people’s interests because it is convenient and can be done at the comfort of their own homes. The leader of Best Party John Gnar remarks, “Instead of spending two hours in some stuffy office down in the city, drinking vending-machine coffee and listening to vacuous anecdotes about some employee’s private life, you can sit comfortably at home, in peace and quiet, at your computer, in your underwear if you feel like it.” (G.&amp;B, p22).</p><p>Despite the unprecedented success and potential of BR in the context of global democratic movement, we think that there are some limitations regarding its internal structure, and its long-term evolution. The BR policy-making process is essentially non-binding since the final decision rests in the hands of city councillors who decide which proposals get passed and implemented. Magnus Jonsson calls this process “advocacy democracy” instead of direct participation since the final decision is left to the discretion of the elites (Johnsson, P8). In the current system of BR, citizens have developed policies to improve the quality of their everyday lives involving school field trips, pedestrian park and homeless shelters; they are largely precluded from taking on greater political and economic matters since those are usually managed by the specialists and experts in contemporary society.</p><p>It is not exactly clear what the project will accomplish in the long term since the organizers do not have a detailed plan of how the BR project will be applied on a national scale and used to further broader reforms. The organizers make it clear that the main objective of the BR project is to empower ordinary citizens while detaching itself from any type of clear political label. The project’s lack of long-term planning speaks to its spontaneity and the fact that it is a bottom-up, autonomous movement. There is a real possibility that the BR project will lose its momentum once the country’s economy improves and people’s enthusiasm for the project dies down. Landemore refers to a fickle public that oscillates in its opinion according to economic conditions as one of the possible reasons why the Icelandic constitutional reform experienced a decline in public support (Landemore, p170). Yet there is still ground for optimism. The organizers have made a wise decision to institutionalize the project from the very beginning, making it less vulnerable to changes in political scene and public opinions. The municipal structures and the relationship between government and the citizens have been fundamentally transformed. The BR project is here to stay. The organizers have created a precious legacy for the future generation to take advantage of and to expand upon.</p><p> </p><h3><strong>Secondary Sources</strong></h3><p>Bani, M. (2012). Crowdsourcing Democracy: the Case of Icelandic Social Constitutionalism. Politics and Policy in the Information Age, Springer. Retrieved from <a href="http://www.academia.edu/1764288/Crowdsourcing_democracy_the_case_of_Icelandic_social_constitutionalism">http://www.academia.edu/1764288/Crowdsourcing_democracy_the_case_of_Icelandic_social_constitutionalism</a></p><p>Bjarnason, R. (2014, July 28). ‘Your Priorities’: An Icelandic Story of e-Democracy. Eutopia Magazine. Retrieved from <a href="http://www.eutopiamagazine.eu/en/r%C3%B3bert-bjarnason/issue/your-priorities-icelandic-story-e-democracy">http://www.eutopiamagazine.eu/en/r%C3%B3bert-bjarnason/issue/your-priorities-icelandic-story-e-democracy</a></p><p>Boyer, D. (2013). Simply the Best: Parody and Sincerity in Iceland. American Ethnologist, Vol.40, No.2. Retrieved from <a href="http://onlinelibrary.wiley.com.ezproxy.library.ubc.ca/doi/10.1111/amet.12020/epdf">http://onlinelibrary.wiley.com.ezproxy.library.ubc.ca/doi/10.1111/amet.12020/epdf</a></p><p>Burgess, S., Keating, C. (2013). Occupy the Social Contract! Participatory Democracy and Iceland's Crowd-Sourced Constitution. New Political Science, 35:3, 417-431.</p><p>Geppert, S. (2000). Civil Society: The Critical History of an Idea by John Ehrenberg. Theory and Society, Vol 29, No. 2. pp. 275-185. Springer. </p><p>Jackman, Mary R. The Velvet Glove: Paternalism and Conflict in Gender, Class, and Race Relations. Berkeley:  University of California Press,  c1994 1994. </p><p>KRISTINN MÁR ÁRSÆLSSON, K. (n.d.). Real democracy in Iceland? Retrieved May 18, 2015, from <a href="https://www.opendemocracy.net/kristinn-m">https://www.opendemocracy.net/kristinn-m</a>ár-ársælsson/real-democracy-in-iceland </p><p>Lackaff, D. (n.d.). Better Reykjavik: Open Municipal Policymaking. Retrieved May 17, 2015, from <a href="http://civicmediaproject.org/works/civic-media-project/better-reykjavik">http://civicmediaproject.org/works/civic-media-project/better-reykjavik</a> </p><p>Landemore, H. (2014) Experimenting with crowdsourcing a constitution: Inclusive constitution-making: The Icelandic Experiment, Journal of Political Philosophy, Vol 23, Issue 2, Pages 166-191, June 2015.</p>Miori, V, &amp; Russo, D. (2011) “Integrating Online and Traditional Involvement in Participatory Budgeting.” Electronic Journal of e-Government Volume 9 (1),  41-57. Retrieved from <a href="http://www.ejeg.com">www.ejeg.com</a><p>Peixoto, T. (2009) Beyond Theory: e-Participatory Budgeting and its Promises for eParticipation. European Journal of ePractice, 7, 1-9. Retrieved from <a href="http://www.epracticejournal.eu">www.epracticejournal.eu</a></p><p>Prpic, J., Shukla, P., (2014). Crowd Capital in Governance Contexts.  Oxford Internet Institute, University of Oxford - IPP 2014 - Crowdsourcing for Politics and Policy. Retrieved from <a href="http://ipp.oii.ox.ac.uk/sites/ipp/files/documents/IPP2014_Prpic.pdf">http://ipp.oii.ox.ac.uk/sites/ipp/files/documents/IPP2014_Prpic.pdf</a></p><p>Sorel, G. Reflection on Violence, edited by Jeremy Jennings. Cambridge University Press.  First published in 1999. </p><h3>External Links</h3><p>Better Reykjavik Project Website (Icelandic): <a href="https://betrireykjavik.is/">https://betrireykjavik.is/</a></p><p>Better Neighbourhoods Webstie (English): <a href="http://www.citizens.is/portfolio/better-neighborhoods-helps-citizens-understand-the-realities-of-budgeting/">http://www.citizens.is/portfolio/better-neighborhoods-helps-citizens-und...</a></p><p>Journal Article: <a href="http://www.academia.edu/1764288/Crowdsourcing_democracy_the_case_of_Icelandic_social_constitutionalism">http://www.academia.edu/1764288/Crowdsourcing_democracy_the_case_of_Icel...</a></p><p>Press/Media:</p><p><a href="http://eutopiamagazine.eu/en/r%C3%B3bert-bjarnason/issue/your-priorities-icelandic-story-e-democracy">http://eutopiamagazine.eu/en/r%C3%B3bert-bjarnason/issue/your-priorities...</a></p><p><a href="http://civicmediaproject.org/works/civic-media-project/better-reykjavik">http://civicmediaproject.org/works/civic-media-project/better-reykjavik</a></p><p><a href="https://www.opendemocracy.net/kristinn-m%C3%A1r-%C3%A1rs%C3%A6lsson/real-democracy-in-iceland">https://www.opendemocracy.net/kristinn-m%C3%A1r-%C3%A1rs%C3%A6lsson/real...</a></p><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/ubc-class-2015" typeof="skos:Concept" property="rdfs:label skos:prefLabel">UBC class 2015</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A100">Science &amp; Technology</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1175">Electronic Participatory Budgeting</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Reykjavik      </span>
+                        <div class="country-name" itemprop="addressCountry">Iceland</div>
+                                            <span class="geo"><abbr class="latitude" title="64.133333">64° 7' 59.9988" N</abbr>, <abbr
+            class="longitude" title="-21.933333">21° 55' 59.9988" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Reykjavik%2C+%2C+%2C+is">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                IS      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A108">Collaborative delivery of services with public authorities</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">12 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div><div class="field-item odd"><a href="/en/methods/online-deliberation">Online deliberation</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Citizens' Foundation ...</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-funding-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Funding:&nbsp;</div><div class="field-items"><div class="field-item even">Municipal government funds the Better Neighborhoods derivative of Better Rekjavik</div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$21 436.68</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-7e989d16d87522132b691d3ad425e50a">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/4225">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/gov2u" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/309" />
+  <title>GOV2U | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"xx-iW8PInDkSlIfB9tyOTGeRYcNQqymJDtn2P02UDic","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/gov2u?destination=node\/309":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-309 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/gov2u" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/gov2u?destination=node/309" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-QKoqRF00FtsInDMM2Gh4xHTWgckbmw0GTxE_ync-ZPE" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">GOV2U</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="GOV2U - Participedia" addthis:url="http://participedia.net/en/organizations/gov2u"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 2 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/amandabnguyen" title="View user profile." class="username" xml:lang="" about="/en/users/amandabnguyen" typeof="sioc:UserAccount" property="foaf:name" datatype="">Amanda Nguyen</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Mission_and_Purpose" id="Mission_and_Purpose"></a><h2> Mission and Purpose </h2>
+<p>GOV2U <a href="http://www.gov2u.org" class="external autonumber" title="http://www.gov2u.org" rel="nofollow">[1]</a> is a non-profit, non-governmental organization that supports political discourse between citizens and elected officials through the use of technology. The organization helps provides opportunities for citizens to actively engage themselves in deliberation with officials to best practice democracy and to improve policy-making procedures. 
+</p><p>Its main focus is to further develop Information Communication Technologies (ICT) tools, which will help promote transparent governance by giving citizens more opportunities to participate. 
+</p>
+
+<p>Gov2U’s main goal is to have a Global Leadership Profile so that it can globally share its innovative tools of bettering governments. Their goal can be achieved by completing these five objectives:	
+</p><p>(1) The organization hopes to promote the use of ICT-tools between Legislative and Elected Bodies to make such parliamentary and legislative procedures more efficient. By doing so, they will be creating this sense of transparency between the citizen’s opinions and the Elected Bodies’ decisions. Thus, it helps the people have a stronger voice in their government. 
+</p><p>(2) By becoming one of the leading organizations, GOV2U feels that it has the necessary tools to make Legislatures more effective and make the democratic process stronger. Democracy is the idea of giving the people the opportunity to voice their opinions to the officials whom they have elected. By using modern technology, as GOV2U suggest and since most are accustomed to the online network, society would be more inclined to participate since it is made readily available to them. At GOV2U, they believe in the unrealized potential of ICT-tools and how its significant value can help increase democratic participation. 
+</p><p>(3) It hopes to educate both citizens and Elected bodies in regards to public information and political issues through ICT-tools because they feel it will increase the accountability between both sides since the data will be readily accessible. 
+</p><p>(4) By using unique and innovative ICT-tools, this organization wishes that this would help instill a sense of motivation to other organizations and governments to advance their current tools. By doing so, new standards will be expected for their projects and thus, will result in new developments to better the organization and its practices in the future years to come. 
+</p><p>(5) Lastly, GOV2U is able to ultimately have the Global Leadership Profile they wish to attain through sharing their knowledge and creativity “to the community of public, academic, civil, and private professionals and citizens through workshops, seminars, and conferences.” This not only helps their public relations images but also establishes them as a credible, strong, and branded source that others would trust because its great presence.
+</p>
+<a name="History" id="History"></a><h2> History </h2>
+<p>In 2005, a group of professionals from the fields of Legislative Information and Communication Technology (ICT) and community activism, including its current Executive Director, Vasilis Koulolias, created a non-profit, non-governmental organization now known as GOV2U to better citizens’ participation in the decision making processes of their governments. Less than three years later, GOV2U became one of the Top 10 most influential players in the realm of politics and the Internet according to PoliticsOnline <a href="http://www.politicsonline.com/" class="external autonumber" title="http://www.politicsonline.com/" rel="nofollow">[2]</a>. Currently, the organization acts as a global consultant, helping governments become more familiar with technological advancements that can modernize the legislative process so that citizens can gain easier access to participate in such democratic procedures. 
+</p>
+
+<p>Awards and Recognition
+</p><p>Within only two years of GOV2U’s existence, the organization was voted as Top 20 Who Are Changing the World of Internet and Politics (2006) and Top 10 Who Are Changing the World of Internet and Politics (2007). These awards acknowledge the organization for integrating the online world and democracy.
+</p><p>With such high recognition, GOV2U is making progress in becoming a globally renown tool for promoting political deliberation through its campaign for greater citizen participation through online use.
+</p>
+<a name="Specializations_and_Activities" id="Specializations_and_Activities"></a><h2> Specializations and Activities </h2>
+<p>GOV2U provides a range of services for various legislatures, specializing in the fields of e-
+Government, e-Democracy and e-Participation, all in which incorporate the use of ICT tools. 
+</p><p>The organization includes four main activities:
+</p><p>1) It finds ways to create, customize, and maintain ICT tools that best fit the government they are working with according to the citizens’ and elected officials’ needs and specific criteria.
+</p><p>2) The organization gathers legislative information through the use of necessary technological tools that it deems useful to the government.
+</p><p>3) GOV2U strives to help the governments they are working (local, regional, or national) with develop their network infrastructure by implementing the following:
+- Using organization and grouping skills
+- Developing regulations and procedures
+- Creating strategies to better implement legislative practices
+- Operations and personnel guidelines
+- Training team members who will actively engage themselves with the ICT applications introduced by GOV2U
+</p><p>Currently, GOV2U is working on its image and branding so that it can become a better-known tool on global scale. Examples in which they have increased their public relations include organizing seminars and promotional events, which showcase their services. They also attend conferences, seminars, and workshops both regionally and internationally to reach a wider scope of potential GOV2U users.
+</p>
+
+<p>
+</p>
+<a name="GOV2U_Projects" id="GOV2U_Projects"></a><h2> GOV2U Projects </h2>
+<p>Currently, GOV2U is participating in the following projects:
+</p><p>QUESTAO PUBLICA <a href="http://www.questaopublica.org.br/" class="external autonumber" title="http://www.questaopublica.org.br/" rel="nofollow">[3]</a> : GOV2U in conjunction with the Centre for Research on Direct democracy of Zurich University and other local organizations in Avina and Ethos work to increase participation in Presidential elections in Brazil.
+</p><p>USPEAK <a href="http://www.gov2u.org/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=72" class="external autonumber" title="http://www.gov2u.org/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=72" rel="nofollow">[4]</a> : This is a program that GOV2U collaborates with the National Democratic Institute to help the advancement of MPs relations in Uganda and other African countries. 
+</p><p>Agios Stefanos <a href="http://www.agstefanos.gr" class="external autonumber" title="http://www.agstefanos.gr" rel="nofollow">[5]</a> : Since 2008, GOV2U has consulted and provided IT service to the Municipality of Agios Stefanos by introducing eParticipation tools to citizens and municipal authorities.
+</p><p>WeGov <a href="http://www.wegov-project.eu/" class="external autonumber" title="http://www.wegov-project.eu/" rel="nofollow">[6]</a> : The WeGov project incorporates social networking sites such as Facebook <a href="http://www.facebook.com" class="external autonumber" title="http://www.facebook.com" rel="nofollow">[7]</a>, Twitter <a href="http://www.twitter.com" class="external autonumber" title="http://www.twitter.com" rel="nofollow">[8]</a>, etc. to encourage dialogue between citizens and policy makers. The key feature of this project that promotes great deliberation is the fact that existing social networking communities already have high  levels of participation and by feeding off of these sites, the potential to reach a larger audience is quite plausible. GOV2U is one out of six organizations that are helping to establish this social networking platform. 
+</p><p>SPOCS <a href="http://www.eu-spocs.eu" class="external autonumber" title="http://www.eu-spocs.eu" rel="nofollow">[9]</a> is a project created by European Commission which hopes to remove administrative restrictions that numerous European businesses deal with before opening their services to other countries abroad. SPOCS goal is to make the transaction between borders easier for all businesses with the help of <strong class="selflink">GOV2U</strong> to help it become more established and well known around all EU Member States. 
+</p><p>Africa4allproject <a href="http://www.africa4all-project.eu" class="external autonumber" title="http://www.africa4all-project.eu" rel="nofollow">[10]</a> : This project will hopefully help engage both Parliament and the general public in their legislative procedures through the use of ICT tools. Its goal is to make such technological advancements and platforms available to all participating African countries.
+</p><p>Stork <a href="http://www.eid-stork.eu/" class="external autonumber" title="http://www.eid-stork.eu/" rel="nofollow">[11]</a> : Stork is an eGovernment identity project cofunded by the EU which aims to create a system for electronic identity (eID) so that businesses will be able to operate their services without any border barriers. GOV2U is leading all necessary activities to help this eGovernment project launch. 
+</p><p>VoiceS <a href="http://www.give-your-voice.eu" class="external autonumber" title="http://www.give-your-voice.eu" rel="nofollow">[12]</a> : VoiceS is platform that is created to help promote dialogue between citizens in European regions and their policy makers to ensure that there is direct communication between the two groups. 
+</p><p><a href="/cdn-cgi/l/email-protection#8bdecbe6eaf9eee5e4f8fff9fee6"><span class="__cf_email__" data-cfemail="d38693beb2a1b6bdbca0a7a1a6be">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> <a href="http://www.uatmarenostrum.eu" class="external autonumber" title="http://www.uatmarenostrum.eu" rel="nofollow">[13]</a> : GOV2U helped build this platform with a web-based Public Participation Geographic Information System that is needed to further engage citizens in discussion regarding the environmental problems related to their surrounding regions. 
+</p><p>Projects that GOV2U has participated in the past include the following:
+VoicE <a href="http://www.give-your-voice.eu" class="external autonumber" title="http://www.give-your-voice.eu" rel="nofollow">[14]</a>, eGovMoNet <a href="http://www.eGovMoNet.eu" class="external autonumber" title="http://www.eGovMoNet.eu" rel="nofollow">[15]</a>, <a href="/cdn-cgi/l/email-protection#4c082921233f0c1b233e27"><span class="__cf_email__" data-cfemail="e7a3828a8894a7b088958c">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> <a href="http://www.demosatwork.org/" class="external autonumber" title="http://www.demosatwork.org/" rel="nofollow">[16]</a>, Ucount4eu <a href="http://www.ucount4eu.eu/index.php?lang=en" class="external autonumber" title="http://www.ucount4eu.eu/index.php?lang=en" rel="nofollow">[17]</a>, Acaparticipacio <a href="http://www.acaparticipacio.cat" class="external autonumber" title="http://www.acaparticipacio.cat" rel="nofollow">[18]</a>, Amposta <a href="http://eparticipa.ciutatdigital.cat" class="external autonumber" title="http://eparticipa.ciutatdigital.cat" rel="nofollow">[19]</a>, DGPC of Aragon <a href="http://aragonparticipa.aragon.es/" class="external autonumber" title="http://aragonparticipa.aragon.es/" rel="nofollow">[20]</a>, GOV2Demoss <a href="http://www.gov2u.org/gov2DemOSS/index.htm" class="external autonumber" title="http://www.gov2u.org/gov2DemOSS/index.htm" rel="nofollow">[21]</a>, eConsensus <a href="http://www.consensus.cat" class="external autonumber" title="http://www.consensus.cat" rel="nofollow">[22]</a>, e-Representative <a href="http://www.erepresentative.org" class="external autonumber" title="http://www.erepresentative.org" rel="nofollow">[23]</a>, Karditsa , Metamorphose <a href="http://ola.lausanne.ch/" class="external autonumber" title="http://ola.lausanne.ch/" rel="nofollow">[24]</a>, Tegea, and Upper Kirby [<a href="http://www.upperkirbydistrict.org]">www.upperkirbydistrict.org]</a>. 
+</p><p>From the lists above, it is evident that GOV2U has participated in numerous, diverse projects that all help engage citizens in active participation with the decision-making processes of their governments. This greatly supports deliberation and contributes to a stronger democratic process because both the represented and elected with actual legislative power are able to contribute their ideas and collaborate to better their government.
+</p>
+<a name="Publications" id="Publications"></a><h2> Publications </h2>
+<p>Since Gov2U has such a user-friendly interface and encourages frequent social interaction with political deliberation, its website is constantly updated with daily publications, event notifications, and press releases. 
+</p><p>As a result, the link to its publications is as listed below:
+</p><p>Gov2u News <a href="http://www.gov2u.org/index.php?view=categoryevents&amp;id=4%3AGov2u+News&amp;option=com_eventlist&amp;Itemid=57" class="external autonumber" title="http://www.gov2u.org/index.php?view=categoryevents&amp;id=4%3AGov2u+News&amp;option=com_eventlist&amp;Itemid=57" rel="nofollow">[25]</a>
+Gov2u Events <a href="http://www.gov2u.org/index.php?view=categoryevents&amp;id=6%3AGov2u+Events&amp;option=com_eventlist&amp;Itemid=57" class="external autonumber" title="http://www.gov2u.org/index.php?view=categoryevents&amp;id=6%3AGov2u+Events&amp;option=com_eventlist&amp;Itemid=57" rel="nofollow">[26]</a>
+</p><p>Both links show when Gov2U will attend specific global conferences, workshops, and seminars. As well, it features upcoming projects that the organization will be working on as well as information regarding the cofunding sponsor of that project.
+</p>
+<a name="Secondary_Sources" id="Secondary_Sources"></a><h2> Secondary Sources </h2>
+<p>(eGovernment &amp; CIP Operations Newsletter June 2007) 
+<a href="http://ec.europa.eu/information_society/activities/egovernment/newsletter/newsletter_may_june_2008.htm" class="external free" title="http://ec.europa.eu/information_society/activities/egovernment/newsletter/newsletter_may_june_2008.htm" rel="nofollow">http://ec.europa.eu/information_society/activities/egovernment/newsletter/newsletter_may_june_2008.htm</a>
+</p><p>(Interview with Vasilis Koulolias, Executive Director of Gov2u)
+<a href="http://www.egovblog.com/2007/03/21/interview-with-vasilis-koulolias-executive-director-of-gov2u/" class="external free" title="http://www.egovblog.com/2007/03/21/interview-with-vasilis-koulolias-executive-director-of-gov2u/" rel="nofollow">http://www.egovblog.com/2007/03/21/interview-with-vasilis-koulolias-executive-director-of-gov2u/</a>
+</p><p>(ICT for Governing and Policy Modeling)
+<a href="http://ec.europa.eu/information_society/activities/egovernment/research/fp7/fp7_workshop/documents/constituency_building_workshop_report.pdf" class="external free" title="http://ec.europa.eu/information_society/activities/egovernment/research/fp7/fp7_workshop/documents/constituency_building_workshop_report.pdf" rel="nofollow">http://ec.europa.eu/information_society/activities/egovernment/research/fp7/fp7_workshop/documents/constituency_building_workshop_report.pdf</a>
+</p><p>(Bringing social and technological innovation to the work of national, regional and local elected representatives: The eRepresentative Project)
+<a href="http://itc.napier.ac.uk/itc/Documents/Krems_eRep08.pdf" class="external free" title="http://itc.napier.ac.uk/itc/Documents/Krems_eRep08.pdf" rel="nofollow">http://itc.napier.ac.uk/itc/Documents/Krems_eRep08.pdf</a>
+</p>
+<a name="External_Links" id="External_Links"></a><h2> External Links </h2>
+<p>Below are links that are great resources to provide further information regarding GOV2U. 
+</p><p><a href="http://www.gov2u.org/" class="external free" title="http://www.gov2u.org/" rel="nofollow">http://www.gov2u.org/</a>
+<a href="http://www.opengov2010.be/" class="external free" title="http://www.opengov2010.be/" rel="nofollow">http://www.opengov2010.be/</a>
+<a href="http://www.youtube.com/user/Government2U" class="external free" title="http://www.youtube.com/user/Government2U" rel="nofollow">http://www.youtube.com/user/Government2U</a>
+</p>
+<a name="Evaluation_of_Gov2u" id="Evaluation_of_Gov2u"></a><h2> Evaluation of Gov2u </h2>
+<p>Gov2u is an opportunity for citizens to actively engage themselves in political deliberation because it aims to help bridge the gap between the common people and those who are elected. Through using ICT tools that most are already familiar with, Gov2u is simply making these opportunities more readily available. With such programs that promote technologically integrated campaigns, citizens will be more inclined to participate, thus making legislative procedures more democratic. Eventually with such advancements, educating others on specific policies, presidential candidates for elections, and other important political procedures will be much easier. As a result, more and more participants will become involved in such deliberative processes resulting in a better democracy.
+</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Athens      </span>
+                        <div class="country-name" itemprop="addressCountry">Greece</div>
+                                            <span class="geo"><abbr class="latitude" title="38.048812">38° 2' 55.7232" N</abbr>, <abbr
+            class="longitude" title="23.803444">23° 48' 12.3984" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=Athens%2C+gr">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                GR      </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Vasilis Koulolias</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">5</div></div></div><div class="field field-name-field-volunteer-count field-type-text field-label-above"><div class="field-label">Volunteer Count:&nbsp;</div><div class="field-items"><div class="field-item even">25</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div><div class="field-item odd"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>

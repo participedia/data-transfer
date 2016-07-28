@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/new-hampshire-public-conversations-school-redesign-and-student-centered-learning-pittsfield" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/736" />
+  <title>New Hampshire Public Conversations on School Redesign and Student-centered Learning: Pittsfield, NH | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"FX91hmPMU2DwNsrL3BzSXPLoOnDY6lRSjFp2BVSR4qU","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/new-hampshire-public-conversations-school-redesign-and-student-centered-learning-pittsfield?destination=node\/736":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-736 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/new-hampshire-public-conversations-school-redesign-and-student-centered-learning-pittsfield" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/new-hampshire-public-conversations-school-redesign-and-student-centered-learning-pittsfield?destination=node/736" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-aud3VGWGOyYWHCk9yHt0xJ62QTrrYS35CC_9OQTCnI8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">New Hampshire Public Conversations on School Redesign and Student-centered Learning: Pittsfield, NH</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="New Hampshire Public Conversations on School Redesign and Student-centered Learning: Pittsfield, NH - Participedia" addthis:url="http://participedia.net/en/methods/new-hampshire-public-conversations-school-redesign-and-student-centered-learning-pittsfield"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 5 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/toni-lozzi" title="View user profile." class="username" xml:lang="" about="/en/people/toni-lozzi" typeof="sioc:UserAccount" property="foaf:name" datatype="">Toni Lynn Lozzi</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><u>Definition</u></h3><p>The Pittsfield School  District discovered they needed to re-vamp their school systems. With a grant from the Nellie Mae Education Foundation they started research into how they could transform their schools. The main focus was designing a community conversation to help uncover teh underlying issues and develop possible solutions. This is the beginning of what plans to be a long-term plan of change.</p><h3><u>Problems and Purpose</u></h3><p><strong>The Pittsfield New Hampshire School District recognized that their schools, most particularly the Middle School, needed to tranforms to a student-centered learning environment that would motivate their students. They also were focused on bringing up graduation rates, college-attendance rates,</strong></p><h3><u>History</u></h3><p><strong>In December of 2010, the Pittsfield School District received a one-year planning grant from the Nellie Mae Education Foundation to support the transformation of their middle -high school from a traditional school to a student-centered learning environment. Pittsfield is the only community in New Hampshire to receive one of these highly competitive grants.</strong></p><p> </p><p><strong>Since the grant was awarded, the Community Advisory Council - which includes many community members and community educators who have volunteered - began developing a multi-year plan for this transformation. The Council researched effective educational practices and visited successful, innovative schools to learn how to better serve the students and  the community.</strong></p><p> </p><p><strong>An important component of the planning process was to involve as many Pittsfield residents as possible in assessing the current state of the schools and creating concrete recommendations for improvement over the next several years. To meet this goal, the School District decided to work with the Pittsfield Youth Workshop to design a process for engaging town residents in focused conversations about the schools and community. The PYW then partnered with NH Listens (part of the Carsey Institute at the University of New Hampshire) to help support these community-wide small group dialogues. The first rounds of those community conversations occurred in August and September, 2011. </strong></p><p> </p><p><strong><strong>To begin the project, the organizations brought together a small planning group in July to help frame the key questions to be addressed and identify some of the primary issues that were likely to come up in the conversations. This group included the staff and board leadership of PYW, members of the Community Advisory Council, school employees, parents, and community leaders. The group discussed perceptions of the community and its schools, past efforts at school improvement, and ways to strengthen the school and community in the future. In order to capture the importance of the relationship between Pittsfield and its schools, the group decided that the most appropriate framing for the small group dialogues that would be taking place in August should be: <em>Strong Schools—Strong Community; How can all of us make Pittsfield a great</em> <em>place for everyone to learn and live?</em></strong></strong></p><p> </p><p><strong><strong>The planning group also discussed the most effective way to engage as many people as possible in the community conversations, including ways to recruit residents who often don’t participate in public forums or school-related events. In order to provide input to the schools in time to be included in the next major funding proposal to the Nellie Mae Foundation, it was decided that a three-week series of small group facilitated dialogues beginning in early August would be the most effective approach.</strong></strong></p><p> </p><p> </p><p> </p><h3><u>Participant Selection</u></h3><p><strong>PYW and the planning group recruited facilitators and participants, using a variety of strategies. </strong></p><ul><li><strong>High school students worked with PYW to design fliers to promote the community conversations and attended Pittsfield Old Home Day and National Night Out to distribute the fliers and encourage residents to sign up for the conversations. </strong></li><li><strong>PYW reached out to particular groups in the community to encourage participation, including senior citizens, current high school students and recent graduates, parents who have participated in PYW programs in the past, homeschool parents, community leaders and community members who are not generally involved in the school. </strong></li><li><strong>Phone calls were made to individual residents, announcements and articles were published in the <em>Suncook Valley Sun</em>, and notices were posted on the PYW and Pittsfield School District web site.</strong></li></ul><p> </p><p><strong>These efforts resulted in registration of over 60 participants, representing a diverse range of ages, occupations, length of residency in Pittsfield, and experience with the schools (some had children in the schools and some did not). However, between the time of recruitment and the beginning of the conversations more people did show interest in participating. In total 113 residents participated in the conversation.</strong></p><p> </p><p> </p><h3>Deliberation, Decisions, and Public Interaction</h3><p><strong>The community conversations began on July 28, 2011 at the Pittsfield Fire Station. About 30 of those oringically planning to participate attended, as well as a number of residents who had not signed up. The kick-off was also attended by the School Board and school leadership as well as representatives of the Annenberg Institute for School Reform. A total of about 50 residents participated in the kick-off. A combination of whole group and small group exercises were used to answer a set of four questions, listed below with the most common themes reported under each one. The starred (*) words were used the most often.</strong></p><p><strong><strong><em> </em></strong><em>What words would I use to describe Pittsfield schools today?</em></strong></p><ul><li><p><strong><em>small**</em></strong></p></li><li><p><strong><em>limited**</em></strong></p></li><li><p><strong><em>caring</em></strong></p></li><li><p><strong><em>improving</em></strong></p></li><li><p><strong><em>changing**</em></strong></p></li><li><p><strong><em>supportive</em></strong></p></li><li><p><strong><em>needs improvement</em></strong></p></li><li><p><strong><em>dedicated**</em></strong></p></li><li><p><strong><em>lack of communication between parents and teachers</em></strong></p></li></ul><p><strong> </strong></p><p><strong> </strong></p><p><strong><strong><em>What words would I use to describe the Pittsfield community today?</em></strong></strong></p><ul><li><p><strong><strong><em>supportive**</em></strong></strong></p></li><li><p><strong><strong><em>friendly</em></strong></strong></p></li><li><p><strong><strong><em>small**</em></strong></strong></p></li><li><p><strong><strong><em>close</em></strong></strong></p></li><li><p><strong><strong><em>active</em></strong></strong></p></li><li><p><strong><strong><em>caring**</em></strong></strong></p></li><li><p><strong>taxed</strong></p></li><li><p><strong>struggling**</strong></p></li><li><p><strong>poor**</strong></p></li><li><p><strong>shrinking</strong></p></li><li><p><strong>dedicated</strong></p></li></ul><p> </p><p><strong><strong><em>What words would I want to use to describe Pittsfield schools in five years?</em></strong></strong></p><ul><li><p><strong>successful</strong></p></li><li><p><strong>teachers stay</strong></p></li><li><p><strong>achieving**</strong></p></li><li><p><strong>proud**</strong></p></li><li><p><strong>student-centered**</strong></p></li><li><p><strong>thriving</strong></p></li><li><p><strong>innovative</strong></p></li><li><p><strong>individualized</strong></p></li><li><p><strong>communicative</strong></p></li><li><p><strong>model for other schools</strong></p></li><li><p><strong>100% of graduates all knowing their next steps</strong></p></li></ul><p><strong> </strong></p><p> </p><p><strong><strong><em>What words would I want to use to describe the Pittsfield community in five years?</em></strong></strong></p><ul><li><p><strong><em>united</em></strong></p></li><li><p><strong><strong><em>positive**</em></strong></strong></p></li><li><p><strong><strong><em>clean**</em></strong></strong></p></li><li><p><strong><strong><em>home</em></strong></strong></p></li><li><p><strong><strong><em>growing**</em></strong></strong></p></li><li><p><strong><strong><em>clost knit</em></strong></strong></p></li><li><p><strong><strong><em>lively</em></strong></strong></p></li><li><p><strong><strong><em>safe</em></strong></strong></p></li><li><p><strong><strong><em>proud**</em></strong></strong></p></li><li><p><strong><strong><em>connected</em></strong></strong></p></li><li><p><strong><em>active**</em></strong></p></li><li><p><strong><strong><em>welcoming</em></strong></strong></p></li><li><p><strong><strong><em>strong</em></strong></strong></p></li><li><p><strong><strong><em>friendly**</em></strong></strong></p></li></ul><p> </p><p><strong><strong>Overall, the themes that emerged from the Kick-Off focused on the size and demographic characteristics of the schools and community now (small, struggling, poor, changing), the community’s sense of itself and its schools now (supportive, dedicated, caring), and its aspirations for the future of the schools and community (proud, achieving, student centered, active, positive, clean, friendly).</strong></strong></p><p><strong><strong>Once these issues were uncovered, the conversation topics were able to be decided and the conversations could begin.</strong></strong></p><p><strong><strong><strong>Five facilitated groups of 8-12 people met over a period of three weeks for two hours each week to address the framing questions. In addition, four separate focus groups were held - one group of Senior Citizens at the Senior Center, two separate groups of current middle and high school students and recent graduates, and another group with teachers and school staff. A total of 113 community members participated in these conversations.</strong></strong></strong></p><p><strong><strong><strong>There were various topics discussed which are listed and detailed below&gt;</strong></strong></strong></p><p><strong><strong><strong>*Communication</strong></strong></strong></p><ul><li><strong><strong><strong>between parents and teachers</strong></strong></strong></li><li><strong><strong><strong>between the schools leadership and the community</strong></strong></strong></li><li><strong><strong>within the schools<strong><strong>uusing me </strong></strong></strong></strong></li><li><strong><strong><strong><strong>using the media outlets to benefit the schools</strong></strong></strong></strong></li></ul><p><strong><strong>*Involvement of the community and parents in school matters.</strong></strong></p><p><strong><strong><strong>*Setting high expectatios for student achievement.</strong></strong></strong></p><p><strong><strong>*Expand the curriculum</strong></strong></p><ul><li><strong><strong>broader use of technology by teachers and in the classrooms</strong></strong></li><li><strong><strong>a higher number of electives offered in the Arts and AP courses</strong></strong></li></ul><p><strong><strong>*School and community pride</strong></strong></p><p><strong><strong>*Clear guidelines for acceptable behavior and strict discipline.</strong></strong></p><p><strong><strong>*T<strong>ransitions of students at grades K-1, 6-7, 8-9, and at graduation </strong></strong></strong></p><p><strong><strong><strong>*The morale of administrators, teachers, students, and parents</strong></strong></strong></p><p> </p><p><strong><strong><strong>The discussion structure was very informal. It was merely an open discussion for all those who wanted to participate. They were organized into groups and given topics to discuss (from the ones listed about). They met various times over a period of 3 weeks to discuss these issues and come up with solutions for the school and the community.</strong></strong></strong></p><p> </p><p><strong><strong><strong><strong><u>GROUP ONE</u></strong><strong>:</strong></strong></strong></strong></p><p><strong><strong><strong><strong>1. Communication </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Use multiple forms of communication between the school and community, including newspapers, newsletters from the school, community bulletin boards, a teacher web page, automated e-mail and phone communications, Facebook, Power School, etc</strong></strong></strong></strong></li><li><strong><strong><strong><strong>Conduct a survey of residents to determine the most effective, preferred forms of communication </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Collaboration/communication </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Create a task force to address collaboration and communication shortcomings and make suggestions for improvement </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Increase partnerships with community organizations, including through the use of school venues for community partners</strong></strong></strong></strong></li><li><strong><strong><strong><strong>Increase opportunities for vocational training through partnerships</strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>3. Accountability </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Expand the learning contract to include behavior and learning </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Respond within 24-48 hours to communications (both parents and schools) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Rethink tenure policies and increase evaluations of both teachers and students </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>4. Student-Centered Learning</strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Offer more flexible scheduling </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Seek flexible learning through “reverse ELO” and use of the “Seven Intelligences” model </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Revisit graduation requirements to include life skills and job skills </strong></strong></strong></strong></li></ul><p> </p><p> </p><p><strong><strong><strong><strong><u>GROUP TWO</u></strong><strong>:</strong></strong></strong></strong></p><p> </p><p><strong><strong><strong><strong>1. Communication and teacher-parent involvement </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>The school district will be proactive in communicating useful, effective, and sufficient information to the community in a timely manner. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Pride in School and Community </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Pittsfield will be a town where the students and the community are proud to belong and call their home. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>3. Discipline and Clear Expectations </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Develop a fair discipline system that will be applied in a consistent manner and include age appropriate expectations and consequences – while maintaining the safety of the students. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>4. Transitions </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Pittsfield students will be better prepared for all transitions throughout their academic career (K-1; 6-7; 8-9; 12-post HS). </strong></strong></strong></strong></li></ul><p> </p><p> </p><p><strong><strong><strong><strong><u>GROUP THREE</u></strong><strong>:</strong></strong></strong></strong></p><p> </p><p><strong><strong><strong><strong>1. Improve the morale of administrators, teachers, students and parents involved in our schools. </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Make the student the center of the school system. Parents, teachers, guidance counselors, the school board and administrators should all be focused on seeing our students excel and achieve their goals. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Increase the expectations for excellence in our schools. </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Give each child a strong foundation (reading, grammar, spelling, math, science, American history and government) at the elementary level and build on and reinforce that foundation at the secondary level, apart from the standardized testing requirements. Create requirements in the student's personal learning plan </strong><strong>at the secondary level to define the relevance and context of the foundational subjects to their own futures.</strong></strong></strong></strong></li></ul><p><strong><strong><strong> </strong></strong></strong></p><p><strong><strong><strong><strong>3. Improve the transition from K-6 to7-12 and 7-12 to College/University/Career. Create continuity of curriculum and administration by emphasizing one school district, one school and one principal. </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Change the guidance process so it starts earlier and get the parents involved in the process. Provide ways for the students to explore career and college opportunities in the middle school. </strong></strong></strong></strong></li></ul><p> </p><p><strong><strong><strong><strong>4. Get the community involved in the schools and the town. </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong> Create opportunities for community members to voice opinions and concerns and brainstorm ideas and action steps. Community members should be able to see reports and results of their efforts. </strong></strong></strong></strong></li></ul><p> </p><p> </p><p><strong><strong><strong><strong><u>GROUP FOUR</u></strong><strong>:</strong></strong></strong></strong></p><p> </p><p><strong><strong><strong><strong>1. Communication : Internal</strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Improved communication between the front office and other parts of the school. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Have a consultant come in and look at where the gaps are in communication within the school and help to improve this. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Communication : External </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Improved communication between the front office and the community, and the front office and parents. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Improved communication between the school and divorced parents (communication to both parents, not just custodial parent). </strong></strong></strong></strong></li><li><strong><strong><strong><strong>A “volunteer coordinator” position to coordinate parents and other community members to help with school events. This volunteer coordinator could also help to place students in community jobs or volunteering opportunities. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Hold an after school activities fair so that students can see all of the opportunities available in the school and the community. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>3. Digital Communication </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Improved website to help with communication between the school and parents/the community. Appoint a team leader or teacher for each grade level to frequently update information for the team/grade on the website. Post a syllabus when assignments are due for each class and when any important events are coming up either for the classes, the grade level, after school activities or the school in general. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Send out important messages about school events on an email list and via text message and/or as a recorded message that goes automatically to voicemail. Include homeschooled students on these lists as well. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>A recorded line with important information for people who don’t have cell phones or answering machines. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>4. Paper Communication </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>A weekly bulletin home for parents at all grade levels. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>For people who do not have internet or cell phone access, use assigned “pick up points” like the public library or post office for bulletins and other literature that parents need to get about the schools. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>5. Curriculum </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>More courses offered to students, including more foreign language opportunities and music/arts opportunities. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More advanced courses and more challenging opportunities for accelerated students. Expand online opportunities for students, and create a cooperative exchange between Pittsfield and other schools (we share courses). </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More talk about college, trade school, or other careers earlier on – like middle or even elementary school. </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>6. Community/Parent Involvement </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Adult mentors who are available to support students. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Parent resource center expanded. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Graduates of Pittsfield come into the schools for career days or other events to talk to and mentor younger Pittsfield students. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Job fair or career fair for 9th graders or early on in school. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>A business showcase day at the school that emphasizes careers and career training. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Reach out to alumni associations, senior center. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Scholarship opportunities to get students involved in community service </strong></strong></strong></strong></li></ul><p> </p><p> </p><p><strong><strong><strong><strong><u>GROUP FIVE</u></strong><strong>:</strong></strong></strong></strong></p><p><strong><strong><strong><strong>1. Magnet Schools : A school which attracts students, teachers, administrators, families, businesses to the community.</strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>High graduation rate </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Exceeds NECAP Test scores </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Attracts and retains quality educators </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Students follow through post-graduation plan that is tracked </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Offer and attract homeschooler friendly programs</strong></strong></strong></strong></li><li><strong><strong><strong><strong>State of the art technological infrastructure </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Curriculum committee and administrators collaborate to implement and monitor proven and effective teaching methods and held accountable </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Every child has and feels they have an equal opportunity to succeed. </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Incredible teachers – affirming </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Supportive parents and community </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Teachers are trained, supported , encouraged and monitored (observed) to bring out the best in there students </strong></strong></strong></strong></li><li><strong><strong><strong><strong>School and community pride </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Students feel like valued community members </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Each student should have their basic needs met </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Uniforms (yes or no) </strong></strong></strong></strong></li></ul><p> </p><p><strong><strong><strong><strong>3. Communication = Promotes positive aspects of school </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Improved email and print communication </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Various forms of communication (text, phone, email, paper) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Keep it simple and informative </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Better internal communication </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Accountability (teachers, students, parents) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Teachers, parents and administrators communicate positive as well as negative </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Positive testimonial about teachers </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>4. Technology = Incorporating technology that enhances the learning experience. </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Satellite campus </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Electronic grade book and attendance (use PowerSchool to full capability) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More training for parents about PowerSchool benefits </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Tech Specialist that can work with educators in meeting student needs </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Use technology to monitor post graduate progress and all kinds of measurable things. </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More training for teachers, parents, administrators bout technology </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Model technology after successful schools. Implement and monitor </strong></strong></strong></strong></li></ul><p> </p><p><strong><strong><strong><strong><u>SENIOR CITIZEN FOCUS GROUP</u></strong><strong>:</strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Parents and teachers should agree on discipline practices </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Teach self-esteem to students </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Teachers should know their students better </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Exercise teacher authority and discipline </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Fewer, lower school taxes </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More accountability in school board and administration </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More options and electives in classes </strong></strong></strong></strong></li></ul><p> </p><p> </p><p><strong><strong><strong><strong><u>MIDDLE AND HIGH SCHOOL STUDENTS</u></strong><strong>:</strong></strong></strong></strong></p><p><strong><strong><strong><strong>1. Opportunities </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>More electives – more than just core </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Wide range of courses in building (AP/College Prep) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Extracurricular clubs and activities </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Learning outside the classroom </strong></strong></strong></strong></li><li><strong><strong><strong><strong>School to work: ELO, Job skills, life skills </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Resources: </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>New computers (updated) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Better access to wireless internet </strong></strong></strong></strong></li><li><strong><strong><strong><strong>New and updated books </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Use the technology that’s available better (ex: Smart Boards) </strong></strong></strong></strong></li><li><strong><strong><strong><strong>More supplies &amp; basics available (access if a student needs) </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>3. Teachers </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Better communication with families </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Stay longer – stop them from burning out </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Passion for teaching – loves students and subject they teach </strong></strong></strong></strong></li><li><strong><strong><strong><strong>One-One </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Willingness to go beyond school day </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Fairness and Equality </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Varied teaching styles</strong></strong></strong></strong></li><li><strong><strong><strong><strong>Small class sizes </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Creative teaching – not just from the book (activities, projects, etc.) </strong></strong></strong></strong></li></ul><p> </p><p> </p><p><strong><strong><strong><strong><u>RECENT GRADUATES</u></strong><strong>:</strong></strong></strong></strong></p><p> </p><p><strong><strong><strong><strong>1. Transition/Change </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Student voice – input must be heard, students must be engaged to make change </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Quick changes made by other people cause confusion and disengagement </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Communication – a weekly, monthly, quarterly newsletter </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Involve everyone in the decision making </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>2. Teachers </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Teachers should be encouraging and pushing students to plan for the future </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Consistent support </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Passionate about what they do and teach </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Personable – 1-1 connections with students </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Take the time to build relationships with students </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Build teamwork in the classroom and school \</strong></strong></strong></strong></li><li><strong><strong><strong><strong>Create open and safe environments </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Role models </strong></strong></strong></strong></li></ul><p><strong><strong><strong><strong>3. Community </strong></strong></strong></strong></p><ul><li><strong><strong><strong><strong>Strong pride and spirit </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Communication – what’s going on in the school and community </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Learning outside of class </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Collaboration with school and community </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Community supporting school – come to games, events, meetings </strong></strong></strong></strong></li><li><strong><strong><strong><strong>Active participation</strong></strong></strong></strong></li></ul><p> </p><p> </p><p>Each group reported their own findings (as written above) to the other groups. Then all of the groups came together for a final Action Forum to determined the key findings and recommendations of all the groups. This occured on August 25, 2011 at the Pittsfield Community Center. The group decided on the main points as listed below.</p><p><strong>1. Stronger communication </strong></p><ul><li><strong>In multiple forms, including Power School, newsletters, and websites</strong></li><li><strong>W</strong><strong>ithin the school and between the school and community </strong></li><li><strong>Enhanced by surveys to elicit opinions and determine the most effective communication mechanisms </strong></li><li><strong>To include educational and service opportunities, current events in the school and community </strong></li></ul><p><strong>2. Enhanced curriculum </strong></p><ul><li><strong>Recognize a range of learning styles </strong></li><li><strong>Student-centered, enriched curriculum with more electives </strong></li><li><strong>Clear syllabi, signed by teachers and parents, to include assignments, transition plans, expectations for performance and behavior </strong></li></ul><p><strong>3. Improved school organization </strong></p><ul><li><strong>Aspire to become a magnet school </strong></li><li><strong>Assure that the best teachers stay in the district </strong></li><li><strong>Improve the transition process at all levels </strong></li></ul><p><strong>4. Stronger community </strong></p><ul><li><strong>Build pride through more volunteerism </strong></li><li><strong>Strengthen school/business ties through ELO and other means </strong></li><li><strong>Include homeschoolers as part of the educational and larger community </strong></li></ul><p> </p><p><strong>These recommendations were given in report form to the Pittsfield schools, the community and the Nellie Mae Education Foundation. The report was focused for the Nellie Mae Foundation, in hopes that they would fund the transformation plan over a six-year period to help the community and schools create a student-centered learning environment for Pittsfield students.</strong></p><p> </p><p><strong>This is the statement by PWY and NL Listens representative, as written in the full report presented to the Nellie Mae Foundation...</strong></p><p> </p><p><strong><em><strong>"Pittsfield is a strong community with a substantial core of dedicated, caring residents, many of whom have lived there most of their lives. There is a shared sense of duty to the community and its schools, expressed as a shared desire to see the schools improve such that more students graduate with high aspirations for continued education and career success. In order to achieve this goal, much more attention needs to be placed on innovative, creative, frequent forms of communication within the school and between the school and community. The schools need to be perceived as responsive to the community and the parents whose children attend them. Likewise, the community must be supportive of its schools through partnerships, involvement in school activities, and investment in new initiatives such as a magnet school. An ultimate goal of school improvement should be to create a strong sense of pride across all members of the community, whether they are long-time residents or newcomers who have moved here recently, affluent or not, young or old.</strong></em></strong></p><p> </p><p><strong><em><strong>With respect to the schools, there is consensus that a student-centered curriculum that exposes students to a wider range of subject matter (including the arts) and that recognizes individual learning differences is critical. Expectations for appropriate behavior must be clear and enforced. Students and parents want close, positive relationships with teachers and administrators. More experiential learning, both within the schools and in the community, is seen as desirable. Accountability on all sides is seen as a crucial ingredient of school and community strength. The transition into school, from one school to another, and at the time of graduation is a particularly important point requiring careful attention and effective processes.</strong></em></strong></p><p> </p><p><strong><em><strong>The success of the community conversations supported by PYW creates confidence that these aspirations can be attained. There was significant support for the creation of Pittsfield Listens as an on-going resource within the community to foster dialogue on challenging issues, whether related to the schools or the wider community. This will strengthen the community even further, and serve as an important source of the pride that everyone aspires to."</strong></em></strong></p><p> </p><p> </p><p> </p><p> </p><h3>Influence, Outcomes, and Effects</h3><p>The report was given to the Nellie Mae Foundation in October of 2011. By February of 2012 the NMF and announced they would award the Pittsfield School District with a 3-year $2 Million grant in support of the transformation to student-centered learning process. The NMF also awarded the Pittsfield Youth Workshop $130,000 for their leadership in the community.</p><p> </p><p> </p><h3>Analysis and Criticism</h3><p>The Pittsfield community, the Department of Eduation of New Hampshire, and the NMF have all given high regards to the community conversations and the dedication to student achievement. Clearly the method was successful because the school was granted the grant to transform and develop their schools.</p><p> </p><h3>Secondary Sources</h3><p>Summary Report 2011 by NH Listens</p><p><a href="http://www.education.nh.gov/news/pittsfield.htm">http://www.education.nh.gov/news/pittsfield.htm</a></p><h3>External Links</h3><p>Youtube video of the method: "Pittsfield School District"</p><p><a href="http://www.youtube.com/watch?v=LCQjwkBYdhI&amp;feature=player_embedded">http://www.youtube.com/watch?v=LCQjwkBYdhI&amp;feature=player_embedded</a>#!</p><p> </p><h3>Notes</h3><p> </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-8ed9aea10a44c890788fbe4a90ac776b">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/736">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

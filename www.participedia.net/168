@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/national-issues-forum" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/168" />
+  <title>National Issues Forum | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"gXaOxHE0qfU_VXXYZUk5lN1mwpt5KZIiuStjRljzPt0","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/national-issues-forum?destination=node\/168":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-168 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/national-issues-forum" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/national-issues-forum?destination=node/168" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-l1ySWWQbJ2XwqnBeTvVF1jm3fE8eTfC2fdNfAGY3sdA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">National Issues Forum</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="National Issues Forum - Participedia" addthis:url="http://participedia.net/en/methods/national-issues-forum"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 4 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/haydenemills" title="View user profile." class="username" xml:lang="" about="/en/users/haydenemills" typeof="sioc:UserAccount" property="foaf:name" datatype="">Hayden Mills</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Definition" name="Definition"></a></p><h1>Definition</h1><p>The National Issues Forum (NIF) is a nationwide network of locally created public forums oriented towards the deliberation of public and political issues. It is a non-partisan network of smaller forums created nationwide whose goal is to gather people to reason with each other, deliberate and make public decisions together. Participants gather to discuss political issues and matters of public importance. They converse, deliberate, generate solutions to issues, and work together to select the best solution to the problem. NIF supports a healthy democracy by means of encouraging deliberation and interaction between individuals. Forums take place throughout the year and are sponsored by individuals, groups, or organizations which gather together participants. They deliberate on issues big and small such as health care, crime, and obesity. The size of meetings range from smaller in-home meetings to larger town hall meeting style forums. Anyone is able to participate in a forum by finding local meetings scheduled to take place using the calendar provided on the National Issues Forum website. The calendar lists dates, times, contacts, and issues that will be discussed. One may also plan a forum in their own community by contacting a trained moderator to facilitate the meeting. <a class="external autonumber" href="http://nifi.org/forums/about.aspx" rel="nofollow" title="http://nifi.org/forums/about.aspx">[1]</a></p><p><a id="History" name="History"></a></p><h1>History</h1><p>The National Issues Forum started nearly thirty years ago in the summer of 1981. A group of twenty- five leaders held meetings and discussions, back when it was known as the Domestic Policy Association. The group originated after two years of discussions at the Wingspread Conference Center in Wisconsin. Their primary goal was to create a method to encourage citizens to have more involvement and engage in the public policy process. The main agenda was to hold annual dialogues involving domestic policy issues and provide an opportunity for a variety of views and solutions to be openly discussed. For their second meeting, they gathered community based leaders to create a new program which was different and separate from anything that existed at the time. At the third meeting, they developed a list of topics that “had a daily impact on a broad spectrum of the population, would engage public attention and discussion without overwhelming negative emotionalism, and involved both value judgments and technical considerations” (NIF website). They later changed their name from Domestic Policy Association to the National Forum’s Institute in 1989. Each year the National Forum contributes by selecting three topics for the deliberations that occur within the National Issues Forum. The three issues selected for the inaugural year of the National Issues Forum were: retirement and social security, inflation, and job and productivity (NIF). Currently the National Issues Forum facilitates and contributes to deliberation by establishing topics of relevance and public interest on a regular basis. <a class="external autonumber" href="http://nifi.org/about/history.aspx" rel="nofollow" title="http://nifi.org/about/history.aspx">[2]</a></p><p><a id="Process" name="Process"></a></p><h1>Process</h1><p>The purpose of organizing a forum is to gather participants to discuss issues and deliberate on the best possible solution out of the initial choices given to them. During a forum, a problem is presented by the moderator along with three to four approaches to solving it. These forums provide a highway for ideas, shared experiences, and arguments to flow with the goal of selecting the best approach to the problem.. Each solution is discussed by the group with the guidance of a trained and neutral moderator. The participants are encouraged to read the provided pamphlet or issue book in order to foster a highly deliberative dialogue. Each approach is considered, examining its pros, cons, and trade offs. The responsibility of the moderator is to ask questions to initiate discussion, answer any questions the participants may have, remain neutral, and direct the group discussion in order to maintain a free flow of ideas. The moderator provides the participants an opportunity to express their thoughts and feelings on each of the possible approaches to the issue. a healthy democratic process, all participants have an equal opportunity of being heard. The group initially talks about the benefits of one approach, followed by its disadvantages, and upon completion of discussion, the group moves on to the next approach. Towards the end, the moderator puts each of the proposed solutions to vote. The participants work through the issue by finding common ground and formulating a thoroughly deliberated and well reasoned public judgment. <a class="external autonumber" href="http://nifi.org/forums/participate.aspx" rel="nofollow" title="http://nifi.org/forums/participate.aspx">[3]</a> <a class="external autonumber" href="http://nifi.org/forums/organize.aspx" rel="nofollow" title="http://nifi.org/forums/organize.aspx">[4]</a></p><p><a id="Problems_.26_Purpose" name="Problems_.26_Purpose"></a></p><h1>Problems &amp; Purpose</h1><p>The greatest issue fueling the creation of the National Issues Forum was a lack of civic education. Although people are surrounded by access to information regarding political conversations, very few seek it out to educate themselves. Most often, civic engagement comes in lieu of a subject that an individual is highly passionate about but involvement is often fleeting. Proposals to change the lack of civic involvement range from incorporating deliberative conversations in elementary and secondary school classrooms to promoting early engagement all the way to encouraging more participation of adults in National Issue Forums. The problems ultimately stem from a lack of education and create a lack of interest in issues not pertaining to a person's immediate life. The National Issues Forum relies on individuals and groups who wish to participate, but sadly due to a low level of education and interest, it brings less participants. Although the NIF is not struggling to find participants, more involvement means greater individual interest in politics and democracy. This chain of events is important in fostering political knowledge throughout the nation. The problem is how to reach groups that are vital to the deliberative quality of issue forums. The key to good deliberation and a successful forum is to involve many diverse individuals, experiences, and ideas. Often times the minority opinions are overlooked, but the incorporation of different perspectives is one of the main goals of the National Issues Forum. The purpose of the National Issues Forum is to provide an outlet for the public to discuss pertinent social and political issues. The end result is to reach a conclusion that allows people of diverse and varied views to arrive at a common ground. The result of the common agreement is to help participants and the public move towards collective action regarding a particular issue. An important point is that participants are encouraged to seriously analyze issues that deeply concern them, and also to educate the public on ways to promote deliberation. The National Issues Forum is also providing school teachers with options to promote deliberation in their classrooms. The website provides material and ideas to help foster early practice of reasonable and respectful discussion in younger individuals. Overall more instruction for young school children can be a positive foundation for greater understanding and participation in deliberative forums in the future.</p><p><a id="Deliberation_and_Discussion" name="Deliberation_and_Discussion"></a></p><h1>Deliberation and Discussion</h1><p>Issues available for discussion are listed on the National Issues Forum webpage and predetermined for the year. In order to educate the public who are interested in participation, issue pamphlets are devised to summarize nonbiased facts and information regarding the topics. The issue pamphlets provides an overview of the issue along with the few suggested approaches to solving it. Participants are highly encouraged to make themselves familiar with the applicable pamphlet in order to foster the highest possible deliberative discussion. The trained and neutral moderators provided at each meeting help foster deliberation by leading the group conversation. They guide the participants to a discussion of the three to four broad options provided for approaching the issue. With these in place, the moderator’s goal is to then ask questions and steer the group so as to ensure a highly deliberative process, a smooth conversation, and a through coverage of the given approaches. As each possible solution is introduced, the participants engage in deliberation by brainstorming, analyzing, and considering the benefits and disadvantages of each solution. During the process, discussions may cause participants to become unsure of which position to choose, change their original stance, or be more attached to their original position. The participants are also able to educate not just themselves, but others as well by means of exchanging information, sharing values and experiences, and influencing others by means of convincing points and arguments. In the end, people with varying viewpoints arrive at a joint solution by finding common ground and making a decision for the public good.</p><p><a id="Case_Example_1" name="Case_Example_1"></a></p><h1>Case Example 1</h1><p>Slavery or Freedom Forever? <a class="external autonumber" href="http://nifi.org/stream_document.aspx?rID=18434&amp;catID=18&amp;itemID=18432&amp;typeID=8" rel="nofollow" title="http://nifi.org/stream_document.aspx?rID=18434&amp;catID=18&amp;itemID=18432&amp;typeID=8">[5]</a> <a class="external autonumber" href="http://www.nifi.org/stream_document.aspx?rID=16720&amp;catID=16697&amp;itemID=16719&amp;typeID=8" rel="nofollow" title="http://www.nifi.org/stream_document.aspx?rID=16720&amp;catID=16697&amp;itemID=16719&amp;typeID=8">[6]</a></p><p>A recent forum was held on June 18, 2010 in Athens, Georgia. A small group of people and participants from the University of Georgia gathered to deliberate on questions of historical slavery and how past and present values continue to shape the history of slavery. The group used an issue guide that raised the three approaches people from 1854 dealt with contending with the issue of slavery and its future in this country. The three approaches were:</p><p>1. Remembering our ideals, judging slavery from a moral standpoint, and working towards ending slavery,</p><p>2. Treating slavery as a political problem to solve and affirming individual choice by giving local settlers the right to decide the national status of slavery,</p><p>3. Protecting the prosperity of the country by making decisions on slavery based on the economic well-being of the society.</p><p>The first approach led the group to discuss deeply held beliefs and values. They focused on the religious bases that people from 1854 adopted for this approach. The second approach led to a discussion about a divisive country having free and slave states. People recognized that taking a political approach to slavery makes it so the issue is inherent to self-interest and corruption. The third approach led to the discussion of economic growth as a result of slavery versus moral interests. Upon reflection, many thought that the first approach appealed to them best, reasoning that moral judgments are important in the decision making process. They rejected political and economic progress if it meant compromising their beliefs and values.</p><p><a id="Case_Example_2" name="Case_Example_2"></a></p><h1>Case Example 2</h1><p>Weighing the Options: How can we encourage healthy weights among America’s youth? <a class="external autonumber" href="http://www.nifi.org/stream_document.aspx?rID=17724&amp;catID=6&amp;itemID=17723&amp;typeID=8" rel="nofollow" title="http://www.nifi.org/stream_document.aspx?rID=17724&amp;catID=6&amp;itemID=17723&amp;typeID=8">[7]</a></p><p>Obesity is becoming a larger problem every year as the number of children who are overweight has become greater over time. Children who experience problems with their weight often have long term health and emotional problems that ultimately cause greater public issues and costs. Every year obesity causes over 75 billion dollars of medical expense in the US alone. The purpose of the forum is to ultimately work together to better understand the problem and its consequences. It considers the benefits and drawbacks of different approaches to the problem; identify actions likely to make a positive difference and are doable in terms of time, resources, and public will. The participants examine the roles of government, schools, businesses, and civic and religious groups, as well as our responsibility as individuals; and explore potential next steps.</p><p>The three approaches for this forum are: 1. Expect personal responsibility for fitness 2. Invest in overall child well-being 3. Change our culture to encourage fitness</p><p>The first approach focuses on the problem being that children do not have enough education or supervision to understand what it means to be healthy. The second approach focuses on the concern of a child’s weight being the primary concern, rather than being concerned with other issues of the child’s well being. Lastly, the third approach focuses on changing the way we live our everyday lives with the help of advertisers by promoting healthier options. Each of the approaches have an emphasis on different concerns or solutions that may help this issue. The participants discuss and deliberate a variety of opinions and elaborate on pros and cons for each approach. They do all of these steps while maintaining the goal of keeping an open mind to all options before coming to an individual conclusion. After each approach is given ample time for discussion and exchange of viewpoints a final decision is made.</p><p><a id="Evaluation" name="Evaluation"></a></p><h1>Evaluation</h1><p>With the right structure, facilitator, and participants the NIF is a very successful method for deliberation and discussion on important public policy issues. It is an organized way to not only hear other viewpoints and solutions, but also a platform to express personal views . The main point of the process is to keep an open perspective and opinion until all of the seen solutions and choices have been thoroughly discussed and understood. It is a step by step process that still has a very natural flow.</p><p>Although this is a great method for deliberative discussions on pressing issues, the results rarely bring an immediate change. The main point, however, is to educate and involve the public in order to make decisions on issues that affect the public. When discussing global and national issues in a small town setting it does limit the leverage and opportunity for change. However, its theory of change appears to be that it is changing systems and thinking on a small scale which over time will ultimately affect decisions made on a larger scale as smaller towns shift their focus and tactics. The NIF is a great opportunity for everyday citizens to get involved and participate in deliberative methods, but they also run the risk of limiting solutions and discussions if the group is not diverse enough to bring a variety of opinions and experiences. Commonly, people associate with and exchange information with people who have shared views, which can pose a problem if people are trying to develop unbiased solutions for the public rather than a segment of the population.</p><p>The following are possible impacts of NIF on participants, (Melville, Willingham, Dedrick, 2005) <a class="external autonumber" href="http://en.wikipedia.org/wiki/National_Issues_Forums" rel="nofollow" title="http://en.wikipedia.org/wiki/National_Issues_Forums">[8]</a></p><p>1. Participation in NIF forums heightens interest in specific issues and in public affair and leads to higher levels of public engagement.</p><p>2. Participation in NIF forums broadens the outlook of participants.</p><p>3. As a result of participating in forums, individuals come to experience themselves in different ways, and they learn new ways of taking part in groups.</p><p>4. Participation in NIF forums enhances people’s sense of themselves as political actors who can make a difference in their communities.</p><p>5. People construe their self-interest more broadly as a result of taking part in deliberative conversations.</p><p>6. Deliberation helps people move beyond superficial preferences to considered public judgment.</p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h1>Secondary Sources</h1><p>1.Chiddister, Diane (06/1987). "National Issues Forum: unique educational experiment produces surprising results.". Corrections today (0190-2563), 49, p. 20.</p><p>2.Goodes, Pamela. "Salinas Closures Temporarily Halted." American Libraries 12 Apr. 2005: 12.</p><p>3.Kennedy, Edward M (1994). "Issues Forum: National Curriculum Standards.". The Educational forum (West Lafayette, Ind.) (0013-1725), 58 (4), p. 348.</p><p><a id="External_Links" name="External_Links"></a></p><h1>External Links</h1><p>1. <a class="external free" href="http://nifi.org" rel="nofollow" title="http://nifi.org">http://nifi.org</a></p><p>2. <a class="external free" href="http://en.wikipedia.org/wiki/National_Issues_Forums" rel="nofollow" title="http://en.wikipedia.org/wiki/National_Issues_Forums">http://en.wikipedia.org/wiki/National_Issues_Forums</a></p><p>3. <a class="external free" href="http://www.delibcanet.org/" rel="nofollow" title="http://www.delibcanet.org/">http://www.delibcanet.org/</a></p><p>4. <a class="external free" href="http://www.abanet.org/justice/nif/home.html" rel="nofollow" title="http://www.abanet.org/justice/nif/home.html">http://www.abanet.org/justice/nif/home.html</a></p><p>5. <a class="external free" href="http://www.grand-rapids.mi.us/index.pl?page_id=3081" rel="nofollow" title="http://www.grand-rapids.mi.us/index.pl?page_id=3081">http://www.grand-rapids.mi.us/index.pl?page_id=3081</a></p><p>6. <a class="external free" href="http://www.nifi.org/discussion_guides/" rel="nofollow" title="http://www.nifi.org/discussion_guides/">http://www.nifi.org/discussion_guides/</a></p><p>7. <a class="external free" href="http://nif.websitetoolbox.com/" rel="nofollow" title="http://nif.websitetoolbox.com/">http://nif.websitetoolbox.com/</a></p><p><a id="References" name="References"></a></p><h1>References</h1><p>1. <a class="external free" href="http://nifi.org/forums/about.aspx" rel="nofollow" title="http://nifi.org/forums/about.aspx">http://nifi.org/forums/about.aspx</a></p><p>2. <a class="external free" href="http://nifi.org/about/history.aspx" rel="nofollow" title="http://nifi.org/about/history.aspx">http://nifi.org/about/history.aspx</a></p><p>3. <a class="external free" href="http://nifi.org/forums/participate.aspx" rel="nofollow" title="http://nifi.org/forums/participate.aspx">http://nifi.org/forums/participate.aspx</a></p><p>4. <a class="external free" href="http://nifi.org/forums/organize.aspx" rel="nofollow" title="http://nifi.org/forums/organize.aspx">http://nifi.org/forums/organize.aspx</a></p><p>5. <a class="external free" href="http://nifi.org/stream_document.aspx?rID=18434&amp;catID=18&amp;itemID=18432&amp;typeID=8" rel="nofollow" title="http://nifi.org/stream_document.aspx?rID=18434&amp;catID=18&amp;itemID=18432&amp;typeID=8">http://nifi.org/stream_document.aspx?rID=18434&amp;catID=18&amp;itemID=18432&amp;typeID=8</a></p><p>6. <a class="external free" href="http://www.nifi.org/stream_document.aspx?rID=16720&amp;catID=16697&amp;itemID=16719&amp;typeID=8" rel="nofollow" title="http://www.nifi.org/stream_document.aspx?rID=16720&amp;catID=16697&amp;itemID=16719&amp;typeID=8">http://www.nifi.org/stream_document.aspx?rID=16720&amp;catID=16697&amp;itemID=16719&amp;typeID=8</a></p><p>7. <a class="external free" href="http://www.nifi.org/stream_document.aspx?rID=17724&amp;catID=6&amp;itemID=17723&amp;typeID=8" rel="nofollow" title="http://www.nifi.org/stream_document.aspx?rID=17724&amp;catID=6&amp;itemID=17723&amp;typeID=8">http://www.nifi.org/stream_document.aspx?rID=17724&amp;catID=6&amp;itemID=17723&amp;typeID=8</a></p><p>8. <a class="external free" href="http://en.wikipedia.org/wiki/National_Issues_Forums" rel="nofollow" title="http://en.wikipedia.org/wiki/National_Issues_Forums">http://en.wikipedia.org/wiki/National_Issues_Forums</a></p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-b36fbb81912e2128767bebc55c3a4558">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/168">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">100</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">14</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$100</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Trust Building</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Connect through Social Networks</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Several solutions are proposed and then discussed</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item odd"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/3-somewhat-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/4-often-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Often Interdependent with Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/raise-public-awareness" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Raise public awareness</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/addressing-identity-based-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Addressing Identity-Based Issues</a></div><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div><div class="field-item odd"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div><div class="field-item odd"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Deliberation</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

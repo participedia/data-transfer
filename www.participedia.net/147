@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/deliberative-polling" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/147" />
+  <title>Deliberative Polling | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"LZ4KX9K_gt3Iq17KSNzla2fhgdtMSxE_9vRvk0LW_hg","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/deliberative-polling?destination=node\/147":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-147 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/deliberative-polling" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/deliberative-polling?destination=node/147" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-rwJ9_eLn10XYv5zE875k4JdaLN4wn1KRqot6XMYzo1g" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Deliberative Polling</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Deliberative Polling - Participedia" addthis:url="http://participedia.net/en/methods/deliberative-polling"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Nov 6 '09</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/swdgray" title="View user profile." class="username" xml:lang="" about="/en/people/swdgray" typeof="sioc:UserAccount" property="foaf:name" datatype="">Sean Gray</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Deliberative Polling is a unique form of political consultation that combines techniques of public opinion research and public deliberation to construct hypothetical representations of what public opinion on a particular issue might look like if citizens were given a chance to become more informed. As a polling method, the Deliberative Poll seeks to account for the preferences and opinions of citizens both before and after they have had an opportunity to arrive at considered judgements based on information and exposure to the views of fellow citizens.<a href="#cite_note-one-0" title="">[1]</a> The technique was first developed by Professor James Fishkin of Stanford University in 1988, and has been adopted by local and regional governments across the world – including Canada, the United States, Greece, Italy, Bulgaria, Hungary, the United Kingdom, Brazil and <a class="external text" href="http://participedia.net/wiki/Wenling_City_Deliberative_Poll" rel="nofollow" title="http://participedia.net/wiki/Wenling_City_Deliberative_Poll">China</a>.<a href="#cite_note-two-1" title="">[2]</a> In these diverse settings, it has been used as a more accurate means of polling the public, as a method of developing citizen preferences on difficult issues, as a mode of selecting candidates to run in competitive elections, and as a policy tool to direct political officials in public planning efforts.</p><p><a id="Problems_and_Purpose" name="Problems_and_Purpose"></a></p><h2>Problems and Purpose</h2><p>Fishkin initially designed the Deliberative Poll in response to perceived defects of modern public opinion polling methods.<a href="#cite_note-three-2" title="">[3]</a> Fishkin’s main problem was with high levels of citizen-ignorance on many public issues that required substantive background knowledge in order to take an informed position. In these scenarios, citizens have an incentive for ‘rational ignorance’ – that is, they have an incentive to remain ignorant about an issue because the costs (such as time, energy, etc.) of educating themselves outweigh the benefits of doing so. When the incentives for rational ignorance in the general population are high, traditional sample surveys of mass public opinion will often turn up ‘non-attitudes’ or so-called ‘phantom opinions’ on many public questions. This means that ordinary polling techniques will offer, at best, a snapshot of public opinion under conditions where the public has little information, attention, or interest in a given issue.<a href="#cite_note-four-3" title="">[4]</a></p><p>Given the problems for accurate opinion sampling under conditions of rational ignorance, Deliberative Polling is meant to offer a representation of what the public would think about a specific issue under ‘ideal conditions’ – that is, under conditions in which citizens have access to fair and balanced background information, are able to account for the different opinions of fellow citizens, and can interact with expert panels of policy-makers to understand the tradeoffs of different policy positions.<a href="#cite_note-five-4" title="">[5]</a></p><p><a id="History" name="History"></a></p><h2>History</h2><p>Fishkin first proposed the idea of a Deliberative Poll in an article published in Atlantic Monthly in August 1988.<a href="#cite_note-six-5" title="">[6]</a> The article was later developed into a book in 1991 entitled ‘Democracy and Deliberation: New Directions for Democratic Reform'.<a href="#cite_note-seven-6" title="">[7]</a> In both works, Fishkin consistently draws upon two primary inspirations in setting out a viable model for a Deliberative Poll: notions of direct democracy exhibited most prominently in the classical Athenian practice of government; and, the foundational work of George Gallup, whose pioneering work on modern opinion polling still forms the basis of most modern polling practices.</p><p>The first parallel Fishkin draws, is between his Deliberative Polling proposal and the democratic practices of ancient Athens. According to Fishkin, the Deliberative Poll directly appropriated two distinct features of the Athenian model of democracy: first, citizens were selected to participate in Athenian institutions through a lottery, which Deliberative Polling replicates by relying on the method of random selection; and, second, Athenian citizens were typically remunerated for participating, which is a principle that Deliberative Polls also utilize in order to ensure that a more representative microcosm of the public is constructed by encouraging participant heterogeneity.<a href="#cite_note-eight-7" title="">[8]</a></p><p>Fishkin combines the Athenian model for democratic participation with the public opinion polling methods of Gallup. According to Fishkin, Gallup had originally developed public opinion polling with a view to restoring the intimate face-to-face model of democracy of the New England town meeting to the larger state. Figuratively, Gallup had argued that citizens should regularly gather together, make and hear arguments from political leaders to the public, and vote for or against policy proposals directly. In this context, the public opinion poll was seen as completing the political conversation by carrying the public’s views back to political leaders.<a href="#cite_note-nine-8" title="">[9]</a> The problem, however, is that often times respondents to opinion polls are unable to give well thought out answers or informed opinions about an issue – leading to polls becoming an instrument of political elites rather than an empowering democratic procedure. Deliberative Polling, ideally, is supposed to narrow the gap between well-informed and actual public opinion.<a href="#cite_note-ten-9" title="">[10]</a></p><p>The first ever Deliberative Polling experiment was held on April 15, 1994 in Manchester, England. A randomly selected sample of 301 British citizens participated in the event, and over the next two days considered and discussed a range of policy proposals to deal with crime. During the event participants met and deliberated in small group-sessions and then put questions to and heard answers from a panel of experts and representatives of the Conservative, Labour and Liberal Democratic parties. At the end of deliberation day, participants were then asked to once more provide their opinions, which were recorded and later broadcast in a two-hour television special shown on Britain’s ‘Channel 4’. The Poll was viewed as largely successful, with before and after opinion poll results showing that almost half of participants change their initial positions: with near 40 percent adopting a more moderate position, and some 10 to 15 percent switching sides completely.<a href="#cite_note-eleven-10" title="">[11]</a></p><p>As of 2008, there have been more than 50 deliberative polls around the world. Eleven face-to-fact polls have been national – with five of those in Britain (on crime, Britain’s role in Europe, the future of the monarchy, the 1997 general election, and reform of the National Health Service). Other polls have been conducted in Denmark (on the question of adopting the Euro), in Bulgaria (on crime), Australia (one on Australia becoming a republic, and another on Aboriginal reconciliation), and the United States (one foreign policy, the American family, and economic policy, and another on foreign policy in the lead up to the second Iraq war). Thirty-nine of the polls have also occurred at the regional and local level in both the United States and China (notably, in 2005 on participatory budgeting in Wenling City and another similar poll in the same city in 2008).<a href="#cite_note-twelve-11" title="">[12]</a> While most Deliberative Polling experiments have been face-to-face, two successful polls have also been conducted on-line – although they still took place in ‘real time’ and used microphones so that participants could hear their fellow deliberators.<a href="#cite_note-thirteen-12" title="">[13]</a></p><p>Fishkin has registered both ‘Deliberative Poll’ and ‘Deliberative Polling' as trademarks in order to supervise the quality of polling experiments, as well as raise funds for further research and application of the method through the Center for Deliberative Democracy at Stanford University. Fishkin has also served in an advisory role on all polls conducted to date.<a href="#cite_note-fourteen-13" title="">[14]</a></p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h2>Participant Selection</h2><p>Citizens are usually invited to participate in a Deliberative Poll through a process of random selection. The random selection process can occur in either one of two ways: through random digit dialing; or, by sending out ‘warm-up’ letters to a random sample of phone listings and followed up with phone calls. In order to mitigate problems of selection bias, several calls are made to each phone number to ensure that the sample does not just include those easiest to reach (such as retirees). Once contacted, interviewers use several techniques – such as asking for the person with the next birthday – to ensure that the sample also does not bias those who most often answer the household phone (statistically, more often women). Those who agree to participate may receive follow-up phone calls or informational mailing to ensure their commitment. In addition, more targeted phone calls may be made to encourage participation amongst people of demographics less like to the actual polling event (such as those with less education, or those living in remote areas).<a href="#cite_note-fifteen-14" title="">[15]</a></p><p>While there are no ceilings to the maximum number of participants that could be included in a Deliberative Poll, most polling experiments have had between 130 to approximately 450 participants. Participants are also typically paid between 75-200 $US per-day to partake in the deliberation event. While potentially costly to sponsoring organizations, the use of a monetary incentive encourages people of lower socio-economic status to attend, allowing for a more heterogeneous participant pool and a better representative sample of the larger public.<a href="#cite_note-sixteen-15" title="">[16]</a></p><p><a id="Deliberations.2C_Decisions.2C_and_Public_Interaction" name="Deliberations.2C_Decisions.2C_and_Public_Interaction"></a></p><h2>Deliberations, Decisions, and Public Interaction</h2><p>While an ordinary poll is designed to show what the public actually thinks about a set of issues, a Deliberative Poll is designed to show what the public would think about those issues if had time for earnest reflection and access to more complete information. Because the focus is on constructing a sample of a hypothetical public attitude, however, the actual Deliberative Polling event has to be highly structured and well organized. Conveners must have access to extensive technical expertise to recruit participants, compose background-briefing materials, and enter and analyze resulting survey data. They also must have sufficient civic resources to pay and train aides and moderators able to ensure a nonpartisan approach to deliberations and discussions, organize the event itself, facilitate media coverage, and disseminate the polling results.<a href="#cite_note-sixteen-15" title="">[16]</a></p><p>The distinctive procedural features of this polling method include a random sample, balanced background materials, and a series of formal surveys or questionnaires. While the length of deliberation during the actual ‘event’ may vary, in general, deliberations occur over of the course of one or two days. Prior to the event, prospective participants are required to fill out an initial questionnaire and, once returned, are sent background materials that present a range of information and perspectives on the questions under consideration.<a href="#cite_note-seventeen-16" title="">[17]</a></p><p>During the day(s) of deliberation, participants are informed they are being assembled as a representative cross-section of the larger public. Ideally, providing this information to participants encourages them to adopt an attitude more orientated towards consideration of the potential public, rather than personal, benefits that might result from a particular policy option. That said, appealing to narrower reasons in advocating a specific policy position is not illegitimate. The content of what participants are allowed to say in group-sessions is not restricted, nor is the language in which opinions are articulated. They are also not instructed to stick to the use of logical argument, refrain from personal narratives, or to refer only to the ‘common good’.<a href="#cite_note-eighteen-17" title="">[18]</a> There are also no formal limits placed on how long an individual may speak, although moderators are instructed to ensure that all participants are allowed to have a voice in deliberations.</p><p>Generally speaking, the process of conducting a Deliberative Poll, including the proceedings on the day(s) of deliberation, can be broken down into a five-step process:<a href="#cite_note-nineteen-18" title="">[19]</a></p><ol><li>A random, representative sample of the public is contacted and asked to provide feedback on an initial questionnaire aimed at evaluating the knowledge, perceptions, and preferences of the general public on a specific question.</li><li>Another random representative sample of citizens are contacted and asked to participate in a ‘deliberative event’ to be held over the course of one or two days.</li><li>In the lead up to the event, selected participants receive balanced briefing materials vetted by a panel of experts pertaining to the topics to be discussed.</li><li>On the day of the deliberative event participants are randomly assigned to small groups with trained moderators. During the group-sessions, the participants are encouraged to develop questions to pose a panel of experts and policymakers at a plenary session held towards the end of the event.</li><li>The event concludes with all participants filling out a second questionnaire intended to capture their considered opinions on the topic at hand. The results of the first poll are compared to the final poll, and any changes in opinion are measured and analyzed by trained pollsters. In most cases, the findings of the final survey are disseminated to the public through media coverage and, in some cases, form the basis of further debate and deliberations by politicians and policy-makers.</li></ol><p><a id="Outcomes_and_Effects" name="Outcomes_and_Effects"></a></p><h2>Outcomes and Effects</h2><p>The opinion data produced from Deliberative Polling experiments have been used to various ends – depending on the original agenda of sponsoring organizations, the extent of media coverage, and whether or not the events results are connected directly to political policy-making processes.<a href="#cite_note-twenty-19" title="">[20]</a> In most cases, however, the most productive outcome of Deliberative Polling events has been the perceived strength and accuracy of the survey data when compared to other polling methods. Given that citizens are articulating ‘consider judgments’ this data has been considered more legitimate by policy-makers attempting to gauge public support for different, often difficult, policy decisions.</p><p>As a survey method, the opinion projection data obtained through Deliberative Polling techniques are intended to provide a more accurate representation of public sentiment on a given issue. The accuracy of the data obtained when comparing the initial ‘baseline’ survey to the data obtained from the final ‘exit’ survey following deliberations has been found to be enhanced when deliberations are prolonged over multiple days rather than just a single one.<a href="#cite_note-twenty_one-20" title="">[21]</a> Nevertheless, in both single and multi-day events the representative microcosm of participants has been found to be highly representative, both attitudinally and demographically, as compared to census data about the entire population.</p><p>Almost every Deliberative Polling experiment conducted thus far has also resulted in a number of large and statistically significant changes of opinion following the deliberative event. Considering the results of all Deliberative Polling experiments together, on average about two-thirds of the opinion items have changed following deliberation.<a href="#cite_note-twenty_two-21" title="">[22]</a> Consequently as an opinion poll, the considered judgments arrived at following deliberation have been argued to be superior (and are often different from) the expressed attitudes solicited through conventional polls.</p><p><a id="Examples" name="Examples"></a></p><h2>Examples</h2><p>To date, a number of Deliberative Polling experiments have been conducted with varying degrees of scope for the complexity of the public issues being discussed, the scale of deliberative events (including number of participants, and ties to future policy outcomes. Some notable recent cases include:</p><ul><li><a class="external text" href="http://participedia.net/wiki/Wenling_City_Deliberative_Poll" rel="nofollow" title="http://participedia.net/wiki/Wenling_City_Deliberative_Poll">Zeguo, Wenling City, China</a> (April 2005 and February 2008): The government of Zeguo used a Deliberative Polling technique to garner public feedback on a series of difficult budgetary allotment decisions that needed to be made for proposed infrastructure projects. Of the entire population of Zeguo, 275 people were randomly selected to participate in surveys and deliberations taking place throughout the months of March and April, 2005. On April 30, 2005 the results of the poll were presented to Zeguo’s local People’s Congress for further debate and deliberation by local politicians – a majority of whom voted to fund the top twelve projects ranked in the Deliberative Poll. After encouraging results from the first Poll held in 2005, a second was held in the Zeguo Township in February 2008 and opened the entire budget to participatory feedback.<a href="#cite_note-twenty_three-22" title="">[23]</a></li></ul><ul><li>Marousi, Greece (June 2006): The PASOK, one of Greece’s two major political parties, decided to apply a Deliberative Polling method to select its candidate for mayor in the City of Marousi. A representative sample of 153 citizens from the area were asked to come together and deliberate over six possible candidates, consider their records, pose questions, and at the end provide an advisory survey that ended up constituting the PASOK’s official candidate decision. This was the first time an organization employed Deliberative Polling in order to increase the democratic legitimacy of closed party primaries.<a href="#cite_note-twenty_four-23" title="">[24]</a></li></ul><ul><li>Omagh, Northern Ireland, United Kingdom (January 2007): A random sample of parents representing the entire province was brought together to deliberate public educational policy. Held on January 27, 127 parents – both Protestant and Catholic – came together to deliberate in small-group discussions and plenary sessions with panels of experts. This was the first Deliberative Poll ever to be used in a so-called ‘deeply divided society’.<a href="#cite_note-twenty_five-24" title="">[25]</a></li></ul><ul><li>Sofia, Bulgaria (April 2007): A national Deliberative Poll was convened by the Bulgarian government to survey considered opinion on changes in policy towards the countries Roma population, issues of crime, and education. The survey sampled 255 residents drawn from around the country and found a statistically significant change towards support for adopting a more integrationist perspective on these issues.<a href="#cite_note-twenty_six-25" title="">[26]</a></li></ul><ul><li>San Mateo County, California, United States (March 2008): Sponsored by a coalition of civic groups in the county called ‘<a class="external text" href="http://www.threshold2008.org/" rel="nofollow" title="http://www.threshold2008.org/">Threshold 2008</a>’, a Deliberative Poll was used to survey opinion on the issue of housing shortages. From March 15-16 a weekend sample of 238 participants considered competing policy perspectives, questioned experts, and provided input into a Countywide Assembly on Housing Choices.<a href="#cite_note-twenty_seven-26" title="">[27]</a></li></ul><ul><li>Brussels, Belgium (May 2009): A deliberative policy organization, '<a class="external text" href="http://www.europolis-project.eu/" rel="nofollow" title="http://www.europolis-project.eu/">EuroPolis</a>', brought together 350 citizens from across the 27 European Union member states for a three-day dialogue in which participants considered issues of climate change and immigration in the EU. Deliberating in 21 languages, participants discussed issues, read detailed briefing materials, and questioned competing experts and politicians. Occurring just prior to EU parliamentary elections, the result was the first ‘European-wide’ Deliberative Polling event.<a href="#cite_note-twenty_eight-27" title="">[28]</a></li></ul><ul><li>Porto Alegre, Rio Grande du Sol State, Brazil (June 2009): A Deliberative Poll was held to solicit state-wide opinion on the issue of career reform in the civil service as the government sought to move away from a ‘years in service’ criterion for promotion. The polling event was held over two-day period, from June 5-7, with participants engaging in small group discussions and dialogue with competing policy experts. The results of the poll were presented to the state government on August 25, and will inform the government’s legislative proposals during the next session.<a href="#cite_note-twenty_nine-28" title="">[29]</a></li></ul><p><a id="Analysis_and_Criticism" name="Analysis_and_Criticism"></a></p><h2>Analysis and Criticism</h2><p>The Deliberative Polling technique remains in a relative stage of infancy as a method for public consultation. The exact methods of the poll have often been refined and modified to suit particular questions, events, or contexts with each version having distinct advantages and disadvantages.</p><p>In analyzing the results of various Deliberative Polling experiments completed to date, Fishkin has argued the there are four key findings. First, participants’ opinions at the end of the process often substantially change from the beginning in comparison with control groups or other surveys of the population. Second, given the information provided to participants prior to deliberation, those who participate are often more informed after the polling process is completed. Third, these changes of opinion are, in most cases, associated with processes of learning as participants begin to alter their views in response to increased information on a topic. Finally, the emphasis placed on deliberation and discussion during the polling process has had the effect of increasing citizens’ feelings of efficacy and engagement with the political process as a whole.<a href="#cite_note-thirty-29" title="">[30]</a></p><p>Fishkin’s findings do differ depending on the level and scope of a given Deliberative Polling experiment. When Deliberative Polling has been used on the national level, it has had the advantage of creating a fairly diverse microcosm of an entire country, ready to confront trade-offs and divisive issues, and providing a guide to others looking to follow informed opinion. This has been particularly true in instances, such as Manchester in 1994, where the polling event is combined with a national broadcast and extensive media coverage.<a href="#cite_note-thirty_one-30" title="">[31]</a> Through widespread dissemination of polling results, citizens who did not participate in deliberations have a chance to access the conclusions and key concerns of deliberators and use them as a guide for their own political behaviour. Such events are incredibly expensive, however, and most often Deliberative Polls have been far less ambitious and benefit from operating on a more local level where the face-to-face interactions fostered in the poll can be followed up with broader and more informal discussions at a later date.<a href="#cite_note-thirty_three-31" title="">[32]</a></p><p>However, where Deliberative Polling events are widely covered by the media many critics have argued that the final survey data produced by the poll by be seriously flawed. As Robert Shapiro points out, for instance, The Deliberative Poll can only project what public opinion (more broadly construed) can look like under certain tightly controlled conditions.<a href="#cite_note-Shapiro-32" title="">[33]</a> Everett C. Ladd has added to scepticism about the accuracy of survey data obtained through multiple polling events, by pointing out that the judgements arrived at by participants in Deliberative Polls are likely to be influenced by the ‘Hawthorne effect’.<a href="#cite_note-Ladd-33" title="">[34]</a> Under controlled conditions subjects have been known to improve in the aspect of their behaviour being experimentally measured simply in response to the fact that they are being studied, and not in response to any particular experimental manipulation. In Deliberative Polling events – many of which have received a fair amount of media attention – there has been considerable worry that the judgements reached by participants may display biases of precisely this type, with subjects responding to the spotlight rather than increased knowledge about the subject.<a href="#cite_note-Ladd_b-34" title="">[35]</a></p><p>Rather than representing an accurate picture of considered public opinion, Fishkin has also argued that Deliberative Polling might also achieve the creation of a counterfactual opinion – that is, that poll results can represent a projection that has recommending force when disseminated to the broader public. Put this way, a counterfactual representation of public opinion might suggest to the rest of the population some conclusions about a specific issue that they ought to take seriously because it comes from a relatively trustworthy proxy.<a href="#cite_note-proxy-35" title="">[36]</a> This is relatively different use of the method than the one first recommended by Fishkin in attempting to correct conventional opinion polls, but it is also a role recent experiments in places such as Greece, Brazil, and China have pushed Deliberative Polling towards.</p><p><a id="References" name="References"></a></p><h2>References</h2><ol class="references"><li id="cite_note-one-0"><a href="#cite_ref-one_0-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource' in John Gatsil and Peter Levine (eds.) The Deliberative Democracy Handbook: Strategies for Effective Civic Engagement in the 21st Century. San Francisco: Jossey-Bass. pp. 71-72</li><li id="cite_note-two-1"><a href="#cite_ref-two_1-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/" rel="nofollow" title="http://cdd.stanford.edu/polls/">Center for Deliberative Democracy - Deliberative Polling (Accessed Nov 9, 2009) </a></li><li id="cite_note-three-2"><a href="#cite_ref-three_2-0" title="">↑</a> James S Fishkin. 1988. ‘The Case for a National Caucus: Taking Democracy Seriously.” in Atlantic Monthly (August). p. 18</li><li id="cite_note-four-3"><a href="#cite_ref-four_3-0" title="">↑</a> James Fishkin. 2006. 'Realizing Deliberative Democracy: Strategies for Democratic Consultation' in Ethan Leib and Baogang He (eds.) The Search for Deliberative Democracy in China. New York: Palgrave MacMillan. pp. 44-45.</li><li id="cite_note-five-4"><a href="#cite_ref-five_4-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 73.</li><li id="cite_note-six-5"><a href="#cite_ref-six_5-0" title="">↑</a> James S Fishkin. 1988. ‘The Case for a National Caucus: Taking Democracy Seriously.” in Atlantic Monthly (August): 16-18.</li><li id="cite_note-seven-6"><a href="#cite_ref-seven_6-0" title="">↑</a> James S. Fishkin. 1991. Democracy and Deliberation: New Directions for Democratic Reform. New York: Yale University Press.</li><li id="cite_note-eight-7"><a href="#cite_ref-eight_7-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 71.</li><li id="cite_note-nine-8"><a href="#cite_ref-nine_8-0" title="">↑</a> Robert C. Luskin, James S. Fishkin and Roger Jowell. 2002. ‘Considered Opinions: Deliberative Polling in Britain’ in British Journal of Political Science (32) pp. 457-460.</li><li id="cite_note-ten-9"><a href="#cite_ref-ten_9-0" title="">↑</a> James S. Fishkin and Robert C. Luskin. 1996. ‘The Deliberative Poll: A Reply to Our Critics.’ in Public Perspective 7(1): pp. 46.</li><li id="cite_note-eleven-10"><a href="#cite_ref-eleven_10-0" title="">↑</a> Robert C. Luskin, James S. Fishkin and Roger Jowell. 2002. ‘Considered Opinions: Deliberative Polling in Britain’ in British Journal of Political Science (32) pp. 455-456.</li><li id="cite_note-twelve-11"><a href="#cite_ref-twelve_11-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 75.</li><li id="cite_note-thirteen-12"><a href="#cite_ref-thirteen_12-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/docs/summary/" rel="nofollow" title="http://cdd.stanford.edu/polls/docs/summary/">CDD: Deliberative Polling Toward a Better Informed Democracy - Executive Summary (Accessed Nov 9, 2009)</a></li><li id="cite_note-fourteen-13"><a href="#cite_ref-fourteen_13-0" title="">↑</a> <a class="external text" href="http://comm.stanford.edu/faculty/fishkin/" rel="nofollow" title="http://comm.stanford.edu/faculty/fishkin/">James S. Fishkin Faculty Profile, Department of Communication, Stanford University (Accessed Nov 9, 2009)</a></li><li id="cite_note-fifteen-14"><a href="#cite_ref-fifteen_14-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 74.</li><li id="cite_note-sixteen-15">↑ <a href="#cite_ref-sixteen_15-0" title="">16.0</a> <a href="#cite_ref-sixteen_15-1" title="">16.1</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 74.</li><li id="cite_note-seventeen-16"><a href="#cite_ref-seventeen_16-0" title="">↑</a> James S. Fishkin. 1996. ‘The Televised Deliberative Poll: An Experiment in Democracy.’ in The Annals of the American Academy of Political and Social Science (546). pp. 133-136</li><li id="cite_note-eighteen-17"><a href="#cite_ref-eighteen_17-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 74.</li><li id="cite_note-nineteen-18"><a href="#cite_ref-nineteen_18-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/docs/flyers/deliberative-polling-flyer-en.pdf" rel="nofollow" title="http://cdd.stanford.edu/polls/docs/flyers/deliberative-polling-flyer-en.pdf">CDD: Deliberative Polling - What is Deliberative Polling? (Accessed Nov 10, 2009)</a></li><li id="cite_note-twenty-19"><a href="#cite_ref-twenty_19-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/docs/summary/" rel="nofollow" title="http://cdd.stanford.edu/polls/docs/summary/">CDD: Deliberative Polling Toward a Better Informed Democracy - Executive Summary (Accessed Nov 9, 2009)</a></li><li id="cite_note-twenty_one-20"><a href="#cite_ref-twenty_one_20-0" title="">↑</a> Robert C. Luskin, James S. Fishkin and Roger Jowell. 2002. ‘Considered Opinions: Deliberative Polling in Britain’ in British Journal of Political Science (32): 455-460.</li><li id="cite_note-twenty_two-21"><a href="#cite_ref-twenty_two_21-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 76-77.</li><li id="cite_note-twenty_three-22"><a href="#cite_ref-twenty_three_22-0" title="">↑</a> James Fishkin, Baogang He and Alice Siu. 2006. 'Public Consultation through Deliberation in China' in Ethan Leib and Baogang He (eds.) The Search for Deliberative Democracy in China. New York: Palgrave MacMillan. pp 230-233.</li><li id="cite_note-twenty_four-23"><a href="#cite_ref-twenty_four_23-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/greece/" rel="nofollow" title="http://cdd.stanford.edu/polls/greece/">CDD: Deliberative Polling - Greece (Accessed Nov 8, 2009)</a></li><li id="cite_note-twenty_five-24"><a href="#cite_ref-twenty_five_24-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/nireland/" rel="nofollow" title="http://cdd.stanford.edu/polls/nireland/">CDD: Deliberative Polling - Northern Ireland (Accessed Nov 8, 2009)</a></li><li id="cite_note-twenty_six-25"><a href="#cite_ref-twenty_six_25-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/bulgaria/" rel="nofollow" title="http://cdd.stanford.edu/polls/bulgaria/">CDD: Deliberative Polling - Bulgaria (Accessed Nov 10, 2009)</a></li><li id="cite_note-twenty_seven-26"><a href="#cite_ref-twenty_seven_26-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/smc/" rel="nofollow" title="http://cdd.stanford.edu/polls/smc/">CDD: Deliberative Polling - California (Accessed Nov 9, 2009)</a></li><li id="cite_note-twenty_eight-27"><a href="#cite_ref-twenty_eight_27-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/eu/" rel="nofollow" title="http://cdd.stanford.edu/polls/eu/">CDD: Deliberative Polling - European Union (Accessed Nov 9, 2009)</a></li><li id="cite_note-twenty_nine-28"><a href="#cite_ref-twenty_nine_28-0" title="">↑</a> <a class="external text" href="http://cdd.stanford.edu/polls/brazil/" rel="nofollow" title="http://cdd.stanford.edu/polls/brazil/">CDD: Deliberative Polling - Brazil (Accessed Nov 9, 2009)</a></li><li id="cite_note-thirty-29"><a href="#cite_ref-thirty_29-0" title="">↑</a> James Fishkin and Cynthia Farrar 'Deliberative Polling: From Experiment to Community Resource.' p. 76.</li><li id="cite_note-thirty_one-30"><a href="#cite_ref-thirty_one_30-0" title="">↑</a> James S. Fishkin. 1996. ‘The Televised Deliberative Poll: An Experiment in Democracy.’ in The Annals of the American Academy of Political and Social Science (546). pp. 133-137.</li><li id="cite_note-thirty_three-31"><a href="#cite_ref-thirty_three_31-0" title="">↑</a> Robert C. Luskin, James S. Fishkin and Roger Jowell. 2002. ‘Considered Opinions: Deliberative Polling in Britain’ in British Journal of Political Science (32) pp. 480-487.</li><li id="cite_note-Shapiro-32"><a href="#cite_ref-Shapiro_32-0" title="">↑</a> Robert Y. Shapiro. 1996. 'Review: The Voice of the People: Public Opinion and Democracy by James S. Fishkin.' in The American Political Science Review 90(3). p. 625.</li><li id="cite_note-Ladd-33"><a href="#cite_ref-Ladd_33-0" title="">↑</a> Everett C. Ladd. 1996. ‘Fishkin’s ‘Deliberative Poll’ Is Flawed Science and Dubious Democracy.’ in Public Perspective 7(1) p. 42.</li><li id="cite_note-Ladd_b-34"><a href="#cite_ref-Ladd_b_34-0" title="">↑</a> Everett C. Ladd. 1996. ‘Magic Town: Jimmy Stewart Demonstrates the ‘Hawthorne Effect’.’ in Public Perspective 7(3). p. 16.</li><li id="cite_note-proxy-35"><a href="#cite_ref-proxy_35-0" title="">↑</a> James Fishkin. 2006. 'Realizing Deliberative Democracy: Strategies for Democratic Consultation.' p. 45-46.</li></ol><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Secondary Sources</h2><p>Fishkin, James S. 1988. ‘The Case for a National Caucus: Taking Democracy Seriously.” in Atlantic Monthly (August): 16-18.</p><p>Fishkin, James S. 1991. Democracy and Deliberation: New Directions for Democratic Reform. New York: Yale University Press.</p><p>Fishkin, James S. 1995. The Voice of the People: Public Opinion and Democracy. New York: Yale University Press.</p><p>Fishkin, James S. 1996. ‘The Televised Deliberative Poll: An Experiment in Democracy.’ in The Annals of the American Academy of Political and Social Science (546): 132-140.</p><p>Fishkin, James S. and Robert C. Luskin. 1996. ‘The Deliberative Poll: A Reply to Our Critics.’ in Public Perspective 7(1): 45-49.</p><p>Gastil, John and Peter Levine (eds.) The Deliberative Democracy Handbook: Strategies for Effective Civic Engagement in the 21st Century. San Francisco: Jossey-Bass.</p><p>Ladd, Everett C. 1996. ‘Fishkin’s ‘Deliberative Poll’ Is Flawed Science and Dubious Democracy.’ in Public Perspective 7(1): 41-45.</p><p>Ladd, Everett C. 1996. ‘Magic Town: Jimmy Stewart Demonstrates the ‘Hawthorne Effect’.’ in Public Perspective 7(3): 16-17.</p><p>Leib, Ethan and Baogang He (eds.) The Search for Deliberative Democracy in China. New York: Palgrave MacMillan.</p><p>Luskin, Robert, James S. Fishkin and Roger Jowell. 2002. ‘Considered Opinions: Deliberative Polling in Britain’ in British Journal of Political Science (32): 455-487.</p><p>Mendelsohn, Matthew. 1996. ‘Introducing Deliberative Direct Democracy in Canada.’ American Review of Canadian Studies 26(3): 449-468.</p><p>Shapiro, Robert Y. 1996. 'Review: The Voice of the People: Public Opinion and Democracy by James S. Fishkin.' in The American Political Science Review 90(3): 625-626.</p><p><a id="External_Links" name="External_Links"></a></p><h2>External Links</h2><p><a class="external text" href="http://cdd.stanford.edu/polls/" rel="nofollow" title="http://cdd.stanford.edu/polls/">Center for Deliberative Democracy - Deliberative Polling</a></p><p><a class="external text" href="http://www.europolis-project.eu/" rel="nofollow" title="http://www.europolis-project.eu/">EuroPolis</a></p><p><a class="external text" href="http://www.threshold2008.org/" rel="nofollow" title="http://www.threshold2008.org/">Threshold 2008</a></p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-cc28d61d339bd99f47175f89a17b0701">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/147">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">130</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">450</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-min-cost field-type-number-integer field-label-above"><div class="field-label">Minimum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$10</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$50</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/random-selection" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Random Selection</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial Preference Aggregation</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Expert Analysis; Media Releases; Legislative Agenda Setting</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Aggregation of Individual Preferences to Create Survey Data</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/agenda-formation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Agenda Formation</a></div><div class="field-item odd"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item even"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/3-somewhat-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/4-often-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Often Interdependent with Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/develop-individual-capacities-eg-skills-learning" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Develop individual capacities (e.g. skills, learning)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/distributing-individual-material-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Distributing Individual Material Goods</a></div><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/philanthropic-organization-ie-dedicated-making-monetary-grants-or-gifts" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Questionaries; Focus Groups; Plenary Sessions</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

@@ -1,0 +1,401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/3193" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/3193" />
+  <title>Der ASUW Studentensenat | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"-FV0IBzKM5dTwBLLbDPPxrpqthQjuUwWji4Jrkel0Lo","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"3193"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/3193?destination=node\/3193":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3193 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/asuw-student-senate" class="language-link" xml:lang="en" title="ASUW Student Senate">English</a></li>
+<li class="de last"><a href="/de/faelle/der-asuw-studentensenat" class="language-link" xml:lang="de" title="Der ASUW Studentensenat">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/3193?destination=node/3193" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Uv6FbgczFim86deGbKNTKkfxrgRiveW7t0EIS_QIf9Y" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Der ASUW Studentensenat</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Der ASUW Studentensenat</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Fri, 05/23/2014 - 02:06</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Fri, 05/23/2014 - 02:07</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Der ASUW Studentensenat - Participedia" addthis:url="http://participedia.net/en/node/3193"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/senate-meeting.jpeg?itok=JdhU5dBg" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Der ASUW Studentensenat</p>
+<p>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Fallstudie, die von Sarah Round am 04.06.2010 verfasst wurde. Die Originalversion ist abrufbar unter <a href="http://participedia.net/en/cases/asuw-student-senate">http://participedia.net/en/cases/asuw-student-senate</a>. </p>
+<p>Zweck und Problemstellung</p>
+<p>Die studentische Leitung der Universität Washington, ‘Associated Students of the University of Washington’ (ASUW), rief den Studentensenat 1994 ins Leben. Ziel war es, ein vielfältiges Gesetzgebungsorgan zu erschaffen, um der Exekutive, dem ‚Board of Control‘ (Kontrollbehörde), Ratschläge zu wichtigen Themen zu geben, Anliegen zu priorisieren und Lösungen anzubieten. </p>
+<p>Geschichte</p>
+<p>Den studentischen Leitungsausschuss der Universität Washington gibt es seit 1886. Damals waren 300 Studenten an der Universität eingeschrieben. Die Studenten äußerten den Wunsch, eine studentische Leitung einzuführen und Mark Harrington, der Präsident der Universität, brachte die Studenten in einer informellen Studentenversammlungen zusammen. Präsident Harrington beschloss, eine Verfassung für diese Institution zu erstellen. Durch die Verfassung wurden zwei Körper geschaffen: der repräsentative Rat mit Vertretern jedes Kurses und jeder Abteilung und die Studentenversammlung, die aus der gesamten Studentenschaft bestand. [1]</p>
+<p>Zusätzlich gab es einen Exekutivrat, dem der Präsident, Vize-Präsident und einige Beamte angehörten. Im Jahr 1906 wurde der studentische Rat zu einer gemeinnützigen Gesellschaft. Der Exekutivrat, später Kontrollbehörde, leitete die ‚Associated Students of the University of Washington’. Die Kontrollbehörde umfasste sechs Kursvertreter, drei Fakultätsmitglieder, drei Alumni, den Präsidenten, Vize-Präsidenten und einen Sekretär. Ein Vollzeit-Student überprüfte die Organisation. [2]. Das Kontrollgremium entwickelte sich über die Jahre und heißt heute Verwaltungsrat. 1985 wurde ein legislatives Organ, die Studentenversammlung, ins Leben gerufen um den Kontrollrat in Bezug auf die Wünsche, Bedürfnisse und Prioritäten der Studenten zu beraten. [3]. Dieses Organ diskutierte über studentische Belange, engagierte seine Wähler und verabschiedete Gesetze zu studentischen Anliegen. Acht Vertreter der griechischen Gemeinde, der Studentenwohnheime, und der Pendler waren involviert, sowie zwei Mitglieder des Kontrollrats, der Vertreter des Präsidenten und Studenten von gemeldeten Studentenorganisationen. In den Jahren 1986-87 diskutierte die Studentenversammlung darüber, die ASUW Verfassung zu ändern sowie Computergebühren und einen Parkbereich für Anwohner einzuführen. Im Jahr 1994 wurde aus der Studentenversammlung der Studentensenat. Phil Neiswinder, der damalige Präsident der ASUW, wollte eine größere Vielfalt im legislativen Körper herstellen. Der Studentensenat wurde umgesetzt und es gab seitdem mehr Sitze für unterschiedliche Gruppe sowie geschützte Sitze für einige gemeldete Studentenorganisationen. Der Senat wurde zu einem Organ, das sich mit umstrittenen politischen Problemen beschäftigte und Vertreter von libertären Gruppen, Republikanern, Demokraten und Sozialisten beinhaltete. Studenten mit den verschiedensten politischen Ansichten erarbeiteten eine Vielzahl an Lösungsansätzen.  </p>
+<p>Es gab drei Mikrophone in dem Versammlungsraum, eins auf jeder Seite des Raums für Pro und Kontra Argumente, sowie ein Mikrophon in der Mitte des Raums für Argumente, die in der Mitte lagen. Die Sitzungen des Senats begannen um 16.30 Uhr und konnten aufgrund der intensiven Debatten und langen Reden bis 21 Uhr dauern. Auch Studenten, die keine Senatoren waren, beteiligten sich an den Diskussionen. Der Senat war ein aktives Organ mit lebhaften Debatten. Wenn die Studenten der Meinung waren, der Senat handle nicht mehr in ihrem Willen, verlor er die Unterstützung. Als sich der Senat einmal in seinen eigenen Regeln verstrickte, einen ganzen Herbst für die Wahlen des Vorsitzenden brauchte, und einige umstrittene Veränderungen vornahm, nahm die Zahl der teilnehmenden Studierenden ab [5]. Im Jahr 2005 wurde die Arbeitsgruppe zur Reform des Senats vom Vorsitzenden Cammi Croft geführt. Die Gruppe war verantwortlich für den Auswahlprozess der Teilnehmer und die Kontrolle des Direktoriums und Senats. Das Direktorium war damals in der Lage, gegen Entscheidungen des Senats Einspruch zu erheben, ohne dass der Senat Möglichkeiten zum Widerspruch gehabt hätte. So hob das Direktorium bisweilen die Gesetzgebung des Senats auf und respektierte nicht dessen Fähigkeit, die studentische Meinung zu vertreten. Es gab keine Verbindung zwischen dem Direktorium und dem Senat. Einige der Veränderungen brachten jedoch zwei Mitglieder des Direktoriums in den Senat um als Verbindung zwischen dem Senat und dem Direktorium zu dienen, jedoch ohne den Besitz des Wahlrechts [6]. Der Senat ist nicht mehr der politisch aufgeladene Körper, der er einmal war. Über 70 Senatoren aus Wohngruppen, registrierten studentischen Organisationen, und Kommissionen besuchen ihn jede Woche, um ihre Gemeinschaft zu vertreten.</p>
+<p>Auswahl der Teilnehmer</p>
+<p>Der Studentensenat besteht aus Vertretern von Wohngruppen, registrierten Studentenorganisationen, einem Vertreter aus jeder ASUW Vielfaltskommission, und dem ASUW Präsidenten. Sie sind stimmberechtigte Mitglieder. Der panhellenische und „Interfraternity“ Rat haben 44 Sitze mit je einem Sitz pro Verband. Die Studentenwohnheime haben ebenfalls 44 Sitze, mit je zwei Vertretern jedes Wohnheims und 26 Repräsentanten, die die Wohnheimgemeinschaft als Ganzes vertreten. Jeder dieser Vertreter wurde entweder gewählt oder in seinem „Wahlkreis“ ernannt. Es gibt weiterhin 56 Sitze für Pendler, die nicht auf dem Campus wohnen. Diese Vertreter werden nach einem Bewerbungs- und Interviewprozess ernannt. Zuletzt gibt es einige geschützte Sitze für den Exekutivrat, den “Interfraternity” und den panhellenischen Rat, die Studentenversammlung der Wohngemeinschaften, die „Black Student Union“, „First Nations“, „Asian American Student Union“, die MEChA Studentenorganisation, sowie den studentischen Beratungsausschuss. </p>
+<p>Beratung, Entscheidung und öffentliche Interaktion</p>
+<p>Der Studentensenat hat mehrere Maßnahmen ergriffen, die ihn zu einem Beratungsgremium machen. Er folgt den Instruktionen von Alice Sturgis parlamentischen Prozeduren um angemessene Redemöglichkeiten und Ordnung zu gewährleisten. Um die Gesetzgebung zu verabschieden, muss sie den folgenden Prozess durchlaufen:</p>
+<p>1)	Erste Lesungen, in denen nur erklärende und vertiefende Fragen gestellt werden dürfen. Dies ermöglicht es dem Initiator der Gesetzgebung Bereiche, die unklar sind und mehr Forschung benötigen, zu identifizieren, was hilft, gegenseitiges Verständnis in Bezug auf die Fragestellung zu gewährleisten.<br />
+2)	Der Komitee-Bericht: Der Gesetzesvorschlag wird dann von einem der vier Komitees (Akademische und Administrative Anliegen, Generelle Anliegen, Abseits des Campus, Auf dem Campus) überprüft. Das Komitee kann Änderungen vorschlagen und seine Meinung äußern. Das Komitee kann das Gesetz zudem auf unbestimmte Zeit vertagen, wenn es dies für richtig hält. Wenn das Komitee über das Gesetz entschieden hat, kann es die neue Vorschrift, als günstig, ungünstig, oder mit „keiner Meinung“ deklarieren. Ein Mehrheits- und Minderheitsbericht kann weiterhin erstellt werden.<br />
+3)	Während der zweiten Lesung wird der Bericht des Komitees vorgestellt und argumentative Fragen zum Gesetzesvorschlag dürfen gestellt werden. Es können auch weitere Veränderungen am Gesetz vorgenommen werden. Der Senat kann über die Gesetzgebung diskutieren und das Gesetz bis auf unbestimmte Zeit verschieben, es verabschieden oder es ablehnen.<br />
+4)	Direktorium: Als nächstes geht der Gesetzesentwurf an das Direktorium, das das Gesetz verabschieden, ändern, ablehnen oder zurück an den Senat geben kann. Der Senat kann die Entscheidung des Direktoriums mit einer 2/3 Mehrheit aushebeln. </p>
+<p>Diese Schritte im Gesetzgebungsprozess erlauben ein höheres Maß an Deliberation. Senatoren können die Probleme mit ihren Wählern diskutieren. Es bietet außerdem Zeit für weitere Forschung, sodass eine solide Informationsbasis gebildet werden kann. Die Komitees identifizieren eine große Bandbreite an Lösungen in ihren Treffen, indem sie kleinere Fokusgruppen bilden in denen sie die Gesetze bearbeiten.<br />
+Der Senat interagiert mit der Öffentlichkeit auf unterschiedliche Weise: über öffentliche Foren, die Medien, und über das Gespräch mit den Wählern. Jedes Jahr gibt es eine Vielzahl von öffentlichen Foren im Senat. Die Foren finden zu Beginn der Senatstreffen statt und jedes Jahr kommen Mitglieder der Verwaltung, der Universitätspräsident, studentische Gruppen, und einige Vertreter des Verwaltungsrates zum Senat um Präsentationen zu geben. „The Daily“, die Zeitung der Universität Washington, berichtet häufig über die Gesetzgebungsverfahren im Senat. </p>
+<p>Einfluss, Ergebnisse und Wirkung </p>
+<p>Der Studentensenat vertritt Studenten des gesamten Campus. Wenn ein Gesetz vom Senat verabschiedet wird, wird es daher als offizielle Studentenmeinung betrachtet. Die Gesetzgebung des Senats verfolgt die Zwecke die studentische Meinung oder Unterstützung zu einem Thema einzuholen, sowie neue Ideen und Lösungsansätze für die Studenten zu finden. </p>
+<p>Im Jahr 2006 stellte ein Senator fest, dass Oberst Gregory Boyington, USMC, ein Alumnus der Universität, mit der US Ehrenmedaille ausgezeichnet worden war. Um Oberst Boyingtons Beiträge für die Universität und die Nation zu feiern, schlug der Senator vor, eine Gedenkstätte für den Oberst anlässlich des zwanzigsten Jahrestages seines Todes zu errichten [7]. </p>
+<p>Die Gesetzgebung scheiterte wegen einer Vielzahl an Gründen. Einige Senatoren wollten lieber Filipino Veteranen ehren oder Gordon Hirabayashi, ein Absolvent der Universität, der sich weigerte in die japanischen Internierungslager zu gehen [8].  Nach einer Untersuchung fanden die Senatoren heraus, dass mehreren anderen UW Alumnus die Ehrenmedaille verliehen worden war. Die Universität Washington hat die zweithöchste Anzahl von Alumnus unter den nicht-militärischen Institutionen, die mit der Medaille ausgezeichnet worden sind [9]. Im Februar 2006 wurde ein neues Gesetz vorgeschlagen, um die Alumnus der Universität zu ehren, die mit der Medaille ausgezeichnet worden sind. Dazu sollte ein Denkmal auf dem Campus errichtet werden. Dieses Gesetz beschleunigte den Prozess, das Denkmal zu errichten, das heute am Ende des „Memorial“-Wegs steht. </p>
+<p>Während der Wirtschaftskrise musste die Universität Washington viele finanzielle Einschnitte hinnehmen. Um das Bewusstsein über die Auswirkungen dieser Kürzungen zu erhöhen und die Anstrengungen des ASUW Büros bei ihren Bemühungen zu unterstützen, für vorhersehbare und erschwingliche Studiengebühren und ausreichende finanzielle Hilfe zu sorgen, wurden zwei Beschlüsse zur Unterstützung der Hochschulen gefasst: R-16-17 &quot;Eine Resolution zur Notwendigkeit der Unterstützung von Hochschulbildung&quot; und R-16 bis 19 &quot;eine Resolution zum Erhalt Finanzieller Hilfe&quot;. Jeder Teil der Gesetzgebung wurde zu den Senatoren und Vertretern der Gesetzgebung Washingtons geschickt und über fünfzig Senatoren schrieben die Regierung an, um die Notwendigkeit der höheren Bildung zu unterstreichen, und keine neuen finanziellen Einschnitte, sondern finanzielle Hilfe zu fordern.</p>
+<p>Diese beiden Fälle sind nur zwei von Hunderten von Gesetzen und Auswirkungen, die der Studentensenat bei der Förderung der studentischen Meinungen und Interessen hat.</p>
+<p>Analyse und Kritik</p>
+<p>Seitdem er ins Leben gerufen wurde, hat sich der Studentensenat stets weiterentwickelt und verändert. Er stellt einen Raum für studentische Deliberation dar und dient als meinungsschaffendes Organ der Studenten. An einem guten Tag nimmt der Senat ein Thema auseinander, bildet sich eine Meinung und bietet Lösungsvorschläge. Im Jahr 2009, während der 15. Sitzung, wurde R-15-21, „eine Resolution zur Unterstützung der Unterbringung der „Zelt-Stadt III“ an der Universität Washington eingeführt. Dieses Gesetz ging schnell durch den Senat ohne breite Informationsbasis, unterschiedliche Meinunge, Material zu dem Thema, und einer Evaluation der Vor- und Nachteile. Obwohl die Gesetzgebung des Senats mächtig ist, da der Senat 40.000 Studenten vertritt, wurde dieses Gesetz ohne die notwendige Deliberation verabschiedet.<br />
+Der Senat ist zudem nicht mehr der politisch aktive Körper, der er einst war. Einige Studenten kritisieren die Senatoren dafür, nicht leidenschaftlich genug zu sein. Der ehemalige Senator Aaron Lerner gab an, dass er auf dem gesamten Campus ein Gefühl der Apathie gegenüber dem Senat festgestellt habe und dass die Senatoren sich mehr um die Studenten bemühen sollten. Er möchte den Senat so politisch wie einst erleben [10]. Der Senat folgt einer bestimmten parlamentarischen Prozedur und manchmal fühlen sich die Senatoren nicht wohl damit, ihre Meinungen auszudrücken, da sie durch diese komplexe parlamentarische Prozedur verwirrt sind. Hier sind die Komitees hilfreich, da sie es für die Senatoren erleichtern, sich auszudrücken. </p>
+<p>Um ein deliberativerer Körper zu werden, müssen sich die Senatoren und aktiver mit den Studenten beschäftigen und sie über die anfallenden Themen informieren. Dazu ist eine solide Informationsgrundlage nötig. Es müssen zudem inhaltliche Fragen zu den Themen beantwortet werden um die gegenseitige Verständigung zu erleichtern. Die parlamentarischen Prozeduren sollten weiterhin von allen Senatoren verstanden werden, um Redemöglichkeiten gleich zu verteilen und unterschiedliche Ansichten zu hören. Dadurch, dass die Gesetzgebung bereits ein paar Wochen vor der Abstimmung thematisiert wird, sodass Senatoren zu Wort kommen können und Studenten beteiligt werden, wird gewährleistet, dass eine breite Palette von Lösungen adressiert und vollständig bewertet wird, um sicherzustellen, dass am Ende die beste Entscheidung getroffen werden kann.</p>
+<p>Referenzen</p>
+<p>1. ASUW Office of Communications. ASUW Student Handbook. Seattle: ASUW, 1987. Print.<br />
+2. Hall, Camden. Student Government : an Analysis of Its Origin and Purpose, with the History of the Associated Students of the University of Washington and an Analysis of the 1961 ASUW Presidential Election. Seattle: Political Science 499, 1962. Print.<br />
+3. &quot;Interview with Former Senator Aaron Lerner.&quot; E-mail interview. 1 June 2010.<br />
+4. &quot;Interview with SAO Advisor Rene Singleton.&quot; Personal interview.<br />
+Links<br />
+5. <a href="http://senate.asuw.org/legislation/12/R/R-12-26.html">http://senate.asuw.org/legislation/12/R/R-12-26.html</a></p>
+</div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A40">Education &amp; Schools</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A280">Student Interests</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Seattle, Washington</span>
+                              <div class="country-name" itemprop="addressCountry">United States</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+us">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">70</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A119">Students</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/university-student-government">University Student Government</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A156">Other</a></div></div></div><div class="field field-name-field-targeted-audience-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Targeted Audience:&nbsp;</div><div class="field-items"><div class="field-item even">University Board</div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A26">Academic Institution</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A26">Academic Institution</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A26">Academic Institution</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Student employees</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-fbb300d3834f69bd4cb0c9d3b7b50977">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/3193">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

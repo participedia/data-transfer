@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/rafaela-agenda-estrategica" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/466" />
+  <title>Rafaela Agenda Estrategica | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"hAwDXTC8linJ4DDjYMsubQ2aR8hwK8VG4DoCVNURRN4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"466"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/rafaela-agenda-estrategica?destination=node\/466":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-466 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/rafaela-agenda-estrategica" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/rafaela-agenda-estrategica?destination=node/466" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-MssxZ5ZvYNC3JdlTyfctlpL9gY8ba5spYSbAQCkZxxI" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Rafaela Agenda Estrategica</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Rafaela Agenda Estrategica</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/lbrizio" title="View user profile." class="username" xml:lang="" about="/en/people/lbrizio" typeof="sioc:UserAccount" property="foaf:name" datatype="">Leonel Maximiliano Brizio</a> on Tue, 01/03/2012 - 15:37</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sat, 05/28/2016 - 15:28</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Rafaela Agenda Estrategica - Participedia" addthis:url="http://participedia.net/en/cases/rafaela-agenda-estrategica"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/agenda%20logo.jpg?itok=XB6Mf4ZE" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Objecto y Problema</h3><p>La Agenda Estratégica Rafaela 2010 - 2016, es un proceso participativo para construir una visión compartida a largo plazo para la ciudad y una serie de recomendaciones para su desarrollo.</p><p>Es un proceso participativo que pretende reemplazar el futuro como cuestión aleatoria. Armar una agenda estratégica es también pensar en los problemas que hoy no tenemos y que tendríamos que hacer hoy para no tenerlos. La idea es poder anticiparnos para no correr siempre desde atrás, dice Roberto Mirabella, Secretario Gestión y Participación de la Municipalidad de Rafaela.</p><p>Los problemas, desde los más elementales a los más complejos, son multidisciplinarios.</p><p>La pregunta que da origen al proceso era: ¿qué tenemos que hacer hoy para que la ciudad sea competitiva dentro de 30 años, sea más humana, más justa, más vivible?</p><h3>Historia</h3><p>La ciudad de Rafaela, que superó en el 2010 los 100.000 habitantes, ha ido viviendo a lo largo de su joven historia, un alto dinamismo económico-productivo donde ha jugado un papel importante el entramado institucional. Existe una identidad y orgullo muy fuerte del “rafaelino” con su ciudad y un compromiso con su desarrollo, basados en valores consolidados como en el trabajo, el esfuerzo y el sacrificio colectivo.</p><p>Desde el Gobierno Local se ha tratado de acompañar la expansión del sector industrial y la sostenida cultura empresarial PyME.</p><p>La construcción de la ciudad es uno de los procesos más fascinantes que emerge de la actividad humana. Es en la ciudad donde se produce esa encrucijada entre determinación y azar, entre lo global y lo local, entre cultura y economía, entre gobierno y ciudadanía, y todo esto mezclado con un conjunto heterogéneo de lógicas, que a veces acaban siendo plenamente ilógicas. Como diría Jordi Hereu, actual Alcalde de Barcelona, todas las ciudades aplican, con acentos diferentes, un mismo lenguaje, pero, no todas las ciudades funcionan igual y no todas las ciudades funcionan.</p><h2>PROCESO PARTICIPATIVO</h2><h3>Fase de Planificación Estratégica: Diagnóstico, Aprendizaje</h3><p>Fue una experiencia de plena participación comunitaria. Se realizaron talleres sectoriales donde surgieron diversas temáticas de interés, y luego se realizaron conferencias y seminarios para abordarlas específicamente, y lograr elaborar un diagnóstico que aporte reflexiones y datos para una agenda estratégica de desarrollo.</p><p>A continuación y de acuerdo al insumo brindado por los talleres, se conformaron 5 desafíos a trabajar en la construcción de la AE: “Territorio Integrado”, “Mayor competitividad económica”, “Cohesión social”, “Innovación y Conocimiento”, por último, “Ciudadanía y gobernabilidad democrática” (links a los informes de los talleres, en el ANEXO I - Enlaces).</p><p>En este marco, se trabajó en la recopilación, sistematización y procesamiento de información básica para la construcción de un diagnóstico que sirva de base para la posterior etapa de formulación de la Agenda.</p><h3>Fase de Planificación Participativa: Talleres Ciudadanos, Deliberación, Acuerdos</h3><p>A mediados de 2009 se da inicio a una nueva etapa de este proceso, de plena participación comunitaria, en la construcción de un diagnostico consensuado y en la formulación propositiva de la Agenda Estratégica.</p><p>En ese camino, entre Mayo y Diciembre de 2009, se fueron realizando diversos Talleres Ciudadanos Temáticos que contaron con la participación de técnicos y especialistas, representantes de las instituciones locales y ciudadanos en general: Agropecuario, Comercio, Servicios-Industria-Turismo, Social, Urbano-Ambiental; Talleres Barriales y un Taller con Estudiantes.</p><p>El producto de estos talleres, en los que participaron representantes de 115 instituciones y más de 500 vecinos, fue una puesta en cuestión de las principales problemáticas que es preciso abordar y una serie de recomendaciones en cada materia.</p><p>Luego se desarrollaron reuniones de la Mesa de Coordinación, integrada por las Comisiones de Seguimiento (instituciones locales, ONG., escuelas, etc.), como espacio de acuerdos y concertación entre actores, donde se debatió y aprobó el diagnóstico, sintetizado en una matriz DAFO -Debilidades, Amenazas, Fortalezas y Oportunidades- y el Modelo de Desarrollo, los Lineamientos Estratégicos, los Objetivos, los Programas y los Proyectos que dan contenido a la Agenda Estratégica.</p><p>Llegada esta instancia, se consideró oportuno firmar un convenio a través del cual los actores de la comunidad se comprometen a llevar adelante las acciones que emanan de la Agenda, a través de un órgano de gestión asociada que tendrá bajo su  responsabilidad la conducción, monitoreo y control de gestión de la Agenda, que se denominó Consejo Consultivo Social, actualmente integrado por las siguientes instituciones: Organismos Gubernamentales y funcionarios públicos; ámbitos de articulación Público-Privadas; entidades intermedias; instituciones educativas; instituciones representadas en los distintos talleres para la elaboración de la Agenda Estratégica 2010 - 2016.</p><p>El proceso desarrollado, protagonizado por la Comunidad de Rafaela y sus instituciones, liderado por el municipio y acompañado por Universidades, con la participación activa de más de 500 vecinos, se constituye en una experiencia paradigmática para los municipios de la provincial de Santa Fe.</p><h2>Resultados y Efectos</h2><p>Estos son algunos de los resultados y efectos que se produjeron desde la Agenda Estratégica, en relación a cada eje de acción. A continuación se dará una breve descripción de cada uno, según el eje de acción.</p><p><strong><u>EJE TERRITORIO INTEGRADO</u></strong></p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/32">SEMINARIO “LA VIEJA TERMINAL EN DEBATE”</a> [DEAD LINK]</p><p>El mismo tiene como objeto contribuir al debate ciudadano sobre el futuro uso de la antigua Terminal de Colectivos, su interacción con el entorno del centro rafaelino, la resolución<br />arquitectónica y los mecanismos de gestión y financiación. Tiene relevancia estratégica recoger diversas opiniones y propuestas que ayuden a evaluar la definición de su futuro destino.</p><p><a href="http://rafaela-sustentable.com.ar/">RAFELA SUSTENTABLE</a></p><p>El Programa “Rafaela + sustentable” nace de la visión de una ciudad que se adapta y responde a las nuevas necesidades del entorno y se nutre de la idea de que, en un mediano a largo plazo, todas las actividades que se desarrollen deberán ser consecuentes social, ambiental y económicamente con el medio que nos sustenta.</p><p><strong><u>EJE MAYOR COMPETITIVIDAD ECONÓMICA</u></strong></p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/6">CONFERENCIA MAGISTRAL DEL DR. PATRIZIO BIANCHI</a> [DEAD LINK]</p><p>El destacado economista italiano y actual rector de la Universidad de Ferrara, Dr. Patrizio Bianchi, visitó la ciudad de Rafaela en el mes de diciembre de 2009 y brindó una conferencia magistral en el marco de la Agenda Estratégica Rafaela 2010-2016.</p><p>Se desarrolló la conferencia magistral sobre "Los nuevos desafíos de la globalización".<br />En la misma señaló cómo la crisis financiera mundial ha demostrado la necesidad de basar el desarrollo en la producción, el trabajo y el conocimiento. La apertura de los mercados internacionales abre grandes oportunidades para el crecimiento, pero se hace necesario insertarse con una fuerte identidad propia.</p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/8">SEMINARIO DE INNOVACIÓN PRODUCTIVA</a> [DEAD LINK]</p><p>En el marco de la Agenda Estratégica Rafaela 2010-2016, desafíos Innovación y Conocimiento y Mayor Competitividad Económica, se realizó el martes 10 de noviembre, en el auditorio de la Universidad Católica de Santiago del Estero (UCSE), el Seminario Innovación Productiva.</p><p>Del evento participó Gabriel Yoguel, reconocido especialista en la materia, quien se explayó sobre tópicos vinculados a la innovación productiva con orientación a cuestiones ambientales y biotecnológicas. También estuvo presente el Directivo de Yeruvá S.A., Miguel Requena, quien presentó el caso de su empresa dedicada al desarrollo de proteínas animales a partir de subproductos. Además, se realizó una presentación institucional del Fondo Tecnológico Argentino (FONTAR) a cargo de María Laura Olocco, quien analizó los principales proyectos de innovación financiados a través de la entidad. </p><p><strong><u>EJE COHESIÓN SOCIAL</u></strong></p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/28">TALLER DE INNOVACIÓN SOCIAL</a> [DEAD LINK]</p><p>Con una amplia participación de emprendedores y cooperativas, a quienes estaba dirigido, se llevó a cabo ayer miércoles 4 de agosto a las 12 hs el Taller de Innovación Social a cargo del Magister Juan de Dios García Serrano en el Salón Verde de la Municipalidad de Rafaela.</p><p align="left"><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/16">TALLER-SEMINARIO: HACIA UNA NUEVA FORMA DE ARTICULACIÓN SOCIAL</a> [DEAD LINK]</p><p>Con la participación de más de 130 personas, representando a 70 instituciones de la ciudad de Rafaela, se realizó el Seminario - Taller: Experiencias de Coordinación. Hacia una nueva forma de articulación social, moderado por el Licenciado Sebastián Bertucelli.</p><p>Esta actividad se desarrolló en el marco del Desafío Cohesión Social de la Agenda Estratégica 2010-2016. Durante la primera parte de la actividad, se realizó una breve presentación del Seminario y de los objetivos del mismo. En la segunda se expusieron casos de articulación social vinculados al Centro de Integración Comunitaria que funciona en el<br />barrio Monseñor Zazpe; al Programa de Inclusión Educativa; a la Escuela Ángela de la Casa; al Programa Arteentapiales; a la cocina comunitaria San Francisco de Asís del barrio Villa Podio y a Responsabilidad Social<br />Empresaria. Para finalizar este encuentro se abrió el debate con preguntas disparadoras que invitaron a la reflexión y que enriquecieron este encuentro con el aporte de las distintas miradas presentes.</p><p><strong><u>EJE INNOVACIÓN Y CONOCIMIENTO</u></strong></p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/3">PRIMER ENCUENTRO DE EXPERIENCIAS CON TIC EN EL AULA</a> [DEAD LINK]</p><p>El Dr. Antonio Battro, director del área educativa a nivel mundial del Programa "Una laptop por Niño", del que la Municipalidad participa promoviendo una prueba piloto en dos escuelas locales desde octubre de 2007, brindó una charla a los docentes presentes en el "Primer encuentro de experiencias con TIC en el aula".</p><p><a href="http://programainclusionrafaela.blogspot.com/p/momentos.html">INCLUSIÓN EDUCATIVA</a></p><p>Con respecto a la problemática de que los chicos que habiendo terminado su educación primaria y no van a continuar sus estudios, no van a trabajar por su edad temprana. Hay 150 chicos en el programa, a quienes se acompaño con becas, apoyo escolar, tutorías de ayuda docente especializada, para realizar las tareas, controlar las asistencias, relacionarse con las familias. De ésta manera se pudo ayudar a 150 chicos a ingresar a las escuelas secundarias.</p><p><strong><u>EJE CIUDADANÍA Y GOBERNABILIDAD DEMOCRÁTICA</u></strong></p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/18">JORNADA CIUDADANÍA PARA ARMAR</a> [DEAD LINK]</p><p>En el marco del Desafío Ciudadanía y Gobernabilidad Democrática de la Agenda Estratégica 2010-2016 se ha llevado a cabo la Jornada denominada ̈Ciudadanía para Armar̈. La misma contó con la participación de representantes de diferentes instituciones educativas de la ciudad.</p><p>Esta actividad se desprende de las conclusiones arribadas en los talleres participativos de Ciudadanía realizados en el año 2009. En ellos, se evidenció la necesidad de profundizar en los mecanismos de aprendizaje en el aula sobre temas relacionados a la construcción de ciudadanía, derechos ciudadanos y mecanismos de participación.</p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/news/ver/11">CONFERENCIA : QUE GOBIERNO, PARA QUE CIUDAD POR JOAN SUBIRATS</a><strong> </strong>[DEAD LINK]</p><p>En el marco de la Agenda Estratégica 2010-2016, Joan Subirats, Doctor en Ciencias Económicas y Catedrático de Ciencias Políticas de la Universidad Autónoma de Barcelona brindó una conferencia titulada "¿Qué gobierno para qué ciudad? Participación y gobernanza democrática”.</p><p> Con la presencia de más de 100 personas, el Dr. Joan Subirats, especialista en políticas públicas y en temas de gestión e innovación democrática ofreció un profundo análisis de las dinámicas sociales  y la expansividad de lo urbano y de las  políticas públicas implementadas en su ciudad, Barcelona. Además, resaltó los elementos de cambio en las políticas urbanas y señaló la importancia de la participación de los diferentes actores sociales en la construcción de las ciudades.</p><h3>ANÁLISIS Y CRÍTICAS</h3><p>Según observaciones de la Secretaría de Gestión y Participación, existió durante la primera etapa un compromiso moderado de las instituciones que conforman el Consejo Consultivo Social. Tal vez esta actitud se deba a una inmadurez de las mismas para hacerse cargo de un proceso de suma complejidad, a una escasez de recursos humanos para destinar  específicamente al proceso, o bien a un desinterés de las mismas. Al mismo tiempo, es preciso tener en cuenta, que en lugar de presuponer en el diseño de determinado proyecto que entre los participantes existe unidad de intereses y la misma intensidad del compromiso, hay que partir con la idea de su divergencia de interés, énfasis, entrega.</p><p>De todas formas, varias organizaciones, como se ha podido observar durante algunas de las actividades presentadas en éste caso, han acompañado el proceso, aportando sus instalaciones y personal idóneo. El balance realizado arroja que el liderazgo del Estado local se torna fundamental para el desarrollo de esta política, en tanto asume el rol de brazo operativo.</p><p>Otra cuestión a tener en cuenta es que la puesta en marcha de este proyecto involucra dos formas de planificación: la planificación estratégica y la planificación participativa.</p><p>La planificación estratégica, concibe a los otros como diferentes, con los cuales se deben establecer alianzas o estrategias en tanto que ejercen distintas cuotas de poder.</p><p>La perspectiva de la planificación participativa, en cambio, concibe al otro como un semejante, un ciudadano cuyo saber es complementario, con derechos y responsabilidades, y con la capacidad de intervenir en el planteo de problemas y alternativas de solución.</p><p>Si bien estas dos perspectivas de planificación se utilizan de manera combinada, su implementación presenta complejidades, en tanto la diversidad en la concepción de los participantes. Esta diferencia al momento de plantear la alteridad, puede presentar riesgos para la gestión del proyecto, en tanto que las discusiones pueden ser coptadas por viejas batallas o bien reducirse a la puja de intereses sectoriales, espacio donde el ciudadano común, poco habituado a estas lógicas de poder, puede alejarse.</p><p>Para ello, la promoción de la autonomía del proceso de construcción de la Agenda Estratégica y la consolidación del Consejo Consultivo Social como líder en la conducción, se constituyen en medidas sumamente importantes.</p><p> </p><h3>FUENTES</h3><p><strong>Institucional</strong></p><p>AGENDA ESTRATÉGICA</p><p><a href="http://www.rafaela.gov.ar/agendaestrategica/">https://www.rafaela.gov.ar/nuevo/BibliotecaVirtual.aspx</a></p><p><strong>Youtube</strong></p><p>CONFERENCIA: PABLO COSTAMAGNA, EL CASO RAFAELA</p><p><a href="http://www.youtube.com/watch?v=DdjC-jRX9GE">http://www.youtube.com/watch?v=DdjC-jRX9GE</a></p><p>CONFERENCIA JOAN SUBIRATS</p><p><a href="http://rafaela.gov.ar:90/agendaestrategica/challenges_videos/index_video/5">http://rafaela.gov.ar:90/agendaestrategica/challenges_videos/index_video/5</a> [DEAD LINK]</p><p><strong>Otras fuentes</strong></p><p>LA MIRADA JÓVEN DE LA AGENDA ESTRATÉGICA</p><p><a href="http://www.facebook.com/group.php?gid=111657604579&amp;ref=share">http://www.facebook.com/group.php?gid=111657604579&amp;ref=share</a> [DEAD LINK]</p><p>RAFAELA SUSTENTABLE</p><p><a href="http://rafaela-sustentable.com.ar/">http://rafaela-sustentable.com.ar/</a></p><p><a href="http://www.youtube.com/user/RafaelaSustentable">http://www.youtube.com/user/RafaelaSustentable</a></p><p>NOTICIAS</p><p><a href="http://www.rafaela.com/cms/news/ver/23393/16/Agenda-estrat%C3%A9gica-Rafaela-2010-2016.html">http://www.rafaela.com/cms/news/ver/23393/16/Agenda-estrat%C3%A9gica-Rafaela-2010-2016.html</a></p><p> </p><h3>ANEXO I: ENLACES</h3><p>Informes sobre el resultado de los talleres según desafíos:</p><p align="left">1.- <u>Territorio integrado</u>: INFORME (<a href="http://www.rafaela.gov.ar/agendaestrategica/">link</a>) [DEAD LINK]</p><p>Presentación realizada en el taller que se llevó a cabo el 22 de mayo de 2009 en la sala auditorio de la Universidad de Ciencias Empresariales y Sociales (sede Rafaela).</p><p align="left">2.- <u>Mayor competitividad</u>: INFORME (<a href="http://rafaela.gov.ar:90/agendaestrategica/challenges/download/2/Competitividad%20-%20Informe%202009.pdf">link</a>) [DEAD LINK]</p><p>Presentación realizada en el taller que se llevó a cabo el 3 de junio de 2009 en el Salón Centenario de la Sociedad Rural de Rafaela.</p><p align="left">3.- <u>Cohesión social</u>: INFORME (<a href="http://rafaela.gov.ar:90/agendaestrategica/challenges/download/3/Cohesion%20Social%20-%20Informe%202009.pdf">link</a>) [DEAD LINK]</p><p>Presentación realizada en el taller que se llevó a cabo el 27 de mayo en el Centro Cultural Municipal - Sala Sociedad Italiana. El mismo contó con la participación de 140 representantes de distintas instituciones de la ciudad que abordaron tópicos relacionados a la cultura, educación, salud, deporte, tercera edad, niñez, vecinales, discapacidad y acceso a la vivienda.</p><p align="left">4.- <u>Innovación y conocimiento</u>: INFORME (<a href="http://rafaela.gov.ar:90/agendaestrategica/challenges/download/4/Innovacion%20-%20Informe%202009.pdf">link</a>) [DEAD LINK]</p><p>Presentación realizada en el taller que se llevó a cabo el 26 de junio en la Universidad Tecnológica Nacional (sede Rafaela).</p><p align="left">5.- <u>Ciudadanía y gobernabilidad</u>: INFORME (<a href="http://rafaela.gov.ar:90/agendaestrategica/challenges/download/5/Ciudadania%20-%20Informe%202009.pdf">link</a>) [DEAD LINK]</p><p>Presentación realizada en el taller que se llevó a cabo el 29 de mayo de 2009 en la Universidad Católica de Santiago del Estero.</p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1629">Long-term Community Development Plan</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Rafaela      </span>
+              ,                     <span class="region" itemprop="addressRegion">S</span>
+              <div class="country-name" itemprop="addressCountry">Argentina</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Rafaela%2C+S%2C+%2C+ar">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Santa Fe        AR      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/consensus">Consensus</a></div><div class="field-item odd"><a href="/en/methods/deliberation">Deliberation</a></div><div class="field-item even"><a href="/en/methods/collaborative-governance">Collaborative Governance</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A147">Consensus</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A26">Academic Institution</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A20">Community Based Organization</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A37">Individual</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-87c2c1b0bb9d4da4df7f9bcda5d503dd">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/466">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

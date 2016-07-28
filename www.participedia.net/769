@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/769" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/769" />
+  <title>Oregon Citizens Initiative Review 2010 Measure 74 | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"edeZMkVF1FoC9lUdFeiduhOqlMbzDhjFYdmzmdfuiaY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"769"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/769?destination=node\/769":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-769 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/oregon-citizens-initiative-review-2010-measure-74" class="language-link" xml:lang="en" title="Oregon Citizens Initiative Review 2010 Measure 74">English</a></li>
+<li class="de last"><a href="/de/faelle/oregon-citizens-initiative-review-2010-measure-74" class="language-link" xml:lang="de" title="Oregon Citizens Initiative Review 2010 Measure 74">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/769?destination=node/769" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-eJ18EZUQ4z6Nn0i7UFCQHuiOhVaJKXQet32YdJtlu2Y" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Oregon Citizens Initiative Review 2010 Measure 74</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Oregon Citizens Initiative Review 2010 Measure 74</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Mon, 01/21/2013 - 10:19</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 05/27/2016 - 14:40</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Oregon Citizens Initiative Review 2010 Measure 74 - Participedia" addthis:url="http://participedia.net/en/node/769"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/Measure%2074b.jpg?itok=FdHZwrbR" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Fallstudie, die von Robert Richards am 06.06.2012 verfasst wurde.</h3><p><strong>Problemstellung und Zweck</strong></p><p>Die <em>Oregon Citizens’ Initiative Review 2010 Mesaure 74</em> (Oregon CIR 2010 M74) ist die Bewertung einer Bürgerinitiative, die im Bundesstaat Oregon der Vereinigten Staaten statt fand. Ihr Gegenstand ist die so genannte Maßnahme 74, der Entwurf einer Satzung, die ein geregeltes Verteilungssystem für die medizinische Verabreichung von Marijuana enthält. Die Bewertung der Bürgerinitiative wurde in einem deliberativen Prozess durch eine Jury von Bürgern ausgeführt. Die so genannte Oregon Citizens Initiative Review (Oregon CIR) wurde in den landsweiten Wahlprozess integriert.</p><p><strong>Geschichte</strong></p><p>Tyrone Reitman, Ned Crosby (Gründer des Jefferson Centers, das die Bürger Jury entwickelte) und seine Frau Patricia Benn unterstützten den Gebrauch der CIR in Oregon im Jahr 2003. Im Jahr 2006 organisierten Tyrone Reitman und Elliot Shuford, Kollegen an der Universität Oregon, ein Projekt um die CIR in Oregon einzuführen. Crosby und Benn stimmten zu das Projekt zu finanzieren. Früh im Jahr 2007 gründeten Reitman und Shuford <a href="http://participedia.net/organizations/healthy-democracy-oregon">Healthy Democracy Oregon</a> (HDO), eine Organisation, die das Projekt ausführen sollte. Dieses wurde später umbenannt in die <a href="http://participedia.net/cases/oregon-citizens-initiative-review-oregon-cir">Oregon Citizens’ Initiative Review</a> (Oregon CIR). Nach einem erfolgreichen Versuch im Jahr 2008 autorisierte Oregon’s Legislatur Oregon CIR für die Wahl 2010. Daraufhin organisierte HDO zwei Oregon CIRs im Jahr 2010, von denen die Oregon Citizens' Initiative Review 2010 Measure 74, die vom 16. Bis 20. August stattfand, die zweite war.</p><p><strong>Ursprung und Finanzierung</strong></p><p>Die Oregon Citizens' Initiative Review 2010 Measure 74 (Oregon CIR 2010 M74) wurde organisiert vom HDO. Die Finanzierung stammte aus Zuschüssen von Stiftungen, Nonprofit-Organisationen, Beiträgen von HDO Vorstandsmitgliedern und privaten Spenden von den Bürgern aus Oregon. Ein Teil der Finanzierung stammte von der Organisation <a href="http://promotinghealthydemocracy.org/">Promoting Healthy Democracy</a>, deren Mitgründer Crosby ist. HDO erhielt keine Unterstützung des Staates Oregon.</p><p><strong>Auswahl der Teilnehmer </strong></p><p>Die Oregon CIR beinhaltet vier Kategorien von Teilnehmern: Diskussionsteilnemer, Bürger, die über die Wählerinitiative beratschlagen; Fürsprecher, Individuen, die Kenntnisse von der Wählerinitiative mitbringen und entweder dafür oder dagegen argumentieren; Interessenvertreter, Personen, die von der Wählerinitiative betroffen sein werden und die ebenfalls dafür oder dagegen argumentieren; und Zeugen im Hintergrund, Personen mit einem Kenntnisstand zu Themen, die mit der Initiative zusammenhängen und darüber neutrale Informationen vermitteln.</p><p>Um die Diskussionsteilnehmer für Oregon CIR 2010 M74 auszuwählen, benutzte HDO einen Prozess, der in Kooperation mit dem Umfragen-Forschungs-Institut von Davis, Hibbitts, and Midghall Inc entwickelt wurde. Die League of Women sowie Voters of Oregon beobachteten den Auswahlprozess, der wie folgt ablief: HDO nahm eine Auswahl von 10.000 Wählern aus Oregon vor. Allen Wählern in dieser Auswahl wurde eine Einladung zur Partizipation in der 2010 Oregon CIR und eine demographische Umfrage geschickt. 350 Teilnehmer antworteten (was einer Antwortrate von 3.5% entspricht). Unter denen, die antworteten, wählte HDO (indem es die demographischen Daten der Umfrage nutzte) anonym 24 Diskussionsteilnehmer und fünf alternative Teilnehmer für jedes 2010 Oregon CIR. Die Teilnehmer wurden so ausgewählt, dass ihre Zusammensetzung dem Wohnort, der politischen Ausrichtung, dem Bildungsstand, der Ethnie, dem Geschlecht und dem Alter der Einwohner Oregons entsprachen. Da jedoch einige ausgewählte Teilnehmer nicht teilnehmen konnte, differierte die Zusammensetzung leicht von der Wählerstruktur Oregons, in dem Sinne, dass die Diskussionsrunde ein Mitglied mehr mit einer College-Ausbildung beinhaltete, eines weniger mit einer High-School Ausbildung (oder geringerem Bildungsabschluss), ein Mitglied mehr aus Oregon’s zweiten und fünftem Kongressbereich, ein Mitglied weniger von Oregon’s erstem Kongressbereich, ein Mitglied mehr aus der Republikanischen Partei und ein Mitglied weniger, das politisch unabhängig ist (im Vergleich zum Auswahlplan). HDO bezahlte für die Reise- und Unterbringungskosten der Diskussionsteilnehmer sowie für Kinderbetreuung ein Stipendium von $150 pro Tag.</p><p>Oregon CIR 2010 M74 umfasste die Befürworter der Wählerinitiative, sowie einen Polizeichef und einen Staatsanwalt, die gegen die Wählerinitiative waren. Interessenvertreter wurden von den Befürwortern ausgewählt und schlossen, für die Befürworter, vier Aktivisten für medizinisches Marijuana, drei Patienten von medizinischen Marijuana und ihre Vertreter, ein Physiker, der Forschung an dem Wirkstoff betreibt und einen Sprecher des Kommittees, das das Oregon Department of Human Services über das staatliche Programm zu medizinischem Marijuana berät, ein. Die Gegner von Measure 74 wählten keine Interessenvertreter.</p><p>Um Hintergrundzeugen auszuwählen identifizierte HDO Individuen, die als Experten zum Themenbereich der Maßnahme 74 anerkannt sind und bekam Namen von weiteren potenziellen Zeugen von den Fürsprechern. Das führte zu einer Liste von siebzig potenziellen Hintergrundzeugen, die HDO interviewte um mehr zu erfahren über die Kenntnisse der Individuen, ihre Verfügbarkeit bis zur Diskussionsrunde und ihre Unterstützung für die Maßnahme. Danach wurde die finale Liste erstellt. Die Diskussionsrunde suchte dann sieben Zeugen aus dieser Auswahl aus, unter denen ein ehemaliger Drogenfahnder für die federale Behörde war, zwei aktive Polizisten, ein pensionierter Polizist, ein Patient von medizinischem Marijuana, der Beamte, der den Gesetzgebungsprozess mit dem Oregon Department of Public Health geführt hat sowie ein Forscher im Bereich Gesundheitsrecht.</p><p><strong>Deliberation, Entscheidung und Öffentliche Interaktion</strong></p><p>Am ersten Tag der Oregon CIR 2010 M74 erklärten die Organisatoren den Diskussionsteilnehmern die Aufgabe. Ihre Aufgabe war es eine Stellungnahme anzufertigen, die die wichtigsten Fakten zum Measure 74 erklärte und auf die sich mindestens 14 von 24 Diskussionsteilnehmer einigen konnten. Zudem sollte die Stellungnahme erklären wieviele Teilnehmer die Maßnahme befürworten oder ablehnen sowie die Argumente dafür. Jeder der drei Teile der Stellungnahme (Hauptfakten sowie Argumente für und gegen die Maßnahme) durfte höchstens 130 Wörter umfassen. Danach erklärten die CIR Organisatoren und Moderatoren dem Panel die CIR Prozeduren und die Maßnahme 74. Viel Zeit des ersten Tages bestand aus praktischer Deliberation, in der die Diskussionsteilnehmer Erfahrung darin sammelten, die CIR Prozeduren auf eine hypothetische Wählerinitiative anzuwenden.</p><p>Die nächsten drei Tage bestanden aus Anhörungen, in den die Fürsprecher, Interessenvertreter und Hintergrundzeugen Argumente und Informationen zur Diskussionsrunde präsentierten. Während der Anhörungen wurde Teilnehmern die Möglichkeit gegeben Fragen zu stellen. Einen Tag nach den Anhörungen berieten sich die Teilnehmer in kleinen Gruppen und diskutierten dann mit allen Panel-Teilnehmern um die Gruppen-Resultate vorzustellen. Jeden Tag wurde jeder Teilnehmer einer anderen Gruppe und einem anderen Platz während der vollen Diskussionsrude zugewiesen um ihm der Vielfältigkeit der Ansichten auszusetzen und damit die Nähe zu bestimmten Teilnehmern keine Entscheidungen beeinflusst. (Die täglichen Platzzuweisungen wurden manuell bestimmt). Ausgebildete Moderatoren führten die Fragerunden in Deliberationen um sicherzustellen, dass alle Befürowrter, Interessenvertreter und Zeugen fair behandelt wurden und damit alle Teilnehmer die Chance bekamen gehört zu werden. </p><p>Am Ende jedes Tages füllten die Teilnehmer Fragebögen zu der Substanz und Qualität der Deliberationen aus. Die Umfragen wurden erstellt und verteilt von John Gastil und Katherine Knoblich, Forscher, die eine formelle Studie über die Oregon 2010 CIRs durchführten.</p><p>Die Deliberationen während Tag 2, 3, 4 und während des Morgens von Tag 5, die in der Öffentlichkeit stattfanden und aufgezeichnet wurden, konzentrierten sich auf Informationsbeschaffung. Während der Deliberation am Nachmittag des fünften Tages machten die Teilnehmer finale Entscheidungen ob sie Maßnahme 74 unterstützen oder nicht um diese dann in nicht-öffentlichen Diskussionen zu rechtfertigen.</p><p>Am Morgen des zweiten Tages hörten die Teilnehmer Argumente von Befürwortern und Interessenvertretern die für und gegen Maßnahme 74 waren. Am Nachmittag, als Teil der vollen Diskussionsrunde, wählten die Teilnehmer Hintergrundzeugen, Befürworter und Interessenvertreter, deren Argumente sie (noch einmal) hören und denen sie Fragen stellen wollten.</p><p>Am dritten Tag hielten die Zeugen, Fürsprecher und Interessenvertreter, die am Tag vorher ausgewählt wurden, Präsentation für die Teilnehmer. Deren Deliberationen beschäftigten sich mit der Identifikation von Hauptbefunden zur Maßnahme 74 und mit den überzeugensten Argumenten für oder gegen die Maßnahme.</p><p>Am vierten Tag äußerten die Fürsprechen ihr Schlussargument am Morgen. Am Nachmittag des vierten Tages sowie am Morgen des fünften Tages finalisierten die Teilnehmer die Formulierung der Hauptbefunde zur Maßnahme 74 und wählten darunter die wichtigsten aus. Einige Teilnehmer trafen sich zudem in Gruppen am Abend des vierten Tages um an der Formulierung von Hauptargumenten zu feilen. 14 von 24 Stimmen wurden benötigt um einen Hauptbefund in die Stellungnahme aufzunehmen. Zudem diskutierten die Teilnehmer ob sie Maßnahme 74 befürworteten oder ihr gegenüber standen im Licht der Hauptbefunde und aller Argumente, die sie gehört hatten. </p><p>Am Nachmittag von Tag fünf teilten sich die Teilnehmer in zwei Gruppen: Befürworter und Gegner der Maßnahme. Während dieser Gruppendiskussionen, die nicht-öffentlich waren und nicht aufgezeichnet wurden, wählten die Teilnehmer die stärksten Argumente für ihre Position aus und finalisierten die Formulierung dieser Argumente. Die Teilnehmer und das HDO Personal lasen, überprüften und kommentierten die Argumente daraufhin in der Diskussion, die zu einer Revision der Argumente beider Seiten führte. Diese Argumente wurden dann in die Stellungnahme aufgenommen. 13 Teilnehmer unterstützen die Maßnahme in der finalen Stellungnahme, während 11 dagegen waren.</p><p>Nach dem die Deliberationen am fünften Tag beendet waren, fertigten die Teilnehmer eine Evaluation des Oregon CIR Prozesses und der Organisatoren und Moderatoren an. Darin wurde von ihnen verlangt diverse Kriterien anzuwenden, wie zum Beispiel die Qualität der Deliberation und etwaige Beeinflussungen durch das Personal. Zudem hatte jeder Teilnehmer die Möglichkeit eine persönliche Stellungnahme abzugeben. Zudem wurde den Teilnehmern in der Evaluation die Möglichkeit gegeben eine persönliche Stellungnahme abzugeben, die Ansichten beinhaltete, die nicht in die Bürger Stellungnahme aufgenommen worden waren.</p><p>Um 16 Uhr am fünften Tag hielt HDO eine Pressekonferenz, in der die Teilnehmer der Oregon CIR 2010 M74 ihre Stellungnahme den Medien und der Öffentlichkeit präsentierten.</p><p>Die Stellungnahme wurde in das offizielle <a href="http://oregonvotes.org/doc/history/nov22010/guide/book13.pdf">2010 Oregon voters’ pamphlet</a> aufgenommen.</p><p>Einige Zeit nachdem Oregon CIR 2010 M74 abgeschlossen wurde, veröffentlichte HDO einen finalen <a href="http://cirarchive.org/media/attachments/documents/M74_Final_Report.pdf">report</a>, der das <a href="http://cirarchive.org/media/attachments/documents/statements/M74_Citizens_Statement.pdf">Measure 74 Citizens’ Statement</a> beinhaltete sowie die Evaluation der Teilnehmer von Oregon CIR 2010 M74 und die Beschreibung des Oregon CIR Prozesses.</p><p><strong>Wirkung, Ergebnis, und Effekte</strong></p><p>John Gastil, Katherine Knobloch und ihre Kollegen fertigen eine Studie des 2010 Oregon CIRs an. Daten für die Studie wurden von der Umfrage der Forscher, die von Teilnehmern ausgefüllt worden war, den finalen  Evaluationen der Teilnehmer sowie Telefon- und Online-Umfragen unter Bürgern aus Oregon um deren Einstellung und Wissen zur Maßnahme 74 zu testen, gewonnen. Zudem wurden der offizielle 2010 Oregon voters‘ guide und die Bürger Stellungnahmen betrachtet. Die Online-Studie zwischen Wählern aus Oregon, die zuerst im August und dann noch einmal zwei Wochen vor der Wahl im November 2010 befragt wurden, beinhaltete ein Experiment um den Einfluss der Bürgerstellungnahmen auf das Wissen und die Einschätzung der Bürger zur Maßnahme 74 zu testen.</p><p>Die Hauptresultate von Gastils und Knoblochs Studie waren folgende:</p><p>• Die Beratungen ergaben ausreichende Informationen und wiesen eine hinreichend genaue Analyse der Maßnahme 74 auf, damit die Diskussionsteilnemer, eine fundierte Entscheidung über die Maßnahme machen konnten.</p><p>• Die CIR Prozess war fair. Zwanzig von 24 Testpersonen waren "zufrieden" oder "sehr zufrieden" mit der Neutralität der CIR Organisatoren und Moderatoren.</p><p>• Die demokratische Qualität der Beratungen war hoch. Diskussionsteilnehmer hatten gleiche Chancen zur Beteiligung, behandelten einander mit Respekt und waren offen gegenüber anderen Ansichten.</p><p>• Zwischen den Diskussionsteilnehmern gab es eine große Veränderung in der Einstellung zur Measure 74 während der Beratungen. Zu Beginn der CIR waren 15 Panelisten (63%) unentschlossen, 3 unterstützten Measure 74 (13%) und 5 waren dagegen (21%) (ein Diskussionsteilnehmer antwortete nicht in der ersten Umfrage). Am Ende des CIR blieb kein Teilnehmer unentschieden, 13 (54%) befürworteten die Maßnahme, und 11 Testpersonen (46%) waren dagegen.</p><p>• Die Qualität der Erklärung der Bürger zu Measure 74 war hoch. Die Erklärung enthielt keine erheblichen sachlichen oder logischen Fehler, reflektierte die Beratungen der Teilnehmer und lieferte neue und nützliche Informationen für die Wähler.</p><p>In Bezug auf den Einfluss der Bürger-Stellungnahme zu Maßnahme 74 waren die wichtigsten Ergebnisse der Studie folgende:</p><p>• Die meisten Oregon Wähler (58%) wussten nichts von der 2010 Oregon CIR und die meisten (65%) hatten die Bürger-Stellungnahme zur Maßnahme 74 nicht gelesen.</p><p>• 31% der Oregon Wähler lernten neue Argumente oder Informationen zur Maßnahme 74 durch die Bürger-Stellungnahme kennen</p><p>• Bürger, die die Bürger-Stellungnahme lasen verbrachten damit mehr Zeit (durchschnittlich elf Minuten) als sie für andere Teile des offiziellen Wähler-Leitfaden benötigten (durchschnittlich 3 bis 6 Minuten pro Abschnitt)</p><p>• Das Lesen der Bürger-Stellungnahhme erhöhte das Wissen der Wähler deutlich und reduzierte die Unterstützung der Wähler für Maßnahme 74. Nur 39% der Personen, die die Bürger-Stellungnahme gelesen haben unterstützen Maßnahme 74, verglichen mit 47% derjenigen, die es nicht gelesen haben.</p><p>• Die Wirkung des Lesens der Bürger-Stellungnahme war zu klein um das Ergebnis der 2010 Oregon landesweiten Wahlen zu beeinflussen, aber groß genug, um anzuzeigen, dass in einer künftigen engen Stimmzettel-Wahl eine Bürger-Stellungnahme Einfluss auf das Ergebnis haben könnte. Am 2. November 2010 stimmten in Oregon 56% der Wähler gegen die Maßnahme 74.</p><p>Im Jahr 2010 haben Gastil und Knobloch die Ergebnisse ihrer Studie der Legislative in Oregon eingereicht. In 2011 hat die Legislative in Oregon ein Gesetz verabschiedet, das die Oregon CIR zu einem festen Bestandteil der landesweiten Initiative Oregon Prozesses macht. Die Präambel der Satzung verweist auf die Ergebnisse der Gastil und Knobloch Studie.</p><p><strong>Analyse und Kritik</strong></p><p>Gastil und Knobloch fassen in ihrem 2010 Report zusammen, dass das CIR Design, das während der 2010 Oregon CIRs benutzt wurde, generell „angemessen und effektiv“ war. In ihrem 2010 Report und einigen darauffolgenden Veröffentlichungen empfehlen sie trotzdem einige Modifikationen an dem CIR Prozess, die folgende Punkte beinhalten.</p><p>Die Forscher fanden heraus, dass es der Bürger-Stellungnahme misslungen ist das Grundsatzproblem, das die Maßnahme berichtigen sollte, zu identifizieren. Die Forscher vermuteten, dass die zu der überraschenden Abnahme der Zustimmung unter den Bürgern geführt haben könnte obwohl die Mehrheit der Teilnehmer für die Maßnahme gestimmt hat. </p><p>Die Forscher fanden zudem heraus, dass die Teilnehmer in ihrer Stellungnahme wichtige Details ausgelassen hatten. Dies beinhaltete komplexe inhaltiche Befunde, wie zum Beispiel, dass es Beweis dafür gibt, dass nur bestimmte Gruppen von Patienten Probleme mit der Beschaffung von medizinischem Marijuana hatten, sowie Äußerungen zu den Kompromissen, die eine Rolle dabei spielen für oder gegen die Maßnahme zu sein, wie zum Beispiel dass die Maßnahme 74 durchaus die Möglichkeiten der Patienten zur Beschaffung von medizinischem Marijuana erhöhen könnte, jedoch erhöhte Drogenkriminalität dies aufwiegen könnte. Die Forscher beobachteten auch eine Weigerung der Teilnehmer Informationen aufzunehmen, deren Formulierung schwierig sein könnte sodass sie von den Bürgern verstanden wird.</p><p>Die Forscher beobachteten zudem, dass die Deliberation an Tag fünf, der die Teilnehmer die Argumente die ihren eigenen gegenüber standen kommentierten, zu einer Revision führten, die generell die Argumente beider Seiten festigte. Daraus schlossen die Forscher, dass die CIR Organisatoren den Teilnehmern genug Zeit geben sollten um über die Gründe für ihre Argumente zu beraten, besonders wenn eine Seite weniger Unterstützung genießt das die andere, da eine solche Deliberation die Qualität der Begründung steigert.</p><p><strong>Weitere Quellen</strong></p><p>Binder, M., Boudreau, C., &amp; Kousser, T. (2011). Shortcuts to deliberation? How cues reshape the role of information in direct democracy voting. <em>California Western Law Review</em>, 48, 97-128.</p><p>John Gastil and Katherine Knobloch. (2010). <em>Evaluation Report to the Oregon State Legislature on the 2010 Oregon Citizens’ Initiative Review</em>. <a href="http://www.la1.psu.edu/cas/jgastil/CIR/OregonLegislativeReportCIR.pdf">http://www.la1.psu.edu/cas/jgastil/CIR/OregonLegislativeReportCIR.pdf</a></p><p>John Gastil, Katherine Knobloch, Justin Reedy, Mark Henkels, and Katherine Cramer Walsh. (2011). Hearing a Public Voice in Micro-Level Deliberation and Macro-Level Politics: Assessing the Impact of the Citizens’ Initiative Review on the Oregon Electorate. Paper Presented at NCA 2011: Annual Conference of the National Communication Association, held November 17-20, 2011, New Orleans, Louisiana.</p><p>John Gastil, Katherine Knobloch, and Robert Richards. (2012). Vicarious Deliberation: How the Oregon Citizens’ Initiative Review Influences Deliberation in Mass Elections. Paper Presented at RSA 2012: The 15th Biennial Conference of the Rhetoric Society of America, May 23-28, Philadelphia, Pennsylvania.</p><p>John Gastil and Robert Richards. (2012). Making Direct Democracy Deliberative through Random Assemblies, Paper to Be Presented at ASA 2012: The Annual Meeting of the American Sociological Association, August 17-20, 2012, Denver, Colorado.</p><p>Katherine Knobloch, John Gastil, Justin Reedy, and Katherine Cramer Walsh. (2011). Did They Deliberate? Applying a Theoretical Model of Democratic Deliberation to the Oregon Citizens’ Initiative Review. Paper Presented at NCA 2011: Annual Conference of the National Communication Association, held November 17-20, 2011, New Orleans, Louisiana.</p><p>Katherine Knobloch and Rory Raabe. (2011). Exploring the Effects of Deliberative Participation through Panelist Self-Reports. Paper Presented at NCA 2011: Annual Conference of the National Communication Association, held November 17-20, 2011, New Orleans, Louisiana.</p><p><strong>Externe Links</strong></p><p>Healthy Democracy Oregon. (2010). <em>Citizens’ Initiative Review 2010, Measure 74, Interim Final Report</em>. Portland, OR: Healthy Democracy Oregon. <a href="http://cirarchive.org/media/attachments/documents/M74_Final_Report.pdf">http://cirarchive.org/media/attachments/documents/M74_Final_Report.pdf</a></p><p>Healthy Democracy Oregon, Citizens’ Initiative Review, <a href="http://healthydemocracyoregon.org/citizens-initiative-review">http://healthydemocracyoregon.org/citizens-initiative-review</a></p><p>Oregon Citizens' Initiative Review, 2010, Archive Website, <a href="http://cirarchive.org/">http://cirarchive.org/</a></p><p>Oregon Citizens' Initiative Review, 2010, Measure 74. (2010). <em>Citizens' Initiative Review of Measure 74</em>. Salem, OR: Oregon Secretary of State. <a href="http://cirarchive.org/media/attachments/documents/statements/M74_Citizens_Statement.pdf">http://cirarchive.org/media/attachments/documents/statements/M74_Citizen...</a></p><p>Oregon Laws, 2011, Chapter 365, <a href="http://www.leg.state.or.us/11orlaws/sess0300.dir/0365.html">http://www.leg.state.or.us/11orlaws/sess0300.dir/0365.html</a></p><p>Oregon Secretary of State. (2010). <em>Voters’ Pamphlet, Oregon General Election, November, 2, 2010</em>. Salem, OR: Oregon Secretary of State. <a href="http://oregonvotes.org/doc/history/nov22010/guide/book13.pdf">http://oregonvotes.org/doc/history/nov22010/guide/book13.pdf</a></p><p> </p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A574">Medical marijuana</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, August 16, 2010 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, August 20, 2010 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">5.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">24</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A126">Other</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizens-initiative-review">Citizens&#039; Initiative Review</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A137">Formal Testimony</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A147">Consensus</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A155">Media</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A162">Other</a></div></div></div><div class="field field-name-field-audience-comm-method-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even">Pamphlets Mailed to Voters</div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Healthy Democracy Oregon</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A28">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/healthy-democracy">Healthy Democracy</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">Promoting Healthy Democracy</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$125 000.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-163bc6cffad052343d1a0557ff2bcfa3">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/769">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

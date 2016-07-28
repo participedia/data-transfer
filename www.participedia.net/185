@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/roberts-rules-order" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/185" />
+  <title>Robert&#039;s Rules of Order | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"IjGU0fFxSAGJ6eXNTHCSu7rE11BtHwOrmKqQQuzUBAY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/roberts-rules-order?destination=node\/185":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-185 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/roberts-rules-order" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/roberts-rules-order?destination=node/185" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-enwjERny2bBOj9kbNjgvsQJMyCZmcFVrEe3GVCqaJ5g" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Robert&#039;s Rules of Order</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Robert&#039;s Rules of Order - Participedia" addthis:url="http://participedia.net/en/methods/roberts-rules-order"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 8 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/shaunmoneil" title="View user profile." class="username" xml:lang="" about="/en/people/shaunmoneil" typeof="sioc:UserAccount" property="foaf:name" datatype="">Shaun O'Neil</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Definition" name="Definition"></a></p><h1>Definition</h1><p>Robert’s Rules of Order is book on parliamentary procedure. The title provides a detailed study of parliamentary procedure and how it is practiced in various settings. Currently in its 10th edition, the book has enjoyed widespread success and is used by 85% of all organizations in the United States.</p><p><a id="Problems_and_Purpose" name="Problems_and_Purpose"></a></p><h1>Problems and Purpose</h1><p>Robert's Rules or Order is intended to control and facilitate meeting situations in an efficient manner that allows for debate, discussion, and deliberation. Robert's Rules are organized around the idea of a presented motion. All motions have a precedence which means that they can only be used when they have a higher precedence than all other active motions. The most basic of all motions is called the Main Motion. Main Motions are policy that the body would like to discuss and cover with debate. For example, if a member of the body wishes to use funds to buy something for the organization, he could ask for recognition by the chairman and state "I move that we spend X amount of money to purchase Y for our organization". For almost all motions, recognition by the residing chairperson is required before actually making the motion. Some motions, including Main Motions, must be seconded by another member of the body. Seconding does not mean that the the person who seconded agrees with the motion but rather that he or she would like to hear debate on the motion. The idea that seconding does not signify agreeing shows that Robert's Rules are intended to create deliberation. The idea is to discuss each topic and vote based on the discussions heard from all participating members. There are some drawbacks to the debate system. Debates are often timed which, while keeping debaters concise and allowing for more speakers, could potentially limit the information presented in each debate. Also, similar to other methods of parliamentary procedure, debate is intended to move in a way that allows for everyone to speak if they so desire and to alternate from pro to con or vise versa. This often stifles chances for direct rebuttal as the next speaker is likely not to have been the previous debater, that is if another member gives a state that you would like to rebut, but you have just spoken, you will likely not be able to give your rebuttal unless there are no other speakers.</p><p>There are other methods of discussion used in Robert's Rules. One of the most notable is the ability to send any motion to a committee. Committee parameters are set out by the chairperson, but they can range from simply exploring the subject in a more personal setting, bringing in and listening to outside presenters, completing research, to actually reaching a decision on the motion.</p><p>A notable feature of Robert's Rules is the Chairperson. The Chairperson has the purpose of keeping order in the assembly. The chairperson must often remain partial and does not usually have a chance to speak and is even less likely to have the ability to vote (a chairperson may vote if it is done by secret ballot or if his or her vote does not affect the outcome). However, the chairperson keeps the meeting on track and ensures that respect is paid to all members.</p><p><a id="History" name="History"></a></p><h1>History</h1><p>The first edition of Robert’s Rule of Order appeared in 1876. The author Henry Martyn Robert (1837-1923) was Brigadier General in the U.S. Army whose original motivation for the title came in 1863 after being asked to preside over a church meeting in San Francisco. Despite having little experience in parliamentary procedure, Robert accepted the offer and was embarrassed and humbled by his futile effort to control the passions and flow of the meeting. Resolving to learn more about his failure, Robert was determined to educate himself on the process of parliamentary procedure, beginning what would become a 14 years of study on the subject. His main source of correct procedures came from the U.S. House of Representatives, a system based loosely off the British House of Commons. This in turn led to a study of the writings of Thomas Jefferson who was largely responsible for the version of early parliamentary procedure practiced in the U.S. at the federal level of government. Robert supplemented this study with real world experience gained by attending numerous and varying types of meetings as his continued army service found him stationed all over the country throughout his study. His attendance at these meetings led him to realize that meetings were practiced with great variance throughout the nation and often had limited success. His solution was to design a manual to clarify proceedings in order to have a common source available to all that would assist in the organization and effectiveness of meetings. In February of 1876 the first phase of his study conclude with the publication of the Pocket Manual of Rules of Order for Deliberative Assemblies. The cover of the book simply read Robert’s Rules of Order, a title to which the work would henceforth be known. The book sold through its initial print and a second printing was completed in July the same year. A third edition was published in 1893 and a revised edition appeared in 1915. The revised fourth edition would also mark the last edition the Robert would publish himself. Upon Robert’s death in 1923, a trust headed by his family was set up to handle all future editions of the title. Two more editions closely tied to the original work would be published before the book was rewritten for the 7th edition. Robert’s Rules of Order Newly Revised was released in 1970 and represented a new approach by the Robert’s family trust. Whereas all prior editions assumed a familiarity with parliamentary procedure, the seventh edition was designed to have greater appeal to the general public. The resulting title was far more explanatory than the previous editions, allowing the layman to understand the rational for the proceedings as well as the procedures. Subsequent editions have stuck with this model and having only been slightly modified to reflect technological changes and their effects on meetings.</p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h1>Participant Selection</h1><p>Anyone can use Robert's Rules of Order and selection depends upon the assembly. It is used in many settings where any and all people are welcome to join the debate, such as town hall meetings, booster clubs, etc. But can also be used in larger scale government settings. In some cases, members may need to be elected as representatives, at other times people will be able to represent them selves. Outside presenters are allowed within the rules, so even representative forums can still have debate from people other than members.</p><p><a id="Use_of_the_Rules" name="Use_of_the_Rules"></a></p><h2>Use of the Rules</h2><p>While oftentimes any person can become involved in some way with an organization that uses Robert's Rules, they might often find that the rules vary. For example, Robert's Rules is now in its tenth edition, but the other editions are still used by some. Rules can be permanently changed to suit the needs of the organization, which while useful for personalizing the rules also leads to some inconsistencies. However, the rules does have a uniformity that is very beneficial to the system. Some people new to an organization may feel flustered by the rather extensive rules, but if they have a basic knowledge it is not too difficult to catch on to how each organization uses the rules even if they are altered. The issue still arises with learning the rules. They are extensive, involved, and complicated. So complicated in fact that they are even used in a competitive arena. The National FFA Organization and other groups actually creates teams that study the rules and preform mock sessions in front of a panel of judges while trying their best to be as accurate and efficient with the rules as possible. And while competition may serve as a motivator for learning the rules, it also hi-lights an important problem; the rules are not immediately user-friendly. Anyone new to using Robert's Rules of Order will be bombarded with pages and pages of dull writing that is often discouraging. The rules are intricate and without a firm grasp of them, it is easy to miss out on your chance to fully involve yourself in discussion. So, after tackling the daunting task of actually learning and memorizing all of the rules, any person should be able to join any assembly and have at least a stable enough grasp on the procedure to participate no matter the changes.</p><p><a id="Deliberation_and_Decisions" name="Deliberation_and_Decisions"></a></p><h1>Deliberation and Decisions</h1><p>Robert's Rules of Order intends to create deliberative discussion. There has even been a revised edition released aimed specifically at deliberative assemblies. Robert's Rules operates under the idea of majority rule while still acknowledging and respecting minority opinion. The system of debate allows for this by ensuring equal speaking opportunities from all sides. This in turn creates a solid information base as each member is given the same time to present his or her opinion. Also, the rules allow for outside presenters which can add even more opinions that are not immediately present in the assembly. The debate allows for all sides to present their key values while listening to others'. It is possible that debaters will try to discredit the other speaker's or prove them incorrect, which could lead to a reduction in deliberativeness. However, solutions have been provided. The motions could be sent to committee which allows for more open discussion that is more likely to lead to compromise and decision-making as the participants are not restricted as much by rules for debate. Also, the rules include opportunities to leave a motion on the table in order to consider it later and for taking short recesses which both allow time for discussion that is, again, not marred by the rules of debate. Respect is ensured by the chairperson who presides over the meetings and it is he or she who also guarantees the equal speaking opportunities. Decisions, when referring to main motions, are decided by a majority vote provided that the assembly is at quorum. Votes that result in a tie fail. Very little can be done while following Robert's Rules without the consent of the assembly. This helps ensure that, while there is a presiding officer, that control is not given to one person. The chairperson can make exclusive decisions only for calling the orders of the day (reading the agenda) or questions of privilege (when a member asks the chair for permission to perform a personal task such as going to the restroom or opening a window because the room is too hot). Other than that, every decision, even the decided whether or not to vote, is voted upon.</p><p>Further deliberative action can be seen in motions that allow the assembly to reconsider a motion that has failed or passed. Any motion can be called upon again and, assembly permitting, be reconsidered once again. This reopens debate, allowing for discussion and will eventually lead to another vote which could change the outcome of the previous decision. This certifies more discussion which could lead to a better, more informed solution.</p><p><a id="Impact" name="Impact"></a></p><h1>Impact</h1><p>The effect of Robert’s Rules of Order is just as present today as it was nearly 135 years ago when it was first published. Henry Robert’s work continues to have an impact because it addresses a major but often missing element necessary for a successful organization; a set of agreed upon rules designed to navigate difficult decisions and devised to limit the effects of emotions. This has resulted in the parliamentary procedures presented by the book being adopted by 85% all organizations in United States. Most organizations adopt the book outright as the cornerstone of their proceedings. In the event of a disagreement or other conflict the title is treated as an authority unto itself. The presence of Robert’s Rules can be found in board meetings, city and county councils, student governments, school boards, P.T.A. meetings, homeowner associations, etc. The soundness of its procedures has been affirmed by courts with numerous jurisdictions findings that all organizations are subjects to the rules and principles of parliamentary standards. Organizations that fail to follow the rules after adoption have been the subjects of lawsuits and the recipients of embarrassment. Robert’s Rules of Order has even had an impact on the House of Representatives, the original source for many of the procedures. In 1994, after Democrats lost their legislative majority in the House, Rep. Barney Frank (D) was tasked with studying Robert’s book in order to discover methods the minority party could employ in order to remain relevant. When the Democrats regained the House in 2006, Frank returned to the book in order to devise a strategy to enhance their new majority status.</p><p><a id="Outlook" name="Outlook"></a></p><h1>Outlook</h1><p>At 704 pages in its current edition, Robert’s Rules of Order is only likely to grow. As technology evolves, presenting new ways for people to meet and discuss issues at hand Robert’s Rules will be necessary to determine the proper procedures under circumstances far different from the author’s original outlook. The 10th edition demonstrates this adapt-ability by weighing in on video conferencing and meetings through email. The former is okay so long as everyone can both hear and speak in real time while the latter is not because it lacks this function. As it continues to evolve, it is certain that Robert's Rules of Order will continue to strive for a comprehensive and efficient form of deliberation. Currently, it uses a system of turn-based debate with options for further discussion to allow for opinions and views from all sides to be expressed equally. Though complicated for beginners and intricate in application, a thorough understanding of the rules allows for participation in nearly every organization that uses it even with differing editions and more personalized rules. Robert's Rules of Order do just as their namesake implies; they give order to discussion with the intent of furthering deliberation.</p><p><a id="References" name="References"></a></p><h1>References</h1><p>Roberts Rules of Order, 10th Edition, Wikipedia.org, NY Times.com, “On that Point,” 5/20/07, Jimslaughter.com, Robertsrules.org, <a href="http://www.robertsrules.com">www.robertsrules.com</a> Robert, Henry. Robert's Rules of Order . Rev. for Deliberative Assemblies. Chicago: Scott, Foresman and Company, 1915.</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-cb0199bc58a02a02bbf8b5094f9d77e6">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/185">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial Preference Aggregation</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Vote by Assembly</div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/raise-public-awareness" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Raise public awareness</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Open Debate</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

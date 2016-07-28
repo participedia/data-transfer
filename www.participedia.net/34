@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/front-porch-forum" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/34" />
+  <title>Front Porch Forum  | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"7mOGIrnHaHZZte12BBr_orWTlrR7AB-xrCjC34gbn0Q","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"34"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/front-porch-forum?destination=node\/34":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-34 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/front-porch-forum" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/front-porch-forum?destination=node/34" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-i5jTjJlH5O7NcvcPJ3EmdkuJR_31qDfEcZk-bkzAmk0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Front Porch Forum </h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Front Porch Forum </h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/kaitlin" title="View user profile." class="username" xml:lang="" about="/en/users/kaitlin" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kaitlin Strohschein</a> on Sat, 05/29/2010 - 17:48</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/jovana-lalic" title="View user profile." class="username" xml:lang="" about="/en/people/jovana-lalic" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jovana Lalic</a> on Sat, 09/14/2013 - 14:40</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Front Porch Forum  - Participedia" addthis:url="http://participedia.net/en/cases/front-porch-forum"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/seattle1.gif?itok=5kpt0ido" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Purpose.2FProblem" name="Purpose.2FProblem"></a></p><h2>Purpose/Problem</h2><p>The Front Porch Forum began as a series of focus groups to study rifts in communication between politicians, public and the media, according to Civic Journalism: Six Case Studies by The Poynter Institute. The group started as a combined effort of The Seattle Times, The Poynter Institute and two NPR stations.</p><p>After several meetings with leaders from all the participating media organizations, Cyndi Nash, associate managing editor at the Seattle Times, listed the media groups’ priorities with of the Front Porch Forums:</p><p>1. "To involve readers and listeners in active civic life, and particularly the '94 campaign, more directly than ever before. This includes getting out of the way frequently, and letting citizens ask their own questions and express their own views without our comment, editing, or professionalism."</p><p>2. "To produce insightful, enlightening, and engaging radio and print journalism."</p><p>3. "To create good PR for our respective organizations."</p><p>4. "To go where no media have gone before, and live to tell about it."</p><p><a id="History" name="History"></a></p><h2>History</h2><p>The Seattle Times and several local radio stations conducted several front porch forums between 1994 and 1999. Each was structured differently, and all were divided into several parts.</p><p>It began with four, 10-person discussion groups at the beginning of May in 1994. These meetings were convened to develop a statewide poll about the pros and cons of living in Washington and offer suggestions for the future. Forums were held in Tacoma, Burien, Kirkland and Seattle.</p><p>Some of the benefits to living in Washington included the following the weather and the geography. The drawbacks included: rapid immigration, transportation, safety, the economy and education. Some participants said that they would love to move to a neighboring state (Oregon, Idaho or Montana), because Western Washington was getting too densely populated.</p><p>The first front porch forum also solicited questions from the general public, and took several of them to local politicians to get answers. Both the questions and answers were published in the newspaper. Topics included population control, healthcare, gun control, vouchers, housing and accommodation for disabled students.</p><p>In another second part of the first forum, Republican incumbent Sen. Slade Gorton met with Democrat Ron Sims and five undecided voters from Western Washington. The topics they discussed included crime, health care and taxes.</p><p>Michael R. Fancher, The Seattle Times' executive editor wrote, in a published letter, that the citizens felt starstruck when they met the candidates, so they didn't push them to answer their questions: "To be honest, the feedback we got from candidates and our own sense of the situation in 1994 was that citizens are a little in awe of candidates when they meet face to face. Too often, candidates ducked excellent questions and weren't pushed for better answers."</p><p>To conclude the 1994 forum, the Seattle Times published a large number of letters to the editor on Nov. 20.</p><p>KUOW created two half-hour talk shows about the forum, and KPLU made a five-part series about it. Both described the purpose of the forum, and one of the KUOW talk shows allowed listeners to call-in and give feedback about election coverage. From 1994 through 1999, the radio stations produced segments and talk shows that covered the same topics as The Seattle Times.</p><p>In 1995, the forum was divided into sections that each covered specific issues.</p><p>First, a proposed $6.7 billion transportation plan was put onto the “porch.” The Seattle Times asked commuters to weigh-in on the issue, and it published their opinions. These opinions were written as profiles, with minimal information about each commuter—rather than as letters to the editor.</p><p>The following is an example of a "commuter profile" that The Seattle Times published:</p><p>Jane Howell-Clark</p><p>Three times a week, Janet Howell-Clark boards the 48 Express in Greenwood. Thirty minutes later, she is at work at the University of Washington health-science complex.</p><p>RTA officials said they can do a bus/rail combination that can get her to work in under 20 minutes. But like other riders, Howell-Clark is not excited about the idea of boarding a bus and then transferring to light rail.</p><p>"I already have a pretty good commute. The bus leaves me in front of my job," she said.</p><p>"All that would help me would be more 48s."</p><p>The 48 Express is a popular route to the University District. Howell-Clark said she is lucky enough to catch it early so she doesn't have to stand.</p><p>As far as the RTA plan, she is going to give it serious thought. If suburbanites don't believe the plan will do anything for them, Howell-Clark is not sure it will do much for Seattle commuters.</p><p>The second 1995 panel brought together four undecided voters to discuss whether or not they should support the transportation plan. Two voters (Jane Johnson and Ralph Naess) tended to oppose the plan. The other two (Wes Sims and Chris Hansvick) favored it. Two National Public Radio affiliates (KUOW-FM and KPLU-FM) broadcast the discussion, and the main arguments from each participant were printed in The Seattle Times.</p><p>The following is an example of the description of one participant’s proposal:</p><p>(Jane) Johnson, who lives in Wedgwood, is a dedicated bus rider. "Anybody who wants to ride transit can do so," she said. "Tell me where you want to go, and I'll tell you how to put the bus route together."</p><p>But Johnson said she's not convinced the proposed light rail will do anything for her, or will be attractive enough to change people from auto commuters to transit riders.</p><p>"I'm a little concerned about whether my current bus route will be impacted," Johnson said. "I am very satisfied now. I can get door to door in half an hour. I don't see how that can be improved by rail, and I don't want to lose what I've got right now."</p><p>Three Republicans, three Democrats and six people who hadn’t disclosed their party discussed building a new baseball stadium in Seattle for the third forum in 1995. The Seattle Times claimed that they had chosen the participants through “random selection,” but the participants weren’t selected totally randomly. Geography and demographics helped determine whether or not a voter was chosen (in an effort to increase diversity). And the “random” selection process ruled out people who had voted in less than two of the previous four elections.</p><p>The Seattle Times article about the round-table discussion summarized the various arguments and then gave specific quotes related to those arguments.</p><p>For example:</p><p>“Some argued that what a pro sports team brings - or takes, if it leaves - can't be quantified in a economic development study.</p><p>Seeing a baseball team move a second time, added Diemert, the retired food broker, would be a blow to the city's economy and its image.”</p><p>The fourth part of the 1995 forum consisted of an eight-person focus group discussion about a proposed $111 million property-tax levy for The Commons, a building project plan including a 61-acre park at South Lake Union.</p><p>At the beginning of the discussion, only one member of the focus group had a predetermined opinion about The Commons: he opposed it. But the whole group opposed the idea after a 1.5-hour of discussion. Several reasons why the group unanimously opposed the project after such a short discussion were included in a Seattle Times article about it.</p><p>For example:</p><p>“By chance, though, there were no business executives or managers nor anyone who works downtown - voters Commons supporters are confident will back the property-tax levy.”</p><p>And: “One entered the room having decided to vote against the Commons and only two knew more than a little about it.”</p><p>In 1996, Washington faced several important federal races, including two for Congress and one for the Senate. So, this year, the Seattle Times and local NPR stations provided a large number of front porch-style, reader-driven stories.</p><p>The Seattle Times, KUOW and KCTS-TV also got the public involved in a front porch forum themed “Our Schools Our Kids,” published on Dec. 16, 1996.</p><p>The Front Porch Forum of 1997, tried to answer questions that resembled questions from the 1994 forum: What do you like best about Washington? What would you change? How would you ensure a bright future for the state? The Seattle Times newspaper and KUOW radio titled it, the “Puget Sound 2020” project. This project included input from random citizens who gathered to discuss the issues at local pizza parties, as well as a 97-person jury who rated regional planning processes.</p><p>In 1998, The Seattle Times published two official Front Porch Forum Articles. Both addressed the issues related to statewide population growth. The first article was based on a four-hour discussion by 30 local, randomly selected citizens. The second article was a compilation of reader and listener feedback that was mostly prompted by the first article.</p><p>KUOW radio produced at least 12 Front Porch Forum review stories the same year.</p><p>The Front Porch Forum’s main topic in 1999 was local leadership. According to one article, the Times tried to answer the following questions: “What is the public's sense of the traits leaders need?” and “Who is or should be stepping forward as leaders?”</p><p>The Seattle Times Web site doesn’t contain any articles related to the Front Porch Forum that were published after 1999. The site doesn’t contain any articles explaining why the forums stopped. Those articles just stopped being posted on the Web site in 1999.</p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h2>Participant Selection</h2><p>Some people got involved in the Front Porch Forums through semi-random selection, and others voluntarily entered into the forum's discussions. The Front Porch Forum’s organizers said that they “randomly selected” participants for the forum's focus groups, although the selection process wasn’t actually totally random. Organizers usually chose only citizens who had voted in the past two elections, and they tried to make the groups representative of the greater populations demographics. Citizens were randomly selected for the forum's polls, though. However, anyone could participate in the forum's non-focus group and non-poll activities, . If someone wanted to "get on the porch," then he or she could do so by contacting one of the participating media outlets by phone, fax, e-mail or mail.</p><p><a id="Deliberations.2C_Decisions.2C_and_Public_Interaction" name="Deliberations.2C_Decisions.2C_and_Public_Interaction"></a></p><h2>Deliberations, Decisions, and Public Interaction</h2><p>There was a wide variety of different types of deliberations, decision and public interactions throughout the forum. Deliberation formats included question-and-answer columns, talk shows, small-group discussions, large-group discussions, pizza parties and more. The early focus groups had professional moderators. Decisions and topics varied widely. However, many groups came to the conclusion that Washington's population was growing to rapidly, and the state's government should take action to slow that growth. The participating media groups incouraged the public to interact with the forum by mail, by e-mail, by fax, by phone, or by calling into forum-related talk shows on the two participating NPR stations.</p><p><a id="Influence.2C_Outcomes.2C_and_Effects" name="Influence.2C_Outcomes.2C_and_Effects"></a></p><h2>Influence, Outcomes, and Effects</h2><p>The project bridged the gap between several groups.</p><p>It brought together several media outlets that had previously been competitors. In the end, a newspaper (The Seattle Times), two radio stations (KPLU and KUOW), a TV station (KCTS-9) and a research group (The Poynter Institute), had all partnered on a common project.</p><p>These media outlets also brought politicians together with voters during election seasons as well as non-election periods. The organized meetings between voters and politicians, they published voters’ opinions and they facilitated in-print and on-air discussions between politicians and the public.</p><p><a id="Analysis_and_Criticism" name="Analysis_and_Criticism"></a></p><h2>Analysis and Criticism</h2><p>After the first 1994 front porch forum, Pew Researchers published Civic Journalism: Six Case Studies, which offered suggest several positive elements of the forum and several negative aspects.</p><p>Positive elements included the following: “The Times discovered the value of melding previously used techniques such as focus groups, citizens' panels, and issues polling into a cohesive package pulled together by a single theme. KPLU and KUOW gained access to a larger audience for the most significant public service project in either station's history. And all three discovered the promotional value of the campaign, using it to reach new audiences while showing readers and listeners they were serious about change.”</p><p>The following were some negative elements cited by the Pew Researchers in Civic Journalism: Six Case Studies: “The partners failed to bring television into the alliance, thereby losing some leverage with candidates and a chance to reach an even larger audience. The attempts to have candidates answer questions was not always effective. And, despite all the efforts to discern the citizens' mood, the partners failed to gauge the full extent of the anger many took to the polls.” The Seattle Times and NPR radio stations mitigated two of the Pew Researcher’s criticisms: First, they made candidates thoroughly answer voters’ questions in 1996. Second, they brought the TV station KCTS (channel 9) into their Front Porch Forum media group. They didn’t address the third criticism: They didn’t gauge citizens’ anger about the polls.</p><p><a id="References" name="References"></a></p><h2>References</h2><p>Matassa, Mark. "Frustration with Schools among Hot Political Issues." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Matassa, Mark. "Step onto the Porch; Folks Have a Lot to Say." The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Matassa, Mark. "The Public Reconnects." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Matassa, Mark. "Unfiltered: Sims, Gorton and Five Undecided Voters -- Citizens' Own Questions Make for Thoughtful Session with Candidates." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Schaefer, David. "Four like Transit Plan, but with Reservations." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Schaffer, Jan, Edward D. Miller, and Staci D. Kramer. Civic Journalism: Six Case Studies. Washington, DC: Pew Center for Civic Journalism. Print.</p><p>Seattle Times Staff. "Like Politicians, Readers Divided over Election." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Seattle Times Staff. "Tracking Commuters' Options." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Serrano, Barbara. "Focus Group Wonders Who Will Gain from Commons." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>Simon, Jim. "Stadium Vote Is Bigger than Baseball, Panel Says." The Seattle Times [Seattle]. The Seattle Times. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p>"Welcome to Front Porch Forum." The Seattle Times | Seattle Times Newspaper. Web. 31 May 2010. &lt;<a class="external free" href="http://seattletimes.nwsource.com/special/frontporch/" rel="nofollow" title="http://seattletimes.nwsource.com/special/frontporch/">http://seattletimes.nwsource.com/special/frontporch/</a>&gt;.</p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Secondary Sources</h2><p><a id="External_Links" name="External_Links"></a></p><h2>External Links</h2></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A770">media involvement</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A753">random sample recruitment</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A752">public policy forum</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A763">public interaction with government officials</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">participatory body</span>
+                      <span class="locality" itemprop="addressLocality">
+      Seattle      </span>
+              ,                     <span class="region" itemprop="addressRegion">WA</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                            <span class="geo"><abbr class="latitude" title="47.606210">47° 36' 22.356" N</abbr>, <abbr
+            class="longitude" title="-122.332071">122° 19' 55.4556" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=47.606210+-122.332071+%28%2C+Seattle%2C+WA%2C+%2C+us%29">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Washington        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, May 21, 1994 - 17:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/study-circles">Study Circles</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A155">Media</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">The Seattle Times, KUOW</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A26">Academic Institution</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A166">For Profit Business</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-support-entity-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">Media</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Educators</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-a57f7ddb25dc3c57b538139525f7be90">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/34">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

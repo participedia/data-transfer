@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/2453" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/2453" />
+  <title>Der isländische Verfassungsrat | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"s8DmqnAt-Tix8T1CTNwdIud8VOe5pz1jkPmxGBa_Us8","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"2453"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/2453?destination=node\/2453":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2453 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/icelandic-constitutional-council-2011" class="language-link" xml:lang="en" title="Icelandic Constitutional Council 2011">English</a></li>
+<li class="de last"><a href="/de/faelle/der-isl-ndische-verfassungsrat" class="language-link" xml:lang="de" title="Der isländische Verfassungsrat">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/2453?destination=node/2453" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-jaeSo4FFrS3OFlrWuLK5j-2bFEuQOArBmW6qdIc5Q-Q" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Der isländische Verfassungsrat</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Der isländische Verfassungsrat</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Sun, 04/06/2014 - 06:37</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sat, 05/28/2016 - 17:33</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Der isl&amp;Atilde;&amp;curren;ndische Verfassungsrat - Participedia" addthis:url="http://participedia.net/en/node/2453"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/Icelands-parliament-the-a-007.jpg?itok=gDQFpA5G" /></span></div></div></div><div class="field field-name-field-images field-type-image field-label-above"><div class="field-label">Other images:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/images/cases/Constitutional_Diagram.jpg?itok=7AAPsTZ0" title="" class="colorbox" rel="gallery-node-2453-BLfg0biZx54"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/images/cases/Constitutional_Diagram.jpg?itok=mV_L2nNO" width="40" height="40" alt="" title="" /></a></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Fallstudie, die von Alexander Kok am 31.08.2011 verfasst wurde. Die Originalversion ist abrufbar unter <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011">http://www.participedia.net/en/cases/icelandic-constitutional-council-2011</a>.</p><p>Der Verfassungsrat war ein Körper von 25 ernannten isländischen Bürgern, die damit beauftragt wurden, zwischen dem 6. April und 29. Juli 2011 einen Verfassungsentwurf zu erstellen. Anfangs sollte die Verfassung von einer auf nationaler Ebene gewählten Versammlung überarbeitet werden. Einer umstrittenen Entscheidung des Obersten Gerichtshof zufolge, wurden die Wahlen zu dieser Versammlung jedoch aufgehoben und das isländische Parlament (Althingi) berief die Gewählten um den Verfassungsrat zu formen.</p><p>Das Parlament hatte eine Überarbeitung der Verfassung in Reaktion auf den nationalen ökonomischen Zusammenbruch gefordert, der die Aktienmärkte, Währung und Banken des Landes im Oktober 2008 kollabieren ließ.<a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-0">[1]</a> Nach landesweiten Protesten und Bemühungen von Seiten zivilgesellschaftlicher Organisationen, entschieden die Regierungsparteien, dass die Bürger in die Erstellung der neuen Verfassung involviert sein sollten. Der Rat sollte dazu die Ergebnisse eines konsultativen Bürgerforums in Betracht ziehen und um Vorschläge von der Öffentlichkeit, Interessengruppen und anderen Parteien werben. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-1">[2]</a></p><p>Der Rat versuchte diese Bedingung zu erfüllen, indem er auf innovative Weise vom Internet Gebrauch machte. Er meldete sich bei <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#Official_Project_Links">Youtube, Twitter, Facebook und Flickr</a> an und machte Island damit zum ersten Staat, der „<a href="http://www.participedia.net/wiki/Crowdsourcing" title="Crowdsourcing">crowdsourcing</a>“ auf eine Verfassungsrevision anwandte. Diese Mittel haben bemerkenswerte Ideen produziert, wie zum Beispiel das Kollektiveigentum natürlicher Ressourcen Islands, einen Artikel zu Informationsrechten und einen Versuch die Rolle des Parlaments in der Überwachung des finanziellen Managements zu verankern.</p><p><strong>Inhalt </strong><br />• 1 Zweck und Problem<br />• 2 Geschichte<br />• 3 Erstellung und Teilnehmerauswahl<br />• 4 Deliberation und Entscheidungen<br />• 5 Ergebnisse und Auswirkungen<br />• 6 Analyse &amp; Kritik<br />• 6.1 Politische Unabhängigkeit<br />• 6.2 Fragen der Legitimität<br />• 7 Sekundärquellen<br />• 8 Externe Links<br />• 8.1 Offizielle Quellen<br />• 8.2 Offizielle Projekt-Links<br />• 8.3 Sonstige Quellen<br />• 9 Hinweise</p><p><strong>Zweck und Problem</strong></p><p>Chronik:</p><p>4. November 2009: Gesetz wird dem Parlament vorgelegt<br />14. November 2009: Das Nationale Forum 2009 von Anthill wird organisiert (1500 Teilnehmer)<br />16. Juni 2010: Verfassungsgesetz vom Parlament angenommen<br />16. Juni 2010: Verfassungsausschuss ernannt (7 Mitglieder)<br />6. November 2010: Das Nationale Forum 2010 wird von der Regierung organisiert (950 Teilnehmer)<br />26. Oktober 2010: Verfassungsversammlung, in der Wahlen abgehalten werden (25 Auserwählten)<br />25. Januar 2011: Oberster Gerichtshof hebt die Wahl des Parlaments auf<br />24. März 2011: Das Parlament ernennt Versammlungsmitglieder zu Verfassungsrat<br />6. April 2011: Verfassungsrat nimmt die Arbeit auf<br />29. Juli 2011: Verfassungsrat legt endgültigen Entwurf dem Parlament vor</p><p>Am 16. Juni 2010 nahm das isländische Parlament das Gesetz zur Verfassungsversammlung Nr. 90/2010 an (im Folgenden: das Verfassungsgesetz). Dieses Gesetz verordnete eine umfassende Überholung der alten isländischen Verfassung aus dem Jahr 1944. Island ist in diesem Jahr unabhängig von Dänemark geworden und die dänische Verfassung diente als Model für die isländische. Demnach war der Text von Islands Verfassung fast identisch mit dem der dänischen. Die einzigen Veränderungen, die seitdem an dem Dokument vorgenommen worden sind, sind äußerst gering, wie zum Beispiel die Ersetzung des Wortes „König“ durch „Präsident“. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-2">[3]</a> Es gab mehrere parlamentarische Komitees, die Berichte zu der Verfassung von 1944 erstellt haben, aber diese haben bis 2009 keinerlei Veränderungen ergeben. Der Zweck der Revision war also die alte Verfassung komplett zu überarbeiten, um sie an die Realitäten aktueller isländischer Politik anzupassen. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-3">[4]</a> Spezifisch festgelegte Themen beinhielten die Autorität der Legislative und Exekutive, die Rolle des Präsidenten, die Unabhängigkeit der Gerichte, Wahlreform, öffentliche Partizipation, die Überwachung des Finanzsektors und das Eigentumsrecht natürlicher Ressourcen. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-4">[5]</a> Über eine Länge von fünf Monaten sollte die Versammlung dann einen ersten Gesetzesentwurf zur Vorlage des Parlamentes erstellen.   </p><p><strong>Geschichte</strong></p><p>Diagramm des Prozesses des Vertragsentwurfs (ernannte Institutionen sind unterstrichen)</p><p>Der Revisionsprozess der Verfassung wurde offiziell durch ein Gesetz von Premierministerin Johanna Sigurdardottir (Sozialdemokratische Allianz) vor dem Parlament initiiert. Das Gesetz war eine Folge des isländischen ökonomischen Zusammenbruchs von 2008-11, der eine Reihe von Protesten ausgelöst hatte (auch bekannt als „Küchenware Revolution“), die zum Rücktritt der Regierung im Jahr 2009 führten. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-5">[6]</a> Parallel zu diesen Protesten, begannen sich die Bürger in Basis-Denkfabriken zu organisieren. Am 14. November 2009 hielt eine Gruppe dieser Organisationen, auch genannt „Der Ameisenhaufen“, eine nationale Konferenz. Indem sie 0.5% der Bevölkerung einluden, hofften die Veranstalter ein partizipatives Mandat zu erlangen, das repräsentativ genug war um die Regierung zur Rechenschaft ziehen zu können. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-6">[7]</a></p><p>Die Ergebnisse vervollständigten den bereits existierenden öffentlichen Diskurs, der die Überarbeitung der Trennung zwischen Legislative und Exekutive verlangte, die Verantwortlichkeit und Überprüfung der Exekutive und die Möglichkeiten direkter öffentlicher Partizipation in der Entscheidungsfindung. Konfrontiert mit solch fundamentalen Fragen, konzentrierte sich die meiste öffentliche Aufmerksamkeit darauf, dass es in Island nie einen öffentlichen Diskurs zu Verfassungsfragen gegeben hatte. Demnach wurde dies zu einem wichtigen Thema in der Debatte über die nationale Reform. Diese Forderung erwartend, verkündete Sigurdardóttir bereits die Aufstellung eines speziellen Parlaments um die Verfassung zu überarbeiten während die Koalitionsformierung früh im Jahr 2009 noch unvollständig war. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-7">[8]</a></p><p>Nach dem Einreichen des Gesetzes und vielleicht unter dem Druck der nationalen Versammlung von 2009, entschied das Parlament Regelungen für eine nationale Versammlung und einen inklusiven, öffentlichen Entwurfsprozess zu dem Verfassungsgesetz hinzuzufügen. Das Gesetz erhielt Unterstützung von 39 Mitgliedern des Parlaments, von denen 11 Mitglieder sich der Stimme enthielten (von insgesamt 62).</p><p>Das Parlament ernannte ein Verfassungskomitee, das relevante Vorbereitungen treffen sollte. Dieses Komitee bestand aus sieben Mitgliedern, und war damit beauftragt die nationalen Treffen zu organisieren. Danach sollte es einen Bericht über die Ergebnisse des Forums erstellen und die Versammlungswahlen organisieren. Der Oberste Gerichtshof urteilte jedoch, dass die Wahlen wegen eines technischen Fehlers ungültig waren (wegen Unachtsamkeit sei es theoretisch möglich gewesen die Wahlpräferenzen der Bürger herauszufinden). Da diese Entscheidung die Wahlergebnisse aber nicht grundsätzlich aberkannte, entschied sich Althingi, die Versammlungsmitglieder stattdessen zu einem Verfassungsrat einzuberufen. (Demnach sind diese zwei Körper praktisch identisch). Am 29. Juli 2011 war der finale Entwurf fertig und wurde zum Parlament geschickt. Nach der Lesung kann es zum Rat zurück geschickt werden um Änderungen vorzunehmen oder als Ganzes vom Parlament abgesegnet zu werden. In beiden Fällen ist es auch möglich, dass der Entwurf den Bürgern in einem nationalen Referendum zur Abstimmung vorgelegt wird.</p><p><img src="/sites/default/files/images/cases/Constitutional_Diagram.jpg" /></p><p><a id="Creation_and_Participant_Selection" name="Creation_and_Participant_Selection"></a></p><p><strong>Erstellung und Teilnehmerauswahl</strong></p><p>Das Organ, das den Entwurf erstellen sollte, sollte eigentlich eine öffentlich gewählte Versammlung von 25 bis 31 normalen Bürgern sein. Isländische Bürger mit vollem Wahlrecht durften die Teilnehmer der Verfassungsversammlung wählen. Sie durften sich auch selbst zur Wahl stellen, mit Ausnahme des Präsidenten, Ministern und Parlamentsmitgliedern. Insgesamt standen 522 Bürger zur Wahl, von denen 25 durch das Präferenzwahlsystem für die Versammlung gewählt wurden. Es nahmen 83 000 Bürger von der Gesamtpopulation von 320 000 an der Wahl teil, sodass eine Wahlbeteiligung von 35.95% erreicht wurde. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-8">[9]</a> Für isländische Maßstäbe ist dies ein unerwartet niedriges Ergebnis. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-9">[10]</a> Mögliche Gründe für diese niedrige Rate könnten die geringe Medienberichterstattung, ein Mangel an Debatten über grundlegende Themen und zwischen klar profilierten Kandidaten, Unstimmigkeit über die Bedeutung einer Verfassungsversammlung und schließlich eine generelle „Wahlmüdigkeit“ (es war die dritte Wahl in Island in diesem Jahr) sein. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-10">[11]</a></p><p>Am 25. Januar 2011 entschied der isländische Oberste Gerichtshof, dass die Wahlen wegen Unstimmigkeiten in der Ausführung ungültig waren. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-11">[12]</a> Diese kontroverse Entscheidung des Gerichts wurde jedoch de facto vom Parlament abgelehnt, welches entschied, dass die gewählten Versammlungsmitglieder in einem Verfassungsrat zusammen kommen sollten. Die Resolution wurde abgesegnet mit 31 Stimmen dafür, 21 dagegen und 7 Enthaltungen. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-12">[13]</a> Die Verfassungsversammlung wurde also zum Verfassungsrat mit denselben Aufgaben und einer fast identischen Zusammensetzung (eine Person gab ihren Sitz auf und wurde von der 26. Person auf der Liste ersetzt).</p><p><strong>Deliberation und Entscheidungen </strong></p><p>Artikel 20 des Gesetzes spezifiziert, dass die Versammlung extensiv um Vorschläge der Öffentlichkeit, Interessengruppen und anderer Parteien, die ihre Ideen und weiteres Material der Versammlung vorlegen möchten, werben soll. Der Rat hat es geschafft, dies auf kreative Weise umzusetzen, indem er soziale Medien wie <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#Official_Project_Links">Youtube, Twitter, Facebook und Flickr</a> einsetzte. Diese wurden genutzt um Fortschritte, Protokolle und Interviews mit den Ratsmitgliedern sowie Videos ihrer Beratungen zu verbreiten. Zusammen mit der offiziellen Website dienten diese sozialen Netzwerke als Plattform für isländische Bürger um ihre Vorschläge einzubringen. Nach Aussage des Rats fand der größte Teil der Online Diskussion auf Facebook statt. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-13">[14]</a> Der Prozess der Teilnehmerauswahl war demnach also offen und stand jedem Nutzer frei. Sie mussten nur eine Adresse angeben, womit der Prozess selbst für Ausländer offen war.</p><p>Während der 4 Monate des Schreibprozesses veröffentlichte der Rat regelmäßig Entwürfe online zur öffentlichen Begutachtung. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-14">[15]</a> Weitere Vorschläge von Mitgliedern der Öffentlichkeit, die zur Berücksichtigung freigegeben waren, wurden auf die Website gestellt. Die Öffentlichkeit konnte diese Vorschläge dann öffentlich diskutieren. Schließlich begutachtete der Rat die Argumente für und wider diese Vorschläge und entschied ob sie in dem nächsten Entwurf vorkommen sollten. Einige Vorschläge, wie das Verbot der Misshandlung von Nutztieren, wurden in den Verfassungsentwurf aufgenommen. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-15">[16]</a></p><p>Am 29. Juli 2011 präsentierte der Rat dem Parlament einen finalen Entwurf der Resolution zur Überarbeitung. Dieser Entwurf wird geprüft und möglicherweise an den Rat zurückgeschickt, um Korrekturen vorzunehmen. Danach wird der Entwurf dem Parlament zur Abstimmung vorgelegt. Es gibt zudem die Möglichkeit, dass über den Entwurf per Referendum abgestimmt wird. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-16">[17]</a></p><p><strong>Ergebnisse und Auswirkungen</strong></p><p>Da der Entwurf noch geprüft wird, ist es zu früh, um Angaben zu den Ergebnissen des Prozesses zu machen. Einige der angestrebten Ziele, wie zum Beispiel mehr Verantwortung für das Parlament und überwachende Maßnahmen für den Finanzsektor, wurden in den Entwurf aufgenommen. Da diese Änderungen das Parlament direkt betreffen, hängt es auch vom Parlament ab, ob die Änderungen in Kraft treten. Nach der alten Verfassung müssen Verfassungsänderungen von Althingi abgesegnet werden.<a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-17">[18]</a></p><p> Ein bemerkenswertes Ergebnis, das der Prozess bisher hatte, ist der Einsatz für Islands natürliche Ressourcen. Sowohl das nationale Forum als auch der Rat haben sich dazu geneigt gezeigt, natürliche Ressourcen als öffentliches Gut zu betrachten. Diese Entscheidung war stark umstritten unter der nationalen politischen Elite. Insbesondere die Liberal-konservative Unabhängigkeitspartei hat versucht, den Revisionsprozess aus diesem Grund zu blockieren. Dies stellt jedoch keine Neuigkeit dar, da die Partei einen ähnlichen Vorschlag bereits 2009 im Parlament blockiert hatte. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-18">[19]</a></p><p><strong>Analyse &amp; Kritik</strong></p><p><strong>Politische Unabhängigkeit</strong></p><p>Die Entscheidung des Obersten Gerichtshofs die Versammlungswahl wegen technischer Gründe aufzuheben war stark umstritten. Bei näherer Betrachtung basiert das Urteil auf einer Reihe fragwürdiger Argumente <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-19">[20]</a>. Die Motivation dahinter scheint politisch zu sein, da vier der fünf Richter des Obersten Gerichtshofs von der Unabhängigkeitspartei ernannt worden waren. Diese Partei hatte starkes Interesse daran, die Versammlung nicht zustande kommen zu lassen, nachdem klar wurde, dass die meisten Gewählten für eine Verstaatlichung Islands natürlicher Ressourcen stimmen würden. Viele Mitglieder der politischen Elite sind hingegen für eine Privatisierung der natürlichen Ressourcen. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-20">[21]</a></p><p>Die Entscheidung wurde deshalb als extrem gefährlichen Vorfall in der Geschichte des isländischen Gerichtswesens beschrieben. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-21">[22]</a> Tatsächlich war es das erste Mal in der Geschichte einer westlichen Gesellschaft, dass eine Wahl als ungültig deklariert wurde, ohne dass es eine formelle Darstellung gegeben hätte, dass das Ergebnis unkorrekt war. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-22">[23]</a> Obwohl Althingi als Antwort auf die Entscheidung beschloss, dass die 25 gewählten Versammlungsmitglieder den Verfassungsrat bilden sollten, hat dies gezeigt, dass die Entscheidungen des Rats nicht unabhängig von politischem Wohlwollen sind.</p><p>Eine weitere wichtige Frage in diesem Kontext ist zu welchem Grad der Verfassungsrat eine autonome Kraft bei der Initiierung des partizipativen Prozesses war. Thorvaldur Gylfason, Gewinner der Versammlungswahl, sagte gleich nach der Wahl, dass das Parlament ungeeignet sei den Verfassungsentwurf zu bewerten, da der Entwurf die Anzahl der Parlamentsmitglieder reduzieren könnte. Stattdessen sollte über den Entwurf sofort in einem nationalen Referendum abgestimmt werden. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-23">[24]</a> Zusätzlich zu dem finalen Entwurf vom 29. Juli 2011 wurde eine Notiz abgegeben, die besagte, dass alle Delegierten darin übereinstimmen, dass der Bevölkerung die Möglichkeit über den Entwurf abzustimmen gegeben werden sollte bevor das Parlament als letzte Instanz darüber entscheidet. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-24">[25]</a> Dies scheint einem Wunsch des Rates zu entsprechen, sich parlamentarischer Kontrolle zu entziehen. Der Wandel von einer Versammlung zu einem Rat könnte dazu beigetragen haben: der Rat durfte seine eigenen Methoden bestimmen, wohingegen die Versammlung in dieser Hinsicht recht stringenten Regeln unterlegen hätte. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-25">[26]</a> Auch die Idee, die öffentliche Meinung zu „crowdsourcen“ scheint vom Rat selbst zu kommen.</p><p>Es scheint als würde dieser Wunsch nach Autonomie gut zum dem Mandat der Versammlung passen. Das Maß nach dem der Rat dieses Mandat erfüllt, wird teilweise über seine demokratische Legitimität mitentscheiden. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-26">[27]</a></p><p><strong>Fragen der Legitimität </strong></p><p>Die kleine Zahl von Stimmabgaben, die die Mehrheit von Versammlungsmitgliedern stützt (15 haben nicht einmal tausend Stimmen bekommen) wurde als Zeichen schwacher Autorität des Rates gewertet. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-27">[28]</a> Bis jetzt wurden keine vertrauenswürdigen Daten erhoben um das Niveau der Onlinebeteiligung zu messen. Die Tatsache jedoch, dass nur 4000 Menschen die Facebookseite „gefällt“ deutet darauf hin, dass sie nicht sehr intensiv genutzt worden ist. Demnach ist es fraglich, ob der Revisionsprozess wirklich die isländische Bevölkerung beschäftigt hat.</p><p>Dies mag ein geringeres Problem für das “crowdsourcing” Element gewesen sein, bei dem individuelle Nutzer Einfluss nehmen konnten, indem sie eine Debatte in dem Verfassungsrat selbst generierten. Dies bedeutete jedoch auch, dass das Ergebnis der Debatte von den Nutzern nicht kontrollierbar war und dass die Ergebnisse nicht notwendigerweise repräsentativ waren. Zudem scheinen viele Vorschläge eher Grundsatzempfehlungen als konstitutionelle Rechte zu sein. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-28">[29]</a> Dies könnte der Grund dafür sein, dass mindestens ein Experte einer komparativen, politischen Institution sich darüber beschwerte, dass die Verfassung zu speziell und deshalb zu unflexibel für zukünftige Generationen sei. <a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_note-29">[30]</a> Es scheint also eine bedenkliche Balance zwischen einer zu starken und zu schwachen Inklusion der Öffentlichkeit zu geben.</p><p><strong>Sekundärquellen </strong></p><ul><li>Axelsson, Reynir. Comments on the Decision of the Supreme Court to Invalidate the election to the Constitutional Assembly (2011). <a href="http://stjornarskrarfelagid.is/wp-content/uploads/2011/07/Article_by_Reynir_Axelsson.pdf" title="http://stjornarskrarfelagid.is/wp-content/uploads/2011/07/Article_by_Reynir_Axelsson.pdf">http://stjornarskrarfelagid.is/wp-content/uploads/2011/07/Article_by_Reynir_Axelsson.pdf</a> (Accessed on 8/8/2011)</li><li>Robert H. Wade and Silla Sigurgeirsdottir. “Iceland’s meltdown: The rise and fall of international banking in the North Atlantic.” Real-world Economic Review, 56, 2011: 58–71. <a href="http://www.paecon.net/PAEReview/issue56/WadeSigurgeirsdottir56.pdf" title="http://www.paecon.net/PAEReview/issue56/WadeSigurgeirsdottir56.pdf">http://www.paecon.net/PAEReview/issue56/WadeSigurgeirsdottir56.pdf</a> (Accessed on 8/8/2011)</li></ul><p><strong>Externe Links<br />Offizielle Quellen </strong></p><ul><li><a href="http://www.thjodfundur2010.is/other_files/2010/doc/Act-on-a-Constitutional-Assembly.pdf" title="http://www.thjodfundur2010.is/other_files/2010/doc/Act-on-a-Constitutional-Assembly.pdf">Act on a Constitutional Assembly no. 90/2010 – English version</a></li><li><a href="http://www.thjodfundur2010.is/frettir/lesa/item32858/" title="http://www.thjodfundur2010.is/frettir/lesa/item32858/">Conclusions of the 2010 National Forum – English version</a></li><li><a href="http://www.stjornlagarad.is/english/" title="http://www.stjornlagarad.is/english/">Constitutional Council website – English version</a></li></ul><p><strong>Offizielle Projekt-Links </strong></p><ul><li><a href="https://www.facebook.com/Stjornlagarad" title="https://www.facebook.com/Stjornlagarad">Facebook page</a></li><li><a href="https://twitter.com/#%21/Stjornlagarad" title="https://twitter.com/#!/Stjornlagarad">Twitter account</a></li><li><a href="http://www.flickr.com/photos/stjornlagarad/" title="http://www.flickr.com/photos/stjornlagarad/">Flickr page</a></li><li><a href="http://www.flickr.com/photos/stjornlagarad/" title="http://www.flickr.com/photos/stjornlagarad/">Youtube page</a></li></ul><p><strong> Sonstige Quellen </strong></p><ul><li><a href="http://www.guardian.co.uk/world/2011/jun/09/iceland-crowdsourcing-constitution-facebook" title="http://www.guardian.co.uk/world/2011/jun/09/iceland-crowdsourcing-constitution-facebook">Guardian.co.uk (9/6/2011), “Mob rule: Iceland crowdsources its next constitution.”</a></li><li><a href="http://stjornarskrarfelagid.is/?page_id=2613" title="http://stjornarskrarfelagid.is/2011/07/english-translations/">“The extremely controversial decision by the Icelandic Supreme Court”, published by the Constitutional Society (16/07/2011).</a></li><li><a href="https://icelandreview.com/icelandreview/whats_on/what_to_do/events/?ew_news_onlyarea=1000&amp;ew_news_onlyposition=23&amp;cat_id=48123&amp;ew_23_a_id=370680" title="http://www.whatson.is/icelandreview/daily_news/Poor_Turnout_in_Constitutional_Assembly_Election_0_370680.news.aspx?cat_id=16567&amp;ew_24_r_f=1&amp;ew_24_r_t=1&amp;news_category_id=">Iceland Review Online (28/11/2010), “Poor Turnout in Constitutional Assembly Election.”</a></li><li><a href="http://www.icenews.is/index.php/2011/03/24/icelandic-parliament-passes-constitutional-change-bill/#more-22190" title="http://www.icenews.is/index.php/2011/03/24/icelandic-parliament-passes-constitutional-change-bill/#more-22190">IceNews.is (24/3/2011), “Icelandic parliament passes constitutional bill change.”</a></li><li><a href="http://www.icelandreview.com/icelandreview/daily_news/?cat_id=16567&amp;ew_0_a_id=370813" title="http://www.icelandreview.com/icelandreview/daily_news/?cat_id=16567&amp;ew_0_a_id=370813">Icelandreview.com (01/12/2010), “Iceland Election Results Announced.”</a></li><li><a href="http://icelandreview.com/icelandreview/daily_news/?cat_id=16567&amp;ew_0_a_id=370733" title="http://icelandreview.com/icelandreview/daily_news/?cat_id=16567&amp;ew_0_a_id=370733">IcelandReview.com (29/11/2010), "Poorest Election Turnout in Iceland’s History"</a></li><li><a href="http://icelandreview.com/icelandreview/daily_news/?ew_0_a_id=372995" title="http://icelandreview.com/icelandreview/daily_news/?ew_0_a_id=372995">Icelandreview.com (25/1/2011), “Iceland Constitutional Assembly Voting Invalid.</a></li><li><a href="http://www.constitutionalassembly.politicaldata.org" title="http://www.constitutionalassembly.politicaldata.org">A useful blog about the process</a> by Indridi H. Indridason, an Associate Professor of Political Science at the University of California-Riverside.</li><li><a href="http://www.state.gov/r/pa/ei/bgn/3396.htm" title="http://www.state.gov/r/pa/ei/bgn/3396.htm">US department of State: Iceland (accessed 15/9/2011)</a></li><li><a href="http://www.usatoday.com/money/world/2011-06-12-Iceland-constitution-online_n.htm" title="http://www.usatoday.com/money/world/2011-06-12-Iceland-constitution-online_n.htm">AP (12/6/2011), “Tech-savvy Iceland goes online for new constitution.”</a></li><li><a href="http://www.government.is/constitution/" title="http://www.government.is/constitution/">Old constitution.</a></li><li>Landemore , Hélène (2/12/2013). <a href="https://yale.academia.edu/HeleneLandemore">Inclusive Constitution-Making: The Icelandic Experiment.</a></li></ul><p><strong>Hinweise</strong></p><ol><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-0">↑</a> <a href="http://edition.cnn.com/2009/WORLD/europe/04/25/iceland.elections/index.html" title="http://edition.cnn.com/2009/WORLD/europe/04/25/iceland.elections/index.html">http://edition.cnn.com/2009/WORLD/europe/04/25/iceland.elections/index.html</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-1">↑</a> <a href="http://www.thjodfundur2010.is/other_files/2010/doc/Act-on-a-Constitutional-Assembly.pdf" title="http://www.thjodfundur2010.is/other_files/2010/doc/Act-on-a-Constitutional-Assembly.pdf">Act</a> on a Constitutional Assembly no. 90/2010, Article 20 and Interim Provision</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-2">↑</a> Alda Sigmundsdottir, <a href="http://www.usatoday.com/money/world/2011-06-12-Iceland-constitution-online_n.htm" title="http://www.usatoday.com/money/world/2011-06-12-Iceland-constitution-online_n.htm">Associated Press</a> (12/6/2011)</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-3">↑</a> Stjornlagarad.is. “A Bill Submitted to Althinghi”</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-4">↑</a> Article 3 of the Constitutional Act</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-5">↑</a> Helga Kristin Einarsdottir, “Iceland’s Ruling Coalition Splits Following Protests” <a href="http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=avntV39aM_7I&amp;refer=europe" title="http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=avntV39aM_7I&amp;refer=europe">http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=avntV39aM_7I&amp;refer=europe</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-6">↑</a> Interview with Gudjon Mar Gudjonsson on <a href="http://ohmygov.com/blogs/general_news/archive/2009/11/13/in-iceland-trying-to-reprogram-government.aspx" title="http://ohmygov.com/blogs/general_news/archive/2009/11/13/in-iceland-trying-to-reprogram-government.aspx">OhMyGov.com</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-7">↑</a> <a href="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=319192" title="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=319192">Iceland Review_Online</a> 30/01/2009</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-8">↑</a> Stjornlagarad.is. “Elections for the Constitutional Assembly”</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-9">↑</a> Iceland Review Online, “Poor Turnout in Constitutional Assembly Election.” 28/11/2010</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-10">↑</a> Iceland Review Online, "Poorest Election Turnout in Iceland’s History." 29/11/2010</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-11">↑</a> Icelandreview.com, “Iceland Constitutional Assembly Voting Invalid, 25/1/2011</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-12">↑</a> IceNews.is. “Icelandic parliament passes constitutional bill change,” 24/3/2011</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-13">↑</a> Berghildur Bernhardsdottir, the Public Relations manager of the Forum and the Council in AP, “Tech-savvy Iceland goes online for new constitution” 12/6/2011</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-14">↑</a> <a href="http://stjornlagarad.is/starfid/afangaskjal/oll/" title="http://stjornlagarad.is/starfid/afangaskjal/oll/">Older versions</a> of the draft.</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-15">↑</a> AP, “Tech-savvy Iceland goes online for new constitution” 12/6/2011</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-16">↑</a> AP, “Tech-savvy Iceland goes online for new constitution” 12/6/2011</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-17">↑</a> Article 79 of the old <a href="http://www.government.is/constitution/" title="http://www.government.is/constitution/">constitution</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-18">↑</a> <a href="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=322808" title="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=322808">Iceland Review</a> (17/04/2009)</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-19">↑</a> Reynir Axelsson 2011, Comments on the Decision of the Supreme Court, p. 9-10.</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-20">↑</a> Wade and Sigurgeirsdottir 2011, Iceland’s Meltdown, p. 70.</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-21">↑</a> Axelsson 2011, Comments on the Decision of the Supreme Court, p. 9-10.</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-22">↑</a> Professor Olafur Hardarson, head of the Faculty of Social Sciences at the University of Iceland, quoted in an <a href="http://stjornarskrarfelagid.is/2011/07/english-translations/" title="http://stjornarskrarfelagid.is/2011/07/english-translations/">interview</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-23">↑</a> IcelandReview, “Iceland’s Election Results Announced” 1/12/2010</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-24">↑</a> <a href="http://stjornlagarad.is/english/" title="http://stjornlagarad.is/english/">Official Council website</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-25">↑</a> <a href="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=374647" title="http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=374647">IcelandReview</a>, “Constitutional Council to Hand in Suggestions in June”, 1/3/2011</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-26">↑</a> The Act specified that the Assembly should address “public participation in the democratic process, including the timing and the organisation of a referendum, including a referendum on a legislative bill for a constitutional act.”Article 3, clause 6</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-27">↑</a> IcelandReview, “Iceland’s Election Results Announced” 1/12/2010</li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-28">↑</a> <a href="http://stjornlagarad.is/erindi/" title="http://stjornlagarad.is/erindi/">http://stjornlagarad.is/erindi/</a></li><li><a href="http://www.participedia.net/en/cases/icelandic-constitutional-council-2011#cite_ref-29">↑</a> Professor Indridi H. Indridason’s <a href="http://www.constitutionalassembly.politicaldata.org/?p=38" title="http://www.constitutionalassembly.politicaldata.org/?p=38">blog</a></li></ol><p> </p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A195">Constitutional Revision</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Reykjavik      </span>
+                        <div class="country-name" itemprop="addressCountry">Island</div>
+                                            <span class="geo"><abbr class="latitude" title="64.135338">64° 8' 7.2168" N</abbr>, <abbr
+            class="longitude" title="-21.895210">21° 53' 42.756" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Reykjavik%2C+%2C+%2C+is">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                IS      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, April 6, 2009 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, July 29, 2011 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">320 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A15">Election</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/crowdsourcing">Crowdsourcing</a></div><div class="field-item odd"><a href="/en/methods/direct-democracy">Direct Democracy</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A58">Listen/watch as spectator</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-decision-method-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Decision Method:&nbsp;</div><div class="field-items"><div class="field-item even">Up/Down Voting</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">members of the public</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-4ed671bd2045d44d69f9d7734a3e3e4c">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/2453">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

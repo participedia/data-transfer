@@ -1,0 +1,313 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/democracylab-0" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/694" />
+  <title>DemocracyLab | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"IJkOlsEQsTzpVzVnY82grmhTOghLyKe4hSkKuCKUwgk","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/democracylab-0?destination=node\/694":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-694 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/democracylab-0" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/democracylab-0?destination=node/694" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-hkUBkj0dj0hZ8WZTRbGcTp86e14bmh7K4wxZ_JG_bIk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">DemocracyLab</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="DemocracyLab - Participedia" addthis:url="http://participedia.net/en/organizations/democracylab-0"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/democracyLab-logo_1.jpg?itok=tavNmDo2" /></span></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Nov 13 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/ck14" title="View user profile." class="username" xml:lang="" about="/en/people/ck14" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kristine Kenney and Chelsea Hewitt</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3> </h3><h2>Mission and Purpose</h2><p>The creators of DemocracyLab discovered that most online political deliberation is based on emotion instead of facts. Thus, their goal is to change the way we deliberate by emphasizing the need for important values and objectives within such conversations. This is achieved through an internet-mediated platform meant for respectful and credible deliberation. The DemocracyLab website fosters this type of environment through allowing participants to rank different values, objectives, and policies of a certain topic. <br class="kix-line-break" /><br class="kix-line-break" />DemocracyLab users are encouraged to delve into the values behind an issue in order to understand and respect others’ thought processes behind proposed solutions. This idea of value-based decisions has been a unique aspect of DemocracyLab, which separates it from other online deliberation platforms. Using emotions and opinionated remarks can lead to confusion between those deliberating. Instead, values allow people to have a common ground of understanding as the foundation for their deliberation. <br class="kix-line-break" /><br class="kix-line-break" />DemocracyLab also believes that technology has an extensive influence on making large-scale decisions. As the world of technology expands, more people are able to take part in online deliberation.  DemocracyLab is dependent on the participation, knowledge, and opinions of citizens in order to bring everyone closer to the ideal democracy that America needs.</p><h2>History</h2><p>DemocracyLab was founded by Mark Frischmuth in July 2006. Frischmuth became interested in political deliberation after the 2004 Presidential Election, when George W. Bush was chosen to serve for a second term. Regarding the results, the media stated that “America voted on its values.” However, this statement did not resonate with Frischmuth, his friends, or his family. That election opened his eyes to a disconnect which existed between the values of the American people and those of the policies being implemented. This revelation was unsettling for him, and he was determined to make a change.<br class="kix-line-break" /><br class="kix-line-break" />Frischmuth then began to take steps toward creating a platform for value-based deliberation. He first sought wisdom and insight from family and friends, who encouraged him to pursue this end. So he applied for the 501 (c)(3) nonprofit organization through the Internal Revenue Service (IRS), and began to network and interview for the Board of Directors. Once approved, he created the DemocracyLab website. Once the organization started to gain momentum, Frischmuth sought out many respected people for feedback. One specific person who influenced Frischmuth was the founder of <a href="http://americaspeaks.org/">AmericaSpeaks</a>, Carolyn J. Lukensmeyer. She gave Frischmuth insight regarding how to further develop his organization.</p><p>A pilot project for DemocracyLab was then launched at the University of Portland, where students used the forum to facilitate deliberation and find a solution to relevant issues at the campus. This project allowed Frischmuth to see the website in action and revealed some shortcomings of the organization. As a means to act on these shortcomings, Claire Adamsick, the Communications Director of DemocracyLab, attended the <a href="http://ncdd.org/">National Coalition of Dialogue and Deliberation</a>(NCDD) in order to gain further insight on how to develop DemocracyLab and expand political deliberation amongst the country. As the organization continues to drive forward, more tests will be done to see how the website has improved and regressed.</p><p>There is still much room for DemocracyLab to grow into a fully-functional online platform for political deliberation. The current focus of the organization is on team building and developing the website. However, as DemocracyLab continues to grow, the hope is that this will shift to improving the means in which value-based decisions are made.</p><h2>Open Source Software</h2><p>DemocracyLab was founded using <a href="http://opensource.org/">Open Source Software</a>, which is essentially free software that prevents nonprofit organizations from paying a hefty price for their fully operative websites. The users of the software are able to improve and edit the software by adding the appropriate code for the errors that they find within the program. Thus, every time the software is downloaded, it will ideally be updated and improved by various users to make it just as fast and reliable as other expensive software.</p><p>DemocracyLab has used Open Source Software as a means to build their website. Since it is a nonprofit organization, this reliable and free software has opened the doors to improve online deliberation and make the website easy to use for those who are engaged in the platform. This software has helped DemocracyLab become closer to creating a place where citizens, politicians, and leaders can use the site to make informed decisions that are representative of citizens' values.</p><p>Open Source Software is devoted to the creation of user-generated content and the ability to obtain it without cost. A primary value of the <a href="http://opensource.org/about">Open Source Software Initiative</a> is free redistribution, and fights to make web use and software affordable. They also do not tolerate discrimination, and allow people of every age, color, and organization to access it.</p><h2>Participants </h2><p>Anyone is able to participate on the DemocracyLab online engagement platform, as long as they are connected to some kind of social media. Users can only access the forum by logging into their Facebook, Twitter, or Linkedin accounts. However, DemocracyLab stressed that they will not post anything on those social media sites without the permission of the user.</p><p>DemocracyLab can be found on <a href="https://twitter.com/democracylab">Twitter</a>, <a href="https://www.facebook.com/pages/DemocracyLab/11842793001?sk=info">Facebook</a>, and <a href="http://www.meetup.com/DemocracyLab/">Meetup.com</a>. These sites update followers on where they are hosting in-person events and on what issues are currently being deliberated. There are approximately 1,000 followers on Twitter, but this number continues to grow as new members join the movement toward better deliberation.</p><p>In order to participate in DemocracyLab, concerned citizens can go on to their website, democracylab.org, and click on the link “Get Involved.” Once on that page, the website lists the various ways to get involved. Citizens can donate money, follow DemocacyLab on Twitter, like them on Facebook, or contact the creators directly. DemocracyLab does not necessarily recruit participants, but instead gives everyone the opportunity to voice their opinions in a civil and respectful manner. </p><h2>Deliberation, Decisions, and Public Interactions </h2><p>DemocracyLab encourages deliberation through providing an online platform where one can choose their most prevalent values, objectives, and policies of an issue, in order to arrive at a credible solution. They use a system of ranking in order to allow participants to identify the root values of an issue instead of allowing party biases to distort them. This form of deliberation is open to everyone who has access to social media. </p><p>There is no means to come to a consensus while using DemocracyLab. The online platform is solely used to discuss issues with other concerned citizens in the community. The ability to know others’ opinions will hopefully encourage politicians and those in power to use DemocracyLab as a way to make sounds decisions. <br /><br class="kix-line-break" />When one enters DemocracyLab’s <a href="https://democracylab.herokuapp.com/">online engagement platform</a>, they are able to choose from a series of different issues to deliberate upon. Next, they are brought to a screen with pre-selected values that are representative of the problem at hand. The users can drag and drop different values into categories entitled: “of most importance,” “of least importance,” or “no opinion.” Once the values are classified, users can then rate their objectives and policies in the same manner. This system of ranking allows participants to state their opinions, but prevents the distortion of political party biases and strong emotional attachments from slipping in. In addition, participants are able to see what others had ranked as their most important values, objectives, and policies to help improve their analytic rigor.</p><h2>Influence, Outcomes, and Effects </h2><p>DemocracyLab’s ultimate goal is to create a more deliberative and democratic society through improving deliberation on social media platforms. They have made large strides towards this goal through their technological impact on the way people think and make decisions for their community. They have been influenced greatly by several political deliberation groups such as: <a href="http://www.americaspeaks.org/">AmericaSpeaks</a>, <a href="http://www.delib.net/">Delib</a>, <a href="http://www.everyday-democracy.org/en/index.aspx">Everyday Democracy</a>, <a href="http://healthydemocracy.org/">Healthy Democracy Fund</a>, <a href="http://www.metagovernment.org/">Metagovernment.org</a>, <a href="http://ncdd.org/">National Coalition of Dialogue and Deliberation</a> <a href="http://participatedb.com/">Participate DB</a>, <a href="http://www.policyconsensus.org/">Policy Census Initiative</a>, and <a href="http://blog.ushahidi.com/">Ushahindi</a>. DemocracyLab has implemented some of the themes and values of these groups as a premise for political deliberation. The organization is still in its beginning stages, so the effects are not apparent yet. However, DemocracyLab has the potential to facilitate some of the most imperative political deliberations on the internet.</p><h2>Analysis and Criticism </h2><p>Despite the well-thought-out goals and ideas of DemocracyLab, some criticisms by its users have also come to light. One critique of the organization is that participants can only gain access to the platform through social networking websites like Facebook, Twitter, or Linkedin. This means that concerned citizens who do not use social media sites cannot participate in deliberation via DemocracyLab. Although social media could potentially promote participation (i.e. seeing “friends” using the site), it could also deter participants who prefer to be more private. DemocracyLab stresses that no information will be posted without your consent, but users may still be wary of connecting their political engagements to their mediated social life.<br class="kix-line-break" /><br class="kix-line-break" />Also, it would be beneficial to have more clarification on how to use the website.  The “drag-and-drop” system of the values, objectives, and policies may be confusing for some users. More so, it constrains participants to only a few options. Many users of online deliberation platforms want to voice their opinions instead of being forced to choose from a list. <br class="kix-line-break" /><br class="kix-line-break" />Despite these shortcomings, DemocracyLab seizes the opportunity for a diversity of voices to make sound decisions based through the ranking of values, objectives, and policies. It also fosters a respectful environment by preventing participants from posting vulgar content which is detrimental to political deliberation. Once DemocracyLab has further developed, it could be an ideal way for the community to be engaged in politics and make sound decisions regarding the future of their community and their country.</p><h3>Secondary Sources</h3><p>Adamsick, Claire . Email interview. 17 Oct. 2012.<br /><br />Frischmuth , Mark . Phone interview. 19 Oct. 2012.</p><p>"Exemption Requirements - Section 501(c)(3) Organizations." Internal Revenue Service. Web. 19 Oct. 2012.&lt;<a href="http://www.irs.gov/Charities-&amp;-Non-Profits/Charitable-Organizations/Exemption-Requirements---">http://www.irs.gov/Charities-&amp;-Non-Profits/Charitable-Organizations/Exem...</a> Section-501(c)(3)-Organizations&gt;.</p><p>Markus, Megan . "DemocracyLab: Open Source Politics." Diss. University of Portland, 2012. Web.<br />&lt;<a href="http://democracylab.org/wp-content/uploads/2012/04/Final-Paper_DemocracyLab.pdf&gt;">http://democracylab.org/wp-content/uploads/2012/04/Final-Paper_Democracy...</a>.</p><h3>External Links</h3><p>DemocracyLab Website<br /><a href="https://democracylab.org/">https://democracylab.org</a><br /><br />DemocracyLab Facebook<br /><a href="https://www.facebook.com/pages/DemocracyLab/11842793001?sk=info">https://www.facebook.com/pages/DemocracyLab/11842793001?sk=info</a><br /><br />DemocracyLab Twitter<br /><a href="https://twitter.com/democracylab">https://twitter.com/democracylab</a><br /><br />How to Design Online Deliberation Forums<br /><a href="http://www.intellitics.com/blog/2012/02/07/new-research-paper-presents-30-general-design-considerations-for-online-deliberation-systems/">http://www.intellitics.com/blog/2012/02/07/new-research-paper-presents-30-general-design-considerations-for-online-deliberation-systems/</a><br /><br />DemocracyLab Meetup.com<br /><a href="http://www.meetup.com/DemocracyLab/">http://www.meetup.com/DemocracyLab/</a><br /><br />AmericaSpeaks<br /><a href="http://www.americaspeaks.org/">http://www.americaspeaks.org/</a><br /><br />Delib<br /><a href="http://www.delib.net/">http://www.delib.net/</a><br /><br />Everyday Democracy<br /><a href="http://www.everyday-democracy.org/en/index.aspx">http://www.everyday-democracy.org/en/index.aspx</a><br /><br />Healthy Democracy Fund<br /><a href="http://healthydemocracy.org/">http://healthydemocracy.org/</a><br /><br />Metagovernment.org<br /><a href="http://www.metagovernment.org/">www.metagovernment.org</a><br /><br />National Coalition of Dialogue and Deliberation (NCDD)<br /><a href="http://ncdd.org/">http://ncdd.org/</a><br /><br />Participate DB<br /><a href="http://participatedb.com/">http://participatedb.com/</a><br /><br />Policy Census Initiative<br /><a href="http://www.policyconsensus.org/">http://www.policyconsensus.org/</a><br /><br />Ushahidi<br /><a href="http://blog.ushahidi.com/">http://blog.ushahidi.com/</a><br /><br />Open Source Software<br /><a href="http://opensource.org/">http://opensource.org/</a></p><h3> </h3><p> </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Mark Frischmuth</div></div></div><div class="field field-name-field-budget field-type-text field-label-above"><div class="field-label">Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">A non-profit organization, donation- based</div></div></div><div class="field field-name-field-pt-staff-count field-type-text field-label-above"><div class="field-label">Part-time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">Claire Adamsick - Communications Director</div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/community-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Development</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

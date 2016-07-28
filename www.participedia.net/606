@@ -1,0 +1,914 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/forum/nominate-case-method-or-organization" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/606" />
+  <title>Suggest a Case, Method or Organization | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"cx4WqB7quS4ktSAJScYrcOpBg62t-ucH4WBRXMDyssk","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/forum\/nominate-case-method-or-organization?destination=node\/606":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-606 node-type-forum i18n-en section-forum" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/forum/nominate-case-method-or-organization" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><a href="/de/forum/nominate-case-method-or-organization" class="language-link" xml:lang="de">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/forum/nominate-case-method-or-organization?destination=node/606" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-C5-uArHLTSHGxKnvu48bm5AKRPsovcsE0U_dM8QSCZg" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › <a href="/en/forum">Forums</a> › <a href="/en/forums/discussions-about-site-content">Discussions about site content</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Suggest a Case, Method or Organization</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="node-606" class="node node-forum view-mode-full clearfix" about="/en/forum/nominate-case-method-or-organization" typeof="sioc:Post sioct:BoardPost">
+
+  
+      <span property="dc:title" content="Suggest a Case, Method or Organization" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="40" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+      <div class="submitted">
+      <span property="dc:date dc:created" content="2012-06-22T10:53:11-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/participedia-support-team" title="View user profile." class="username" xml:lang="" about="/en/people/participedia-support-team" typeof="sioc:UserAccount" property="foaf:name" datatype="">Participedia Support Team</a> on Fri, 06/22/2012 - 10:53</span>          </div>
+          <div class="node-links">
+      <span class="inline also-available-in"></span>
+      <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Help grow the Participedia community by suggesting a potential Case, Method or Organization that you think should be added to the site. </p><p>In the forum comment box below, please provide a name, brief description and preferably a link to the Case, Method or Organization you would like to suggest. </p><h3>Definitions</h3><p>CASE: Articles about Cases include examples of participatory politics and governance of all shapes and sizes. Cases can be contemporary or historical, completed or ongoing.</p><p>METHOD: Articles about Methods provide information on the many processes used to guide innovations in participatory politics and governance, such as citizen juries, deliberative polling and participatory budgeting.</p><p>ORGANIZATION: Articles about Organizations provide profiles of formal and informal groups that design, implement or support innovations in participatory politics and governance.</p></div></div></div><div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">In forum:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/en/forums/discussions-about-site-content" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">Discussions about site content</a></div></div></div>  </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul>
+  <div class="node-comments"><div class="node-comments-inner"><div id="comments" class="comment-wrapper">
+  
+  <a id="comment-7"></a>
+<div class="comment first odd clearfix" about="/en/comment/7#comment-7" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/7#comment-7" class="permalink" rel="bookmark">CASE: &#039;Deliberative polling&#039; planned for Japan&#039;s energy policies</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/7#comment-7" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-06-22T11:08:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/jesi-carson" title="View user profile." class="username" xml:lang="" about="/en/people/jesi-carson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jesi Carson</a> on Fri, 06/22/2012 - 11:08</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Original message from Mark Warren:</p>The importance of this use of deliberative polling, it appears, is that its sponsored by a national government, as advisory to a national government. We don't have many cases with this kind of scope.  It's interesting that the article notes that "town meetings" have lost the trust of the people... I wonder if there's any research to back up this claim.  Read the article here: <a href="http://ajw.asahi.com/article/behind_news/politics/AJ201206200046" target="_blank">http://ajw.asahi.com/article/behind_news/politics/AJ201206200046</a></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-8"></a>
+<div class="comment even clearfix" about="/en/comment/8#comment-8" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/8#comment-8" class="permalink" rel="bookmark">CASE: City of Canada Bay Council</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/8#comment-8" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-06-22T11:20:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/jesi-carson" title="View user profile." class="username" xml:lang="" about="/en/people/jesi-carson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jesi Carson</a> on Fri, 06/22/2012 - 11:20</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Original message from Iain Walker, <em>NewDemocracy Foundation (</em><a href="http://www.newdemocracy.com.au">http://www.newdemocracy.com.au</a>): </p><p><strong><strong>City of Canada Bay Council</strong></strong>: on Saturday May 5th, we delivered the first of five meetings of the Citizens’ Panel which will agree the range and level of services, and how they should be funded. This spans the Council’s entire $74m annual budget for a four year period commencing mid 2013. The panel of randomly selected citizens have full access to not only the cost of all current services, but the ability to request staff and other experts to come along to answer their questions. We secured a 9-0 vote at Council to deliver this process and the commitment that their recommendations will be enacted in full pending a final vote of the Council.</p><p>More information can be found here:</p><p><a href="http://www.newdemocracy.com.au/docs/City%20of%20Canada%20Bay_newDemocracy%20Foundation_Oct2011.pdf">http://www.newdemocracy.com.au/docs/City%20of%20Canada%20Bay_newDemocrac...</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-9"></a>
+<div class="comment odd clearfix" about="/en/comment/9#comment-9" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/9#comment-9" class="permalink" rel="bookmark">CASE: NSW Parliament Public Accounts Committee</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/9#comment-9" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-06-22T11:29:26-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/jesi-carson" title="View user profile." class="username" xml:lang="" about="/en/people/jesi-carson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jesi Carson</a> on Fri, 06/22/2012 - 11:29</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Original message from Iain Walker, <em>NewDemocracy Foundation (</em><a href="http://www.newdemocracy.com.au/">http://www.newdemocracy.com.au</a>): </p><p><strong><strong>NSW Parliament Public Accounts Committee</strong></strong>: commencing June 16th, 2012 we will run a similar process to the council process as part of an Inquiry into the Economics of Electricity Generation in NSW. This project was driven by a State MP, Jonathan O’Dea, actively seeking new options to build trust in public decisions. The Australian Financial Review will be covering the story which will likely run this Friday or Saturday.</p><p>More information can be found here:</p><p><a href="http://www.newdemocracy.com.au/docs/Public%20Accounts%20Committee_newDemocracy%20Foundation_v2_Feb2012.pdf">http://www.newdemocracy.com.au/docs/Public%20Accounts%20Committee_newDem...</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-10"></a>
+<div class="comment even clearfix" about="/en/comment/10#comment-10" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/10#comment-10" class="permalink" rel="bookmark">CASE: Nigerian Constitutional Amendments</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/10#comment-10" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-04T15:12:37-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/jesi-carson" title="View user profile." class="username" xml:lang="" about="/en/people/jesi-carson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jesi Carson</a> on Wed, 07/04/2012 - 15:12</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Found this article online "Ensuring Constitution Amendment and Participatory Democracy"</p><p> <a href="http://dailyindependentnig.com/2012/07/ensuring-constitution-amendment-and-participatory-democracy/politics-75/">http://dailyindependentnig.com/2012/07/ensuring-constitution-amendment-a...</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-11"></a>
+<div class="comment odd clearfix" about="/en/comment/11#comment-11" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/11#comment-11" class="permalink" rel="bookmark">CASE: Citizens&#039; Dialogue on the Long-term Management of Used...</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/11#comment-11" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-06T20:11:57-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 07/06/2012 - 20:11</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Greetings:</p><p>I'd like to suggest the following case for Participedia:</p><p> Citizens' Dialogue on the Long-term Management of Used Nuclear Fuel in Canada (2004), <a href="http://www.cprn.org/doc.cfm?doc=1050 ">http://www.cprn.org/doc.cfm?doc=1050 </a></p><p>This was a CPRN dialogue which used the <a href="http://participedia.net/methods/choicework-dialogue">Choicework Dialogue</a> method.</p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-12"></a>
+<div class="comment even clearfix" about="/en/comment/12#comment-12" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/12#comment-12" class="permalink" rel="bookmark">CASE: Citizens&#039; Dialogue on Canada’s Future</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/12#comment-12" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-06T20:12:35-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 07/06/2012 - 20:12</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Greetings:</p><p>I'd like to suggest a case on the following:</p><p>Citizens' Dialogue on Canada’s Future (2002), <a href="http://www.cprn.org/doc.cfm?l=en&amp;doc=359">http://www.cprn.org/doc.cfm?l=en&amp;doc=359</a></p><p>This was a CPRN dialogue.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-13"></a>
+<div class="comment odd clearfix" about="/en/comment/13#comment-13" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/13#comment-13" class="permalink" rel="bookmark">CASE: Citizens&#039; Dialogue on Sharing Public Funds for a Better...</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/13#comment-13" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-06T20:13:01-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 07/06/2012 - 20:13</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Greetings:</p><p>I'd like to suggest a case on the following:</p><p>Citizens' Dialogue on Sharing Public Funds for a Better Canada (2005-2006),  <a href="http://www.cprn.org/doc.cfm?doc=1422">http://www.cprn.org/doc.cfm?doc=1422</a></p><p>This was a CPRN dialogue.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-15"></a>
+<div class="comment even clearfix" about="/en/comment/15#comment-15" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/15#comment-15" class="permalink" rel="bookmark">CASE: House of Commons Sub-Committee on Persons with...</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/15#comment-15" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-06T20:14:33-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 07/06/2012 - 20:14</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Greetings:</p><p>I'd like to suggest a case on the following:</p><p>Canada. Parliament. House of Commons Sub-Committee on Persons with Disabilities Public Consultations (2002-2003), <a href="http://www.parl.gc.ca/content/hoc/Committee/372/HUMA/Reports/RP1032289/humarp05/humarp05-e.pdf">http://www.parl.gc.ca/content/hoc/Committee/372/HUMA/Reports/RP1032289/h...</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-16"></a>
+<div class="comment odd clearfix" about="/en/comment/16#comment-16" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/16#comment-16" class="permalink" rel="bookmark">CASE: Canadian Senate Public Consultations on Mental Health...</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/16#comment-16" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-06T20:15:28-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 07/06/2012 - 20:15</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Greetings:</p><p>I'd like to suggest a case on the following:</p><p>Canada. Parliament. Senate Committee on Social Affairs, Science and Technology, Public Consultations on Mental Health, Mental Illness and Addiction Services in Canada (2003-2005).</p><p>Report: Part 1: <a href="http://www.parl.gc.ca/Content/SEN/Committee/391/soci/rep/pdf/rep02may06part1-e.pdf">http://www.parl.gc.ca/Content/SEN/Committee/391/soci/rep/pdf/rep02may06p...</a></p><p>Report: Part 2: <a href="http://www.parl.gc.ca/Content/SEN/Committee/391/soci/rep/pdf/rep02may06part2-e.pdf">http://www.parl.gc.ca/Content/SEN/Committee/391/soci/rep/pdf/rep02may06p...</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-17"></a>
+<div class="comment even clearfix" about="/en/comment/17#comment-17" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/17#comment-17" class="permalink" rel="bookmark">CASE: Global Deliberation on Global Warming</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/17#comment-17" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-07T06:09:07-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/hrgilman" title="View user profile." class="username" xml:lang="" about="/en/people/hrgilman" typeof="sioc:UserAccount" property="foaf:name" datatype="">Hollie Russon Gilman</a> on Sat, 07/07/2012 - 06:09</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p><p class="p1">"The World Wide Views on Global Warming."You can read about it here <a href="http://www.wwviews.org/">http://www.wwviews.org/</a></p><p class="p1"> </p><p class="p1">There is a book written about WWV with the title Citizen Participation in Global Environmental Governance. It is available for purchase at<a href="http://www.amazon.com/Citizen-Participation-Global-Environmental-Governance/dp/1849713782">http://www.amazon.com/Citizen-Participation-Global-Environmental-Governance/dp/1849713782</a></p><p class="p1"> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-20"></a>
+<div class="comment odd clearfix" about="/en/comment/20#comment-20" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/20#comment-20" class="permalink" rel="bookmark">CASE: Toronto Transit Camp (2007)</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/20#comment-20" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-18T12:09:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Wed, 07/18/2012 - 12:09</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Excerpt from a 2008 Honors thesis by Karen Fung: </p><p>"Among many of its effects, information and communication technologies (ICTs) are being examined for their effects on the world's democratic practices and governments. Att he same time, the impacts of ICTs are not felt simply in one area our lives in isolation -as they bring changes to several areas of our life at once, the effects interact with each other in altering our expectations, norms, relationships and daily practices. As changes occur in one part of our life, more individuals are exploring both the potential benefits and drawbacks of applying the logic associated with processes that have been altered by ICTs, in the pursuit of social innovation, to other fields and areas. I will illustrate this through an examination of Toronto Transit Camp – a self-organizing collaborative face-to-face event organized by a Toronto area technology community – exploring its outcomes as expressed by participants of the event, and the event itself as an example of the evolving relationship between technology, citizenship and civic engagement."</p><p>See: <a href="http://ubc.academia.edu/KarenFung/Papers/110832/Social_Change_New_Media_and_Everyday_Makers_A_Case_Study_of_Toronto_Transit_Camp">http://ubc.academia.edu/KarenFung/Papers/110832/Social_Change_New_Media_and_Everyday_Makers_A_Case_Study_of_Toronto_Transit_Camp</a></p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-21"></a>
+<div class="comment even clearfix" about="/en/comment/21#comment-21" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/21#comment-21" class="permalink" rel="bookmark">CASE: NH Statewide Conversation on Water Sustainability</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/21#comment-21" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-26T14:15:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Thu, 07/26/2012 - 14:15</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This initiative was organized in 2012 by <a href="http://www.carseyinstitute.unh.edu/nhlistens/home.html">New Hampshire Listens</a> for the NH Water Sustainability Commission. It involved approximately 250 participants.</p><p>See <a href="http://www.carseyinstitute.unh.edu/nhlistens/water.htm">http://www.carseyinstitute.unh.edu/nhlistens/water.htm</a></p><p>The staff of New Hampshire Listens would be happy to share information with anyone who would like to prepare a case study of this project. You can reach them at <a href="/cdn-cgi/l/email-protection#db9593f597b2a8afbeb5a89baeb5b3f5bebfae"><span class="__cf_email__" data-cfemail="256b6d0b694c5651404b5665504b4d0b404150">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> .</p><p>New Hampshire Listens works at the local and state level to facilitate and support civil, public deliberation of complex, polarizing issues. </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-22"></a>
+<div class="comment odd clearfix" about="/en/comment/22#comment-22" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/22#comment-22" class="permalink" rel="bookmark">CASE: NH Governor&#039;s Commission on Expanded Gaming 2010</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/22#comment-22" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-26T14:21:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Thu, 07/26/2012 - 14:21</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In 2010, <a href="http://www.carseyinstitute.unh.edu/nhlistens/home.html">New Hampshire Listens</a> worked with the New Hampshire Gaming Study Commission to gather board citizen input to inform the policy question of whether or not to expand legalized gambling in NH. In February, eighteen small group conversations were held in ten different locations across the state. There was a relatively wide range of views held by those who participated. The project involved approximately 270 residents.</p><p>The final report can be found at <a href="http://www.carseyinstitute.unh.edu/docs/WAS-Final-Report-April-20-2010.pdf">http://www.carseyinstitute.unh.edu/docs/WAS-Final-Report-April-20-2010.pdf</a></p><p>The staff of New Hampshire Listens would be happy to share information with anyone who would like to prepare a case study of this project. You can reach them at <a href="/cdn-cgi/l/email-protection#511f197f1d382225343f2211243f397f343524"><span class="__cf_email__" data-cfemail="e1afa9cfad889295848f92a1948f89cf848594">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> .</p><p>New Hampshire Listens works at the local and state level to facilitate and support civil, public deliberation of complex, polarizing issues. </p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-23"></a>
+<div class="comment even clearfix" about="/en/comment/23#comment-23" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/23#comment-23" class="permalink" rel="bookmark">CASE: Conversations on New Hampshire Outdoor Recreation</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/23#comment-23" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-26T14:29:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Thu, 07/26/2012 - 14:29</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In 2011,  <a href="http://www.carseyinstitute.unh.edu/index.html">New Hampshire Listens</a> worked with the NH Office of Energy and Planning (OEP) and the NH Department of Resources and Economic Development (DRED) to learn more about citizens’ views on opportunities for outdoor recreation at the local and state level. The citizen input from our sessions will be used by OEP and DRED to develop priorities for the NH Statewide Comprehensive Outdoor Recreation Plan (SCORP) currently under revision. In October, over 170 residents met in small group conversations that were held in seven different locations across the state. The final report has been submitted to NH OEP and the NH DRED and will be available soon on the NH Listens website. The project involved approximately 225 residents</p><p>The staff of New Hampshire Listens would be happy to share information with anyone who would like to prepare a case study of this project. You can reach them at <a href="/cdn-cgi/l/email-protection#7d33355331140e0918130e3d08131553181908"><span class="__cf_email__" data-cfemail="eca2a4c2a0859f9889829fac998284c2898899">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> .</p><p>New Hampshire Listens works at the local and state level to facilitate and support civil, public deliberation of complex, polarizing issues.</p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-24"></a>
+<div class="comment odd clearfix" about="/en/comment/24#comment-24" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/24#comment-24" class="permalink" rel="bookmark">Pittsfield, NH: School redesign &amp; student-centered learning</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/24#comment-24" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-07-26T14:42:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Thu, 07/26/2012 - 14:42</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In 2011, <a href="http://www.carseyinstitute.unh.edu/index.html">New Hampshire Listens</a> was asked to provide technical assistance for a multi-year project connecting schools and community school redesign that promotes student=centered learning. NH Listens worked with the Pittsfield Youth Workshop (PYW), a community partner to the Pittsfield School District seeking to engage Pittsfield residents about a District Level Systems Change proposal to the Nellie Mae Education Foundation. The PYW has been working to involve all community members, especially youth, in the betterment of the community as a whole and has been leading a process where everyone is invited to share their experiences, challenge what isn’t working, and offer support.</p><p>PYW is building a foundation of community engagement and input for future planning (Pittsfield Listens) and convening community conversations to inform big changes, create action steps, and provide recommendations for long-term change. Reports on this project are forthcoming.</p><p>The project involved approximately 300 residents.</p><p>The staff of New Hampshire Listens would be happy to share information with anyone who would like to prepare a case study of this project. You can reach them at <a href="/cdn-cgi/l/email-protection#3d73751371544e4958534e7d48535513585948"><span class="__cf_email__" data-cfemail="2967610765405a5d4c475a695c4741074c4d5c">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> .</p><p>New Hampshire Listens works at the local and state level to facilitate and support civil, public deliberation of complex, polarizing issues.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-26"></a>
+<div class="comment even clearfix" about="/en/comment/26#comment-26" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/26#comment-26" class="permalink" rel="bookmark">METHOD:  Oregon Model of Community Visioning</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/26#comment-26" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-08-06T17:23:49-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/mwarren" title="View user profile." class="username" xml:lang="" about="/en/people/mwarren" typeof="sioc:UserAccount" property="foaf:name" datatype="">Mark E. Warren</a> on Mon, 08/06/2012 - 17:23</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This process seems to be quite well known for community planning processes</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-27"></a>
+<div class="comment odd clearfix" about="/en/comment/27#comment-27" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/27#comment-27" class="permalink" rel="bookmark">CASE:  Tasmania Together</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/27#comment-27" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-08-07T10:01:05-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/mwarren" title="View user profile." class="username" xml:lang="" about="/en/people/mwarren" typeof="sioc:UserAccount" property="foaf:name" datatype="">Mark E. Warren</a> on Tue, 08/07/2012 - 10:01</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This appears to be a high quality process, unusual for it's comprehensiveness, across policy areas, across groups and populations, and across the State of Tasmania</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-29"></a>
+<div class="comment even clearfix" about="/en/comment/29#comment-29" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/29#comment-29" class="permalink" rel="bookmark">Method: Games</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/29#comment-29" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-11-26T06:51:00-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Mon, 11/26/2012 - 06:51</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We should have an overview of the use of games in citizen engagement and democratic innovation. Two quick examples can be found in the work of (1) <a href="http://innovationgames.com/">Innovation Games</a> (see also this article about Innovation Games in <a href="http://www.businessweek.com/articles/2012-08-30/making-sense-of-the-games-politicians-play">BusinessWeek</a>); And the work of Eric Gordon and <a href="http://engagementgamelab.org/">Engagement Game Lab</a> at Emerson College.</p><p>Some of the examples cited in the Business Week article would also make for good Case entries in Participedia.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-30"></a>
+<div class="comment odd clearfix" about="/en/comment/30#comment-30" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/30#comment-30" class="permalink" rel="bookmark">Organization: Engagement Game Lab</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/30#comment-30" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-11-26T06:52:48-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Mon, 11/26/2012 - 06:52</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://engagementgamelab.org/">The Engagement Game Lab</a> (EGL) is an applied research lab at <a href="http://www.emerson.edu/" target="_blank" title="Emerson College">Emerson College</a> focusing on the development and study of games, technology, and new media to enhance civic life. The EGL works directly with its partner communities to innovate civic engagement processes, augment stakeholder deliberation, and broaden the diversity of participants in local decision-making.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-31"></a>
+<div class="comment even clearfix" about="/en/comment/31#comment-31" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/31#comment-31" class="permalink" rel="bookmark">Case: Participatory Chinatown</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/31#comment-31" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-11-26T07:04:09-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Mon, 11/26/2012 - 07:04</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This  may need to be written up as both a case and a method.</p><p>From the <a href="http://participatorychinatown.org/">project's website</a>: Participatory Chinatown is a 3-D immersive game designed to be part of the master planning process for Boston’s Chinatown. Residents assumed the role of one of 15 virtual residents and worked to complete their assigned quest—finding a job, housing, or place to socialize. Sometimes the language skills, income level, or other circumstances of their resident made their task more challenging. Residents were then tasked with considering the future of the neighborhood by walking through and commenting on proposed development sites. This game-style meeting is a recognized process of  the 2010 Chinatown Master Plan. This game was a partnership between the Engagement Game Lab (EGL), the Metropolitan Area Planning Council (MAPC), the non-profit Asian Community Development Corporation (ACDC), and Muzzy Lane Software (ML).</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-32"></a>
+<div class="comment odd clearfix" about="/en/comment/32#comment-32" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/32#comment-32" class="permalink" rel="bookmark">Case: New South Wales Parliamentary Committee on Energy</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/32#comment-32" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-12-07T07:21:59-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Fri, 12/07/2012 - 07:21</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p><p>In 2012 a NSW Parliamentary Committee (which is composed of MPs) investigating Energy Reform undertook two citizens’ juries as part its inquiry  process.  For more details see the Committee’s report which documents the process and how the citizens’ recommendations were fed into the MPs formal deliberations <a href="http://www.parliament.nsw.gov.au/prod/parlment/committee.nsf/0/89C00DF09237A998CA257951000A7C66">http://www.parliament.nsw.gov.au/prod/parlment/committee.nsf/0/89C00DF09237A998CA257951000A7C66</a></p><p>Dr. Carolyn Hendrix is analyzing this work:</p><p>Dr Carolyn M. Hendriks</p><p>Crawford School of Public Policy</p><p>Building 132, Lennox Crossing </p><p>The Australian National University</p><p>Canberra ACT 0200 Australia</p><p> </p><p>Tel: +61 2 6125 7557</p><p>Email: <a href="/cdn-cgi/l/email-protection#b3d0d2c1dcdfcadd9ddbd6ddd7c1dad8c0f3d2ddc69dd6d7c69dd2c6"><span class="__cf_email__" data-cfemail="0b686a796467726525636e656f796260784b6a657e256e6f7e256a7e">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></p><p>Web: <a href="http://crawford.anu.edu.au/crawford_people/content/staff/chendriks.php">http://crawford.anu.edu.au/crawford_people/content/staff/chendriks.php</a></p><p>Tel: +61 2 6125 7557</p><p>Fax: +61 2 6125 5570</p><p>Email: <a href="/cdn-cgi/l/email-protection#412220332e2d382f6f29242f2533282a3201202f346f2425346f2034"><span class="__cf_email__" data-cfemail="b5d6d4c7dad9ccdb9bddd0dbd1c7dcdec6f5d4dbc09bd0d1c09bd4c0">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></p><p>Web: <a href="http://crawford.anu.edu.au/crawford_people/content/staff/chendriks.php">http://crawford.anu.edu.au/crawford_people/content/staff/chendriks.php</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-33"></a>
+<div class="comment even clearfix" about="/en/comment/33#comment-33" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/33#comment-33" class="permalink" rel="bookmark">Sydney, Aus-Citizens Panels service delivery priorities/budgets</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/33#comment-33" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2012-12-07T07:24:12-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Fri, 12/07/2012 - 07:24</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In 2012 a  local council in Sydney (Canada Bay) convened as series of citizens’ panels to consider service delivery priorities and budgets <a href="http://www.newdemocracy.com.au/index.php?option=com_content&amp;view=article&amp;id=186&amp;Itemid=127">http://www.newdemocracy.com.au/index.php?option=com_content&amp;view=article&amp;id=186&amp;Itemid=127</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-37"></a>
+<div class="comment odd clearfix" about="/en/comment/37#comment-37" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/37#comment-37" class="permalink" rel="bookmark">Participatory Budgeting in Pune, India</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/37#comment-37" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-02-22T02:05:08-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/naimkeruwala" title="View user profile." class="username" xml:lang="" about="/en/people/naimkeruwala" typeof="sioc:UserAccount" property="foaf:name" datatype="">Naim Keruwala</a> on Fri, 02/22/2013 - 02:05</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>ORGANIZATION: <a href="http://janwani.org/site/">Janwani</a> meaning Voice of the people is a social initiative of MCCIA – Pune. It  was formed in 2006. The objective was to advocate and promote equitable and sustainable development in the city. Simply put, to address the issues of growth and make Pune a better place to live and work</p><p>The Pune Municipal Corporation initiated the Participatory Budgeting project in 2006 but acheived little success. Post intervention by Janwani, the participation increased by 400% -Here are the details: <a href="http://janwani.org/site/projects/e-governance-project/">http://janwani.org/site/projects/e-governance-project/</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-38"></a>
+<div class="comment even clearfix" about="/en/comment/38#comment-38" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/38#comment-38" class="permalink" rel="bookmark">Estonia: Rahvakogu, People&#039;s Assembly</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/38#comment-38" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-04-15T01:21:28-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Mon, 04/15/2013 - 01:21</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The government of Estonia has teamed with nonprofit organizations to develop Rahvakogu, People's Assembly, <a href="http://www.rahvakogu.ee/">http://www.rahvakogu.ee/</a>  . Rahvakogu combines an online e-petition service with in-person citizen deliberation by a random or representative sample of citizens, who deliberate to choose which of several e-petitions that have received the minimum number of votes will be recommended for action by the national parliament.</p><p>The first deliberation day was held 6 April 2013, and was organized by Hille Hinsberg of Praxis   <a href="http://www.praxis.ee/index.php?id=47&amp;tx_comtool_pi1%5BemployeeId%5D=120">http://www.praxis.ee/index.php?id=47&amp;tx_comtool_pi1%5BemployeeId%5D=120</a>   and Urmo Kübar of the Network of Estonian Nonprofit Organizations, Hea Kodanik,   <a href="http://www.ngo.ee/kontor">http://www.ngo.ee/kontor</a></p><p>Here are articles and posts about Rahvakogu:  </p><p> </p><ul><li><a href="http://techpresident.com/news/wegov/23722/estonian-president-submits-crowdsourced-proposals-parliament">http://techpresident.com/news/wegov/23722/estonian-president-submits-cro...</a></li><li><a href="http://news.postimees.ee/1186302/organizers-face-three-difficulties-in-people-s-assembly-representative-sampling">http://news.postimees.ee/1186302/organizers-face-three-difficulties-in-p...</a></li><li><a href="http://news.postimees.ee/1193908/people-s-assembly-supports-introducing-popular-initiative-into-law/">http://news.postimees.ee/1193908/people-s-assembly-supports-introducing-...</a></li><li><a class="ot-anchor" href="http://www.ngo.ee/ngo/247/article/5379" rel="">http://www.ngo.ee/ngo/247/article/5379</a></li></ul> </div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-55"></a>
+<div class="comment odd clearfix" about="/en/comment/55#comment-55" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/55#comment-55" class="permalink" rel="bookmark">Song Of A Citizen</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/55#comment-55" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-05-16T11:38:24-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/jeffreyabelson" title="View user profile." class="username" xml:lang="" about="/en/people/jeffreyabelson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jeffrey Abelson</a> on Thu, 05/16/2013 - 11:38</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p><p> <a href="http://www.songofacitizen.com/">Song Of A Citizen</a> -- is a non-profit, non-partisan collaboration of prominent thinkers and artists producing innovative films and videos designed to spark a much-needed upgrade in how we-the-people view our role as citizens -- and to showcase proven methods for transforming ourselves from passive civic spectators into hands-on political problem-solvers.</p> </div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-56"></a>
+<div class="comment even clearfix" about="/en/comment/56#comment-56" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/56#comment-56" class="permalink" rel="bookmark">CASE: Use of Principled Direct Action for Community Victory</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/56#comment-56" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-06-05T10:17:17-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/bill-moyer" title="View user profile." class="username" xml:lang="" about="/en/people/bill-moyer" typeof="sioc:UserAccount" property="foaf:name" datatype="">Bill Moyer</a> on Wed, 06/05/2013 - 10:17</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://www.backbonecampaign.org/2011-12-13-18-50-10/local-laboratory/item/14-timeline-to-victory-an-agitators-perspective-on-how-a-community-beat-goliath">Timeline to Victory - An Agitator's Perspective on How a Community Beat Goliath</a></p><p><strong>Entire aricle with embedded video of news coverage, press links, and photos go to <a href="http://www.backbonecampaign.org/2011-12-13-18-50-10/local-laboratory/item/14-timeline-to-victory-an-agitators-perspective-on-how-a-community-beat-goliath">Backbone Campaign version of this article</a> </strong></p><p><img alt="Nov. 10, Mine to Park Press" data-mce-="" data-mce-style=" right;" height="305" moz-do-not-send="true" src="http://farm8.staticflickr.com/7210/6887257399_a3c1862347_o.gif" width="250" />On a beautiful Wednesday, Nov. 10th (2010) King County Executive Dow Constantine hosted a 1pm press conference on the shores of West Seattle with the waves clapping against the bulkhead. Amongst tears and hollers of joy, historic words were spoken. The deserving stars of the day Dow Constantine, Sharon Nelson, Peter Goldmark and many others stepped up to the podium. Even the conflicted Jan Drago had some quaint though somewhat vague remarks that sounded more like a farewell address. CalPortland's Ron Summers, who less than two years ago claimed that nothing would keep the mine from expanding struck a sportsmanlike tone. Of course - $36 million is not $65 million, but it's not chump change.</p><p>It was fascinating to see everyone come together. It was also typical that the only folks not actually invited were the rabble (us). Luckily, I found out about it by chance, fetched the puppet and headed in. I have discussed and speculated about only a tiny part of a thirteen year struggle. This fight had so many chapters, fronts, and flanks. Many others have been engaged in the fight longer than I and can tell their version of the story better than I. Though the various flanks in this fight did not always work in perfect harmony, they did in my opinion (and some more politically minded would disagree) never work at cross purposes. It is already an amazing case study of the inter-relationship between legislative, litigation, acquisition, and direct action flanks; and how each has a vital role in delivering victory.<br /><br />As a reporter confidentially said to me two days before the Martinez decision against Glacier in August of 2009 - "this battle will be decided in the court of public opinion. And we both know where that is going." I wasn't so sure. But in hindsight - I can see that he was right. <br /><br />I have compiled, in chronological order (top to bottom) description of the grassroots direct action campaign and how it interwove with political and legal developments. I've included articles of the last couple years and a sampling of the earned media received since the Sutherland quid pro quo lease was granted. I believe it is an inspiring and instructive outline of how the direct action campaign can turn the tide for community interest over corporate power.<br /><br />I hope you enjoy the journey - and figuratively or literally see yourself in the pictures.<br /><br />Congratulations all!<br /><br />Bill Moyer<br />E.D. Backbone Campaign and proud member of the Mosquito Fleet.</p><p>Almost "chronological" - For fun, let's start with last news footage of the Wednesday, Nov. 10 Press Conference announcing Purchase Agreement: <strong>Begiining with the End.  FYI - The land in question is now a Publicly Owned PARK!</strong></p><p><strong>WATCH <a href="http://youtu.be/ct2AbmtIOhQ">NEWS COVERAGE of Final Press Conference Announcing Deal HERE</a></strong></p><p><strong>King 5 News, Nov. 10, 2010</strong></p><p>Now for a look at what was happening approximately 2 years prior to our direct action campaign, and a step by step transformation of momentum from defeat to victory from the perspective of Backbone Campaign &amp; Mosquito Fleet:</p><p><a data-mce-="" href="http://www.pnwlocalnews.com/vashon/vib/news/17099116.html" target="_Blank">Anti-</a><a data-mce-="" href="http://www.pnwlocalnews.com/vashon/vib/news/17099116.html" target="_Blank">bills appear doomed</a><br />Vashon Beachcomber, March 28, 2008<br /><a data-mce-="" href="http://www.pnwlocalnews.com/vashon/vib/news/24080919.html" target="_Blank">Glacier gets OK for Maury Island dock, opponents vow to keep fighting</a><br />Vashon Beachcomber, July 9, 2008.<br />(Permit from Army Corps of Engineers)<br /><a data-mce-="" href="http://seattletimes.nwsource.com/html/localnews/2008461676_webmaury02.html" target="_Blank">State OKs dock for Maury Island gravel mine</a><br />Seattle Times, Dec. 2, 2008<br /><a data-mce-="" href="http://www.seattlepi.com/local/390402_maury03.html" target="_Blank">"Maury Island mine expansion OK'd"</a><br />Seattle PI, Dec. 2, 2008. <br /><a data-mce-="" href="http://seattletimes.nwsource.com/html/localnews/2008466741_mauryisland04m.html" target="_Blank">Lease clears way for Maury Island mining project</a><br />Seattle Times, Dec. 4, 2008<br /><a data-mce-="" href="http://www.pnwlocalnews.com/vashon/vib/news/35507129.html" target="_Blank">Glacier gets lease, begins work on Maury pier</a><br />Vashon Beachcomber, Dec. 6, 2008<br />It looked like they had us licked. Legislation to protect Maury Island and failed. Glacier received their Permits from Feds. And then outgoing State Lands Commissioner Doug Sutherland approved a lease of State aquatic lands. Ultimately, long-time community ally County Executive Ron Sims felt he had no choice but to capitulate and grant Glacier a permit for construction, as they had obtained all other permissions and failing to do so would only trigger another lawsuit that the County could not afford. <br /><br />Glacier had all the momentum in the courts and in the press. Governor Gregoire wouldn't lift a finger and David Dicks (son of Congressman Norm Dicks) head of Puget Sound Partnership thought it was not a priority, ad a "fait accompli."</p><p><strong>THEN (Video Links Only):</strong></p><p>Dec. 8, 2008:</p><h1 id="watch-headline-title"><a href="http://youtu.be/wbOpaRTUcUE">VIDEO: Glacier Beach &amp; Flotilla Protest 12-8-08 - KIRO 7 News</a></h1><h1>IMPORTANT to watch in order to understand the evolution of the coverage.</h1><p>Jan. 2, 2009 Road Blockades:</p><h1 id="watch-headline-title"><a href="http://youtu.be/erBFGZHbn_s">VIDEO: Protestors block access to Maury Island mine - 1/02/09 King 5 News</a></h1><p>Jan. 4, 2009:</p><h1 id="watch-headline-title"><a href="http://youtu.be/pArSjCQsOiM">VIDEO: "Poster Child in the Fight to Save Puget Sound" King 5 News</a></h1><h1>July 16, 2009</h1><h1 id="watch-headline-title"><a href="http://youtu.be/pArSjCQsOiM">VIDEO "Showdown at the Shore" King 5 News</a></h1><p>Again - <strong>King 5 News, Nov. 10, 2010</strong></p><h1 id="watch-headline-title">VIDEO: <a href="http://youtu.be/ct2AbmtIOhQ">FINAL VICTORY - Maury Island will host a Park, NOT an Industrial Gravel Mine</a></h1><p>FYI - the land is now a publicly owned park...  David beats Goliath! (again)</p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-57"></a>
+<div class="comment odd clearfix" about="/en/comment/57#comment-57" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/57#comment-57" class="permalink" rel="bookmark">Extra analysis and content at Backbone Campaign website</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/57#comment-57" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-06-05T10:21:09-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/bill-moyer" title="View user profile." class="username" xml:lang="" about="/en/people/bill-moyer" typeof="sioc:UserAccount" property="foaf:name" datatype="">Bill Moyer</a> on Wed, 06/05/2013 - 10:21</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>For the entire commentary, links, photos and analysis, and even a Master's Thesis go <strong><a href="http://www.backbonecampaign.org/2011-12-13-18-50-10/local-laboratory/item/14-timeline-to-victory-an-agitators-perspective-on-how-a-community-beat-goliath">HERE</a></strong>. </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-58"></a>
+<div class="comment even clearfix" about="/en/comment/58#comment-58" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/58#comment-58" class="permalink" rel="bookmark">CASE: Replicable Strategy for Community Credit Union organizing</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/58#comment-58" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-06-05T10:24:37-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/bill-moyer" title="View user profile." class="username" xml:lang="" about="/en/people/bill-moyer" typeof="sioc:UserAccount" property="foaf:name" datatype="">Bill Moyer</a> on Wed, 06/05/2013 - 10:24</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><a href="http://CUorganizer.org">CUorganizer.org</a></strong> has a podcast describing process, editable files for download and a compelling story about how Vashon Island, WA organizers brought a credit union to their community and moved $20 million out of Wall street banks.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-67"></a>
+<div class="comment odd clearfix" about="/en/comment/67#comment-67" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/67#comment-67" class="permalink" rel="bookmark">Consulta Ciudadana Virtual (virtual citizen consultation)</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/67#comment-67" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-07-11T08:54:48-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Thu, 07/11/2013 - 08:54</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>See <a href="http://www.americasquarterly.org/blogger/5320">Participatory Budgeting Advances in Lima, But Stalls Elsewhere in Peru</a>, JULY 8, 2013</p><p>“A novel political endeavor took place earlier last month in Lima, as just over 17,000 citizens participated in the city’s first consulta ciudadana virtual (virtual citizen consultation) as part of the municipality’s participatory budgeting (PB) process. Across the city, residents used a new online system to vote in the consulta. Although those who participated represent a tiny proportion of the sprawling capital’s population, the consulta is still an impressive innovation with the potential to strengthen public accountability.”</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-68"></a>
+<div class="comment even clearfix" about="/en/comment/68#comment-68" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/68#comment-68" class="permalink" rel="bookmark">CASE: Parma, Italy</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/68#comment-68" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-10-04T09:07:04-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Fri, 10/04/2013 - 09:07</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>(A Participedia User submitted the following message on September 29, 2013)</p><p>The Municipality of Parma have organized a day event where 500 participants<br />selected partly randomly partly by registration met at a covered stadium to<br />discuss town issue that must be addressed by the Municipality.<br />An internet web based platform has being setup for the decision making<br />process.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-69"></a>
+<div class="comment odd clearfix" about="/en/comment/69#comment-69" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/69#comment-69" class="permalink" rel="bookmark">Oregon Marine Reserves Project</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/69#comment-69" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-10-11T12:54:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 10/11/2013 - 12:54</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>David Brinker of Penn State University tells us of this recent environmental public deliberation project in the U.S. state of Oregon: </p>Oregon Sea Grant (2008). <a href="http://web.archive.org/web/20100604030321/http://seagrant.oregonstate.edu///outreach/documents/OSG_MR_Report.pdf">Listening and learning: Marine reserves coastal community forums</a>. Corvallis, OR: Oregon Sea Grant. Here are some related documents:<ul><li><a href="http://www.dfw.state.or.us/agency/commission/minutes/09/10_october/Exhibit%20F_Attachment%202_Marine%20Reserves%20Background%20Report.pdf">Oregon Marine Reserves Process: Informational Update to the Fish and Wildlife Commission</a></li><li><a href="http://nature.forestry.oregonstate.edu/sites/default/files/2011-2%20ODFW%20-%20Marine%20Reserves%20Project%20-%20Final%20Report%20-%20Needham%20Cramer%20Perry.pdf">Coastal Resident Perceptions of Marine Reserves in Oregon</a></li><li><a href="http://www.ifish.net/board/showthread.php?p=2696157">ODFW HB3013 Marine Reserve Process</a></li></ul><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-70"></a>
+<div class="comment even clearfix" about="/en/comment/70#comment-70" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/70#comment-70" class="permalink" rel="bookmark">CASE:   Estonia – People’s Assembly</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/70#comment-70" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-10-19T07:29:38-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Sat, 10/19/2013 - 07:29</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The People’s Assembly is a deliberative democracy tool, designed to encourage input from citizens on the government’s legislative agenda. This web-based platform allows ordinary citizens to propose policy solutions to problems including fighting corruption. Within 3 weeks, 1,800 registered users posted nearly 6,000 ideas and comments. Parliament has since set a timetable for the most popular proposals to be introduced in the formal proceedings.</p><p><a href="https://www.rahvakogu.ee">https://www.rahvakogu.ee</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-72"></a>
+<div class="comment odd clearfix" about="/en/comment/72#comment-72" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/72#comment-72" class="permalink" rel="bookmark">CASE: Health Parliament, Israel, 2003</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/72#comment-72" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-11-27T22:19:03-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Wed, 11/27/2013 - 22:19</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The Health Parliament, held in Israel in 2003, is described in Guttman (2007). Bringing the Mountain to the Public: Dilemmas and Contradictions in the Procedures of Public Deliberation Initiatives That Aim to Get ‘‘Ordinary Citizens’’ to Deliberate Policy Issues. Communication Theory, 17, 411-438. <a href="http://dx.doi.org/10.1111/j.1468-2885.2007.00305.x">http://dx.doi.org/10.1111/j.1468-2885.2007.00305.x</a></p><p>Summary, from Guttman, p. 418:</p><p>'An Israeli initiative called the Health Parliament was launched in 2003; it was a new collaborative venture between the Gertner Institute for Epidemiology and Health Policy Research, which initiated the project, the Israel Ministry of Health, the Zippori Community Education Center, and the Department of Communication and the Cohen Institute of Public Opinion at Tel Aviv University to create a nationwide forum in which citizens would discuss policy issues and present them to policy makers. Over a period of 5 months, participants met in six regional groups, with about 20 participants per group. Participants were asked to consider four healthcare policy questions. All groups met in a final assembly, attended by the minister of health and senior healthcare officials. As in other public deliberation initiatives, the Health Parliament employed various practices and procedures aimed to meet normative participative ideals. The difficulties in adopting procedures to meet participative ideals were evident in the extensive discussions among the team members who designed and implemented the Health Parliament.'</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-73"></a>
+<div class="comment even clearfix" about="/en/comment/73#comment-73" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/73#comment-73" class="permalink" rel="bookmark">CASE: Health Care Dialogue online deliberation, U.S., 2004-2005</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/73#comment-73" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-11-29T00:03:44-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Fri, 11/29/2013 - 00:03</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Health Care Dialogue was an online deliberation that took place in the U.S. in 2004-2005. It is described in Zhang, W. (2012). Perceived procedural fairness in deliberation: Predictors and effects. Communication Research. Published online prior to print publication. doi:<a href="http://dx.doi.org/10.1177/0093650212469544">10.1177/0093650212469544</a></p><p>Summary, from Zhang (2012), pp. 6-7 :</p>"[...] the Health Care Dialogue project [was] a multiwave panel project lasting roughly 1 year during 2004-2005. The project employed a stratified samplingstrategy, such that the final baseline sample represents both a general population sample of adult citizens (aged 18 or older) and a purposive sample of health care policy elites with special experience, knowledge, and influence in the domain of health care policy and reform. [...]  only some of the invited respondents actually attended at least one of the discussions in one of the 80 online groups (N = 614; 123 elites, 491 citizens) [...] The online groups were designed to consist of 6 to 10 people, with participants meeting for about 1 hour to discuss health care issues. The group deliberations, which happened in an online chat room, were moderated by a trained moderator (a graduate student from the communication major) who has gone through multiple rounds of trainings. During the trainings of moderators, they were taught how to use the software to lead discussions, how to follow a standardized discussion guideline, and how to make sure equal opportunities are given to all participants (e.g., ask silent members for their opinions). All the discussionswere recorded in a text format. Respondents were asked to fill out an end-of-project survey after all the discussions finished. [...]"</div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-74"></a>
+<div class="comment odd clearfix" about="/en/comment/74#comment-74" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/74#comment-74" class="permalink" rel="bookmark">CASE:  AHRQ Community Forum Deliberative Methods Demonstration</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/74#comment-74" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-12-05T10:11:30-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Thu, 12/05/2013 - 10:11</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Deliberative Methods Demonstration – Executive Summary of Findings Now Available! </strong></p><p>We are pleased to announce the first posting of the findings from AHRQ’s Community Forum Deliberative Methods Demonstration. The <strong>Executive Summary</strong> of the report on this demonstration is now available at: <a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/who-is-involved-in-the-effective-health-care-program1/ahrq-community-forum/#deliberative">http://www.effectivehealthcare.ahrq.gov/index.cfm/who-is-involved-in-the-effective-health-care-program1/ahrq-community-forum/#deliberative</a></p><p>The Community Forum Deliberative Methods Demonstration was a five-arm controlled trial examining the effectiveness of public deliberation and comparing alternative approaches. The most comprehensive evaluation of deliberative methods to date, it provides insights regarding an issue central to AHRQ’s research. The primary goals of the demonstration were to:</p><p>·        Inform AHRQ research programs on public views regarding the use of research evidence in health care decision making, and</p><p>·        Guide future work in deliberative methods by formally evaluating its effectiveness and identifying feasible choices among approaches to public deliberation.</p><p>Fielded in 2012, the Community Forum Deliberative Methods Demonstration convened 76 groups -- more than 1,000 participants -- in four locations across the country.  The groups reflected the diversity of local populations in terms of racial, ethnic, and sociodemographic background. Participants were randomly assigned to four different types of deliberative methods or a reading-materials-only control.  The deliberative methods included an exclusively online method and in-person approaches that varied in length and intensity.</p><p>Findings from the Deliberative Methods project are summarized in the Executive Summary. The full report will be available in early 2014.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-75"></a>
+<div class="comment even clearfix" about="/en/comment/75#comment-75" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/75#comment-75" class="permalink" rel="bookmark">METHOD: 6 essential processes for successful democ.in companies</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/75#comment-75" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2014-01-07T15:08:15-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/pbernste" title="View user profile." class="username" xml:lang="" about="/en/people/pbernste" typeof="sioc:UserAccount" property="foaf:name" datatype="">Paul Bernstein</a> on Tue, 01/07/2014 - 15:08</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Those results from a 15-nation study are described in greater detail at <u><a href="http://www.workdemoc.org">www.workdemoc.org</a></u></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-77"></a>
+<div class="comment odd clearfix" about="/en/comment/77#comment-77" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/77#comment-77" class="permalink" rel="bookmark">Estonia update</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/77#comment-77" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2014-07-10T08:12:22-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/jgastil" title="View user profile." class="username" xml:lang="" about="/en/people/jgastil" typeof="sioc:UserAccount" property="foaf:name" datatype="">John Gastil</a> on Thu, 07/10/2014 - 08:12</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Yes, the Estonian case is critical. Here's a newer link with relevant contacts:</p><p><a href="http://www.ngo.ee/ngo/247/article/8586">http://www.ngo.ee/ngo/247/article/8586</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-78"></a>
+<div class="comment even clearfix" about="/en/comment/78#comment-78" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/78#comment-78" class="permalink" rel="bookmark">Case: Vienna Charter</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/78#comment-78" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2014-07-22T23:26:42-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a> on Tue, 07/22/2014 - 23:26</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Walter and Gruber describe the Vienna Charter event, in a paper being presented at IPSA 2014:</p><p><a href="https://www.ipsa.org/my-ipsa/events/montreal2014/paper/participatory-innovations-heterogeneous-societies-case-%E2%80%9Cvienna-cha">https://www.ipsa.org/my-ipsa/events/montreal2014/paper/participatory-inn...</a></p><h1 class="title">Participatory Innovations in Heterogeneous Societies: The Case of the “Vienna Charter”</h1>Author: Mr. Florian Walter Co-Authors: Dr. Oliver Gruber<p>With the number of participatory innovations (from deliberative to more direct initiatives) increasing worldwide, one major scholarly concern regards the exclusion of deprived groups from the demanding processes of participatory democracy. In contemporary Western societies, immigrants are an embodiment of such a deprived group, oftentimes facing precarious legal situations and lacking economic, cultural and social capital – which effectively increases their likelihood of political marginalization.</p><p>Responding to these exclusionary trends, in 2012 the municipal government of Vienna introduced a project named the “Vienna Charter”. Its goal was to collect the “basic principles for good neighbourly relations” in a city historically characterized by ethnic and religious diversity. The project’s innovative aspect was its participatory character: By inviting all citizens to join public discussions, the municipality intended to merge the expressed principles of coexistence into a common set of informal rules.</p><p>In our paper we examine the “Vienna Charter” as a participatory innovation. Based on four criteria (initial goals, invested resources, thematic focus and target groups), we confront the basic concept of the project with its implementation, identifying prospects and limits of municipal-level participatory initiatives. Furthermore, the findings on the input are critically contrasted to the output generated by the project. Applying a process-tracing technique, we conduct a document analysis of discussion protocols, motivation letters, etc. as well as qualitative interviews with both, project organizers and participants.</p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-223"></a>
+<div class="comment odd clearfix" about="/en/comment/223#comment-223" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/223#comment-223" class="permalink" rel="bookmark">IAP2 Core Values Awards Winners - 2014</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/223#comment-223" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2014-11-17T08:46:53-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Mon, 11/17/2014 - 08:46</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This article includes brief descriptions and links to more information about several sample cases and organizations that it would be good to add to Participedia.</p><p><a href="http://iap2.site-ym.com/?CV2014">http://iap2.site-ym.com/?CV2014  </a></p><p> </p><p> </p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-397"></a>
+<div class="comment last even clearfix" about="/en/comment/397#comment-397" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/397#comment-397" class="permalink" rel="bookmark">Nominees/winners - IOPD 2015, Best Practices in Participation</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/397#comment-397" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2015-06-20T12:35:00-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Sat, 06/20/2015 - 12:35</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/nominate-case-method-or-organization" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Nominees for and recipients of the 9th Edition (March 26, 2015) of the IOPD Distinction for Best Practices in Citizens’ Participation.</p><p>The IOPD is the International Observatory on Participatory Democracy. (Or, L’Observatori Internacional de la Democràcia Participativa). Thirty-two local governments representing sixteen countries were nominated,  including: Argentina, Brazil, China, Colombia, Ecuador, Spain, France, Italy, Madagascar, Mexico, Mozambique, Niger, Peru, Portugal, Romania and Uruguay.</p><p><em><strong>IOPD’s International Jury awarded the top award to Quart de Poblet (Valencia, Spain): “Open City Council.”</strong></em></p><p>Initiatives offered a Special Mention were:</p><p>1. Méhanna (Niger)</p><p>2. Municipality of Alakamisy Fenoarivo (Madagascar)</p><p>3. Municipality of Cluj-Napoca (Romania)</p><p>4. Municipality of Turin (Italy).</p><p>Descriptions of the cases can be found in the this publication. Most are in Spanish, with a few in English and other languages:  <a href="http://www.oidp.net/fileadmin/documents/Distincio_Bones_Practiques/9D/9-DISTINCIO-OIDP.pdf ">http://www.oidp.net/fileadmin/documents/Distincio_Bones_Practiques/9D/9-...</a></p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/606%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/606%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+
+  </div>
+</div><!-- / "node-comments-inner" --></div><!-- / "node-comments" -->
+</div><!-- /.node -->      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>

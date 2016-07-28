@@ -1,0 +1,375 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/deliberative-polling-vermont-s-energy-future" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/4222" />
+  <title>Deliberative Polling on Vermont’s Energy Future | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"_4f80nsCXzH9sW89z06htedXJrz5MrlDv4b2s8AlbOI","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"4222"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/deliberative-polling-vermont-s-energy-future?destination=node\/4222":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4222 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/deliberative-polling-vermont-s-energy-future" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/deliberative-polling-vermont-s-energy-future?destination=node/4222" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-vj09OTLkipCXbETDPPii1Bpw90edQ6e3pGmEgSGAU1U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Deliberative Polling on Vermont’s Energy Future</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Deliberative Polling on Vermont’s Energy Future</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/marie-nikolova" title="View user profile." class="username" xml:lang="" about="/en/people/marie-nikolova" typeof="sioc:UserAccount" property="foaf:name" datatype="">Marie Nikolova </a> on Fri, 05/15/2015 - 11:29</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Wed, 05/25/2016 - 08:54</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="" addthis:url="http://participedia.net/en/cases/deliberative-polling-vermont-s-energy-future"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Problems and Purpose</h3><p>The main problem, which this deliberative poll was focusing upon, was in what ways could Vermont meet its future electricity needs, due to the fact that in 2012 the two major contracts were going to expire. The purpose was to gather information from the general public about their preferences on a number of specific questions, “what reliance should be placed on energy efficiency and on energy from various sources like wind, nuclear, and hydro” to meet the state’s electricity requirements. (Luskin et al., 2008:1)  Moreover, if the current suppliers should be changed or remained and also whether Vermont should depend more on large centralized facilities or on a higher “number of smaller and more geographically distributed once.” (Luskin et al., 2008:1) Therefore, the participants were able to voice their opinions and views on the issue, so that cooperation was created between the general public and the policy makers. </p><h3>History</h3><p>Deliberative Polling was established in Vermont by the Department of Public Service to gather public involvement in effectively planning the state’s electricity future. The main aim of this event was for the participants to examine and recommend the best suitable solutions for the issue over the next 5-10 years. (Briefing material, pg. 1) Previously most of Vermont’s electricity came from two main companies (Entergy and Hydro Quebec in Canada), but their contracts were about to expire in 2012, due to this Vermont had to assess and evaluate all of the electricity options with regard to their cost, price stability, as<a class="eeyykmxlug" href="#" title="Click to Continue &gt; by MacCost"> well<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> as economic and environmental impact. (Briefing material, pg. 1)  Thus, it created an opportunity for the general public to express their preferences in the matter of where their energy payments should go. </p><h3>Originating Entities and Funding</h3><p>The “Deliberative Poll was conducted by the Center for Deliberative Opinion Research at the University of Texas at Austin for the Vermont Department of Public Service in Burlington. They also worked closely in cooperation with the Center for Deliberative Democracy at Stanford University and with personnel from the Public Decision Partnership in Austin. In regard to the<a class="rkjgndiuurz" href="#" title="Click to Continue &gt; by MacCost"> funding<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> of this democratic innovation case, there is a lack of information. This was one of the major problems, due to the fact that a comparison cannot be made between the price of the innovation and the actual outcome (benefit) it had. </p><h3>Participant Selection</h3><p>In this particular deliberative poll, two different survey companies made a random sample of telephone numbers (i.e. RDD sample”): the Office of Survey Research (OSR) at the University of Texas and then at the private survey company NSON. (Luskin et al., 2008:6) But, due to lack of time OSR had to be replaces by a different survey house. In total there were 750 respondents that carried out the interview made by phone and were invited to attend the Deliberative Poll. (Luskin et al., 2008:6) Once someone answered the selected telephone number, the interrogator asked to speak with the person, who is over eighteen and his or her birthday is the most recent from the whole household. This method is used, because it is most approximate to random selection. Assuming that the person is not home, the interviewer would try to call back later, attempting up to 7 times. It was not approved to substitute the given number with another, so that the integrity of the random sample is preserved. (Luskin et al, 2008:7)</p><p>In order to recruit an adequately large sample of participants they were first asked, if they would like to attend the deliberative poll and then issuing a compressed questionnaire to the once who agreed to take part in the event. In the meantime several University of Texas and Stanford graduate students were asked to make additional calls following the invitation, if the respondent answered maybe to attending the poll. They were given more detailed information about it and were reassured that they are not required to have previous knowledge on the issue, the students also answered all of the remaining questions that they may have. (Luskin et al, 2008:7)) The participants were encouraged to participate by being told that they will gain a opportunity to voice their opinion on an important policy issue regarding Vermont, moreover the possibility to get in touch with fellow Vermonters from differing parts of the state, as<a class="eeyykmxlug" href="#" title="Click to Continue &gt; by MacCost"> well<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> as the prospect of being on television or in the newspapers. Moreover they were also promised that they would be<a class="eeyykmxlug" href="#" title="Click to Continue &gt; by MacCost"> accommodated<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> in a good<a class="xtwxpltqlox" href="#" title="Click to Continue &gt; by MacCost"> hotel<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> for the weekend, which the poll is going to take place, in addition each of the participants is going to get an honorarium of $150. (Luskin et al, 2008:8) The honorarium was particularly of interest to the less educated participants and those from lower classes in the society. Commonly these two social groups are complicated to recruit for events such as this is.</p><p>In total 154 participants from random sampling attended the event, but two of those were excluded, due to the fact that they were not invited through a telephone call. Six more were excluded, because of various other reasons (e.g. for leaving early or not completing a questionnaire at some point in time. (Luskin et al, 2008:12) The sample was composed by a “reasonably representative cross-section of the state.” (Luskin et al, 2008:12)</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>From all of the invited participants, a total of 146 attended the poll held at the University of Texas at Austin on November 3rd to 4th, 2007. The sample was chosen randomly, thus consisting of interviewees from a cross-section of differing age groups, social background etc.</p><p>The deliberative polling was structured in the following way: firstly, a poll was conducted with each of the participants, subsequently the sample received briefing materials and/or attended talks by experts; moreover each of the people, who took part in the event, was randomly assigned to a small group. All together there were 13 groups, which on average had “between 11 and 12 participants apiece”. (Luskin et al, 2008:9) Moreover, each group had a neutral moderator, who was in charge of leading the discussions. Due to the fact that both random sampling and random appointment were used, it was expected that the average variety of participants as<a class="xtwxpltqlox" href="#" title="Click to Continue &gt; by MacCost"> well<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> as opinions would be maximized. The main objective of the small group discussion was for the participants to be able to share their opinions, listen to and learn from each other, which then was expected to lead to improving everyone’s knowledge and thinking about the issues being discussed. It was not expected for the group to reach a consensus, thus the opinions were open to vary from person to person. Voting was also not recommended. All of the debates were led by a moderator, who was in charge of the flow of the conversation, so that it does not get out of hand or so it is not led by one of the participants, which may cause changes in the initial opinions of the participants.</p><p>The distribution of opinions was checked by the researchers twice: firstly, before the deliberations begun and secondly, post- deliberation. It was very important to see in what ways have the views of the participants changed after the in-group discussions and after their questions were answered by experts on the topic. Due to the fact that they deliberated in a environment, which supported diverse opinions it was expected that the participants would at least slightly change their starting positions. </p><h3>Influence, Outcomes, and Effects</h3><p>Before making a decision on the future<a class="eeyykmxlug" href="#" title="Click to Continue &gt; by MacCost"> electricity suppliers<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> in Vermont, the Department of Public Service decided to consider the opinions of ordinary citizens on the issue. Therefore, the outcome of the deliberative poll had the opportunity to influence the lawmakers’ decisions on the state’s electricity agenda, by suggesting the preferences of the ordinary citizens. The results that were gathered through surveys after a weekend of deliberations address a large number of policy areas, i.e. what importance should be given to energy efficiency as<a class="eeyykmxlug" href="#" title="Click to Continue &gt; by MacCost"> well<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> as on energy from varying sources (e.g. wind, nuclear and hydro). Moreover, the final questions also considered the current energy suppliers and if they should be kept or changed.</p><p>Regarding the energy choices, 25% of the participants’ wanted the state’s electricity to come from hydro; almost 18% preferred wind and around 15% would rather see the energy come from solar, wood and nuclear sources. (Luskin et al, 2008:1) Concerning the soon to expire contractors, almost all of the Vermonters agreed that the state “should continue buying electricity from Hydro Quebec as<a class="xtwxpltqlox" href="#" title="Click to Continue &gt; by MacCost"> well<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> from independent Power Producers”. (Luskin et al, 2008:2) 69% of the participants also agreed that the electricity used by Vermonters should be produced mostly in Vermont. (Luskin et al, 2008:2) A great importance was also put on the degree to which the opinions of the participants changed throughout the weekend, to see how significant is knowing more about the issue in creating and changing people’s views.</p><p>The results suggested that the more information was given to the interviewees, the more their opinions on certain issues changed, e.g. the support for renewable sources such as hydro and wood increased, on the other hand coal and<a class="rkjgndiuurz" href="#" title="Click to Continue &gt; by MacCost"> oil<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> became less desirable. Most of the effects were more relevant to the participants, then policy changes. All of the people, who attended the deliberative poll said that they increased their knowledge about the issue and that their interest in it was enhanced, due to the possibility to discuss the matter from all perspectives. </p><h3>Analysis and Lessons Learned</h3><p>Deliberative polls in general are frequently used to advice the government of the state about the public opinion on a certain issue, if they were given more information about the topic, which in this case can be seen as a success. As primarily stated by the founder of deliberative polls James S. Fishkin “a deliberative poll attempts to model what the public would think, had it a better opportunity to consider the question at issue.” (Fishkin, J.S., 1997:162)</p><p>Due to the fact that random selection was used, when gathering participants it can be stated that the innovation was inclusive. It included contributors from the general public, thus also minorities and people from different social background. One of the problems that may have been an issue was created by the offering of an honorarium to each contributor of $150, which was more attractive to citizens with lower incomes and education. This may have caused the sample to be more inclined to voice the opinions widely held, rather than for each citizen to fully disclaim their own views. Also the selection of participants according to the most recent birthday may have been a concern, because the people may share similar personal characteristics. In regard to inclusiveness, the use of moderators in each group has helped to eliminate the problem of certain voices dominating the discussions. In terms of inclusiveness, it can be concluded that from all the democratic innovations deliberative polls are very effective.</p><p>On the other hand, “most deliberative polls are not designed to substantially advance popular control over state action or to improve policy.” (Odugbemi, S. and Lee, T., 2011: 195) Vermont’s deliberative poll was also designed to give recommendations, rather than improve policy or implement new laws. Therefore, the popular control of this particular democratic innovation was not fully given an opportunity to have direct impact on the whole state’s legislature.</p><p>Moreover, this can be linked to the degree to which considered judgement is reached using this type of democratic innovation. The participants are given a set of information about the issue and then they have the opportunity to deliberate upon it and ask experts questions about anything that they don’t understand or want to know more about. At the end of the discussion each of the participants should have reached a considered judgement and should be able to voice his or her own most suitable opinion on the issue in question. One of the problems as mentioned by Graham Smith, is that “with deliberative polls, however, it is a third party that aggregates the individual preferences” (Smith, G., 2003:92). This is caused by the information from the polls being balanced out by an analyst, rather than by the participants, who are not required to reach a consensus.  On the other hand, in other mini publics such as citizens’ juries reaching a collective conclusion is required.</p><p>Furthermore, if transparency is considered, this particular case is transparent in publishing all of the materials online (i.e. the materials given to each of the participants as<a class="eeyykmxlug" href="#" title="Click to Continue &gt; by MacCost"> well<img src="http://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png" /></a> as the final report made after the event was conducted). On the other hand, there is a problem with the transparency of the total costs of the deliberative polling event. This leads to not being able to compare the actual resources that were required to the final benefits of the deliberations. The attendance of the event was also restricted by an invitation; therefore it was not an open process like other democratic innovations such as participatory budgeting.</p><p>Considering the feasibility of the process, the only problem spotted in this regard was the fact that it was time consuming for the participants with two days of intense deliberations. On the contrary, each of them was offered an honorarium for the time spent. Comparing this democratic innovation to others, such as participatory budgeting, it was less time consuming. In every other aspect this process was feasible, thus easily conducted. </p><h3> </h3><h3>Secondary Sources</h3><p>1.     Fishkin, J.S., 1997.  <em>The Voice of the People: Public Opinion and Democracy</em>, Yale: Yale University Press</p><p>2.     Luskin, R.S., Crow, D.B., Fishkin, J.S., Guild, W., and Thomas, D. Report on the Deliberative Poll on “Vermont’s Energy Future”, <em>Center for Deliberative Opinion Research</em>, January 2008, Available at: <a href="http://cdd.stanford.edu/2008/final-report-deliberative-polling-on-vermonts-energy-future/">http://cdd.stanford.edu/2008/final-report-deliberative-polling-on-vermonts-energy-future/</a> Accessed: 7th April 2015</p><p>3.     Odugbemi, S. and Lee, T., 2011.<em> Accountability through Public Opinion: From Inertia to Public Action</em>, New York: World Bank Publications</p><p><em>4.     </em>Smith, G., 2003. <em>Deliberative Democracy and the Environment</em>, London: Routledge</p><p>5.     Vermont’s energy future: A Deliberative Polling Event, November 3-4, 2007, Burlington, VT. Briefing materials. Available at: <a href="http://cdd.stanford.edu/2007/vermonts-energy-future/">http://cdd.stanford.edu/2007/vermonts-energy-future/</a> Accessed: 10th April 2015</p><h3>External Links</h3><p>Project Overview: <a href="http://cdd.stanford.edu/2007/deliberative-polling-on-vermonts-energy-future/">http://cdd.stanford.edu/2007/deliberative-polling-on-vermonts-energy-future/</a></p><p>Final Report: <a href="http://cdd.stanford.edu/2008/final-report-deliberative-polling-on-vermonts-energy-future/ ">http://cdd.stanford.edu/2008/final-report-deliberative-polling-on-vermon...</a></p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/deliberative-polling" typeof="skos:Concept" property="rdfs:label skos:prefLabel">deliberative polling</a></div><div class="field-item odd"><a href="/en/tags/energy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">energy</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A39">Environment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A100">Science &amp; Technology</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1298">Energy and Sustainability</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">University of Vermont (meeting point) </span>
+              <div class="street-address">
+        <span itemprop="streetAddress">Burlington </span>
+              </div>
+              <span class="postal-code" itemprop="postalCode">VT 05405</span>
+              <span class="locality" itemprop="addressLocality">
+      Burlington      </span>
+              ,                     <span class="region" itemprop="addressRegion">VT</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                            <span class="geo"><abbr class="latitude" title="44.473949">44° 28' 26.2164" N</abbr>, <abbr
+            class="longitude" title="-73.194304">73° 11' 39.4944" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=44.473949+-73.194304+%28Burlington+%2C+Burlington%2C+VT%2C+VT+05405%2C+us%29">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Vermont        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A52">Develop individual capacities (e.g. skills, learning)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, November 3, 2007 - 00:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, November 4, 2007 - 12:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">2.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">146</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/deliberative-polling">Deliberative Polling</a></div><div class="field-item odd"><a href="/en/methods/deliberation">Deliberation</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A144">Opinion Survey</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Vermont Department of Public Service</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/center-deliberative-democracy">The Center for Deliberative Democracy</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A26">Academic Institution</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">Personnel from Public Decision Partnership (PDP) in Austin</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A26">Academic Institution</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-c403cdfabe9e69bcd6c11ec5f6c8ed86">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/4222">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/citizens-dialogue-canada-s-future-21st-century-social-contract-2" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/753" />
+  <title>Citizens’ Dialogue on Canada’s Future:  A 21st Century Social Contract | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"UeOMJ-uXHE8_0A-kxgKfyhKqHg8o7E5LBbbtjCmlJcE","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"753"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/citizens-dialogue-canada-s-future-21st-century-social-contract-2?destination=node\/753":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-753 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/citizens-dialogue-canada-s-future-21st-century-social-contract-2" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/citizens-dialogue-canada-s-future-21st-century-social-contract-2?destination=node/753" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-tPhTuOpwgJkRkIaWIEjv1X2E4Kqu4jtke2-_sZI709U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Citizens’ Dialogue on Canada’s Future:  A 21st Century Social Contract</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Citizens’ Dialogue on Canada’s Future:  A 21st Century Social Contract</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/kevin-t-wright" title="View user profile." class="username" xml:lang="" about="/en/people/kevin-t-wright" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kevin T. Wright</a> on Tue, 12/11/2012 - 15:57</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 02/22/2016 - 08:36</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="" addthis:url="http://participedia.net/en/cases/citizens-dialogue-canada-s-future-21st-century-social-contract-2"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Problems and Purpose</h3><p>Various federal departments and agencies of Canada funded the ChoiceWork Dialogue to learn more about their citizens’ expectations of governments, the private sector, and their communities. The goals that Canadian societies seek to achieve are detailed in a “social contract.” When leaders planned for post-war policies after World War II, a primary result was the birth of a welfare state. By the 1970s, government revenue was unable to sustain the dependent system. The outcome was major changes to trade and economic policy. In the 1990s, citizens were assumed to expect less from their government and more from themselves. Fortunately, Canada's economy is now much more stable and its government as a whole plans to implement considerable changes throughout the social, political, and economic spectrums.</p><p>The primary goal of ChoiceWork Dialogues is to establish an accurate prediction of citizens’ anticipated thoughts on a given issue. In other words, ChoiceWork Dialogues are intended to better the understanding of a current “social contract,” and to mold that contract around the larger citizen body's general wishes. ChoiceWork Dialogues are dissimilar to polls and focus groups because they try to predict the future path of the public's thought on a less established and deliberated topic.</p><p>ChoiceWork Dialogues help citizens to dissect all benefits and tradeoffs of an issue by discussing it cohesively and thoroughly. After they are completed, ChoiceWork Dialogues can assist policy makers in distinguishing areas of high public support. From there, issues can be prioritized according to what voters truly want to see accomplished in their communities.</p><h3>History</h3><p>Various federal departments and agencies of Canada funded the ChoiceWork Dialogue to learn more about their citizens’ expectations of governments, the private sector, and their communities. The goals that Canadian societies seek to achieve are detailed in a “social contract.” When leaders planned for post-war policies after World War II, a primary result was the birth of a welfare state. Since the post-war planning, Canada's “social contract” has endured a great deal of adjustments.</p><p>The post-war changes, specifically the adoption of a welfare state, brought increased immigration and therefore diversity, interest in economic issues, roles of women in the workplace, varying types of families and citizens living alone, and acceptance of globalization and free trade. The changes also brought decreased trust in government and social institutions and therefore increased individualism. A population and economic shift occurred from rural to urban, along with a shift from a resource-oriented economy to a service and knowledge-oriented economy.</p><p>By the 1970s, government revenue was unable to sustain the dependent system. The outcome was major changes to trade and economic policy. In the 1990s, citizens were assumed to expect less from their government and more from themselves. Fortunately, Canada's economy is now much more stable and its government as a whole plans to implement considerable changes throughout the social, political, and economic spectrums.</p><p>There have been numerous Canadian alterations in social diversity, growing fiscal constraints, globalization, among other things, which have changed the way Canadians think about their governments, communities, businesses, families and individuals. In 1995, Canadian citizens were especially concerned with self-reliance, implying collective responsibility. By 2002, citizens reported more concern in mutual responsibility amongst all societal actors.</p><p>In comparison to 1995, Canadians in 2002 broadened their investment for the future (children) to enable every single citizen to contribute equally and adequately. Citizens now also emphasize appropriate usage of their tax dollars, while demanding the disclosure of tax dollar distribution. Canadians are now also displaying an amplified sense of democracy. Countless Canadians suggest that social programs in discussion of change seek advice from the supposed program recipients. The Canadian “social contract” is clearly now vastly different from its original intentions.</p><h3>Originating Entities and Funding</h3><p>The originating entities in partnership with this citizens’ dialogue are the Canadian Policy Research Networks (CPRN), and Viewpoint Learning (VL). Various federal departments and agencies of Canada funded the ChoiceWork Dialogues to learn more about their citizens’ expectations of governments, the private sector, and their communities.</p><h3>Participant Selection</h3><p>The ChoiceWork Dialogues evenly selected a group of 408 Canadian men and women, with diverse representation from most age groups. There was also diverse representation with regards to education levels and career fields. Some participants had mental or physical disabilities. Some participants were parents who had several children, had only one child, had children who no longer lived with them, while others had no children at all. The dialogue included single, married, and divorced individuals.</p><p>There were Aboriginal Canadians, along with Canadians belonging to ethnic minorities. The dialogues were held primarily in highly populated metropolitan areas. Due to their location, about eighty percent of the participants came from urban areas, with the remaining twenty percent travelling from rural or surrounding areas. </p><h3>Deliberation, Decisions, and Public Interaction</h3><p>There are six basic steps while deliberating under a ChoiceWork Dialogue:</p><p>1.      Conduct research to assess the general platform on which public opinion resides.</p><p>2.      Identify critical choices/scenarios and prepare the workbook.</p><p>3.      Conduct a series of one-day dialogues with representative cross-sections of included citizens.</p><p>4.    The typical one-day session involes</p><ul><li>Pre-dialogue reading of the workbook</li><li>Orientation by the managing professionals</li><li>Introduction to the choice scenarios</li><li>Completion of a pre-dialogue survey to measure participants’ innate views</li><li>Opening comments from participants to establish preconceived concerns</li><li>Preliminary dialogue between participants</li><li>A second, more extensive dialogue between participants</li><li>Completion of a post-dialogue survey</li><li>Final comments to analyze the disparity between participants’ original views and adopted views</li></ul><p>5.    Conduct both quantitative and qualitative assessment of how and why people’s views evolve during the dialogues.</p><p>6.    Report findings to participants and decision-makers.</p><p>Scenarios were meticulously designed prior to the dialogues with intentions of reflecting opposing views of an ideal government and society. Two sets of opposing views were created to establish four total conceivable scenarios.</p><p>One set of views considered how much emphasis to put on market values as opposed to values of social equity and civil society. The second set of conflicting views were concerned with how much emphasis should be put on rejuvenating “traditional values” as opposed to promoting cultural diversity including the acceptance of vastly different ethical norms.</p><p>Scenarios one and two, of the first set, are as follows:</p><p><em>1.      </em><em>Emphasize the market</em> – promotes innovation in Canada’s competition and overall production rates. Prices will be considerably low because there is high competition and consumer choice. Taxes are sought to be low and government policies are created to provide only those services that the market cannot already create.</p><p><em>2.      </em><em>Emphasize social equity and civil society</em> – promotes equality and fairness across the board, leaving no one in the dust. If Canadians are not rewarded the opportunity of societal and governmental participation, a large, equal assessment cannot be made of Canada’s true aspirations holistically.</p><p>Scenarios three and four, of the second set, are as follows:</p><p><em>3.      </em><em>Emphasize traditional values and accountability</em> – promotes traditional values and moral standards of Canada. An implication lies in the encouragement of moral citizens acting in a way that advocates pervasive responsibility. Aspects of society such as national security, social institutions like family, and high ethical standards are of the utmost importance. Slight guidance of the market is also stressed.</p><p><em>4.      </em><em>Emphasize diversity and choice</em> – promotes individual choice, which therein promotes increased diversity of lifestyles and values. Value systems and cultures coexist in a Canada where all citizens contribute to the greater good.</p><p>Participants' views of these scenarios were applied to four policy areas: economic development, international development, poverty and marginalization, and health and environmental risks. When participants were given the option of combing scenarios one and two, and three and four, they reported increased support for all. After the dialogue sessions were completed, citizens’ increased concern with regards to the individual scenarios was ranked as so:</p><p><em>1.      </em><em>The market scenario</em> reported a net support that increased by twenty-five percent.</p><p><em>2.      </em><em>The traditional values and accountability scenario</em> reported a net support that increased by nineteen    percent.</p><p><em>3.      </em><em>The diversity and choice scenario</em> reported a net support that also increased by nineteen percent.</p><p><em>4.      </em><em>The social equity and civil society scenario</em> reported a net support that increased by seventeen percent.</p><p>Citizens who participated in the dialogue sessions came from a large range of communities, and from several additional overlapping communities. There are work, shared interest, cultural background, and professional communities that all emphasize varying definitions of their ideal “social contract.”</p><p>There is, fortunately, an increased concern for economic and social development throughout all of these Canadian communities. Citizens advocate increased response from all government institutions with respect to the hopes of their common public. Businesses are also expected to assist largely the accomplishment of these community goals.</p><p>Citizens are not, however, excluding themselves from the development of a more equitable representation from the larger population. Since the ChoiceWork Dialogues across Canada have been conducted, citizens have reported an increased sense of community and equity. They seek greater societal participation as a whole, and are aware that they are the backbone behind this change. Canadian citizens are diverting from the path of disengagement to a now preferred path of active citizenship through deliberation.</p><h3>Influence, Outcomes, and Effects</h3><p>After ample crises, including recession, global competition, increasing individualism and insecurity, Canadians were in uproar about their country and its supposed path. These citizens’ dialogues were formed to directly increase the degree to which citizens’ views are heard and considered. With an updated “social contract,” the Canadian government and its officials are more enabled to make decisions that accurately reflect their entire citizenry.</p><p>There are several factors that have led Canadian citizens to be more concerned with their “social contract.” These factors arose after World War II, when the Canadian government instilled abundant change throughout numerous societal and governmental bodies. With these changes in effect, typical Canadian interest in the betterment of one’s society has increased in these facets:</p><p>1.      An increased rate of immigration, and therefore multiculturalism.</p><p>2.      A revolution in the role of women in society and the workplace.</p><p>3.      Increased range of family types, and citizens living alone.</p><p>4.      Technological revolutions.</p><p>5.      Declining trust in government and other social institutions coupled with increasing individualism and self-reliance.</p><p>6.      Larger awareness and emphasis on environmental issues.</p><p>7.      International power shift after the Cold War; trading with new countries, and no longer trading with other countries.</p><p>8.      A shift from a resource-based economy to a service and knowledge-based economy.</p><p>9.      A change in the anatomy of work and a loss of job security.</p><p>10.    Increasing income gaps between the rich and the poor, along with the educated and the uneducated.</p><p>11.    A population and economic shift from rural to urban.</p><p>12.   Slowing population growth and an aging population.</p><p>With these impacting influences in place, the citizens’ dialogues were much more effective. The increased participation across the social class spectrum created a widespread awareness of political, economic, and social issues.</p><p>Citizens reported their core values in 2002, suggesting gained insight from the citizens’ dialogues. All ten dialogue sessions contributed to the development of Canadians’ core values. The core values are as follows:</p><p>1.      <em>Shared community</em> – despite their differences, Canadians have a unique bond</p><p>2.      <em>Equality and justice</em> – each person is respected, valued and treated equitably; fairness for all</p><p>3.      <em>Respect for diversity</em> – valuing contributions of all Canada’s cultures/traditions</p><p>4.      <em>Mutual responsibility</em> – getting and giving within community; balancing rights and      responsibilities</p><p>5.      <em>Accountability</em> – taking responsibility for one’s actions; making actions more transparent</p><p>6.      <em>Democracy</em> – citizen-centered government; citizens taking ownership of government</p><p>Canadian citizens have also endorsed an underlying theme of “taking responsibility,” which implies equal and adequate effort from individuals, governments, businesses, and institutions. Everybody is accountable for such effort, and governments are expected to use tax dollars as if they were their own. Information on public expenditures, and the outcomes of them, should be more thorough and accessible. When a given government makes a promise to its citizenry, it should keep that promise. Finally, governments should act as watchdogs to ensure a clean environment, safe drugs, and good public health for all Canadians.</p><p>Citizens have become largely more active, and insistent on being given the opportunity to discuss social, economic, and political policy issues. They have become more critical of their governments, and have gained much confidence in their ability to contribute to a participatory government. They have more faith that their opinions will be considered. If all citizens engage in expressing their viewpoints, Canada’s government can surely become one that is considerate and reflective of its whole citizen body.</p><p>Citizens applied their gained vision for policy change through four cardinal areas – economic development, international development, poverty and social marginalization, and environmental and health risks. These topics are incredibly contributory to a better governed Canada, but if all are to be emphasized, countless tradeoffs would result.</p><h3>Analysis and Criticism</h3><p>Speaking in percentages, the Citizens' Dialogue was quite successful. Participants gained valuable knowledge, and became more confident with their governments and societies. Canadians' general twenty-first century “social contract” views market values as integrated with civil society and social equity values. According to Curtain (2003), participants of the dialogue now seek a greater role in governance and increased accountability across the board, while willing to assume more responsibility. All in all, once the dialogue was finished, citizens consequently described a magnified expansion of shared values, and shared community and identity.</p><p>The participants were able to depict their ensuing feelings so thoroughly because of the confidence and engagement the dialogue built. The citizens' dialogue spawned a fresh, optimistic vision of an ideal community. Participants reported the following elements as conducive to an equal and fair community:</p><p>1.      Rights and responsibilities of the individual and the shared community keep each other in check.</p><p>2.      Markets are an encouraged aspect of a working society.</p><p>3.      Governments are more accountable to citizens and more sensible to their desires.</p><p>4.      Public institutions foster a three-way dialogue with citizens.</p><p>5.      Citizens are entirely attached to political and civic life.</p><p>Participants deemed these qualities as crucial to a strong, shared sense of community. The aforementioned qualities were previously recognized, yet they had not been fully believed in. Prior to these dialogues, citizens seemingly were not satisfied in their governments' representations of their voting fields. The “social contract” of Canadian governments did not emulate a contract that the citizens largely craved. With these dialogues in practice, citizens can suddenly trust that their “social contract” will more closely match the “social contract” of their given government.</p><p>Criticisms surround the dialogue, complaining that not enough issues were included. Some also have claimed that an insufficient amount of cultures were represented, and Aboriginal Canadians were vastly misrepresented with regards to their total population. Still, the citizens' dialogues gave new light to citizen participation in government.</p><p>MacKinnon (2008) argued that the Citizens' Dialogue promoted other governments to adopt a sense of public involvement in policy making. Additionally, Kirby (2002) denies the proposed neglect to citizens' expressions. The dialogues were proposed to contemplate citizens' views, and the views were in fact utilized in further decisions. Regardless of what critics may claim, the Citizens' Dialogues were successful at achieving increased cohesiveness, and efficient in their methodology.</p><h3>Secondary Sources</h3><p>Kirby, Michael. "Response to the Romanow Report." Response to the Romanow Report. N.p., Dec. 2002. Web.</p><p>Sheedy, Amanda. "Handbook on Citizen Engagement: Beyond Consultation." Canadian Policy Research Networks, Mar. 2008. Web.</p><p>Curtain, Richard. "How Citizens Can Take Part in Developing and Implementing Public Policy - Part 2." (2003): 1-12. 5 June 2003. Web.</p><p>Bingham, Lisa. "Materials Prepared for Session C-4: Designing Systems to Address Conflict in Governance: How to Collaborate in Developing Policy and Managing Public Programs." Legal Frameworks for Collaboration in Governance and Public Management (n.d.): 1-60. Web.</p><p>Usher, Peter J. "Northern Development, Impact Assessment, and Social Change."Anthropology, Public Policy and Native Peoples in Canada (1993): 98-123. McGill-Queen's Press. Web.</p><p>Bingham, Lisa. "Collaborative Governance." Sage Handbook of Governance 25 (2011): 386-400. SAGE Publications. Web.</p><p> </p><h3>External Links</h3><p>Canadian Policy Research Networks [archive site], <a href="http://cprn.org/">http://cprn.org/</a></p><h3>Notes</h3><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/international-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International Development</a></div><div class="field-item odd"><a href="/en/tags/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item even"><a href="/en/tags/poverty" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Poverty</a></div><div class="field-item odd"><a href="/en/tags/marginalization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Marginalization</a></div><div class="field-item even"><a href="/en/tags/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">health</a></div><div class="field-item odd"><a href="/en/tags/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item even"><a href="/en/tags/community" typeof="skos:Concept" property="rdfs:label skos:prefLabel">community</a></div><div class="field-item odd"><a href="/en/tags/equality" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Equality</a></div><div class="field-item even"><a href="/en/tags/deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">deliberation</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A89">Poverty Reduction</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A39">Environment</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A90">Identity &amp; Diversity</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A102">International Trade &amp; Global Economy</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1466">Canadian Identity and Core Values</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1467">Future Policy</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                              <div class="country-name" itemprop="addressCountry">Canada</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.ca?q=%2C+%2C+%2C+%2C+ca">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CA      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A52">Develop individual capacities (e.g. skills, learning)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, September 1, 2002 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Tuesday, April 1, 2003 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">60.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">408</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/choicework-dialogue">Choicework Dialogue</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A144">Opinion Survey</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Canadian Federal Government</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/viewpoint-learning">Viewpoint Learning</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A169">International Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A165">Government-Owned Corporation</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Canadian Policy Research Networks</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-5542a9b4cd0689f447ec5b517b212a77">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/753">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

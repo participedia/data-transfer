@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/practical-democracy" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/151" />
+  <title>Practical Democracy | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"1oZiAeRs7LjnpGb7VauRfKnGCwjk8RgOMeVF27cfRmA","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/practical-democracy?destination=node\/151":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-151 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/practical-democracy" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/practical-democracy?destination=node/151" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-IZmhjhApj4OBCK-ltNfwmnHUabuHfpVvZ_k-R8Nb07I" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Practical Democracy</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Practical Democracy - Participedia" addthis:url="http://participedia.net/en/methods/practical-democracy"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Feb 21 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/koikaze" title="View user profile." class="username" xml:lang="" about="/en/people/koikaze" typeof="sioc:UserAccount" property="foaf:name" datatype="">Fred Gohlke</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ul><li><a href="#Synopsis">Synopsis</a></li><li><a href="#Introduction">Introduction</a></li><li><a href="#Objective">Objective</a></li><li><a href="#Inclusiveness">Inclusiveness</a></li><li><a href="#Method">Method</a></li><li><a href="#Elective_and_Appointive_Offices">Elective and Appointive Offices</a></li><li><a href="#Description">Description</a></li><li><a href="#Harnessing_the_Pursuit_of_Self-Interest">Harnessing the Pursuit of Self-Interest</a></li><li><a href="#Bi-Directionality">Bi-Directionality</a></li><li><a href="#Simplified_Illustration">Simplified Illustration</a></li><li><a href="#Time_Lapse_Example">Time Lapse Example</a></li><li><a href="#Cost And Time Consumption">Cost And Time Consumption</a></li><li><a href="#Concept">Concept</a></li><li><a href="#Why_Practical_Democracy_Works">Why Practical Democracy Works</a></li><li><a href="#Summary">Summary</a></li><li><a href="#Conclusion">Conclusion</a></li><li><a href="#Implementation">Implementation</a></li><li><a href="#Appendix - Partisanship">Appendix - Partisanship</a></li></ul><p><a name="Synopsis" id="Synopsis"><u><strong>Synopsis</strong></u></a><br />A truly democratic process will let the entire electorate participate in defining the issues the government must address and selecting the individuals best equipped to resolve those issues.  The size of the electorate and the varying level of interest in public affairs among the populace make the matter of including everyone a challenge.  This proposal outlines a method of conducting electoral cycles by dividing the electorate into very small groups and letting each group decide which of their members best represents the group's interests.  Those so chosen are arranged in similar groups to continue sifting through the electorate to identify the individuals most motivated and best qualified to address and resolve the people's concerns.<br /><br />The described approach lets candidates for public office deliberate on matters of public interest before they are chosen as the people's representatives in government.  It lets every member of the electorate participate in the political process to the full extent of each individual's desire and ability.  It lets those with no interest in contemporary politics drop out without losing their ability to participate in future electoral cycles.<br /><br /><a name="Introduction" id="Introduction"><u><strong>Introduction</strong></u></a><br />It is hard to achieve democracy because true democracy has no champions.  It offers no rewards for individuals or vested interests; it gives no individual or group an advantage over others.  Hence, it offers no incentive for power-seeking individuals or groups to advocate its adoption.<br /><br />True democracy requires that the people have the desire and energy to seek out those of their fellows who are better able to resolve public problems than themselves and the humility to recognize that there may be bias in their personal views.  While those qualities are present in all of us, arranging a mechanism that uses them to govern society requires effort.</p><p><br /><a name="Objective" id="Objective"><u><strong>Objective</strong></u></a><br />The realities of life, particularly our economic needs, tend to distract us from serious thought about public concerns.  When, as in the United States, the political infrastructure militates against public decision-making (<a href="#Appendix - Partisanship">see Appendix</a>), the people's political talents atrophy.  If we are to create an environment in which deliberative democracy is practical, we must create a framework in which citizens are encouraged to discuss their political concerns with their peers.<br /><br />Effective political dialogue is best encouraged by arranging the electorate into small groups to discuss matters of public concern.  Since public issues are inseparable from the people who resolve them, the groups must identify the individuals who best represent their interests in resolving their concerns.  Each group can do that by selecting a group member to represent the group's interests.  The people so chosen can deliberate with the choices of other groups to identify the most pressing issues and the individuals best suited to address them.  As Martin Carcasson said in Song Of A Citizen[<a href="#fn1">1</a>]:<br /><br />  "When you give them (the people) a good process, they're<br />   able to not only do it, but then realize very quickly how<br />   much better it is than the other things they can do."<br /><br />This approach lets the people advance those they believe have the qualities necessary to resolve public issues into ever-more deliberative groups to work out solutions from broadly differing perspectives.  This method gives effect to the concept of gyroscopic representation described by Jane Mansbridge in The Fallacy of Tightening The Reins[<a href="#fn2">2</a>], her keynote address to the Austrian Political Science Association in 2004.</p><p><br /><u><strong><a name="Inclusiveness" id="Inclusiveness">Inclusiveness</a></strong></u><br />To make the process inclusive we must determine the group size best suited to encourage every member of the community to participate.  Groups must be large enough to make a decision and small enough to encourage those who are not accustomed to the serious discussion of political issues to express their views.<br /><br />If we examine the dynamics of such a process, we find that, when a group of people meet to select one of their number to represent the others, there will be three kinds of participants:<br /><br />    those who do not want to be selected<br />    those willing to be selected, and<br />    those seeking selection.<br /><br />If none of the participants are willing to be selected, the group will not make a choice and will drop from the process.  Among groups that make a selection, those who are selected will be somewhere on the continuum from those willing to be selected to those seeking selection.  For simplicity, we will assume that the desire to be selected is equivalent to a desire for public office (as the people's representative) and that the people we mention as examples are at one end of the wish-willingness continuum or the other.  The reality is infinitely more complex, but the results will differ only in degree from what we learn by thinking about the people who are at the hypothetical extremes.<br /><br />The purpose of the process is to advance the best advocates of each group's perspective on contemporary issues.  In a pyramiding process of the type under discussion, it is reasonable to think that active seekers of advancement will succeed more frequently than those who only advance because they are willing to be selected.  Thus, after several iterations of the process, we can anticipate that all group members will be individuals who want to persuade their peers they have the qualities needed to advocate the group's interest.<br /><br />When persuasion occurs between two people, it takes place as a dialogue with one person attempting to persuade the other.  In such events, both parties are free to participate in the process. The person to be persuaded can question the persuader as to specific points, and present alternatives.  Under such circumstances, it is possible that the persuader will become the persuaded.<br /><br />However, when persuasion involves multiple people, it has a greater tendency to occur as a monologue.  The transition from dialogue to monologue accelerates as the number of people to be persuaded increases.  The larger the number of people, the less free some of them are to participate in the process.  In such circumstances, the more assertive individuals will dominate the discussion and the viewpoints of the less assertive members will not be expressed.<br /><br />Viewed this way, we can say that when selecting representatives of the public interest, a system that encourages dialogue is preferable to one that relies on a monologue, and dialogue can best be encouraged by having fewer people in the "session of persuasion".  Under these circumstances, the optimum group size to ensure the inclusion and encourage the active involvement of the entire electorate is three.<br /> </p><p><a id="PRACTICAL_DEMOCRACY" name="PRACTICAL_DEMOCRACY"></a></p><h1>PRACTICAL DEMOCRACY</h1><h4><a id="Method" name="Method"></a>Method</h4><p>1) Divide the entire electorate into groups of three randomly chosen people.</p><blockquote>a) The random grouping mechanism must insure that no two people are assigned to a triad if they served together in a triad in any of the five most recent elections.  At the initial level, it must ensure that no two people are assigned to a triad if they are members of the same family.</blockquote><blockquote>b) At any time up to one week before an election, people may declare themselves members of any interest group, faction, party, or enclave, and may create a new one, simply by declaring membership in it. People that do not declare group membership are automatically assigned to a set of people with no affiliation. Triads will be created from members of the same interest group, as long as more than two members of the group exist. When a group has less than three members, the group's remaining candidates are merged with unaligned candidates.</blockquote><blockquote>c) For the convenience of the electorate, triad assignments shall be based on geographic proximity to the maximum extent practical, subject to the foregoing restrictions.</blockquote><p>2) Assign a date and time by which each triad must select one of the three members to represent the other two.</p><blockquote>a) Selections will be made by consensus. If consensus cannot be achieved, selection will be by vote. Participants may not vote for themselves.</blockquote><blockquote>b) If a triad is unable to select a representative in the specified time, all three participants shall be deemed disinclined to participate in the process.</blockquote><p>3) Divide the participants so selected into new triads.</p><p>4) Repeat from step 2 until a target number of selections is reached.</p><p>For convenience, we refer to each iteration as a 'Level', such that Level 1 is the initial grouping of the entire electorate, Level 2 is the grouping of the selections made at Level 1, and so forth. The entire electorate participates at level 1 giving everyone an equal opportunity to advance to succeeding levels.</p><h4><a id="Elective_and_Appointive_Offices" name="Elective_and_Appointive_Offices"></a>Elective and Appointive Offices</h4><p>The final phase of the Practical Democracy (PD) process, electing candidates to specific public offices, is omitted from this outline because that task is implementation-dependent. Whatever method is used, it is recommended that participants who reach the highest levels but do not achieve public office become a pool of validated candidates from which appointive offices must be filled.</p><h4><a id="Description" name="Description"></a>Description</h4><p>An Electoral Commission conducts the process. It assigns the participants of each <a href="#Group Size">triad</a> and supplies the groups with the text of pending ordinances and a synopsis of the budget appropriate to the group. In addition, on request, it makes the full budget available and supplies the text of any existing ordinances. This enables a careful examination of public matters and encourages a thorough discussion of matters of public concern.</p><ul><li>The public has a tendency to think of elections in terms of just a few offices: a congressional seat, a senate race, and so forth. There are, however, a large number of elected officials who fill township, county, state and federal offices. The structure outlined here provides qualified candidates for those offices.</li></ul><ul><li>As the process advances through the levels, the life of the triads (the amount of time the participants spend together) increases. At level 1, triads may meet for a few minutes, over a back-yard fence, so-to-speak, but that would not be adequate at higher levels. As the levels advance, the participants need more time to evaluate those they are grouped with and to research, examine and deliberate on the issues concerning them. (See "Time Lapse Example", below.)</li></ul><ul><li>Face-to-face meetings in three-person groups eliminate any possibility of voting machine fraud. Significantly, they also allow participants to observe the non-verbal clues humans emit during discourse and will tend to favor moderate attitudes over extremism. The dissimulation and obfuscation that are so effective in campaign-based politics will not work in a group of three people, each of whom has a vital interest in reaching the same goal as the miscreant. Thus, the advancement of participants will depend on their perceived integrity as well as the probity with which they fulfill their public obligations.</li></ul><ul><li>PD is a distillation process, biased in favor of the most upright and capable of our citizens. It cannot guarantee that unprincipled individuals will never be selected --- such a goal would be unrealistic --- but it does insure that they are the exception rather than the rule.</li></ul><h4><a id="Harnessing_the_Pursuit_of_Self-Interest" name="Harnessing_the_Pursuit_of_Self-Interest"></a>Harnessing the Pursuit of Self-Interest</h4><p>The pursuit of self-interest is a powerful force.  Allowed free rein, it can produce an anti-social menace.  However, when it is an advantage for an individual to be recognized as a person of principle, one's natural tendency to pursue one's own interest is more than adequate to avoid improper acts.  The PD process gives candidates a career-controlling incentive to maintain their integrity.  Their own self-interest provides the motivation.<br /><br />The initial phase of the PD process is dominated by participants with little interest in advancing to higher levels. They do not seek public office; they simply wish to pursue their private lives in peace. Thus, the most powerful human dynamic during the first phase (i.e., Level 1 and for some levels thereafter) is a desire by the majority of the participants to select someone who will represent them. The person so selected is more apt to be someone who is willing to take on the responsibility of going to the next level than someone who actively seeks elevation to the next level, but those who do actively seek elevation are not inhibited from doing so.<br /><br />As the levels increase, the proportion of disinterested parties diminishes and we enter a second phase. Here, participants that advance are marked, more and more, by an inclination to seek further advancement. Thus, the powerful influence of self-interest is integrated into the system.<br /><br />Those who actively seek selection must persuade their triad that they are the best qualified to represent the other two. While that is easy at the lower levels, it becomes more difficult as the process moves forward and participants are matched with peers who also seek advancement. The competitors will seek out any hint of impropriety and will not overlook unsuitable behavior. Thus, Practical Democracy harnesses the pursuit of self-interest by making integrity an absolute requirement in candidates for public office.</p><h4><a id="Bi-Directionality" name="Bi-Directionality"></a>Bi-Directionality</h4><p>The process is inherently bi-directional. Because each advancing participant and elected official sits atop a pyramid of known electors, questions on specific issues can easily be transmitted directly to and from the electors for the guidance or instruction of the official. This capability offers those who implement the process a broad scope, ranging from simple polling of constituents to referenda on selected issues and recall of an elected representative.</p><h4><a id="Simplified_Illustration" name="Simplified_Illustration"></a>Simplified Illustration</h4><p>This table illustrates the process for a community of 232,374 voters. For simplicity, it omits interest group considerations and assumes each triad selects a candidate. The process is shown through 9 levels. Those who implement the process will determine the number of levels necessary for their specific application.</p><p><code>                       Selected<br />                       Randomly<br />                         From<br />              Full  Over Prev.  Total People<br />Level People Triads Flow Level Triads Chosen  Days <br />  1  232,374 77,458   0    0   77,458 77,458    5 (1)<br />  2   77,458 25,819   1    2   25,820 25,820    5<br />  3   25,820  8,606   2    1    8,607  8,607   12<br />  4    8,607  2,869   0    0    2,869  2,869   12<br />  5    2,869    956   1    2      957    957   19<br />  6      957    319   0    0      319    319   19<br />  7      319    106   1    2      107    107   26<br />  8      107     35   2    1       36     36   26<br />  9       36     12   0    0       12     12   26 (2)</code></p><ol><li>If the number of candidates does not divide equally into triads, any candidates remaining are overflow. Level 1 is a special case. When there is overflow at Level 1, the extra person(s) automatically become candidates at Level 2. Thereafter, when there is overflow at any level, the number of people needed to create a full triad are selected at random from the people who were not selected at the previous level.</li><li>To avoid patronage, appointive offices, including cabinet positions, must be filled using candidates that reached the final levels but were not selected to fill elective offices.</li></ol><h4><a id="Time_Lapse_Example" name="Time_Lapse_Example"></a>Time Lapse Example</h4><p>To give a very rough idea of the time lapse required for such an election, we will hypothesize triad lives of 5 days for the 1st and 2nd levels, 12 days for the 3rd and 4th levels, 19 days for the 5th and 6th levels, and 26 days thereafter. Using the example above, the time lapse for an election would be:</p><p><code>    Level  Start     Report   Days<br />       1   01/05/11  01/10/11    5<br />       2   01/12/11  01/17/11    5<br />       3   01/19/11  01/31/11   12<br />       4   02/02/11  02/14/11   12<br />       5   02/16/11  03/07/11   19<br />       6   03/09/11  03/28/11   19<br />       7   03/30/11  04/25/11   26<br />       8   04/27/11  05/23/11   26<br />       9   05/25/11  06/20/11   26<br /></code></p><h4><a name="Cost And Time Consumption" id="Cost And Time Consumption"></a>Cost And Time Consumption</h4><p>The cost of conducting an election by this method is free to the participants, except for the value of their time, and minimal to the government. The length of time taken to complete an election compares favorably with the time required by campaign-based partisan systems. Even in California, with a voting-eligible population of about 21,993,429, the process would complete in less than 12 levels, or about 230 calendar days.</p><p>From the perspective of those not motivated to seek public office, it is worth noting that, as each level completes, two-thirds of the participants can resume their daily lives without further electoral obligation. At the same time, they retain the ability to guide or instruct their representatives to the extent and in the manner provided by those who implement the process. (See "Bi-Directionality", above)<br /> </p><h4><a id="Concept" name="Concept"></a>Concept</h4><p>Practical Democracy springs from the knowledge that some people are better advocates of the public interest than others. In Beyond Adversary Democracy[<a href="#fn3">3</a>], Jane Mansbridge, speaking of a small community in Vermont, says, "When interests are similar, citizens do not need equal power to protect their individual interests; they only need to persuade their wisest, cleverest, most virtuous, and most experienced citizens to spend their time solving town problems in the best interests of everyone."[<a href="#fn4">4</a>]</p><p>The fundamental challenge of democracy is to find those "wisest, cleverest, most virtuous, and most experienced citizens" and empower them as our representatives. PD does that by giving every member of the electorate the right to be a candidate and the ability to influence the selection process, while ensuring that no individual or group has an advantage over others.</p><p>PD makes no attempt to alter the structure of government. We have the venues for resolving adversarial issues in our legislatures and councils. However, since the solutions that flow from those assemblies cannot be better than the people who craft them, PD lets the electorate select the individuals they believe will resolve adversarial issues in the public interest.</p><p>Peoples' interests change over time. To achieve satisfaction, these changing attitudes must be given voice and reflected in the results of each election. The PD process lets particular interests attract supporters to their cause and elevate their most effective advocates during each electoral cycle. Advocates of those interests can proclaim their ideas and encourage discussion of their concepts. Some will be accepted, in whole or in part, as they are shown to be in the common interest of the community.</p><p>Most people expect their elected officials to represent their interests. The difficulty is that communities are made up of diverse interests and the relations between those interests can be contentious. Constructive resolution of political issues requires, first of all, lawmakers with the ability to recognize the value in the various points of view, from the people's perspective. That is impossible for legislators elected to represent partisan interests.</p><p>Democracy's dilemma is to find those few individuals whose self-interest encourages them to seek advancement and whose commitment to the public interest makes them acceptable to their peers. Such persons can not be identified by partisan groups seeking to advance their own interests. They can only be identified by the people themselves.</p><h4><a id="Why_Practical_Democracy_Works" name="Why_Practical_Democracy_Works"></a>Why Practical Democracy Works</h4><p>Practical Democracy gives the people a way to select Mansbridge's "wisest, cleverest, most virtuous, and most experienced citizens". At each level, voters deliberate in small groups, where "... face-to-face contact increases the perception of likeness, encourages decision making by consensus, and perhaps even enhances equality of status."[<a href="#fn5">5</a>] The value of this approach is underlined by recent academic studies of small group dynamics:</p><ul><li>Esterling, Fung and Lee show that deliberation in small groups raises both the knowledge level of the participants and their satisfaction with the results of their deliberations.<a href="#fn6">[6]</a></li></ul><ul><li>Pogrebinschi has found that "... policies for minority groups deliberated in the national conferences tend to be crosscutting as to their content. The policies tend to favor more than one group simultaneously ..."<a href="#fn7">[7]</a></li></ul><p>These studies show some of the value of small groups. The PD process builds on these phenomena. It lets people with differing views deliberate and seek consensus on political issues. When triad members are selected to advance, those selected are the individuals the group believes best represent its perspectives. This necessarily adds a bias toward the common interest.</p><p>PD works because it atomizes the electorate into thousands, or, in larger communities, millions of <a href="#Group Size">very small groups</a>. Each provides a slight bias toward the common interest. As the levels advance, the cumulative effect of this small bias overwhelms special interests seeking their private gain. It leads, inexorably, to the selection of representatives who advocate the will of the community.</p><h4><u><a id="Summary" name="Summary"></a>Summary</u></h4><p>PD focuses on selecting representatives who will resolve adversarial encounters to the advantage of the commonweal. During the process, participants necessarily consider both common and conflicting interests, and, because PD is intrinsically bidirectional, it gives advocates of conflicting interests a continuing voice. At the same time, it encourages the absorption of diverse interests, reducing them to their essential element: their effect on the participants in the electoral process. There are no platforms, there is no ideology. The only question is, which participants are the most attuned to the needs of the community and have the qualities required to advocate the common good.</p><p>PD disproves the notion that it is 'impractical' to heed everyone's view. It lets the public discuss substantive matters --- with a purpose. It gives participants time for deliberation and an opportunity to understand the rationale for the positions of others. It lets every member of the electorate affect the electoral process.</p><h4><a id="Conclusion" name="Conclusion"></a>Conclusion</h4><p>PD is an electoral process through which the people actively participate in the conduct of, and impress their moral sense on, their government. It creates a unique merger of self-interest and the public interest. However large the electorate, Practical Democracy lets each of us share in the practice of politics to the full extent of our desire and ability.</p><p><u><em><strong>That is the essence of a democratic political process.</strong></em></u></p><p><a name="Implementation" id="Implementation"><u><strong>Implementation</strong></u></a></p><p>In the 225-plus years since our nation's founding, partisan politics has firmly embedded itself in our political landscape.  It will not be displaced by confrontation.  The best chance for something like the Practical Democracy concept to develop will be if it is adopted in a small community.  I've heard that Aspen, Colorado and Burlington, Vermont attempted to change their vote counting methods in recent years.  That suggests there is dissatisfaction with the status quo and openness to alternatives.  If a small community adopts and proves the value of the PD approach, it will take root and spread.  As Carcasson wrote in Beginning with the End in Mind, "As the number of communities with such organizations increase (and collaborate), the impact of the deliberative democracy movement will surely grow exponentially."[<a href="#fn8">8</a>]<br /><br />Respectfully submitted,<br /><br />Fred Gohlke<br /> </p><h4><u><a id="Footnotes" name="Footnotes"></a>Footnotes</u></h4><ol class="references" start="1"><li><a name="fn1" id="fn1">Martin Carcasson, Song Of A Citizen<br />https://www.youtube.com/watch?v=80GqgbAf3c8</a></li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> <a name="fn2" id="fn2">Beyond Adversary Democracy, Jane J. Mansbridge, The University of Chicago Press, 1980.</a></li><li id="cite_note-2">↑ <a name="fn3" id="fn3">Beyond Adversary Democracy, p. 88</a></li><li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a><a name="fn4" id="fn4"> Beyond Adversary Democracy, p. 78</a></li><li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> <a name="fn5" id="fn5">Beyond Adversary Democracy, p. 33</a></li><li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> <a name="fn6" id="fn6">Esterling, Kevin M., Fung, Archon and Lee, Taeku, Knowledge Inequality and Empowerment in Small Deliberative Groups: Evidence from a Randomized Experiment at the Oboe Townhalls (2011). APSA 2011 Annual Meeting Paper. Available at SSRN: </a><a class="external free" href="http://ssrn.com/abstract=1902664" rel="nofollow" title="http://ssrn.com/abstract=1902664">http://ssrn.com/abstract=1902664</a></li><li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a> <a name="fn7" id="fn7">Pogrebinschi, Thamy, Participatory Democracy and the Representation of Minority Groups in Brazil (2011). APSA 2011 Annual Meeting Paper. Available at SSRN: </a><a class="external free" href="http://ssrn.com/abstract=1901000" rel="nofollow" title="http://ssrn.com/abstract=1901000">http://ssrn.com/abstract=1901000</a></li><li><a name="fn8" id="fn8">Beginning with the End in Mind: A Call for Goal-Driven Deliberative Practice, Martin Carcasson, Page 4<br />    http://www.publicagenda.org/files/PA_CAPE_Paper2_Beginning_SinglePgs_Rev.pdf</a></li></ol><p>External Links</p><ul><li><a class="external text" href="http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&amp;bookkey=3618381" rel="nofollow" title="http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&amp;bookkey=3618381">"Beyond Adversary Democracy" at UChicago.edu</a>; <a class="external text" href="http://books.google.ca/books?id=KRKeBXSmKMMC" rel="nofollow" title="http://books.google.ca/books?id=KRKeBXSmKMMC">on Google Books</a></li></ul><p>--<a href="/wiki/User:Koikaze" title="Koikaze">Fred Gohlke</a></p><p><a name="Appendix - Partisanship" id="Appendix - Partisanship"><u><strong>Appendix - Partisanship</strong></u></a></p><p>Partisanship is natural for humans.  We seek out and align ourselves with others who share our views.  Through them, we hone our ideas and gain courage from the knowledge that we are not alone in our beliefs.  Partisanship gives breadth, depth and volume to our voice.  In and of itself, partisanship is not only inevitable, it is healthy.<br /><br />In the United States, our early leaders used this tendency to persuade the people to support their political ambitions.  That practice evolved into the party system that dominates American politics.  Over two hundred years experience with party politics informs us that, when politics is based on partisanship, the partisans form oligarchic power blocs[<a href="http://socserv.mcmaster.ca/econ/ugcm/3ll3/michels/polipart.pdf">1</a>] that become an end in themselves and ultimately transcend the will of the people.<br /><br />According to National Voter Turnout in Federal Elections[<a href="http://www.infoplease.com/ipa/A0781453.html">2</a>], in 2004 (the most recent presidential election year for which all data was available when I looked this up), 79% of the voting age population (VAP) was registered to vote and 55.3% of the VAP actually voted.  Using numbers provided by Pew Research Center Publications[<a href="http://pewresearch.org/pubs/773/fewer-voters-identify-as-republicans">3</a>] to get a very rough estimate of what this means in terms of democracy in the United States, 35% of those voters were Democrats, 33% were Republicans and 32% were Independents.<br /><br />Since the Republicans 'won' the 2004 election, we can see that when the winners took office, 100% of the people were ruled by the party favored by 18.2% (55.3% * 33%) of the people.  In addition, Pew estimates that 25% of the voters were 'leaners' - people who chose one of the party offerings because there was no better option available - so 100% of the people were actually ruled by the party of about 13.7% of the voters.<br /><br />Furthermore, 44.7% of the people did not vote.  It is common to charge non-voters with disinterest, but that is unjustified. When partisanship dominates the political scene, non-partisans are less likely to be politically active.  That does not mean they have no political interest or concern.  They do, but party domination of the proceeding gives them no viable means of participating in the process.  When the only choice a voter can make is the lesser of two evils, we should not be surprised if many of them won't support an evil.<br /><br />In sum, 44.7% of the people did not vote and 32% of those who did vote were Independents who rejected both parties.  In other words, 76.7% of the people were non-partisan.  So, while non-partisans are the largest portion of the electorate and should have the greatest voice in the conduct of our government, they were forced to stand mute or choose an option they couldn't fully support.<br /><br />That certainly does not express the will of the people.  It is disgracefully undemocratic - and unpublicized.  When the people are only allowed to choose from party-supplied options, the ability to choose one of them is neither free nor democratic.  On the contrary, since those who define the options control the outcome, it shows that the people are subjects of those who defined their options.  As Robert Michels pointed out in Political Parties[<a href="http://socserv.mcmaster.ca/econ/ugcm/3ll3/michels/polipart.pdf">1</a>], "... the oligarchical and bureaucratic tendency of party organization ... serves to conceal from the mass a danger which really threatens democracy."<br /><br />Party-dominated political infrastructures deny the people the right to decide the issues they want addressed and select the candidates they want to address them.  As a result, the peoply's political skills atrophy because the system gives them no meaningful participation in the political process.  We cannot know what treasures of political ability may be unearthed when people are invited to deliberate on their common concerns - with a purpose.  Some, who start out unsure of their ability, will, as they learn they can persuade others of the value of their perspective, gain confidence in their ability to influence the political process.  In doing so, the people gain the internal goods that can only be attained through the practice of politics. That, as Alasdair MacIntyre[<a href="http://www.iep.utm.edu/p/p-macint.htm">4</a>] explained, benefits the entire community.<br /><br />Partisanship is a potent tool for those with a thirst for power but it does not foster government by the people.  It disenfranchises non-partisans and results in government by a small fraction of the people.  For the people as a whole, the flaws in party politics are devastating.  Their cumulative effect victimizes the public by the most basic and effective strategy of domination --- divide and conquer.<br /><br />Parties are important for the principals:  the party leaders, financiers, candidates and elected officials, but the significance diminishes rapidly as the distance from the center of power grows.  Most people are on the periphery, remote from the centers of power.  As outsiders, they have little incentive to participate in the political process.<br /><br />The challenge of representative democracy is not to divide the public into blocs but to find the best advocates of the common interest and raise them to positions of leadership.  To meet that challenge, given the range of public issues and the way each individual's interest in political matters varies over time, an effective electoral process must examine the entire electorate during each election cycle, seeking the people's best advocates. It must let every voter influence the outcome of each election to the best of their desire and ability, and it must ensure that those selected as representatives are disposed to serve the public interest.<br /><br />Partisanship is a vital part of society ... provided it is always a voice and never a power.  The danger is not in partisanship, it is in allowing partisans to control government.<br /><br />Fred Gohlke<br /><br />[1] <a href="http://socserv.mcmaster.ca/econ/ugcm/3ll3/michels/polipart.pdf">http://socserv.mcmaster.ca/econ/ugcm/3ll3/michels/polipart.pdf</a><br />[2] <a href="http://www.infoplease.com/ipa/A0781453.html">www.infoplease.com/ipa/A0781453.html</a><br />[3] pewresearch.org/pubs/773/fewer-voters-identify-as-republicans<br />[4] <a href="http://www.iep.utm.edu/p/p-macint.htm">http://www.iep.utm.edu/p/p-macint.htm</a><br /> </p> </div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-a909d88de795eb7b62d54abcc0948237">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/151">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">3</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">Unlimited</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">5</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">312</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$150 000</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/election" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Election</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial Preference Aggregation</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Announcement of results at each level</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Consensus; voting when consensus is not attained</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/4-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/5-always-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Always Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/make-public-decisions-ie-exert-direct-authority" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Make public decisions (i.e. exert direct authority)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

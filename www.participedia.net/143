@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/livorno-and-northern-suburbs-italian-example-neighborhood-revitalization" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/143" />
+  <title>Revitalizing Livorno&#039;s Northern Suburbs | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"5k7bpvL0RJ8GWVUzY-9nV4ViUTCz3rvjNna7TymGibM","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"143"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/livorno-and-northern-suburbs-italian-example-neighborhood-revitalization?destination=node\/143":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-143 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/livorno-and-northern-suburbs-italian-example-neighborhood-revitalization" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/livorno-and-northern-suburbs-italian-example-neighborhood-revitalization?destination=node/143" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-mDrIX6k0HaCXzEALaf4DomUJEGshe_JRQLbVCB5apao" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Revitalizing Livorno&#039;s Northern Suburbs</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Revitalizing Livorno&#039;s Northern Suburbs</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/matteod" title="View user profile." class="username" xml:lang="" about="/en/people/matteod" typeof="sioc:UserAccount" property="foaf:name" datatype="">Matteo D'Alonzo</a> on Sat, 10/29/2011 - 16:35</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sat, 04/23/2016 - 14:32</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Revitalizing Livorno&#039;s Northern Suburbs - Participedia" addthis:url="http://participedia.net/en/cases/livorno-and-northern-suburbs-italian-example-neighborhood-revitalization"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/levorno.jpg?itok=_NriubUe" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Foreword</p><p>The present work is the outcome of an essay prepared for "Disclosure Policies and Innovations in Governance", a core course held by Professor Elena Fagotto at the Second Level Master in International Public Affairs organized by the School of Government of LUISS Guido Carli University, Rome, Italy, academic year 2010/2011.</p><p>Matteo D'Alonzo</p><h2>Introduction</h2><p>The Northern suburbs of Livorno were built during the 1930s in order to give the working class citizens cheap housing while relocating them from the city centre where a huge urban transformation was happening. The city centre was being modernized to host public offices like the Police and the Prefecture. The project was one involving largely public housing, meaning the number of homeowners was (and still is today) relatively limited. However, the homes chosen for the relocated population were never modernized, so they had to undergo massive regeneration to adhere to the laws relating to housing standards. The local government, in fact, was responsible for the maintenance of the buildings through a system of parallel institutions. At the same time, old and new social problems were plaguing the neighborhoods: drugs, unemployment, ageing population, and frictions between old and new inhabitants were destabilizing the social context[3].</p><p>Action was needed, both from the urban and social perspective, in order to negate these problems and improve the living conditions of the residents. Citizens, political parties and local organisations started to develop an autonomous bottom-up process of consultation to develop a revitalization program for the improvement of the neighborhoods. The Northern Suburbs Revitalization Program was the final outcome of this process. The revitalization program, in fact, would have been ineffective if it only related to the construction of new houses. It was recognised that the problems at hand were complex and multi-faceted. From the urban point of view, for example, there were not enough spaces available, so it was necessary to demolish old buildings and replace them with new ones: the houses were, in fact, not in keeping with the legal standards for housing, with too few available to host families, many without gas conducts, lifts, and other essential facilities. On the one hand, there was the logistical problem of moving people from their previous abode and into new housing, whether temporarily or otherwise. On the other hand, the limited number of homeowners made it easier for the local government to follow through with the relocation of people – obviously with their agreement. From a broader point of view, the goal was to achieve higher living standards not just by material means but also from the social and cultural perspectives. This led to the creation of voluntary neighborhood associations, the building of a new school, the restoration of roads, sewers and green areas, which reshaped the old decadent suburbs into a modern and pleasant environment and creating a comfortable place for the different generations living together[4].</p><p>An additional problem was presented by the huge amount of money required for the implementation of such an ambitious program, and they were found both at the local, regional and national level through public financing and partnerships between the public and the private sector. It is also important to take into account that the whole process was driven by political parties, which represented the link between the institutions in charge of the implementation of the program and the citizens vested in the big effort to reshape the neighborhoods. The context was particularly complex and the goals to be achieved difficult, thus a multiplicity of actors had to be involved in the program’s realisation.</p><h2>History</h2><p>Livorno is an Italian city located on the seaside of Tuscany. With a population of about 160,000 inhabitants, it is the third largest city of the region. Its origins date back to the sixteenth century, when the Medici, grand dukes of Tuscany, decided to realize a system of fortresses to protect the harbour. In order to attract more people to take up residence in Livorno, a set of laws called the Leggi Livornine were approved between 1591 and 1593, which established a free port where religious and political freedom were recognized. This allowed many migrants to come from abroad and set up new commercial activities. A significant Jewish community developed in Livorno, but also British, Dutch, French, Spanish, Portuguese and Greeks, among others. Despite its diversity, Livorno remained the only city in Italy until 1861 to not possess any ghettos. The demographic growth allowed the city to enlarge its harbour and develop a vibrant economy focused on trade and production[1]. Nowadays, the economy relies on the harbor, which is one of the most important in the Mediterranean Sea, and also on tourism and industrial production.</p><p>The focus here is on a case of civic engagement on a public interest issue that developed during the last twenty years. The Northern suburbs of Livorno were built during the 1930s as a public housing project for the working class. Two neighborhoods, in particular, were given the unusual names of Corea and Shangay, the origins of which are still unknown.  According to some interviewers, the names arose because these parts of Livorno seemed to resemble Asian cities; for others, the name of Shangay (please note that it is purposely written incorrectly) was a tribute to Galeazzo Ciano, the son of Costanzo, a key leader of Fascism, who was at that time consul in the Chinese city of Shanghai[1]. The populations living there nevertheless assumed a leftist political orientation and were represented by the Italian Communist Party (PCI). In fact, the whole city tends to lean left, evidenced by the long-term predominance of left-wing coalitions in local government[2].</p><p>The neighborhoods of interest here remained fairly stable until the 1980s, when new problems emerged: the decay of buildings, high drug circulation especially among the young, an increasing crime rate, unemployment and immigration. Taking these problems into account, citizens and political parties – especially the local PCI – started to think about how to improve the situation. In 1987 Marco Susini, who was the local Head of the Italian Communist Party and also became an elected Member of the Italian Parliament, wrote the so called Carta Shangay, a political document expressing the need for a revitalization of the Northern suburbs[2].The aim was not just to build new houses, but to protect the social and cultural heritage of those areas, allowing for the development of solidarity among the inhabitants. The program was later adopted by the local government and known as Piano di Riqualificazione dei Quartieri Nord (Northern Suburbs Revitalization Program). The process started in the 1980s and still on-going, which is evidence of the complexity of such an intervention in an urban area. The following will present a brief analysis of this Italian example of neighborhood revitalization. Important to note is that the analysis presented below also reflects the author’s direct personal experience, which involves working on this issue for four and a half years.</p><h2>Actors Involved</h2><p>The complex and multi-faceted Northern Suburbs Revitalization Program was born as a bottom-up process: citizens started to complain about the bad conditions in which they were living and mobilized through political parties to have a response from the different branches of the public administration. The whole process was driven by political parties, which represented a crucial linkage between the population and the institutions in charge. Moreover, the relationship was mutual and bilateral, so that citizens were constantly able to send their feedback, making the procedure not just stated ex ante but also constantly monitored during the course of the movement. </p><p>This mechanism may be described as an effective multi-level governance system based on the accountability of the decision-making process. Several actors were involved, although the most important are identified here. They may be presented, as below, in a hierarchical structure for analytical reasons – from the bottom of the pyramid to the top. However, it is important to take into account that the relationships established were mutual and did not necessarily follow any “chain of command”. The inhabitants of the suburbs were directly involved in the matter. They realized their living standards were decreasing day by day because of the bad conditions of the neighborhoods, so they started to mobilize themselves asking for refurbishments, job-creation and a fight against crime and drugs. Their purposes were general and undefined and unrelated to specific actions. The citizens at no point organized themselves into a well-defined interest group, even if some of them appeared to be more vocal leaders among the group. </p><p>The Catholic Church and voluntary associations played the role of “peaceful lobbyists”. The Catholic Church was represented by the local parish and by a group of nuns particularly active in helping elderly people, universally respected and able to sum up the people’s demands. The associations, on the other hand, were numerous and represented various interests relating to leisure and social activities. For example, this group included representatives from an assistance center for elderly people, another one for youngsters, musicians organizing lessons and concerts, a group of painters, a sport center and an association of the neighborhood’s women. Voluntary associations played a crucial role in the elaboration of the program but also during its implementation; some of them also received funding for setting up specific initiatives related to the renewal of the social and cultural context. Using the money from Progetto Urban, for example, a group of artists was hired to repaint some old buildings in a modern and “artistic” way[5]. The cultural association ARCI made a short movie, “Destini Obbligati”, telling a dramatic story using the neighborhood of Shangay as a location[6].</p><p>Political parties represented another relevant actor. They aggregated people’s demands and elaborated on them in concrete proposals to be submitted to the local government. The citizens of those neighborhoods had a strong leftist political orientation. The Italian Communist Party (PCI) has always had an absolute majority in local government, and has become the dominant party. The relevance of this party to the elaboration and implementation of the revitalization program was massive, and its history and role shows this. The PCI, in fact, has undergone several transformations over time. After the collapse of Soviet Union it assumed social-democratic features, changing its name first to Partito Democratico della Sinistra (PDS) and then to Democratici di Sinistra (DS). In 2007, it allied itself with the Christian-Democratic party, giving life to Partito Democratico (PD)[7]. These political parties have always held a dominant position in the local politics of Livorno: the Mayor and most of the elected in the City Council, for example, are members of these parties. PCI, PDS, DS and PD were the interface of the citizens in the Northern suburbs. </p><h2>The Process</h2><p>Through the local political structure and the elected members in the Neighborhood Council and in the City Council, political parties were able to aggregate complaints and demands and turn them into concrete proposals. Once the plan was set, it was submitted to the population and explained in practical terms. Moreover, the political party decided to organize periodical meetings between the citizens and representatives of the local government. According to this mechanism, every six months the inhabitants had the opportunity to be directly updated by the Mayor about the developments of the program, raising questions and expressing doubts, receiving in return answers and data. Members of the elected institutions were called to participate, focusing sometimes on minor issues to be faced and addressed by the public administration, like problems related to sewers or road refurbishment and so on. The system represented an effective decision-making process where the population was constantly engaged and the local institutions were accountable for their actions. This was particularly applicable to institutions involved in the revitalization program, which were in charge of taking decisions and implementing them through the public administration.</p><p>The hierarchical structure and general process of decision-making between the different local institutions can be described in the following way. At the very first level there was the Neighborhood Council, composed of twenty members directly elected by the citizens living in the respective neighborhoods. Its duty is to collect ideas and suggestions from the people and transfer them to the upper level, thus playing a compulsory but not binding role. At the municipality level we find the City Council, forty members directly elected by the citizens of the city, whose role is to approve local bills allowing the Mayor – one single person also directly elected by the citizens – to take binding decisions for the local government and its public administration. At a higher stage there are the regional and the national government, but they are less involved in this process. They mainly provide funds for the interventions stated at the city level. All these institutions are democratically elected and thus accountable to the citizens and most of their members belong to political parties. Other players were also involved in the project at hand. For example, like CASALP S.p.A., which acted as a public company in private terms but, being owned by the municipalities, was under institutional control. We also must remember the presence of non-institutional actors: private businesses were crucial in the implementation of the program but, not being interfaced with the citizens, played a less relevant part in its early development.</p><p><img a="" id="Strengths_and_Weaknesses" name="Strengths_and_Weaknesses" src="http://participedia.net/sites/default/files/images/cases/File-Shangay_multilevel_governance.jpg" /></p><h2>Outcomes</h2><p>The Northern Suburbs Revitalization Program officially started once the local government raised the resources for its implementation. Due to budget reasons the program was split into two parts, dubbed respectively Contratto di Quartiere I and Contratto di Quartiere II. On April 17 2000 the local government approved a decision to allocate the first funding package for the project. Resources were provided by different actors:  £20 billion provided by the Italian Government, namely the Ministry of Public Works; ₤ 6,5 billion by the Region of Tuscany; ₤ 11,2 billion by the municipality of Livorno. These funds set in motion an experimental urban planning exercise (Contratto di Quartiere I) with the following aims: demolition of 84 old houses and construction of 100 new ones; external renovation of other buildings; roads and sewers maintenance; construction of 6 houses for disabled people. Private partners were also involved. For example, the business company PAM applied for the construction of a shopping mall and was willing to pay charges which were used by the local government to finance part of the project[5]. This experiment proved to be successful, paving the way for the realization of the second part of the overall project. Contratto di Quartiere II was approved by the local government on July 23 2004. Funding was again provided by different actors: € 10 million by the Italian Government, namely the Ministry for Infrastructures and Transports; € 1,9 million by the municipality of Livorno; € 11 million by CASALP S.p.A.</p><p>Contratto di Quartiere II was generally similar to the previous exercise. However, while Contratto di Quartiere I was related only to urban planning, Contratto di Quartiere II was broader in scope and involved more actors - for example, CASALP S.p.A., a public company completely owned by the municipalities of the Province of Livorno and in charge of the management of public housing. The project was ambitious in that it aimed to construct about 200 new houses and demolish as many. It also provided resources for green areas and parking lots[6] and other services. For example, a bank decided to build a new branch there: in response to the influx of new potential customers to the suburbs thanks to relocation, a bank decided to open a special branch there. The target demographic for this bank is the elderly, who, representing most of the population in the newly renovated neighborhoods, were not anymore obliged to move across the city to get specific services. The opening of this branch represented an important consequence of the revitalization program, which had aimed to attract private businesses to come and establish their activities in the modified context of the suburbs in order to create new jobs.</p><p>A public-private partnership was also signed for the construction of houses to be rented under the municipality’s auspices. These special forms of housing were targeted at the “grey area” of people who, while not qualifying for public housing, could nonetheless not afford the fees for their own private homes. According to this public-private mechanism, the private partner would build flats without paying charges and, in return, these flats would be managed and rented at low rates by the public offices for a period of about twenty years before being returned to the private companies[3]. Later, a new clause was added to Contratto di Quartiere known as Progetto Urban. The aim was to build a new elementary and junior high school, with additional provisions for a kindergarten to be built in the future[4]. Resources were billed and allocated according to the agenda of the interventions required for making the revitalization program effective. The last, and most important point, is about how the agenda was developed. As described above, the whole program started as a bottom-up process, from the periphery’s population through the political parties to the local government.</p><h2>Analysis and Criticism</h2><p>The Northern Suburbs Revitalization Program was successful because it directly emerged from the needs of the inhabitants and was developed in practical terms by local institutions through a mechanism that promoted accountability and public control over the resources used and the decisions taken. People were mobilized on concrete and understandable issues that affected their daily life, acquiring a better consciousness of the expectations towards the public administration. With these achievements in mind, the project represented a good example of democratic participation and civic engagement in the elaboration and implementation of a complex and long-term process of urban transformation.</p><p>At the same time, nevertheless, there were some weak points. From the urban planning perspective, buildings were demolished and new ones built with success. However, while it was relatively easy to substitute old bricks with new ones, it was more difficult to recover a damaged social and cultural context. The latter require a very long-term process involving people of different generations. The younger generations especially had to be re-educated about the principles of mutual recognition and respect and the fight against crime and drugs. The outcomes of this will be visible only in the coming decades and the efforts will be on-going rather than one-off. Another relevant weakness is the reliance on public administration, too often bound and blinded by red tape and lack of funding: even when the bureaucratic delays had been overcome, the public sector was not always able to provide the huge amount of money required. In order to solve this problem, the Region of Tuscany started planning a new financing of the project by increasing the resources allocated for setting more effective public competitions[8]. Another solution was the greater involvement of the private sector, which could bring additional funds, by giving incentives such as not having to pay charges. This last possibility was a risky one because, once a greater role for the private sector had been decided, the linkages between the population and the executors of the program would no longer be the same and might cause a lack of democratic accountability. </p><p>All these issues are still present even today: the Northern Suburbs Revitalization Program is an on-going process that started decades ago and will last for the next few years. It is also premature at this point to speak of a concrete end to the project; on the contrary, it continues to require improvement on a daily basis. Moreover, it is an experiment that could be, and has been, extended to other run-down areas. Recently, for example, the City Council of Livorno approved a local bill that signed the starting of a revitalization program for another neighborhood called Fiorentina[7]: it will follow the same path of the predecessor. The ambitious outcomes outlined by the Northern Suburbs Revitalization Program will be achieved only if the people can rely on the strong political commitment necessary for appropriating resources and fulfilling the expectations of the population in a long-term.</p><p> </p><h2>References </h2><ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> Many sources we have looked for in the development of our analysis are not written but are based on oral testimonies. In order to reach an adequate level of confidence in reporting the results, we refer only to the interviews that had been double-checked and confirmed by many people.</li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> Interview with Marco Susini, May 7, 2011.</li><li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a> Goti, Juna, Quartieri Nord: una polveriera, Il Tirreno, September 8 2010.</li><li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> Contributo della Sezione dei Democratici di Sinistra “Shangay” alla Conferenza Programmatica dell’Unione Comunale dei Democratici di Sinistra di Livorno, November 2006.</li><li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> Deliberazione della Giunta Comunale, Archivio Generale del Comune di Livorno, April 21 2000.</li><li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> Deliberazione della Giunta Comunale, Archivio Generale del Comune di Livorno, July 23 2004.</li><li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a> Boldrini, Federica, Fiorentina, via libera alle nuove case, Il Tirreno, June 2 2011.</li></ol></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1660">Municipal Participatory Planning</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1676">Multi-Level Governance</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                          <span class="region" itemprop="addressRegion">LI</span>
+              <div class="country-name" itemprop="addressCountry">Italy</div>
+                                            <span class="geo"><abbr class="latitude" title="43.565479">43° 33' 55.7244" N</abbr>, <abbr
+            class="longitude" title="10.320931">10° 19' 15.3516" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+LI%2C+%2C+it">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Livorno        IT      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 31, 1986 - 16:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">5 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A132">Appointed Public Servants (e.g. Bureaucrats)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/collaborative-governance">Collaborative Governance</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Italian Ministry of Public Works, Italian Ministry for Infrastructures and Transports, Municipality of Livorno, Regional Government of Tuscany, CASALP S.p.A.</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">Municipality of Livorno</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">Catholic Church, Neighbourhood Council, Livorno City Council, ARCI, </div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A20">Community Based Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A37">Individual</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A166">For Profit Business</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A167">Faith-Based Organization</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-support-entity-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">Political Parties (Italian Communist Party &amp; Partito Democratico)</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$68 017 440.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-9306d857f9366f4e19886bcdd9ebd2b3">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/143">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

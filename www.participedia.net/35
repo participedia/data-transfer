@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/kerala-people-s-campaign-decentralized-planning" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/35" />
+  <title>Kerala People’s Campaign for Decentralized Planning | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"1FaO4SsVdym8WJHC4iJZQUV2qvnDVvkk74TcTPgXdAk","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"35"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/kerala-people-s-campaign-decentralized-planning?destination=node\/35":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-35 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/kerala-people-s-campaign-decentralized-planning" class="language-link active" xml:lang="en" title="Kerala People’s Campaign for Decentralized Planning">English</a></li>
+<li class="de last"><a href="/de/faelle/keralas-volkskampagne-f-r-dezentralisiertes-planen" class="language-link" xml:lang="de" title="Keralas Volkskampagne für Dezentralisiertes Planen">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/kerala-people-s-campaign-decentralized-planning?destination=node/35" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-y-MPrShSYCW24UkR4-_nJwqzL8umKPBoZC3OhYKPUng" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Kerala People’s Campaign for Decentralized Planning</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Kerala People’s Campaign for Decentralized Planning</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/dbruce" title="View user profile." class="username" xml:lang="" about="/en/users/dbruce" typeof="sioc:UserAccount" property="foaf:name" datatype="">David</a> on Mon, 05/31/2010 - 02:15</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Thu, 05/19/2016 - 13:53</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="" addthis:url="http://participedia.net/en/cases/kerala-people-s-campaign-decentralized-planning"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/KerialaIndia.png?itok=00lsIGZ7" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+
+
+</p><p><em>Note: a German translation of this case study is available at <a href="http://participedia.net/en/node/2315">http://participedia.net/en/node/2315</a></em></p><p><em>Note: Another version of this case study can be found below as a file attachment with the prefix "VD". This alternate version was originally submitted to </em><a href="http://www.vitalizing-democracy.org/">Vitalizing Democracy</a><em> as a contestant for the 2011 Reinhard Mohn Prize.</em></p><h3> </h3><h3>Background</h3><p>"Kerala is one of India’s 28 states, situated in the south-western tip of the country." (Justino 3) Kerala was created on November 1, 1956, with the passing of the States Reorganization Act bringing together the areas where Malayalam is the dominant language. Kerala has a higher Human Development Index than all other states in India (UNDP HDI Trends (1981-2001) for selected Major Indian States). The state has a literacy rate of 91 percent, the highest in India (<a class="external free" href="http://www.nfhsindia.org/pdf/KE.pdf" rel="nofollow" title="http://www.nfhsindia.org/pdf/KE.pdf">http://www.nfhsindia.org/pdf/KE.pdf</a>). A survey conducted in 2005 by Transparency International ranked Kerala as the least corrupt state in the country (India Corruption Study — 2005". Transparency International. June 2005. Retrieved 2010-06-04.) Kerala is a representative democracy with universal suffrage guaranteed to all state residents.</p><p><a id="Purpose_and_Problem" name="Purpose_and_Problem"></a></p><h2>Purpose and Problem</h2><p>Due to the caste system presented in India, people in the lower levels of society and those in poverty were being disenfranchised. The government was seen as having a lack of responsiveness to the citizenry. The idea was that to make the government more responsible, and more accountable to the citizenry, the power would have to be focused closer to the people, and be more decentralized. State Planning Board promised that 35-40% of 9th Plan Program (program to include more decision at lower levels of government) would consist of schemes formulated at local levels of government. (D. Bandyopadhyay)</p><p>Kerala's People's Participation has a purpose of promoting people's participation to increase awareness and maximize the direct involvement of citizens in planning and budgeting. The difficulties in promoting direct participation is particularly heightened in contexts where the authority of the modern, rational–legal state is in conflict with various forms of social power. Under such conditions, even when representative democratic institutions are well established, basic rights of association are distorted by pervasive vertical dependencies (clientelistic relationships), routinized forms of social exclusion (e.g., the caste system, purdah) and the unevenness and at times complete failure of public legality. Kerala's repeated goal of decentralizing began since the first democratically elected CPI ministry of 1957, and is still continuing to work towards decentralization through the people's participation today. (Building Local Democracy: Evaluating the Impact of Decentralization in Kerala, India)</p><p><a id="History" name="History"></a></p><h2>History</h2><p>In the 1960s, the state of Kerala initiated a social development strategy coupling extensive social programs with one of the most extensive land reform programs in the developing world. One of the primary tenets of these programs was the food program (which was similar to that implemented throughout all Indian states in the late 1960's) (Justino 5). "India’s food programme was integrated within a wider rural poverty alleviation scheme that combined a large programme for land reforms, and the introduction of new technologies and crops in the agriculture sector (the ‘Green revolution’), with an extensive rural employment scheme, designed to address the unemployment problems of the landless, and the Integrated Rural Development Programme (IRDP), targeted towards the creation of assets for the landless" (Justino 5). Kerala implemented a Public Distribution System which addressed the issue of food security by supplying grains and other staples to the poor at subsidized prices in "ration shops." Additionally, a School Meals Program was established to distribute free lunches for children in primary schools (Justino 5). These food programs were complimented by large amounts of public spending on education, healthcare (which was offered free of charge in public institutions), family planning, an old age pension plan, and accident insurance for the poor of Kerala (Justino 5)</p><p>"Until the mid-1960s industrial relations were relatively better in Kerala than in most other states, thanks to the democratic relations and industrial culture trade unionism (especially in the unorganised sector) helped to institute. At that time, trade unionism was central to the design and implementation of land reforms, minimum wage legislation, institutionalised bargaining procedures and general welfare measures that empowered the lower classes" (Justino 9).</p><p>"Local rural governments in India have enjoyed very limited powers and citizens have been afforded very few opportunities to shape local development. The 73rd Constitutional amendment passed in 1993 aimed to remedy this democratic deficit by granting local rural governments new powers and making them more accountable to citizens." The state of Kerala was the first to put the most determined effort into the democratic decentralization. (Heller &amp; Chaudhuri)</p><p>"In 1995, the state of Kerala started, like the rest of India, the implementation of the National Social Assistance Programme (NSAP). Together with the NSAP, the government of Kerala has also in place the provision schemes for the workers in the unorganised sector, a direct result of the strong political power of their unions. The success of these policies is reflected in Kerala’s extraordinary achievements results in terms of improved literacy, health care and demographic characteristics of the population" (Justino 5).</p><p>"In 1996, a coalition of left parties led by the Communist Party of India—Marxist (CPI(M)) returned to power and immediately fulfilled one of its most important campaign pledges by launching the “People’s Campaign for Decentralized Planning.” All 1,214 local governments in Kerala—municipalities and the three rural tiers of district, block, and grama panchayats—were given new functions and powers of decision making, and were granted discretionary budgeting authority over 35–40% of the state’s developmental expenditures. State officials sought to directly promote participatory democracy by mandating structures and processes designed to maximize the direct involvement of citizens in planning and budgeting. In both its scope and design, the campaign represents the most ambitious and concerted state-led effort to build local institutions of participatory democratic governance ever undertaken in the subcontinent" (Heller &amp; Chaudhuri)</p><p>Henceforth decentralization has occurred in three ways. Firstly the "three rural tiers of district, block, and Grama Panchayats (the all-india term for village councils)" have been brought directly under control of the locally elected bodies. Secondly, "40 percent of all developmental expenditures have been allocated directly to LSGI (Local Self-Governing Institutions)." Thirdly, political power has been decentralized, allowing for elected local representatives to have the authority to "design, fund, and implement a full range of development policies and projects" (Isaac &amp; Heller 78).</p><p><a id="Originating_Entities_and_Funding" name="Originating_Entities_and_Funding"></a></p><h2>Originating Entities and Funding</h2><p>In 1957, the first democratically elected government decided that the government should be more accountable to the people that they serve. They decided to decentralize the power from the federal level down to the state level, and between then and 1997, they dissolved power even further, to the regional, then the local, and finally in the 9th Financial Plan, down to the ward level. The People's Participation is funded by the state level government, and is meant to encourage participation from the lower levels of of government.</p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h2>Participant Selection</h2><p>Participation is open in the first level, and participants are self-selected, but the meetings are held on holidays so that everyone can go. Planning documents are distributed, and the event is well publicized. Those who go on to the next level of the process are selected by their forum groups, and join local political leaders, key officials in the area, and experts.</p><p><a id="Deliberations.2C_Decisions.2C_and_Public_Interaction" name="Deliberations.2C_Decisions.2C_and_Public_Interaction"></a></p><h2>Deliberations, Decisions, and Public Interaction</h2><p>The People’s Campaign for Decentralized Planning (the “campaign” hereafter) was specifically conceived as a vehicle for deepening democracy. Focusing on the first 4 years of reform, the period that can be called the campaign because of the mobilizational mode in which it was implemented. This period marked set in motion processes that have seen a very significant devolution of resources and authority to the panchayat (governmental level). The Left Democratic Front (LDF) was voted out of office in 2001 and the following period under a united democratic front government led by congress party usherd in a very different stage of the reforms marked in particular by the challenges of institutionalization and stregthening of local governance. In comparison to earlier efforts at decentralization in Kerala the reform introduced with the campaign have largely been maintained. In Kerala’s highly partisan political environment, the campaign has been the subject of fierce political debate, but economoc devolution has been preserved and no key legislative provisions have been altered. A 2006 report by the State Planning Board found that “Panchayati Raj had been mainstreamed in Kerala … and that there is widespread consensus across the political spectrum in Kerala that Panchayati Raj must be strengthened and supported in Kerala." The LDF government that returned to power in May 2006 has agreed to commit to deepening the reforms. As a set of far-reaching institutional reforms, the campaign evolved from a comprehensive critique of the inefficacies of top-down, insulated, command-and-control bureaucracies and of the myriad problems, both practical and normative, of the local participation deficit. If the institutional goals of the campaign amounted to nothing less than creating local self governments with new resources and authority, the political goal was to use planning as an instrument of mobilization.(Keller &amp;Chaudhuri)</p><p>The Kerala State Planning Board (SPB)—the campaign was designed to create an active role for local citizens in shaping local development policy making and budgeting. Thus, not only were local governments charged with designing and implementing their own development plans (which included designing and financing projects across the full range of development sectors), but they were also mandated to do so through an elaborate series of nested participatory exercises in which citizens are given a direct role in shaping—rather than just choosing—policies and projects. On both counts—local planning and citizen governance—the campaign goes well beyond decentralization in West Bengal and Karnataka, the two most carefully documented cases of successful decentralization in India and decentralisation in South Asia and West Africa: Participation, accountability and performance.(Heller&amp;Chaudhuri)These elaborate institutional designs were publicized through intensive media campaigns, conferences, and a massive training program. The basic nested structure of participation in the annual planning and budgeting cycle consists of four discrete stages:</p><ol><li>Gram Sabhas are held at the ward level (there are 10–12 wards in a panchayat). The first Gram Sabha serves as an open forum in which residents identify local development problems, generate priorities, and form sub-sector Development Seminars in which specific proposals first take shape. Subsequent Gram Sabhas select beneficiaries for targeted schemes. The Gram Sabhas are open meetings, presided by local elected officials, and facilitated by the Key Resource Persons (KRPs). They are always held on holidays, and in public buildings (usually schools). Preparations for the assemblies include extensive publicity, and the distribution of various planning documents. Minutes are kept, and each sub-sector group presents a report of its deliberations and produces a list of “felt needs."</li><li>Development Seminars develop integrated solutions for various problems identified at Gram Sabhas. The Seminars are constituted of representatives selected by the Gram Sabhas, members of panchayat samithi, local political leaders, key officials of the area, and experts from the locality and outside. The seminars were required to produce a comprehensive planning document for the panchayat.</li><li>Task Forces are selected by the Development Seminars and are charged with converting the broad solutions of the seminars into project/scheme proposals to be integrated into the final panchayat plan. In general, a Task Force is constituted for each of 10 development sectors, including women’s development, and includes a member of the panchayat samithi, the relevant local official and representatives selected by the Gram Sabhas.</li><li>The fourth phase of the annual planning exercise is the actual formulation of the panchayat or municipal budget. Drawing on the shelf of sectoral projects designed by the Task Forces, the panchayat drafts local plan based on available budgetary resources, which include grant-in-aid (the largest component), own resources (local taxes and local resource mobilization) and state or center-project funds.(Heller&amp;Chaudhuri)</li></ol><p>The first phase of the people's participation is to identify the needs of the people and gaps in local development through meetings (Brainstorming). Special care is taken to ensure adequate attendance not only of people, but of viewpoints to assure proper articulation of the various views in the community. Once the issues have been identified, 200-300 participants attend 1 day developmental seminars to work out integrated solutions to those problems that were identified. They break up into 12-13 task forces to tackle the various issues. The task forces then create development reports containing local history, resources, problem analysis, and development potential. The task forces then take the integrated solutions and combine them into project and scheme proposals that can be used by the larger government. (D. Bandyopadhyay)</p><p><a id="Influence.2C_Outcomes.2C_and_Effects" name="Influence.2C_Outcomes.2C_and_Effects"></a></p><h2>Influence, Outcomes, and Effects</h2><p>The measurement of the development impact of decentralization was made into a survey and produced data from key respondents, who as informed local actors are well positioned to evaluate the developmental impact of the campaign. The key respondents answered a series of questions about the nature of services (such as health care, education, roads) and about development activities (such as housing for the poor, support of agriculture, efforts to improve income and employment), both before and after the campaign. The outcome was that the respondents felt that the initial quality of services and development in 1996—that is, before the campaign was launched—was poor. For all but three areas (education, child care, and health), a majority of respondents judged the quality to be “low” or “very low,” with employment generation and anti-poverty measures receiving particularly low marks. It is also noteworthy that the lowest score was for “efforts to improve income and employment for women.” Our respondents were then asked whether the quality of services and development, in each of 13 categories, had improved, deteriorated or stayed the same during the five years of the campaign during 1996–2001. In 5 of 13 categories, over 40% of the respondents felt that there had been “significant” improvement. The performance of panchayats was however uneven across areas. The campaign’s most marked successes were in building roads, housing for the poor, and anganwadis (child services) where almost two-thirds felt the difference was significant. In contrast, less than a fourth of respondents felt that the panchayats had made a significant difference in economic development (employment, agricultural support, and irrigation). (Heller &amp; Chaudhuri)</p><p><a id="Analysis_and_Criticism" name="Analysis_and_Criticism"></a></p><h2>Analysis and Criticism</h2><p>Questions that arised is to what extent did the campaign contribute to the empowering of citizens? In order to maintain a certain legitimacy, one has to be guarded when dealing with non-electoral forms of participation of conflating involvement with actual influence. In dealing with this problem, there are three separate lines of analysis. The first, and most obvious in an inegalitarian society, is the depth of participation (i.e., the magnitude and social composition of participation). The second is the quality of participation, that is, the extent to which the participatory process approximates a deliberative process that involves substantive public discussions and efforts to identify common interests rather than just the aggregative logic of voting or the mobilization of resources associated with bargaining. The third is the process dimension of participation, that is, the extent to which participatory inputs wind their way through institutions and are translated into actual outputs. (Heller &amp; Chaudhuri)</p><p>"And even in Kerala, where working-class mobilization has a longer history and has wielded significant redistributive results, disappointing economic growth, the pressures of liberalization, and the declining service efficiency of the state have all combined to threaten earlier gains in social development" (Heller 132).</p><p>Kerala's decentralized state and the prominence of unions fits into an economic debate between those, mostly outsiders who favor laissez-faire, and the poor of Kerala who favor an interventionist approach: "Political and social activism, particularly in the labour market, is known to be an important factor in the promotion of social and political empowerment of the most vulnerable groups in the population. There are, however, two sides to the debate over the specific importance of labour unions. The supply-side of the debate argues that unions promote wage monopolism, create inefficiencies and inequalities between workers in unions and workers not in unions and thus reduce output. The demand-side view of the debate argues that labour unions promote productivity, increase democracy and are an important channel for the most vulnerable groups to voice their needs. Unions are thereby viewed as a source of ‘dynamic efficiency’, by forcing enterprises to pay efficiency wages rather than ‘market clearing’ wages and encouraging companies to raise productivity by introducing new technologies rather than relying on low-paid labour" (Justino 9).</p><p>Some people cite that Union demands disrupt the economy and drive away business, further inhibiting Kerala's ability to provide for its people:"Although labour union demands in Kerala (both in the organised and unorganised sectors) and their political power were central to the implementation of Kerala’s redistributive model, they have also created an element of sociopolitical instability in Kerala, particularly in the state’s industrial sector. Although Kerala’s industrial sector has suffered from a lack of adequate public action, infrastructure and industrial basis, demands for higher wages and the increased risk of disruption have discouraged private investment and have led companies to establish themselves in other Indian states with more stable labour markets" (Justino 8)</p><p>Although the hands on approach of the state may inhibit growth, others would counter that such controls have benefited Kerala's people, especially the poor, greatly: "Although some problems still remain - caste intolerance has not been completely eliminated, land reforms have resulted in new forms of rural exploitation between poor landowners and their landless workers, the unorganised sector in Kerala is still characterised by underemployment, decentralised production, pronounced market fluctuations and narrow margins of profit and groups like the fishermen and tribals, amongst others, have been left at the margin of Kerala’s development model- Kerala’s development programme has in general provided traditionally vulnerable groups, such as the lower castes, the women and the workers in the unorganised sector, with better capacity to access social entitlements and the mechanisms of power, both important elements of any development strategy" (Justino 6)</p><p><a id="References" name="References"></a></p><h3>References</h3><p>D. Bandyopadhyay: People's Participation in Planning: Kerala Experiment. Economic and Political Weekly, Vol. 32, No. 39 (Sep. 27 - Oct. 3, 1997), pp. 2450-2454, Published by: Economic and Political Weekly.</p><p>Patrick Hellera, K.N. Harilalb and Shubham Chaudhuri: Building Local Democracy: Evaluating the Impact of Decentralization in Kerala, India. Brown University, Providence, RI, USA Centre for Development Studies, Trivandrum, India, World Bank, USA. <a href="http://siteresources.worldbank.org/EXTGOVANTICORR/Resources/3035863-1291223960989/sdarticle-India-Decentralization.pdf">http://siteresources.worldbank.org/EXTGOVANTICORR/Resources/3035863-1291...</a></p><p>Patrick Heller: Moving the State:The Politics of Democratic Decentralization in Kerala, South Africa, and Porto Alegre. POLITICS &amp; SOCIETY, Vol. 29 No. 1, March 2001 131-163. <a href="http://www.patrickheller.com/uploads/1/5/3/7/15377686/moving_the_state.pdf">http://www.patrickheller.com/uploads/1/5/3/7/15377686/moving_the_state.pdf</a></p><p>Patricia Justino: Two Faces of Participation: the Story of Kerala. Poverty Research Unit at Sussex, PRUS WORKING PAPER NO. 19 September 2003. <a href="https://www.sussex.ac.uk/webteam/gateway/file.php?name=wp19.pdf&amp;site=260">https://www.sussex.ac.uk/webteam/gateway/file.php?name=wp19.pdf&amp;site=260</a></p><p>Essay by Isaac and Heller, "Democracy and Development: Decentralized Planning in Kerala" in Fung, Wright, and Abers: Deepening Democracy 2003. <a href="https://www.ssc.wisc.edu/~wright/Deepening.pdf">https://www.ssc.wisc.edu/~wright/Deepening.pdf</a></p><h3>External Links</h3><p><a href="https://en.wikipedia.org/wiki/Kerala">Kerala Wikipedia Entry</a></p><p><a href="https://kerala.gov.in/">Official State Website</a></p></div></div></div><div class="field field-name-field-file-attachements field-type-file field-label-above"><div class="field-label">File Attachments:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://participedia.net/sites/default/files/case-files/VD.%20People%27s%20Planning%20Campaign.pdf" type="application/pdf; length=49148">VD. People&#039;s Planning Campaign.pdf</a></span></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1543">Government Decentralization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1831">Comprehensive Long-term Regional Development Plan</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">State of Kerala</span>
+                          <span class="region" itemprop="addressRegion">KL</span>
+              <div class="country-name" itemprop="addressCountry">India</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+KL%2C+%2C+in">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Kerala        IN      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A107">Direct delivery of public services (i.e. by entities other than government)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, August 17, 1996 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, May 13, 2001 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A15">Election</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/collaborative-governance">Collaborative Governance</a></div><div class="field-item odd"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div><div class="field-item even"><a href="/en/methods/public-hearing">Public Hearing</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A144">Opinion Survey</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Government of Kerala</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Government Officials</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-49e59f65d6b8d26d748007da04480710">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/35">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

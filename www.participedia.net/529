@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/scenario-workshop" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/529" />
+  <title>Scenario Workshop | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"fYosR2Y99O8Ig116nRZ-7CHk-zv-NwfeUowPSacRKOg","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/scenario-workshop?destination=node\/529":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-529 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/scenario-workshop" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/scenario-workshop?destination=node/529" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-VGbOUJQ9uB96-vr4oFmXbl3P2EU_XF6-bZyiGGZNStw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Scenario Workshop</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Scenario Workshop - Participedia" addthis:url="http://participedia.net/en/methods/scenario-workshop"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/scenario-workshop-2.jpg?itok=fs2wNqOH" /></span></div></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Feb 26 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/sgzsmith" title="View user profile." class="username" xml:lang="" about="/en/people/sgzsmith" typeof="sioc:UserAccount" property="foaf:name" datatype="">Samantha Smith</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>A Scenario Workshop is a participatory method encouraging local action with a mix of scenario and workshop which aims to solve local problems and anticipate future ones<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">[1]{C}{C}{C}</a>. Scenarios involve narrative descriptions of potential future problems that emphasize relationships between events and decision points<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn2" name="_ftnref2" title="" id="_ftnref2">{C}{C}{C}[2]{C}{C}{C}</a>. In addition, scenarios direct attention to causes, areas for development and the span of exigencies that may be met in a local community issue<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn3" name="_ftnref3" title="" id="_ftnref3">2</a>. The workshop is the approach aspect of this method in which participants from a local community engage in discussion, produce some sort of action through deliberative discussion and act as decision-makers or create a communal plan of action. The goal of a Scenario Workshop is to create a dialogue among policy-makers, experts and ordinary citizens around a local and communal matter such as water resources or transportation<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn4" name="_ftnref4" title="" id="_ftnref4">2</a>. The Scenario Workshop is characterized by its ability to create new knowledge surrounding a local, community issue. Additionally, this participatory method is used to gather knowledge about participants’ understandings and visions of a local topic, by looking into their attitudes towards defined scenarios and the basis for those attitudes towards specifically defined scenarios<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn5" name="_ftnref5" title="" id="_ftnref5">1</a>. Scenarios are developed by experts (scientists) and are thoroughly scrutinized by the participants which connects research and social needs<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn6" name="_ftnref6" title="" id="_ftnref6">1</a>. Scenario Workshops involve a group of citizens interacting with other participants to exchange knowledge, experience, develop common visions, debate, provide criticism and produce a plan of community action for potential future developments<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn7" name="_ftnref7" title="" id="_ftnref7">3</a>.  The Scenario Workshop is used so local communities are involved and find solutions to local problems. This method is also utilized by large organizations, such as the United Nations and the European Union to address social and environmental concerns<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn8" name="_ftnref8" title="" id="_ftnref8">1</a>. A Scenario Workshop typically has three stages of involvement which includes: the critical phase, the visionary phase and the implementation phase. During the Scenario Workshop time is allotted for brainstorming, discussion, presentations and voting<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn9" name="_ftnref9" title="" id="_ftnref9">1</a>.  </p><h3 class="MsoNormal">Problems and Purpose</h3><p>The purpose of a Scenario Workshop is to provide for direct participation of four social groups from civil society. Participants are given a direct opportunity to exchange and discuss their points of view and make recommendations regarding a particular local, community issue with experts and decision-makers (politicians). Essentially, a Scenario Workshop is a tool encouraging dialogue among ordinary citizens, policy-makers, and experts. As a result, community involvement is produced by managed and facilitated discussions between a number of groups with a mixed composition of participants from the same living area.  Scenario Workshops increase the chance of timely intervention and control of a present or anticipated problem.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">5</a></p><p class="MsoNormal"></p><p class="MsoNormal">The aims of a Scenario Workshop include raising awareness of future problems in a community; helping to develop a common definition of a desirable factor; facilitating discussions between different social groups within a society; examining the differences and similarities, as well as problems and solutions as perceived by the four participating role groups; cultivating steps and solutions for foreseen problems; and stimulating teamwork in coming up with a solutions or recommendations with the ideal result being consensus.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn2" name="_ftnref2" title="" id="_ftnref2">5</a></p><p class="MsoNormal">Scenario Workshops are not suitable for narrow issues. Additionally, when there are not enough participants, Scenario Workshops are not useful, because a productive and successful workshop cannot be accomplished. A weakness of Scenario Workshops is that the cost to run them is typically high. Additionally, organizing participants from across the community can be difficult, because it requires a good amount of planning to ensure diversity of participants and a rewarding workshop session.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn3" name="_ftnref3" title="" id="_ftnref3">1</a></p><h3 class="MsoNormal">History</h3><p>The Scenario Workshop derives from the Scandinavian tradition of citizen involvement in which scenarios are developed and presented by experts (scientists) to a group of citizens from a local community in a workshop that lasts two to three days<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">8</a>. Since 1993, this participatory method has been used to actively involve and facilitate the process for citizens to develop decisions about technology politics in cities within Denmark<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn2" name="_ftnref2" title="" id="_ftnref2">6</a>. Another objective of the Scenario Workshop was to develop scenarios that relate to sustainable development and urban ecology in the daily life of Danish citizens. Currently, this method is used throughout Europe by large organizations such as the European Union and the United Nations due to its usefulness. A scenario, a derivative of data or models, aids in the input and discussion of local and communal issues.</p><h3 class="MsoNormal">Participant Selection</h3><p>The four role groups present within a Scenario Workshop are representatives of the residents (civil society), politicians (decision-makers), representatives of the economy (founders) and experts in the topic at hand<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">5</a>. This subdivision is necessary to balance the various interests of the different role groups and to include them on an equal basis. Typically, participants are selected from a group of 25 to 30 local government officials, technical experts, business people and knowledgeable community residents. All participants should have equal footing in and adequate information of the problem in question, as well as the capability of coming up with potential and viable solutions<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn2" name="_ftnref2" title="" id="_ftnref2">5</a>. Members within the scenario team are asked to have open minds and the ability to work within a team atmosphere<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn3" name="_ftnref3" title="" id="_ftnref3">2</a>. Participants are chosen on the basis of their stake in the issue at hand<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn4" name="_ftnref4" title="" id="_ftnref4">4</a>. The number of role groups and participants within a Scenario Workshop varies depending on the severity and size of the issue.</p><p class="MsoNormal"></p><p class="MsoNormal">The selection of participants is a major part of a successful Scenario Workshop. Choosing and contacting the participants is very time-consuming. When selecting participants one must consider the regional structure of a society and be knowledgeable about the key players that concern the topic of the workshops. Organization of participants within a workshop could start several months in advance in order to conduct a thorough and successful workshop. Many of the participants, already grouped into the four role groups, are chosen based on the topic of the workshop. <a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn5" name="_ftnref5" title="" id="_ftnref5">7</a></p><h3 id="ftn5">Deliberation, Decisions, and Public Interaction</h3><p>Experts, or facilitators with extensive knowledge on the Workshop topic, present the Scenario Workshop four stories, or visions, to match the participants’ focus with their responsibility.  After the Scenario Workshop experts present the four visions to the Workshop as a whole, participants are then divided into four scenario groups each of which analyzes one of the four visions that was presented by the Workshop experts. Each of the four groups elects a representative member within their small group to present the undeveloped vision of their respective group. Within the groups, the Scenario Workshop experts ask all participants to discuss and deliberate on their delegated vision, as well as be critical of all other visions analyzed by the other groups.</p><p class="MsoNormal"></p><p class="MsoNormal">The four divided groups work towards developing a precise vision statement that their elected representative member will announce to the Scenario Workshop as a whole when coming back together. After the four small group visions are presented by each groups’ elected representative, a “common vision” is created. The “common vision” serves as the starting point for the generation of ideas. All participants of the Workshop are asked to develop four topics from the “common vision.” Once this is accomplished, participants are then divided into four thematic groups. Each of the four thematic groups discuss one of the four themes that emerged from the “common vision.” Each participant within their thematic group will provide, in one sentence, a brief idea/action on the respective theme they talked about as a group. Participants who gave an idea/action regarding their small group theme are asked to go more in-depth about their response in order to develop their response more concretely. Participants then vote on the three best responses to present to the Workshop as a whole. A number of ideas are produced from all thematic groups.</p><p class="MsoNormal">After the presentation of all thematic groups’ idea/actions, the Scenario Workshop collectively votes once more on the best ideas/actions in order to narrow down the selection even further. Next, a standard Scenario Workshop evaluation questionnaire is given to all Scenario Workshop participants to determine whether they agree or disagree with the vision statements that were made. Additionally, the questionnaire includes open-ended questions for participants to evaluate the quality of the Workshop overall. Participants are provided one hour to evaluate anonymously. Insights will be drawn from the questionnaire responses.</p><p class="MsoNormal">Conclusions and recommendations from the Scenario Workshop are used by politicians for debate, regulation and are accepted as the input or “the voice of the people.” Therefore, the participant selection process of the Scenario Workshop is crucial. The Scenario Workshop topic is communicated as a local issue that cannot be resolved without the participation of local people and the Workshop is designed to find solutions to those local problems. The design of scenarios is a crucial challenge in the Scenario Workshops. The results are used to make better and long-term solutions to problems that affect many community actors involved. Workshop discussions remain confidential until experts or facilitators of a Scenario Workshop make them publicly available through various media outlets.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">9</a></p><h3 id="ftn1">Influence, Outcomes, and Effects</h3><p>Scenario Workshops initiate citizen dialogue, create improved interaction between the four societal role groups and provide opportunities for citizens’ input on decision-making in the political arena. The results of the Scenario Workshop play an important role in local debate on issues impacting the community. Additionally, successful Scenario Workshops empower citizens to get involved in the early stages of designing a plan or an issue. Evaluation of Scenario Workshop participants following a project demonstrates that it functions as an important learning experience and paves the way from better dialogue at a local level. The results of a Scenario Workshop are mutual collective efforts that contribute to developing realistic strategies for the topic at hand. Scenarios Workshop findings are taken into account by decision-makers when considering potential effects on future scenarios.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">10</a> However, long-term changes in communities have not been checked or evaluated.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn2" name="_ftnref2" title="" id="_ftnref2">10</a></p><h3 id="ftn2">Analysis and Criticism</h3><p>Although Scenario Workshops are helpful in integrating citizen-input into local community decision-making, some of the pitfalls or limitations of Scenario Workshops include the ‘Zeitgeist’ problem in which group dynamics can affect the outcome of the deliberative process. For instance, different exercises will have similar results. The ‘opacity of context’ is another issue confronted by scenario workshops when participants become focused on particular aspects of a certain sector, such as technology, but do not fully evaluate the social, economic and political implications of the associated sector changes. The ‘event evaluation’ is another issue faced by this method in which people have the tendency to overestimate the probability of likely events.<a href="///C:/Users/Samantha/Documents/COM%20417%20Assgn%203.docx#_ftn1" name="_ftnref1" title="" id="_ftnref1">2</a></p><h3 id="ftn1">Secondary Sources</h3><ol><li class="MsoListParagraphCxSpFirst"><a href="http://www.peopleandparticipation.net/display/Methods/Scenario+Workshop"><u>http://www.peopleandparticipation.net/display/Methods/Scenario+Workshop</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://archive.unu.edu/hq/library/Collection/PDF_files/CRIS/PMT.pdf" target="_blank"><u>http://archive.unu.edu/hq/library/Collection/PDF_files/CRIS/PMT.pdf</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://www.ingentaconnect.com/content/beech/spp/1999/00000026/00000005/art00006" target="_blank"><u>http://www.ingentaconnect.com/content/beech/spp/1999/00000026/00000005/art00006</u></a></li><li class="MsoListParagraphCxSpMiddle"><a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=tt_xdbMVbhcC&amp;oi=fnd&amp;pg=PA1&amp;dq=scenario+workshop+selecting+participants&amp;ots=bJ5j-i02d9&amp;sig=AShrm99M0w3sWlVC8skCNHFgI5Q#v=onepage&amp;q&amp;f=false"><u>http://books.google.com/books?hl=en&amp;lr=&amp;id=tt_xdbMVbhcC&amp;oi=fnd&amp;pg=PA1&amp;dq=scenario+workshop+selecting+participants&amp;ots=bJ5j-i02d9&amp;sig=AShrm99M0w3sWlVC8skCNHFgI5Q#v=onepage&amp;q&amp;f=false</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://www.uibk.ac.at/fbi/download/fbibuchweb1.pdf"><u>http://www.uibk.ac.at/fbi/download/fbibuchweb1.pdf</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://books.google.com/books?id=zW4eJp5c6CYC&amp;pg=PA116&amp;lpg=PA116&amp;dq=scenario+workshops+history&amp;source=bl&amp;ots=Y_TfaNvN4x&amp;sig=c-_VZ_3EZbfNEYo92jg5fskC4Vg&amp;hl=en&amp;sa=X&amp;ei=SBVLT5uRI8OliQKy9u3aDQ&amp;ved=0CFAQ6AEwBQ#v=onepage&amp;q=scenario%20workshops%20history&amp;f=false"><u>http://books.google.com/books?id=zW4eJp5c6CYC&amp;pg=PA116&amp;lpg=PA116&amp;dq=scenario+workshops+history&amp;source=bl&amp;ots=Y_TfaNvN4x&amp;sig=c-_VZ_3EZbfNEYo92jg5fskC4Vg&amp;hl=en&amp;sa=X&amp;ei=SBVLT5uRI8OliQKy9u3aDQ&amp;ved=0CFAQ6AEwBQ#v=onepage&amp;q=scenario20workshops%20history&amp;f=false</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://members.chello.at/wilawien/interacts/interacts_toolkit.pdf"><u>http://members.chello.at/wilawien/interacts/interacts_toolkit.pdf</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://www.cipast.org/cipast.php?section=1012"><u>http://www.cipast.org/cipast.php?section=1012</u></a> </li><li class="MsoListParagraphCxSpMiddle"><a href="http://www.pantaneto.co.uk/issue6/andersenjaeger.htm"><u>http://www.pantaneto.co.uk/issue6/andersenjaeger.htm</u></a></li><li class="MsoListParagraphCxSpMiddle"><a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=5CN7XRfD-FIC&amp;oi=fnd&amp;pg=PA53&amp;dq=scenario+workshop&amp;ots=M80G-5EdoT&amp;sig=zahAwuyamSJ2O6rL196DR_8cDhQ#v=onepage&amp;q=scenario%20workshop&amp;f=false" target="_blank"><u>http://books.google.com/books?hl=en&amp;lr=&amp;id=5CN7XRfD-FIC&amp;oi=fnd&amp;pg=PA53&amp;dq=scenario+workshop&amp;ots=M80G-5EdoT&amp;sig=zahAwuyamSJ2O6rL196DR_8cDhQ#v=onepage&amp;q=scenario%20workshop&amp;f=false</u></a></li></ol><h3>External Links</h3><ol><li>Overview of Scenario Workshop: <u><a href="http://www.ivm.vu.nl/en/Images/SC6_tcm53-161521.pdf">http://www.ivm.vu.nl/en/Images/SC6_tcm53-161521.pdf</a></u></li><li>How to develop scenarios slideshow: <u><a href="http://www.slideshare.net/adgo/scenario-building-workshop-how-to-build-and-use-scenarios">http://www.slideshare.net/adgo/scenario-building-workshop-how-to-build-a...</a></u></li><li>Tool-kit for Scenario Workshop: <a href="http://www.uibk.ac.at/fbi/download/fbibuchweb1.pdf"><u>http://www.uibk.ac.at/fbi/download/fbibuchweb1.pdf</u></a></li></ol><h3>Notes</h3><p>Scenario Workshop Case Studies:</p><p class="MsoNormal"></p><p class="MsoNormal">Street, P. "Scenario Workshops. a Participatory Approach to Sustainable Urban Living?" Futures Guildford. 29.2 (1997): 139-158. Print. <a href="http://www.sciencedirect.com.offcampus.lib.washington.edu/science/article/pii/S0016328796000730">http://www.sciencedirect.com.offcampus.lib.washington.edu/science/article/pii/S0016328796000730</a> </p><p class="MsoNormal">Hatzilacou, D, G Kallis, A Mexa, H Coccosis, and E Svoronou. "Scenario Workshops: a Useful Method for Participatory Water Resources Planning? (doi 10.1029/2006wr004878)." Water Resources Research. 43.6 (2007). Print. </p><p class="MsoNormal">Echenique, A M, R Joseph, and V J. Casillas. "Recognition and Treatment of Reactions to Contrast Media: a Model for Resident and Faculty Education Employing Lectures and Case Scenario Workshops."Academic Radiology. 4.3 (1997): 230-234. Print.  <u><a href="http://dx.doi.org/10.1016/S1076-6332">http://dx.doi.org/10.1016/S1076-6332</a>(05)80296-X</u></p><p class="MsoNormal">Moyer, K. "Scenario Planning at British Airways." Long Range Planning. 29.2 (1996): 172-181. Print. <a href="http://www.sciencedirect.com/science/article/pii/0024630196000052">http://www.sciencedirect.com/science/article/pii/0024630196000052</a></p><p> </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-7dcb370f455633ee1051f28d7b17a7f3">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/529">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">24</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">32</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">2 days</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">3 days</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all-targeted-recruitment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all with targeted recruitment</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/type-interaction-among-participants/actingdrama" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Acting/Drama</a></div><div class="field-item even"><a href="/en/type-interaction-among-participants/organized-demonstrations" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Organized Demonstrations</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">The Critical Phase, The Visionary Phase, and The Implementation Phase</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Workshop facilitators or experts report to media outlets and decision-makers.</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Voting, Consensus</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/local-eg-neighbourhood-citytown-metropolitan-area" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/conflict-resolution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Conflict Resolution</a></div><div class="field-item odd"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item even"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/3-somewhat-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/3-somewhat-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/5-always-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Always Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/consultation-ie-advise-decision-makers" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/kind-influence/collaborative-delivery-services-public-authorities" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Collaborative delivery of services with public authorities</a></div><div class="field-item even"><a href="/en/kind-influence/raise-public-awareness" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Raise public awareness</a></div><div class="field-item odd"><a href="/en/kind-influence/community-building-eg-social-capital" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community building (e.g. social capital)</a></div><div class="field-item even"><a href="/en/kind-influence/develop-individual-capacities-eg-skills-learning" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Develop individual capacities (e.g. skills, learning)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/international-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International Organization</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/profit-business" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit Business</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/international-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International Organization</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/profit-business" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit Business</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Plenary and group sessions</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

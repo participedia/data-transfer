@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/792" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/792" />
+  <title>Der Streik an der Universität Puerto Rico 2010 | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"mrR_xFUJeDzIYCX3Om9sMU_x0fAM-xnsBhCB7xqxPkg","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"792"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/792?destination=node\/792":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-792 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/2010-university-puerto-rico-strike" class="language-link" xml:lang="en" title="2010 University of Puerto Rico Strike">English</a></li>
+<li class="de last"><a href="/de/faelle/der-streik-der-universit-t-puerto-rico-2010" class="language-link" xml:lang="de" title="Der Streik an der Universität Puerto Rico 2010">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/792?destination=node/792" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-scat6wSOfY0cON08W4GU7EE5FgHNwz94MSrFZfS74ts" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Der Streik an der Universität Puerto Rico 2010</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Der Streik an der Universität Puerto Rico 2010</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/danielm" title="View user profile." class="username" xml:lang="" about="/en/people/danielm" typeof="sioc:UserAccount" property="foaf:name" datatype="">Daniel Meyer</a> on Tue, 03/05/2013 - 02:42</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 05/23/2016 - 15:39</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Der Streik an der Universit&amp;Atilde;&amp;curren;t Puerto Rico 2010 - Participedia" addthis:url="http://participedia.net/en/node/792"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Originalversion abrufbar unter <a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike">http://participedia.net/en/cases/2010-university-puerto-rico-strike</a></em></p><p><em>Note: this is a German translation of an English case study available at <a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike">http://participedia.net/en/cases/2010-university-puerto-rico-strike</a></em></p><p> </p><h3>Einführung</h3><p>Ursprünglich war der Streik an der UPR nur für 48 Stunden geplant gewesen. Nachdem den Forderungen der Studentenschaft aber nicht entsprochen wurde, wurde der Streik unbegrenzt fortgesetzt. Die Studenten forderten, dass Studiengebühren nicht erhöht werden sollten und streikten gegen eine Privatisierung ihrer Universität. Der unbegrenzte Streik begann auf dem Campus Rio Pedros Ende April 2010. Bis Anfang Mai zogen alle weiteren zehn Campus nach, die größte Universität Puerto Ricos streikte komplett. Weltweit solidarisierten sich Studenten mit den Streikenden, die Universität Bern z.B. streikte 48 Stunden lang aus Solidarität mit.</p><h3><strong>Hintergrund</strong></h3><p>Die UPR ist die staatliche Universität Puerto Ricos. Die UPR umfasst insgesamt 11 Campus mit insgesamt ca. 64,511 Studenten und 5,300 Lehrkräften. <a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-1">[1]</a> Die UPR verfügt über das breiteste Studienangebot in der ganzen Karibik. <a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-1">[2]</a> Soziale Unruhen und gesellschaftliche Konflikte haben sich schon häufig an der UPR manifestiert und wurden von dort auch in die Gesellschaft getragen. Die Regierung beteiligt sich an den laufenden Kosten der Universität mit einer festgesetzten Formel von 9.6% des Regierungsetats.</p><h3><strong>Fortuño's Regierungspolitik </strong></h3><p>Am 3. März 2009, 60 Tage nach seiner Amtseinführung, stellte der Gouverneur Puerto Ricos, Fortuño, sein radikales Sparprogramm vor. Fortuño’s Vorstellungen zufolge sollten die Regierungskosten um über $2 Billionen Dollar gesenkt werden, dies schon ab dem nächsten Fiskaljahr, dass im Juli 2009 bereits beginnen würde. In den Medien kursierten Zahlen, dass eine solch drastische Kürzung in den Regierungsausgaben die Entlassung von über 30,000 Staatsangestellten nach sich ziehen würde. Am 1. Mai protestierten Arbeiter in den Straßen San Juans gegen das Spardiktat. Am 15. Oktober 2009 protestierten nochmal Tausende in einem Generalstreik gegen die Haushaltskürzungen, welche zu dem Zeitpunkt bereits beinahe 17,000 Entlassungen nach sich gezogen hatten.<a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-CNN-4">[3]</a> Mit dem Sparprogramm wurden die staatlichen Zuwendungen für den Gesamtetat der UPR von 9.6% des Regierungsetats auf ca. 8.1% gesenkt.</p><h3><strong>Die Aktionskomitees der Fachbereiche</strong></h3><p>Am 25. September verkündete die Regierung die Entlassung von noch einmal 18,000 Staatsbeamten. An der UPR wurde in der Folge eine Generalversammlung einberufen, einerseits um sich mit den protestierenden Staatsangestellten zu solidarisieren und andererseits um Kürzungen an der eigenen Universität entgegenzuwirken. Diese Generalversammlung stellte Aktionskommitees für alle Fachbereiche der Universität auf (Geisteswissenschaften, Naturwissenschaften, Sozialwissenschaften, Pädagogik und Recht). Die Generalversammlung beschloss einen mehrtägigen Streik und nahm Teil am nationalen Generalstreik vom 15. Oktober 2009. Die einzelnen Kommittees sollten eine Schlüsselrolle in der Organisation des UPR Streiks im Folgejahr spielen.</p><h3><strong>Die Generalversammlung vom 13. April 2010</strong></h3><p>Die Studenten des Rio Piedras Campus hielten am 13. April 2010 eine Generalversammlung ab. Die Teilnehmerzahl sprengte die Kapazitätsgrenzen des Auditoriums. So nahmen knapp 2000 Studenten an der Versammlung teil, während eine große Masse vor dem Auditorium wartete, die aber auch an der finalen Abstimmung teilnehmen durfte. Die Versammlung war äußerst erhitzt, teilweise wurde gar das Gebäude beschädigt.  Das Abstimmungsverhalten war offen. Abgestimmt wurde am Ende über einen 48-stündigen Streik. Falls nach diesen 48 keine Einigung mit der Universitätsführung erzielt werden sollte, würde der Streik auf unbegrenzte Zeit ausgeweitet. Der Streik richtete sich gegen Kürzungen im Universitätsbudget, gegen geplante Erhöhungen der Studiengebühren, gegen Privatisierungen an der Universität und gegen Einschnitte bei den Sommerkursen.</p><h3><strong>Der 48 Stunden Streik </strong></h3><p>Vor Beginn des Streiks versuchten die Aktionskommittees noch, sich mit der Universitätsleitung, dem Rektor José Ramón de la Torre und der Vizerektorin Ana R. Guadalupe, zu treffen, um die Streitpunkte zu diskutieren. Dies wurde abgelehnt. So begann der Streik gegen 3.00 Uhr morgens am 21. April. Studenten besetzten alle Eingänge der Universität, bis auf den Eingang des Sicherheitspersonals. Am Nachmittag sollten sich Studentenvertreter mit der Universitätsleitung treffen, dies wurde aber abgesagt, nachdem ein Gerücht die Runde machte, das Sondereinsatzkräfte der Polizei im Anmarsch wären. Guadalupe verkündete bereits am ersten Streiktag die Schließung des Campus Rio Piedras. Sie beschuldigte die Studentenschaft, im Rahmen der Besetzung 17 Sicherheitsleute verletzt zu haben. Journalisten, die während der Besetzung anwesend waren, zweifelten diese Zahlen an. Die Sicherheitsleute selbst meinten, die vermeintlichen Angreifer nicht identifizieren zu können, da sich diese Kapuzen ins Gesicht gezogen hätten. In der Tat gab es eine Art „schwarzen Block“ während den Besetzungen, der zwar von offizieller studentischer Seite nicht ausdrücklich genehmigt, jedoch auch nicht unterbunden wurde. Die Administration versuchte, gerichtlich gegen die Studenten vorzugehen und weigerte sich, sich mit den Studenten in den 48 Stunden des Streiks zu treffen. Daraufhin folgten die Studenten ihrem Wahlbeschluss und verlängerten den Streik auf unbegrenzte Zeit.</p><h3> </h3><h3><strong>Der Unbegrenzte Streik beginnt</strong></h3><p><strong>¡Que vivan <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="fa96ba89">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> estudiantes! Konzert </strong></p><p>Viele bekannte, zumeist Puerto Ricanische Musiker solidarisierten sich mit den Studenten und organisierten für den 28. April ein ganztägiges Konzert, um ihre Unterstützung zu demonstrieren<a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-6">[4]</a><u>. </u>Auf dieses erste Konzert, was auf dem Campus Rio Piedras stattfand, folgten weitere „Que vivan“ Konzerte auf den Campus in Mayagüez, Cayey, Humacao und Bayamon.</p><p><strong>Professoren und Angestellte der Unversität streiken mit</strong></p><p>Am 29. April solidarisierten sich die Mitglieder der „Asociación Puertorriqueña de Profesores Universitarios“ mit den Studenten, indem sie ihre Arbeit unterbrachen und das Universitätsgebäude demonstrativ verließen. Die Gewerkschaft der Dozenten, die Gewerkschaft Hermandad (HEEND) für Verwaltungsangestellte und das Syndikat für Arbeiter und Pflegekräfte der Universität riefen ihre Mitglieder auf, sich mit den Studenten zu solidarisieren, sich zu den Streikenden zu stellen, um den gewaltbereiten Einsatzkräften der Polizei entgegenzutreten. Die Dozenten des Campus Mayaguez begannen Anfang Mai zu streiken, nachdem der Rektor des Campus, Jorge Rivera Santos, sich unwillig zeigte, sowohl mit den Studenten als auch mit den Professoren zu diskutieren. Kurz zuvor schon streikten die Professoren des Campus Cayeya 72 Stunden lang, um ihre Unterstützung für die Studenten auszudrücken. Am 3. Mai beschlossen Professoren, Universitätsangestellte und Studenten in einer Generalversammlung des Campus Cayeya, den Streik auf unbegrenzte Zeit auszuweiten.</p><p>Am Freitag den 21. Mai versammelten sich zum ersten Mal in der Geschichte der UPR Mitarbeiter aller Fakultäten in einer Generalversammlung. Ungefähr 1,100 Fakultätsmitglieder waren anwesend. In dieser Versammlung beschlossen die Fakultätsmitglieder, den Streik der Studenten zu unterstützen. Sie beschlossen auch, den Präsidenten der UPR und den Präsidenten des Verwaltungsrats um ihren Rücktritt zu bitten. Die Fakultätsmitglieder appellierten außerdem an die Regierung, die Einsatztruppen der Polizei von dem Universitätsgelände abzuziehen.</p><p><strong>Internationale Unterstützung </strong></p><p>Studenten der Universität Bern streikten 48 Stunden lang aus Solidarität mit den UPR Studenten. Studenten der UNAM (<em>Universidad Nacional Autónoma de México) veröffentlichten Statements, die den Streik unterstützten. Studenten der Dominikanischen Republik publizierten ebenfalls Solidaritätsstatements</em>.<a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-7">[5]</a> Aus Barcelona kam Unterstützung<a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-8">[6]</a>, wie auch aus São Paulo<a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-9">[7]</a> und von der City University of New York.<a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-11">[8]</a></p><p> </p><h3><strong>Die Rio Piedras Generalversammlung vom 13. Mai </strong></h3><p>Am 13. Mai versammelten sich, in einer außerordentlichen Versammlung, mehr als 2,800 Studenten des Campus Rio Piedras im Convention Center Puerto Ricos und beschlossen mit großer Mehrheit, den Streik fortzusetzen, da noch keine Einigungen mit der Universitätsleitung erzielt werden konnten. Die Studenten sprachen ein Vertrauensvotum aus für das “Nationale Verhandlungskomitee”, welches sich aus jeweils einem Vertreter von jedem der 11 Campus zusammensetzte. Das Verhandlungskomitee rief die Universitätsleitung umgehend zur Wiederaufnahme des Dialogs auf, woraufhin Ana R. Guadalupe mit einer Schließung der gesamten Universität drohte. Außerdem verlangte die Studentenvertretung den Rücktritt von Ygri Rivera, der Vorsitzenden des Verwaltungsrats der UPR und den Rücktritt vom Universitätspräsidenten Jose Ramon de la Torre sowie von Ana R. Guadalupe.</p><p><strong>Die Blockade der Polizei</strong></p><p>Am 14. Mai umstellten über 3,000 Einsatzkräfte der Polizei den Campus Río Piedras. Sie blockierten den Zugang zum Campus und hielten Eltern oder Helfer davon ab, die Studenten mit Essen und Wasser zu versorgen. Manche Eltern wurden dabei gar verhaftet. Studenten, die auf dem Campus in Wohnheimen wohnten wurde befohlen, ihre Wohnungen zu verlassen und ihre Schlüssel abzugeben. Erst nach ein paar Tagen wurde die Blockade gelockert, die Studenten konnte mit Wasser und Essen versorgt werden. Am 19. Mai wurde die meisten Einsatzgruppen schließlich abgezogen.</p><p> </p><h3><strong>Der Streik in den Medien</strong></h3><p><strong>Rojogallito.com - Prensa Desde Adentro (Presse ‘von drinnen’) </strong></p><p>Im Zuge des Streiks wurde auch gleich am Anfang das Pressebüro der UPR seitens der Universitätsleitung geschlossen. Da es keine Berichterstattung aus dem „Inneren“ der Universität und des Protests geben konnte, nahmen die Studenten dies selbst in die Hand. Aura Colon, mit einigen anderen Studenten der Rechtsfakultät und anderen Fakultäten, richtete einen Blog ein und übernahm so die Pressearbeit der Protestbewegung. Die „Desde Adentro press corp.” arbeitet seitdem mit allen relevanten Medien Puerto Ricos zusammen und produziert neben Text- auch Videoformate (<a href="http://www.ustream.tv/channel/betances-tv" title="http://www.ustream.tv/channel/betances-tv">Konzertvideo vom Ende des 24 Stunden Streiks am 19/5/2010</a>).</p><p><strong>Radio Huelga </strong></p><p>Eine andere Gruppe von Studenten richtete eine eigene Radiostation ein, um unmittelbar über Protestvorgänge berichten zu können. „Radio Huelga“ ging am 2. Mai um 16.00 auf Sendung. Es werden sogar eigene Soap Operas über die Radiostation gesendet, viele junge DJs finden hier eine Plattform. Einen livestream gibt es hier: <a href="http://www.ustream.tv/channel/radiohuelga" title="http://www.ustream.tv/channel/radiohuelga">http://www.ustream.tv/channel/radiohuelga</a> sowie <a href="http://radiohuelga.com/wordpress/" title="http://radiohuelga.com/wordpress/">http://radiohuelga.com/wordpress/</a><u>. </u>Radio Huelga wird auch über AM Wellen übertragen (1650AM), es ist ihnen jedoch nur eine kleinen Reichweite von einer Quadratmeile gestattet.</p><p><strong>Werbeoffensiven und öffentliche Wirkung</strong></p><p>Die Universitätsleitung leistete sich eine aufwendige Werbekampagne, um die Streikenden in den Augen der Öffentlichkeit zu diskreditieren. In Zeitungen, Radio und sogar im Fernsehen rief die UPR die Studenten auf, den Streik einzustellen oder übte Druck mit der Drohung aus, das laufende Semester abzubrechen. Die populistische Keule wurde auch hervorgeholt, die Puerto Ricaner wurden aufgerufen, keine „ausländischen und fremden Elemente“ die Geschicke der UPR bestimmen zu lassen. Die Werbekampagnen intensivierten sich, die Protestanführer wurden als ehrlose Lügner denunziert. Man fand eine Handvoll Studenten, die vor Fernsehkameras ein Ende des Protests forderten, da sie andernfalls ihr Studium nicht abschließen könnten, keine Jobs finden würden usw. Den Schätzungen einiger Ökonomen zufolge liegt der eigentliche Werbeetat der UPR bei ungefähr $5,200 Dollar – für die Werbeoffensive wurden allerdings knapp eine Million Dollar locker gemacht. <a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_note-13">[9]</a></p><p>Das Nationale Verhandlungskomittee der Studenten versuchte, sich der Medienoffensive entgegenzusetzen und drehte einen Clip, der alle Studenten und Puerto Ricaner aufforderte, sich mit ihnen zu solidarisieren. Die Regierungspartei mutmaßte, dass die Studenten Zuwendungen von oppositionellen Kräften erhielten, zum Beispiel von der sozialdemokratischen PPD ("Partido Popular Democratico").</p><p> </p><h3><strong>Der Streik vor Gericht</strong></h3><p>Am 21 April wurde der Vorsitzende der studentischen Generalversammlung, Gabriel Laborde, von der Universitätsleitung angezeigt. Laborde hatte sich den Forderungen, die Tore des Campus Rio Piedras zu öffnen, wiedersetzt. Nach der Versammlung vom 13 Mai, als die Generalversammlung vom Rio Piedras die Fortsetzung des Streiks beschloss, wurde das gesamte Nationale Verhandlungskomittee sowie die Leitung der studentischen Generalversammlung von der UPR Leitung vors Gericht gezerrt. Die Angeklagten waren:</p><p>Gabriel Laborde, Präsident; Santiago Velázquez, Vizepräsident; Verónica Guzmán, Vorstandssekretärin, María Carruthers, Sekretärin; Arturo Ríos, Universitätgremium; Rashid Marcano, Verwaltungsgremium; Giovanni Roberto, Verhandlungskomitee; Waldemiro Vélez, Verhandlungskomitee, René Vargas, Universitätsgremium; Adriana Mulero, Verhandlungskomitee; Jean Carlo Bonilla, Verhandlungskomitee, David Carrasquillo, Verhandlungskomitee; Aníbal Núñez, Verhandlungskomitee; José García, Verhandlungskomitee; Míriam Ruiz, Verhandlungskomitee; Rosaly Motta, Vertreterin Geisteswissenschaft; Aníbal González, Pressesekretärin; Adriana Berríos, Öffentlichkeitsarbeit. Drei weitere Studenten wurden ebenfalls als Streikführer angeklagt. Die Anklage verlangte ein Ende des Streiks und Entschädigung für die durch den Streik entstandenen Kosten (welche von der Universitätsleitung auf $150 Millionen Dollar beziffert wurden).</p><p>Nach wochenlangem Verfahren entschied der Richter, Schlichtungsgespräche zwischen den Streitparteien anzusetzen. Der pensionierte Richter Pedro López Oliver diente als Schlichter zwischen den Parteien. Die Studenten wurden von ihrem Nationalen Verhandlungskomitee vertreten, die Universität vom Verwaltungsrat. In der Nacht vom 16 Juni 2010 schließlich entschied sich der Verwaltungsrat, mit neun zu vier Stimmen, zugunsten einer Einigung mit den Studenten. Den Forderungen der Studenten wurde stattgegeben. Unter den vieren, die eine Einigung verweigerten war auch Ygrí Rivera, die Vorsitzende des Verwaltungsrats.</p><h3><strong>Nationalversammlung</strong></h3><p>Das Nationale Verhandlungskommitee berief eine landesweite Studentenversammlung ein, welche am 21. Juni 2010 stattfand. Diese nationale Versammlung sollte darüber entscheiden, ob der im gerichtlichen Streitschlichtungsverfahren erzielten Einigung zuzustimmen sei oder ob sie von der Studenten abgelehnt werden sollte. Seit der Gerichtsverhandlung hatten bereits acht der 11 UPR Campus den Einigungen zugestimmt. So nahmen auch nur noch 2,900 Studenten von insgesamt 60,000 an der Nationalversammlung teil. Die Nationalversammlung sprach sich einstimmig für die gerichtlich erzielte Einigung zwischen den Studentenvertretern und der Universitätsleitung aus.</p><p> </p><p><strong>References </strong></p><ol><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-0">↑</a> La Nación.pr. "Exigencias estudiantiles en la Huelga de 2010 (Preliminar) « Periódico Digital Puertorriqueño La Nación". Lanacionpr.wordpress.com. <a href="http://lanacionpr.wordpress.com/2010/04/24/exigencias-estudiantado/" title="http://lanacionpr.wordpress.com/2010/04/24/exigencias-estudiantado/">http://lanacionpr.wordpress.com/2010/04/24/exigencias-estudiantado/</a> (2010-06-18). </li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-1">↑</a> "La Universidad Hoy". Hoy.upr.edu. <a href="http://hoy.upr.edu/" title="http://hoy.upr.edu/">http://hoy.upr.edu/</a> (2010-06-18). [DEAD LINK]</li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-2">↑</a> <a href="http://acweb.upr.edu/vpit/about_folder/biomedical.pdf" title="http://acweb.upr.edu/vpit/about_folder/biomedical.pdf">http://acweb.upr.edu/vpit/about_folder/biomedical.pdf</a></li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-5">↑</a> "RenÃ© PÃ©rez en la huelga de la UPR - El Nuevo Día". Elnuevodia.com. <a href="http://www.elnuevodia.com/videos-reneperezenlahuelgadelaupr-155350.html" title="http://www.elnuevodia.com/videos-reneperezenlahuelgadelaupr-155350.html">http://www.elnuevodia.com/videos-reneperezenlahuelgadelaupr-155350.html</a> [BROKEN LINK] und <a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-6">↑</a> <a href="http://www.elnuevodia.com/videos-concierto%C3%82%C2%A1quevivanlosestudiantes%21-155283.html" title="http://www.elnuevodia.com/videos-conciertoÂ¡quevivanlosestudiantes!-155283.html">http://www.elnuevodia.com/videos-conciertoÂ¡quevivanlosestudiantes!-155283.html</a> [BROKEN LINK]  (2010-06-18). </li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-7">↑</a> "Suspenden investigaciones en Recinto de Río Piedras". Elnuevodia.com. <a href="http://www.elnuevodia.com/suspendeninvestigacionesenrecintoderiopiedras-698530.html" title="http://www.elnuevodia.com/suspendeninvestigacionesenrecintoderiopiedras-698530.html">http://www.elnuevodia.com/suspendeninvestigacionesenrecintoderiopiedras-698530.html</a> (2010-06-18). </li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-8">↑</a> "Desde Adentro: Apoyo internacional a la Huelga en la UPR". Rojogallito.blogspot.com. <a href="http://rojogallito.blogspot.com/2010/05/apoyo-internacional-la-huelga-en-la-upr.html" title="http://rojogallito.blogspot.com/2010/05/apoyo-internacional-la-huelga-en-la-upr.html">http://rojogallito.blogspot.com/2010/05/apoyo-internacional-la-huelga-en-la-upr.html</a>. (2010-06-18). </li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-9">↑</a> "Apoyo a la huelga desde Brasil... : CMI-PR". Pr.indymedia.org.( 2010-05-09). <a href="http://pr.indymedia.org/news/2010/05/42914.php" title="http://pr.indymedia.org/news/2010/05/42914.php">http://pr.indymedia.org/news/2010/05/42914.php</a>. (2010-06-18). </li><li><a href="http://participedia.net/en/cases/2010-university-puerto-rico-strike#cite_ref-10">↑</a> "Carta a estudiantes de la UPR desde República Dominicana : CMI-PR". Pr.indymedia.org (2010-05-04). <a href="http://pr.indymedia.org/news/2010/05/42815.php" title="http://pr.indymedia.org/news/2010/05/42815.php">http://pr.indymedia.org/news/2010/05/42815.php</a>.<br />"Declaración en solidaridad con la huelga estudiantil : CMI-PR". Pr.indymedia.org. <a href="http://pr.indymedia.org/news/2010/04/42678.php" title="http://pr.indymedia.org/news/2010/04/42678.php">http://pr.indymedia.org/news/2010/04/42678.php</a>. (2010-06-18). </li><li><a href="http://occupyca.wordpress.com/2010/06/08/upr-strike-deadline-today/">http://occupyca.wordpress.com/2010/06/08/upr-strike-deadline-today/</a></li></ol></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A40">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1633">Education Policy</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A774">education reform</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1475">National Budget Allocation</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">University of Puerto Rico</span>
+                      <span class="locality" itemprop="addressLocality">
+      Río Piedras       </span>
+              ,                     <span class="region" itemprop="addressRegion">PR</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+R%C3%ADo+Piedras+%2C+PR%2C+%2C+us">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Puerto Rico        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A110">Protest</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, April 21, 2010 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, June 21, 2010 - 15:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A119">Students</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/university-student-government">University Student Government</a></div><div class="field-item odd"><a href="/en/methods/strike">Strike</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A58">Listen/watch as spectator</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A137">Formal Testimony</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A141">Organized Demonstrations</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A148">Majoritarian Voting (i.e. 50%+1)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A156">Other</a></div></div></div><div class="field field-name-field-targeted-audience-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Targeted Audience:&nbsp;</div><div class="field-items"><div class="field-item even">University of Puerto Rico Administration</div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A26">Academic Institution</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-org-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">UPR-RP Student Council</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A26">Academic Institution</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A37">Individual</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A164">Union</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-support-entity-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">Asociación Puertorriqueña de Profesores Universitarios</div><div class="field-item odd">Hermandad de Empleados Externos no Docentes</div><div class="field-item even">Mayaguez Campus</div><div class="field-item odd">University of Bern</div><div class="field-item even">Universitad Autónoma de Méximo</div><div class="field-item odd">University of Barcelona</div><div class="field-item even">Professors&#039; Association of the Pontifical Catholic University of São Paulo</div><div class="field-item odd">City University New York</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-4a35dbd271dab24cd1226e554ae71abd">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/792">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

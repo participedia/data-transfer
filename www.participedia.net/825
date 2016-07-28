@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/825" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/825" />
+  <title>Australiens erstes Bürgerparlament (Canberra, Australien) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"tI6k5j4M-x6jllGkoHDxaSmkWZC_AYtnviltXOog1Xo","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"825"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/825?destination=node\/825":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-825 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/australias-first-citizens-parliament-canberra-australia" class="language-link" xml:lang="en" title="Australia&#039;s First Citizens&#039; Parliament (Canberra, Australia)">English</a></li>
+<li class="de last"><a href="/de/faelle/australiens-erstes-b-rgerparlament-canberra-australien" class="language-link" xml:lang="de" title="Australiens erstes Bürgerparlament (Canberra, Australien)">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/825?destination=node/825" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-aVpmM0PwTjItlXP2srLxquYQNkQLn4_HC5h3dsG9Quk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Australiens erstes Bürgerparlament (Canberra, Australien)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Australiens erstes Bürgerparlament (Canberra, Australien)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Wed, 04/03/2013 - 01:12</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 05/23/2016 - 08:55</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Australiens erstes B&amp;Atilde;&amp;frac14;rgerparlament (Canberra, Australien) - Participedia" addthis:url="http://participedia.net/en/node/825"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/290px-Canberra_Montage.png?itok=YrCaBmm4" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Originalversion abrufbar unter <a href="http://participedia.net/en/cases/australias-first-citizens-parliament-canberra-australia">http://participedia.net/en/cases/australias-first-citizens-parliament-ca...</a></em></p><p><em>Note: this is a German translation of an English case study available at <a href="http://participedia.net/en/cases/australias-first-citizens-parliament-canberra-australia">http://participedia.net/en/cases/australias-first-citizens-parliament-ca...</a></em></p><h3>Zusammenfassung</h3><p>Australiens erstes Bürgerparlament (auch Australiens Bürgerparlament oder ACP genannt) ist eine groß angelegte dreitägige Deliberation, die in Canberra zwischen willkürlich ausgewählten australischen Bürgern im Februar 2009 stattfand und von der newDemocracy Foundation organisiert wurde. Die Bürger wurden gebeten, sich der Frage zu stellen, wie die australische Regierung verbessert werden könnte um den Bürgern besser dienen zu können. Ihre Ergebnisse, 13 Vorschläge, wurden dem australischen Parlament präsentiert. Die Veranstaltung wurde minutiös aufgenommen und bietet eine wichtige Quelle für zukünftige Forschung.</p><h3>Problemstellung und Zweck</h3><p>Das australische Bürgerparlament hatte zwei wichtige Ziele: Zum einen sollten die Ergebnisse des deliberativen Prozesses in Form einer Liste mit potenziellen Reformen an einen Repräsentanten des Premierministers überreicht werden, zum anderen hatte die Veranstaltung die Funktion, Daten für die vier fördernden akademischen Institutionen zu generieren. Diese zwei breiten Zielsetzungen können in viele, spezifischere Ziele herunter gebrochen werden, von denen jedes in eine von drei Kategorien eingeordnet werden kann: Ziele, die zu einer Reform des Zugriffs und der Politikgestaltung der australischen Regierung führen, Ziele, die zu weiteren Daten für die Forschung im Bereich deliberativer Demokratie führen und Ziele, die das Agenda-Setting und weitere administrative Voraussetzungen, die einer solch komplexen Veranstaltung inhärent sind, erfüllen.  </p><p>Die vorbereitende Phase des ACP, sechs Welt-Cafés, die 2008 abgehalten worden sind, sollte dafür dienen, die wichtigsten Verantwortlichkeiten der Hauptveranstaltung zu klären. Diese Welt-Cafés bestanden aus einer Gruppe von fünf bis acht Personen, denen eine Reihe von Fragen gestellt wurde, die von Gruppe zu Gruppe rotierten und reflektiert und diskutiert wurden. Schließlich wurde die Frage „Wie kann Australiens politisches System gestärkt werden um uns besser zu dienen?“ dazu erklärt am besten zu der Veranstaltung zu passen. In den darauffolgenden Phasen sollte diese Frage beantwortet werden indem Antworten zu vorher ausgewählten Fragen, korrespondierend mit oben genannter Frage, generiert wurden. Diese Liste von Fragen wurde weiterhin durch den unten beschriebenen deliberativen Prozess eingeschränkt. Dieser erste Zweck des ACP war atypisch, da er nicht auf ein einzelnes, bestimmtes soziales Problem bezogen war. Transkriptionen der Diskussionen während des formellen Teils des ACP belegen jedoch, dass Themen zu Migranten und Ureinwohnern, zum Zugriff auf politische Entscheidungsträger, zur Qualität von Bildung und zu Wahlreformen von signifikanter Bedeutung unter den 150 Diskutierenden waren. </p><p>Neben dem deliberativen Ziel der Diskussion, Reflektion und Entscheidung stand das Ziel der Akkumulation von Daten, die für zukünftige Forschungspublikationen genutzt werden konnten. Die Betonung auf der Ansammlung empirischer Daten war durch fehlende Dokumentation von solch groß angelegten deliberativen Prozessen begründet. Es überrascht wenig, dass die Veranstaltung von Akademikern der Australian National University, der University of Sydney, der Curtin University of Technology und der NewDemocracy Foundation initiiert und ermöglicht wurde. Die Daten, die während des Prozesses der ACP erfasst wurden, werden, laut den Co-Vorsitzenden Fred Chaney und Lowitja O’Donoghue, einen „wichtigen Beitrag zur Praxis und Theorie deliberativer Demokratie machen“. Neben der einmaligen Gelegenheit eine solch große Veranstaltung zu untersuchen, waren die Forscher auch daran interessiert, die Effekte der Kombination von online und face-to-face Diskussionen auf den deliberativen Prozess zu erfassen.</p><p>Weiterhin sollte das Australische Bürgerparlament zu einer verstärkten öffentlichen Partizipation in politischen Entscheidungsprozessen beitragen indem es ein erfolgreiches Beispiel einer formalisierten Deliberation liefert und dabei gewählten Politikern demonstriert, dass ihre Wählerschaft sich mobilisieren kann und wird um Politikfindung zu beeinflussen und die Rolle des ‚normalen Bürgers‘ zu stärken.</p><p>Die spezifischen Ziele jeder Phase, wovon jedes du den zwei Gesamtzielen der Unternehmung beiträgt, können in Appendix Zwei gefunden werden <a href="http://www.newdemocracy.com.au/docs/newDemocracy_Citizens_Parliament_Handbook_Appendices.pdf" title="http://newdemocracy.com.au/ndf/docs/cp_project/newDemocracy_Citizens_Parliament_Handbook_Appendices.pdf"><u>[1]</u></a>.</p><h3>Geschichte</h3><p>Theoretiker deliberativer Demokratie haben das Fehlen demokratischer Legitimität in repräsentativer Politik festgestellt – es reicht eben nicht lediglich zur Wahl zu gehen. Eine moderne Demokratie sollte nicht nur durch Wahlen zur Verantwortung gezogen werden können, sondern sollte die gesamte Öffentlichkeit an der Entscheidungsfindung teilhaben lassen. Australien hat in dieser Hinsicht Fortschritte gemacht. Die unten genannten Veranstaltungen dienen als Vorreiter sowohl im Hinblick auf die Methode als auch auf in Bezug auf die Idee, die hinter dem australischen Bürgerparlament steckt.</p><p><em><u>West-Australiens Gipfeltreffen zu Lastzügen</u></em></p><p>Von Mai bis Juni 2001, beteiligten sich Gemeindemitglieder aus Perth, Katanning, Kalgoorie und Geraldton and Konsens Foren zum Thema Lastzüge mit Überlänge. Obwohl das Thema in vielerlei Hinsicht kontrovers war, war jedes Forum – in denen eine Gruppe von 100 Teilnehmern in kleinere Gruppen eingeteilt wurde um Diskussionen zu erleichtern – in der Lage, eine Liste mit Empfehlungen abzugeben, die alle innerhalb von zwei Jahren nach dem Forum in Kraft gesetzt wurden. Wie im ACP wurde in jeder Gruppe auf eine proportionale Repräsentation der Teilnehmer geachtet.</p><p><a href="http://participedia.net/en/cases/dialogue-city"><u><em>Dialog mit der Stadt</em></u></a></p><p>Im Jahr 2003 führte die Stadt Perth das „<a href="http://participedia.net/en/cases/dialogue-city">Dialog mit der Stadt</a>“ Programm ein. Das erklärte Ziel war es, Perth bis 2030 zu der „lebenswertesten“ Stadt auf dem Planeten zu machen. Der Dialog war eher ein Prozess als eine einzelne Veranstaltung – ein Merkmal, das es mit dem ACP teilt. Der Dialog benutzte Umfragen, Kommunikationsmedien und Bürger treffen – im Umfang von 100 bis 1,100 Teilnehmer – und suchte damit aktiv bei der Stadtplanung nach Beiträgen von ‚normalen Bürgern‘. Dieser Punkt und die Zugänglichkeit und demographisch akkurate Repräsentation, waren Charakteristika, die der Dialog mit dem ACP teilt.</p><p><u><em>Queenslands Jugend-Jury</em></u></p><p>Im Februar 2006 diskutierten zwölf junge Erwachsene im Alter von 16 bis 21 Jahren drei Tage lang über die Fragen „Wie kann Demokratie besser jungen Menschen in Queensland dienen?“. Experten wurden einberufen um Fakten zu präsentieren und ein Moderator trieb die Diskussionen zwischen den zehn zufällig ausgewählten Jugendlichen an. Zwei Plätze wurden speziell für jeweils eine uransaessige Person und eine Person mit Behinderung reserviert. Die Veranstaltung wurde von dem Parlament in Queensland gesponsert und die Ergebnisse wurden in dessen Sitzung im April 2006 präsentiert. Der explizite Versuch der Jury, eine unterrepräsentierte Gruppe zum Teil der politischen Entscheidungsfindung zu machen (obwohl es nicht wirklich Queenslands Demographie entspricht), ist ebenfalls ein Merkmal des ACP.</p><p><em><u>Der NSW Klima-Gipfel</u></em></p><p>Im Februar 2009 trafen sich 80 Bürger aus New South Wales für zwei Tage um über den Klimawandel zu diskutieren und Empfehlungen zu dem Thema abzugeben. Wie das ACP und viele Beispiele deliberativer Demokratie wurden für den Gipfel Menschen entsprechend NSW’s Demographie ausgewählt, Experten präsentierten technische Details und generierten schließlich – durch Gremiumssitzungen und Deliberationen in kleinen Gruppen – eine Liste von Umwelt-Empfehlungen für eine Vielzahl von Bereichen.</p><h3>Auswahl der Teilnehmer</h3><p>Die ersten Welt Cafés zur Themensetzung wurden in Sydney und Melbourne von der newDemocracy Foundation veranstaltet. Obwohl auch sie strukturiert waren, waren diese Veranstaltungen in ihrem Auswahlprozess weniger formell als die darauffolgenden Phasen. Die Teilnehmer waren Freiwillige, nichtsdestotrotz bleiben die Prinzipien deliberativer Demokratie in den Welt-Cafés vorhanden. Vielfalt, gleiche Repräsentation und Möglichkeiten sind Prinzipien, die dieses Programm leiten.</p><p>Nachdem das Thema entwickelt worden war, verschickten die drei Universitäten und newDemocracy 9,653 Einladungen zu zufällig ausgewählten Menschen aus der Wählerschaft. Von denen wurde 8000 erfolgreich zugestellt und 2,763 Menschen zeigten Interesse an der Veranstaltung teilzunehmen. Alle Menschen, die Interesse gezeigt hatten, wurden zu dem Online-Teil des Prozesses eingeladen.</p><p>Die Veranstalter verpflichteten sich in der Veranstaltung eine Person von jedem der 150 australischen Bundesdistrikte einzubinden. Neben dieser Einschränkung sollte unter diesen 150 Personen auch Australiens demographische Faktoren wie Alter, Geschlecht und Bildungsgrad berücksichtigt werden. Zusätzlich wurden drei Plätze für Aborigines und Torres Strait Islander Einwohner reserviert.</p><p>Die 150 Teilnehmer wurden nach einer geschichteten Zufallsstichprobe ausgewählt. Weil die Wahrscheinlichkeit, zufällig einen Mikrokosmos von Australiens Einwohnern auszuwählen, gering war, teilten die Wissenschaftler die potenziellen Teilnehmer nach ihren Distrikten und den demographischen Kriterien in Gruppen ein. Mit Hilfe von Volkszählungsdaten wurden Quoten für diese Kategorien festgelegt. Zum ersten wurden drei Teilnehmer der zwei indigenen Populationen  anhand des Zufallsprinzips und unabhängig des jeweiligen Bezirks ausgewählt. Danach wurden die Teilnehmer der verbliebenden 147 Bezirke nach demselben Prinzip ausgewählt. Nachdem die Quote einer Kategorie erfüllt war, wurden alle anderen Teilnehmer, die in ebenjene Kategorie passten, ausgesiebt. Um eine Repräsentation aller 150 Bezirke zu garantieren, wurden diejenigen mit den wenigsten zur Verfügung stehenden Kandidaten immer von dem nächsten ausgewählt.</p><p>Dieser Prozess wurde von einem Computer bearbeitet. Dabei wurden Toleranzzonen, ober und unterhalb der Quota, für jede der drei Kategorien hinzugefügt, die nach jedem Versuch, die angegebenen Quota zu erfüllen, gelockert wurden. Schließlich wurden Toleranzbereiche für das Geschlecht (+5%), für das Alter (+10%) und den Bildungsgrad (+25%) festgelegt.</p><p>Leider haben 25 der ausgewählten Individuen ihre Teilnahme nicht bestätigt, wobei einer von ihnen indigen war. Wegen der geringen Antwortrate dieser Kategorie, wurde ein Kandidat desselben Geschlechts und eines ähnlichen Alters aus dieser Gruppe zufällig ausgewählt. Weiterhin wurden die restlichen 25 Personen, die abgesagt hatten, ebenfalls durch eine Zufallsauswahl ersetzt, die den Charakteristika und Bezirken der ursprünglichen Gruppe entsprach.</p><h3>Deliberation, Entscheidung und öffentliche Interaktion</h3><p><u><em>Deliberation</em></u></p><p>Es gab drei Phasen der Deliberation für das Australische Bürgerparlament. Die ersten beiden Phasen fanden vor dem formellen Treffen in Canberra statt. Sie beinhalteten einen Tag mit regionalen Treffen und Online-Diskussionen.</p><p>Um den Bürgern die Möglichkeit zu geben, miteinander und dem Prozess der Deliberation warm zu werden, setzten die ACP Veranstalter regionale Treffen an, in denen alle Teilnehmer die zentrale Frage des Parlaments –wie die Australische Regierung den Bürgern besser dienen kann – behandeln sollten. Durch das Teilen von Erfahrungen, Wissen und Ideen sowie durch die Beantwortung von offenen Fragen, legten die ersten Deliberationen  den Grundstein für die Entwicklung von Vorschlägen.</p><p>Um diesen Prozess zu vereinfachen, halfen die Moderaten den Teilnehmern ihre Ideen in vier Kategorien einzuteilen: Ich akzeptiere diese Idee und gehe über zum nächsten Punkt, diese Idee interessiert mich und ich möchte mehr darüber erfahren, ich lehne diese Idee nicht ab, aber ich bin skeptisch und, schließlich, ich lehne diese Idee ab.</p><p>Ein Teilnehmer sagte über das regionale Treffen: “Es war etwas völlig neues für mich. Ich habe es genossen, zuzuhören und zu der Diskussion beizutragen.“</p><p>Die zweite Phase, die Online-Diskussionen, fand nach den regionalen Treffen statt und endete kurz vor dem Treffen in Canberra. Diese Phase war eigentlich für 150 zufällig ausgewählte Teilnehmer bestimmt gewesen, die Organisatoren weiteten die Teilnahme jedoch auf die 2,763 Personen aus, die ihr Interesse an der Teilnahme des Bürgerparlaments bekundet hatten. Die Teilnehmer arbeiteten in Gruppen mit höchstens 25 Mitgliedern und erstellten 58 potenzielle Vorschläge, von denen 11 vervollständigt wurden um sie später als Ausgangspunkt für die Deliberation in Canberra nutzen zu können. Insgesamt wurden 1,300 Kommentare und 800 Antworten abgegeben ohne dass es „einen Vorfall von Missbrauch oder Streit“ gegeben hat.</p><p>Die Deliberationen ‘von Angesicht zu Angesicht’ dauerten vier Tage. Jeder Tag wurde einer speziellen Funktion der Deliberation gewidmet. Dabei wurden Netzwerk-Computer benutzt um die Ideen der Gruppen zu projizieren. Am ersten Tag, der weniger als vier Stunden dauerte, wurden alle 150 Teilnehmer zusammen gebraucht um zu diskutieren, was sie sich von dem Parlament erhofften. Der zweite Tag, der fast acht Stunden dauerte, sollte die Perspektiven der Teilnehmer weiten. Dies beinhaltete kleine Gruppen-Dialoge und Diskussionen. So wurden weitere Vorschläge entwickelt. Am dritten Tag, ca. neun Stunden lang, sollten die 51 Vorschläge, die in den vorherigen zwei Tagen entwickelt worden sind, eingegrenzt werden. Dabei wurde das Model des ‚Geld Ausgebens‘ benutzt, bei dem die Teilnehmer mit imaginären Geld für die Vorschläge abstimmen sollten. Dabei reduzierte die Gruppe die Anzahl der Vorschläge auf elf. Am vierten Tag wurden schließlich die finalen Empfehlungen vorgestellt.</p><p>Zusammenfassend bemerkte Lyn Carson, Privatdozentin für Angewandte Politik an der Universität Sydney: „Es war unbestreitbar, dass diese Individuen die Erfahrung einer Aktivität gemacht haben, die ihre Rechte und Möglichkeiten als Bürger anerkennt. Es gab ein greifbares Gefühl der Ermächtigung und des lohnenswerten Dialogs. Am wichtigsten jedoch ist, dass es starke Gemeinsamkeiten gab in Bezug auf die Probleme, die die Menschen als besonders wichtig identifizierten.“</p><p><u><em>Entscheidungen</em></u></p><p>Nach der Deliberation hatte das Bürgerparlament 13 Vorschläge entwickelt, um die Regierung zu stärken in dem sie besser dem Volk dient:</p><ol><li>Verringerung von Doppelarbeit zwischen den verschiedenen Regierungsebenen durch die Harmonisierung der Gesetze über Ländergrenzen hinweg.</li><li>Bürger durch Bildung dazu befähigen sich an Politik zu beteiligen.</li><li>Verantwortung in Bezug auf politische Versprechungen und ein Verfahren zur Wiedergutmachung.</li><li>Die Rolle der Bürger in der Politik durch Engagement für die Gemeinschaft stärken.</li><li>Änderung des Wahlsystems in Bezug auf optionale Vorzugsstimmrechte.</li><li>Engagement der Jugend in der Politik.</li><li>Anerkennung der Aborigines und Torres Strait Island Völker in der Verfassung.</li><li>Gesetz zu Rechten und Pflichten.</li><li>Erweiterung und Fixierung des Begriffs der Regierung.</li><li>Offene und zugängliche Regierung.</li><li>Beseitigung oder Verringerung staatlicher Ebenen innerhalb der Regierung.</li><li>Wiederbelebung von politischen Debatten und Referenden.</li><li>Von Bürgern initiierte Referenden.</li></ol><p>Die Vorschläge wurden dem Parlamentarischen Sekretär der Premierministerin, Anthony Byrne, von einigen Teilnehmern präsentiert.</p><p><u><em>Öffentliche Interaktion</em></u></p><p>Von den 8,000 Einladungen, die an australische Bürger geschickt worden waren um an dem ACP teilzunehmen, antworteten nur 2,763, oder ca. 34,5%. In anderen Worten: aktives Interesse an der Transformation von Demokratie scheint bei den meisten nur schwerlich vorhanden gewesen zu sein. Der Journalist John Warhust, The Canberra Times, schrieb: „Der Großteil der Bevölkerung ist wahrscheinlich nicht interessiert in mehr demokratische Beteiligung und diese Entwicklungen berühren sie nicht wirklich. Um sie wirklich zu erreichen bräuchte man nicht bloß ein Bürgerparlament mit 150 Teilnehmern, sondern eines, das oft wiederholt und in jedem Bundesstaat abgehalten wird. Aber auch das würde nur an der Oberfläche von dem kratzen, was unsere Demokratie braucht um neu belebt zu werden.“ Demnach werden die Veranstalter, obwohl sie erfolgreich mit dem Konzept des ACP waren, mehr Arbeit investieren müssen um weite Teile der Öffentlichkeit zu aktivieren.</p><h3>Einfluss, Ergebnisse und Effekte</h3><p>Australiens erstes Bürgerparlament war die erste groß angelegte deliberative Veranstaltung, bei der die Gespräche am Tisch, im Hinterzimmer und während der Treffen mit den Moderatoren aufgezeichnet wurden. Diese Aufnahmen wurden später transkribiert.  </p><p>Obwohl die Teilnehmer nicht dazu angehalten worden waren an weiteren Aktionen teilzunehmen, wurde aus einigen trotzdem engagierte Bürger. Sie versuchten zum Beispiel einige Vorschläge in ihren Gemeinden umzusetzen, hielten Reden in Schulen und Gemeindezentren und arbeiteten zusammen mit Tageszeitungen an Artikeln über die Ergebnisse des ACP.</p><p>Der Einfluss der Regierung im ACP war ziemlich gering. Am ersten Tag hielt Senator John Faulkner eine Rede und gab zu verstehen, dass die Regierung die Vorschläge unter die Lupe nehmen würde. Während die Ergebnisse der Regierung vorgestellt wurden, war der Premierminister nicht anwesend. Stattdessen schickte er einen Assistenten um die Ergebnisse an seiner statt anzunehmen. Insgesamt hatten die Veranstalter das Gefühl „einer enttäuschenden Rückmeldung durch die Regierung, ungeachtet der Bemühungen der Organisatoren die Regierung mit einzubeziehen und ihr Engagement in Bezug auf die Resultate zu gewinnen.“</p><p>Am 24. April 2009 hielt einer der Hauptorganisatoren des ACP, Professor John Dryzek von der Australian National University, eine Rede vor dem australischen Senat, in der er die Abgeordneten dazu aufforderte, dieser Form der Deliberation, in der die Bürger sich engagiert hatten, mehr Beachtung zu schenken. Er sagte: „Nach dem Bürgerparlament fiel es mir schwer parlamentarischen Debatten zuzuhören. Die deliberative Qualität dieser Debatten ist gering im Vergleich zu dem, was unsere Bürger erreicht haben.“</p><h3>Analyse und Kritik</h3><p>Der Umfang dieser Veranstaltung und die extensive Daten-Aufzeichnung hab viele Möglichkeiten für Analyse und Forschung gegeben. Sobald diese in Erscheinung treten, wird mehr Kritik folgen. Wie es jetzt steht, gibt es sehr wenig vollständige Arbeit darüber.</p><p>Zwischenzeitlich wurden die Teilnehmer von Forschern der Australian National University gefragt, ob sie eine Reihe von Umfragen ausfüllen könnten. Die Forscher, die die Q-sort Methodologie angewandt haben – ein Model der Position einer Person zu einem speziellen Thema – sowie ein Ranglistensystem für Präferenzen, versuchten die Einstellung jedes Teilnehmers zu australischen Demokratie zu identifizieren. Diese Zusammenstellung wurde vier Mal aufgezeichnet: bevor den regionalen Treffen, während der regionalen Treffen, am Anfang des Canberra Treffens und am Ende des Canberra Treffens. Die Untersuchten brauchten vier verschiedene Einstellungen zur australischen Demokratie zum Ausdruck: der Wunsch nach mehr Inklusion, Unzufriedenheit mit dem politischen System, Genügsamkeit in Bezug auf die Funktionsweise des Systems und die Stellung der Bürger, sowie Ermächtigung der Bürger. Zudem wurde in der Studie herausgefunden, dass sich die Einstellungen der Bürger während des gesamten Prozesses veränderten.</p><p>Nach dem Handbuch des Bürgerparlaments „wendet ein weiterer Forscher Techniken der narrativen Ermittlung an, um zu erkunden wie Deliberation als eine sich entfaltende Gruppengeschichte gesehen werden kann. Dabei wird gezeigt, dass Deliberation ein kollaboratives und nicht ein kompetitives Unterfangen ist“. Die Resultate dieser Studie wurden jedoch noch nicht veröffentlicht.</p><h3> </h3><h3>Sekundaerquellen</h3><p>Carson, Lyn. "<a href="http://www.publicdeliberation.net/cgi/viewcontent.cgi?article=1070&amp;context=jpd">Creating Democratic Surplus through Citizens' Assemblies.</a>" Journal of Public Deliberation. 4.1 (2008).</p><p>Dryzek, John. "<a href="http://www.publicdeliberation.net/cgi/viewcontent.cgi?article=1114&amp;context=jpd">The Australian Citizens' Parliament: a World First.</a>" 24 Apr. 2009. Journal of Public Deliberation 5.1 (2009).</p><p>newDemocracy Foundation. <a href="http://www.newdemocracy.com.au/docs/newDemocracy_Citizens_Parliament_Handbook.pdf" rel="nofollow" title="http://newdemocracy.com.au/ndf/docs/cp_project/newDemocracy_Citizens_Parliament_Handbook.pdf">"Citizens' Parliament Handbook."</a></p><p>newDemocracy Foundation. <a href="http://www.newdemocracy.com.au/docs/newDemocracy_Citizens_Parliament_Handbook_Appendices.pdf" rel="nofollow" title="http://newdemocracy.com.au/ndf/docs/cp_project/newDemocracy_Citizens_Parliament_Handbook_Appendices.pdf">"Citizens' Pariament Handbook Appendices."</a></p><p>Warhurst, John. <a href="http://www.canberratimes.com.au/news/opinion/editorial/General/power-of-nonparty-people/1431693.aspx?storypage=3" rel="nofollow" title="http://www.canberratimes.com.au/news/opinion/editorial/General/power-of-nonparty-people/1431693.aspx?storypage=3">"Power of non-party people."</a> The Canberra Times. 12 Feb. 2009. [BROKEN LINK] UPDATE: click <a href="http://apo.org.au/resource/power-non-party-people">here</a> for alternate link to article. </p><p><a id="External_Links" name="External_Links"></a></p><h3>External Links</h3><p><a href="http://citizensparliament.org.au/" rel="nofollow" title="http://citizensparliament.org.au/">Australian Citizens' Parliament official website</a></p><p><a href="http://www.newdemocracy.com.au/" rel="nofollow" title="http://www.newdemocracy.com.au/">newDemocracy Foundation's official website</a></p><p><a href="http://citizensparliament.org.au/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=12&amp;Itemid=103&amp;099a3d82421082e972a054947f667624=8668a1a8b9238818c15e8a78996860d3">ACP Final Report</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A339">Democracy Reform</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1663">Deliberative Democracy Showcase</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Canberra      </span>
+                        <div class="country-name" itemprop="addressCountry">Australia</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Canberra%2C+%2C+%2C+au">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                AU      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A52">Develop individual capacities (e.g. skills, learning)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A111">Other</a></div></div></div><div class="field field-name-field-influence-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Intended Purpose(s):&nbsp;</div><div class="field-items"><div class="field-item even">Showcase Merits of Deliberative Democracy</div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, February 6, 2009 - 14:30</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, February 9, 2009 - 16:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">4.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">150</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div><div class="field field-name-field-participant-select-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even">Quota</div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/world-cafe">The World Cafe</a></div><div class="field-item odd"><a href="/en/methods/online-deliberation">Online deliberation</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">The Australian Research Council, newDemocracy Foundation</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A26">Academic Institution</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/newdemocracy-foundation-sydney-australia">newDemocracy Foundation</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$420 950.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Mostly volunteers w/ some paid</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-9822d77653a89eceba8967bac99cdc18">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/825">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

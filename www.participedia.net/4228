@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/grandview-woodland-citizens-assembly" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/4228" />
+  <title>Grandview Woodland Citizens&#039; Assembly | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"2M4cqkkJji2cVbfQujhewDEch_Nk3ntuQ1Uyao1SFec","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"4228"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/grandview-woodland-citizens-assembly?destination=node\/4228":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-4228 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/grandview-woodland-citizens-assembly" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/grandview-woodland-citizens-assembly?destination=node/4228" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-jukhYNFUBIP4h9ONALRtgvHEkNRFd8eH_oN8jTklOMg" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Grandview Woodland Citizens&#039; Assembly</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Grandview Woodland Citizens&#039; Assembly</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/jordanaugustinrekayi" title="View user profile." class="username" xml:lang="" about="/en/people/jordanaugustinrekayi" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rekayi Mohamed-Katerere, Augustin Zapuhlih, Jordan Barrett</a> on Mon, 05/18/2015 - 13:29</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Wed, 05/25/2016 - 08:52</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Grandview Woodland Citizens&#039; Assembly - Participedia" addthis:url="http://participedia.net/en/cases/grandview-woodland-citizens-assembly"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Case Study originally developed as a requirement for POLI 420A University of British Columbia, June 2015. Original authors: <a class="username" href="http://participedia.net/en/people/jordanaugustinrekayi" title="View user profile.">Rekayi Mohamed-Katerere, Augustin Zapuhlih, Jordan Barrett</a>.</em></p><p> </p><h3><strong><u>Problems </u><u>and </u><u>Purpose</u></strong></h3><p>The Grandview-Woodland Citizens’ Assembly emerged after a public backlash, following the release of <em>Emerging Directions. </em>This document outlined the Vancouver City Council's plans for land usage in the Grandview-Woodland (GW) area (Lee 2013)<em>. </em>Between 2012 and 2013 the city of Vancouver engaged in a consultation process with the Grandview-Woodland community to create this new plan for the neighbourhood.  The purpose of the document was to create a renewed 30-year development plan that reflected the demands of a growing city.  After the traditional consultation process residents felt they had been sufficiently involved and were expecting the new plan to reflect their ideas for their neighborhood. The actual plan diverged from the ideas of most of the residents in a few key areas. The most problematic divergence was on the issue of density and tower height.  The plan proposed the development of 36 story and 24 story developments along Broadway near Commercial (Emerging Directions, City of Vancouver, 2013).</p><p>The character of the neighbourhood was at stake. In a neighbourhood characterized by low-rise developments, residents resented the proposal for mid to high-rise buildings. Residents felt as if they had been cut out of the planning process for the future of their own community and were now suspicious of any interaction with the city. The relationship between the city and the community had been changed for the worse; there was now an absence of trust (Fleming 2013).  In response the city halted development plans and began preliminary work on creating a Citizens' Assembly. The problems facing the city could be summarized as a poor implementation of the ideas provided by consultation, poor communication from the city to neighbourhood residents, and consequently a loss of trust.  With these problems in mind the Citizens' Assembly, in concert with the city, developed for itself a number of purposes.  First, the Citizens’ Assembly would set out the values and principles shared by Grandview-Woodland residents.  The general needs and concerns of residents would also be identified.  Second, the assembly members would define their vision for the future of their neighbourhood.  Finally, the assembly would publish a set of recommendations in the form of a 30 year development plan for Grandview-Woodland that would influence the direction that city planners would take in the future (FAQ,MASS LBP, 2014).  The City hoped that in the end a Citizens’ Assembly would re-establish the lost trust between the City and Grandview-Woodland residents as well as help to create a new community plan that residents could support.  </p><h3><strong><u>History</u></strong></h3><p>Grandview is one of the 21 areas that make up the City of Vancouver. The Burrard Inlet, Broadway, Clark Drive and Nanaimo Street bound the area (Grandview Woodland Community Profile, City of Vancouver, 2014). Some 27,000 people reside there and of these residents only 83% speak English at home (Community Profile, City of Vancouver, 2014).</p><p>Grandview acquired its name from a sign “that was nailed up at the intersection of Commercial and 1st Avenue” in 1892. In 1904, the onset of a “local streetcar service by the BC electric railway”, as well as “the arrival of the water system” set the path for development in the area (History of Grandview-Woodland Neighborhood in Vancouver, City of Vancouver, 2012).  Since World War One, it has been a significant commercial and cultural hub. The area relevant to the Grandview-Woodland Citizens’ Assembly and the City’s 30 year development plan stretches three blocks south to East 12th Avenue and one block east to Kamloops (Community Profile, 2012).</p><p>The area is a major linkage point for transit and passenger vehicles. It has important road connections that run both north south and east west. The city’s major east-west roads, Broadway and Hasting, cut across Grandview-Woodland and other streets like Victoria Drive and Commercial provide a north-south connection towards the city proper and greater areas. The Broadway Skytrain Station helps to strengthen the connections to downtown Vancouver and the Greater Vancouver Area. The strong linkages the area has have helped to shape its reputation for both, commercial, and cultural activity.</p><p>Commercial Drive or the Drive is the street that the area's reputation is based upon. Merchants cleverly gave it its name in 1912, believing that the name was well suited to attracting business.</p><p>While Culture and Commerce are celebrated pillars of the area, there are persistent challenges. As a historic neighbourhood it may not be surprising that only 9% of the buildings are from 1991 or younger (City of Vancouver, 2014). These buildings are not well positioned to respond to the dynamics of a growing city like Vancouver. The city’s population has grown by 36% since 1977(Census, Statistics Canada, 2011). This is one of the reasons why the city had proposed densification projects along the major streets.  </p><p>The population density of the area is larger than the average for the city. This makes Grandview-Woodland one of the most densely populated areas in the city with 61 people per hectare, while the average for Vancouver is 54 people per hectare. This is peculiar because only 4.5% of dwellings in Grandview-Woodland are 5 stories or higher (Census, Statistics Canada, 2011). It shows that land usage in the area could be more efficient.</p><p>Unemployment and crime go hand in hand. With an unemployment rate of 7.8% the neighborhood trumps the city that has an average of 6%. High-levels of unemployment can be dangerous. It can have disruptive knock-on effects that serve to undermine the well being of a community.  The crimes rates in Grandview-Woodland are greater than the citywide number. The area experiences 74 crimes per 1,000 residents, with the majority of crimes being thefts. While this neighborhood has a lot to celebrate it also has many challenges to tackle.</p><p>The development plan for the Grandview-Woodland was outdated. The original 30-year development plan was agreed on before the turn of the millennia.  “In April 2012, the City of Vancouver began the process of creating a new community plan for Grandview-Woodland.” The process was based on public consultation. The city “organized conversations, workshops, open houses, questionnaires and social media activities to generate community input.” After a year and a half approximately 7,500 citizens had participated and contributed (City of Vancouver, Grandview-Woodland Area Profile). The publication that galvanized the public's contributions was <em>Emerging Directions.</em></p><p><em>Emerging Directions </em>was released in June 2013 just one year before the City’s municipal election in which Mayor Gregor Robertson was running for re-election. Grandview-Woodland is a strong hold for Robertson’s party, Vision Vancouver. Robertson successfully defeated Kirk Lapointe in the 2014 Municipal election with 83,529 votes to 73,443 votes. Thus, he secured his third term in office and the continued representation of Vision Vancouver on the City Council.</p><h3><strong><u>Originating Entities and Funding</u></strong></h3><p>The city of Vancouver was the originating entity and sole source of funds for the Grandview-Woodland Citizens' Assembly (Terms of Reference, City of Vancouver 2014). However, the events that lead to its formation demanded a neutral party. Hence, a third party organization, Mass LBP was contracted to run the assembly.  The city provided $275,000 (CAD) in funding.  Mass LBP received $150,000 (CAD) to manage the entire process of the Citizens' Assembly. The remaining $125,000 (CAD) was used for sub-area workshops that were run by the city (Grandview-woodland.ca/faq, MASS LBP 2014).</p><h3><strong><u>Participant Selection</u></strong></h3><p>In order to participate in the Citizens’ Assembly the participant had to be aged 16 or over and had to be either a resident of, or own a business or property within the Grandview-Woodland area. Although all residents, business owners, and property owners were allowed to register as volunteers only one volunteer per household or business address was eligible for membership on the Citizens’ Assembly. Canadian citizenship was not required for eligibility (Terms of Reference, City of Vancouver 2014).</p><p>The selection process began with letters being mailed to 19,000 area residents, property owners, and business owners in late June 2014. In concert, hundreds of invitations were handed out at street corners, community centers, and other key locations in Grandview-Woodland (Final Report, GW Citizens’ Assembly, 2015). Subsequently, the pool of candidates was narrowed to only volunteers who responded to the invitation.   </p><p>The 48 members of the Citizens’ Assembly were selected through a blind draw from the pool of five hundred volunteers. The blind selection process ensured an equal number of men and women as well as representative members from each age cohort. It also assured representative numbers of members from the six neighbourhood zones and representative numbers of members who rent their home, own their home, or reside in a co-op. Volunteers were asked to indicate if they identified as Aboriginal to make certain that First Nation residents were represented. In addition, two seats were reserved for business owners in Grandview-Woodland and one seat was reserved for a property owner who did not reside in the neighbourhood area (Terms of Reference, City of Vancouver, 2014).</p><h3><strong><u>Deliberation and Decisions</u></strong></h3><p>Eight facilitators guided the deliberation process. They received a modest 2-day training that prepared them to face the responsibilities extended to them by the Citizens’ Assembly. The training was used to emphasize the neutral role that the assembly and its staff were assuming. The facilitators were selected from a pool of Political Science graduate students based in Vancouver.</p><p>The process included 3 phases: the learning phase, the consultation phase, and the deliberation phase. In the learning phase, several dozen experts and relevant stakeholders made presentations that were intended to be informative, factual, and neutral (Final Report, GW Citizens’ Assembly, 2015). As a result, all members of the assembly were provided with an equal foundation of information to help them make informed, effective decisions, and understand the effects and trade-offs associated with each option. Moreover, some participants aside from the information they received from the assembly, conducted separate individual research and contributed this new knowledge to the group conversations and in doing so raised the general level of knowledge of all the members (Grandview-woodland.ca/stages-of-the-assembly, MASS LBP, 2014).</p><p>In the consultation phase, assembly members engaged the public, and sought input and feedback so as to gather information that would helped their decision making process. The format of the consultations ranged from small meetings to coordinating a large public event with guided round-table discussions, facilitated by assembly members. The consultations allowed the assembly members to evaluate their selected values, concerns, and emerging recommendations/priorities in order to see if they coincided with those of the larger public (Grandview-woodland.ca/stages-of-the-assembly, MASS LBP, 2014).</p><p>Finally, in the deliberation phase the members set out to make their final decisions. The deliberation included several rounds of discussion and was done both in small groups and as a collective whole (Grandview-woodland.ca/stages-of-the-assembly, MASS LBP, 2014). A facilitator led each small group deliberation and ensured that the opinions of all participants were heard and considered. During the deliberation process every member of the assembly had a chance to express their own views, critique, and analyze the views of others so that any consensus that was reached at the end of each small group discussion meeting was value-laden. During the collective assembly meeting only one representative per group spoke so as to efficiently present the group’s views.  </p><p>As a result of the Citizens’ Assembly’s work, the members came up with a recommendations plan for future community development as well as a list of values intended to guide it which was released to the public and the City (Final Report,GW Citizens’ Assembly, 2015).   </p><h3><strong><u>Influence, Outcomes, and Effects</u></strong></h3><p>The process lasted one year, to the day. Although the process started on June 23rd, 2014 it was not until September 20th that the first Meeting of the Citizens’ Assembly was held. The final meeting was May 9th, 2015 and on June 24th, 2015 the Final Report was presented to the City Council. Some, 270 recommendations were included in the Final Report and City Council unanimously accepted the recommendations produced by Assembly members.</p><p>The Grandview-Woodland Citizens’ Assembly had both intended and unintended outcomes. The intended outcomes are in line with the assembly’s mandate. After some 32 different meetings a general consensus formed and a set of recommendations for a 30-year development plan were produced.</p><p>While the Final Report represents an intended and tangible outcome, the assembly also had effects on trust and community building. The development of trust was both intended and unintended. When we consider the trust that was built between the community and the city then this can be identified as intentional. Particularly because the mandate states that, “these recommendations will help to resolve disagreements concerning the City’s June 2013 Emerging Directions draft proposal.” On the other hand, there was a unique trust built between the members of the assembly and the community that was unintentional.</p><p> The assembly facilitated trust because its members were also residents of the community.  When the assembly members released a set of proposals for development they received opposition from the community. Approximately 80 letters were received in response; urging the members to reconsider the high-rise developments. This interaction had an interesting effect. The Terms of Reference state “for recommendations to be incorporated into the Grandview-Woodland Community Plan they must be broadly consistent with the City of Vancouver’s planning principles as well as sound professional planning practices” (T.O.R, City of Vancouver, 2014). The members of the Assembly were faced with a dilemma. Do they listen to their neighbours and divert from the planning principles or do they follow the Terms of Reference? They chose to listen to their neighbours. This is significant because it shows that the members questioned their power to influence. They recognized their privilege of having been selected as representatives. All in all this built trust between neighbours because privileges and influences were curtailed to support the interests of the community.</p><h3><strong><u>Analysis and Lessons Learned</u></strong></h3><p>The Citizens’ Assembly (CA) focused its work on areas of disagreement between members of the Grandview-Woodland community and the Vancouver municipality in reference to the municipal plan for the community’s future development. The original <em>Emerging Directions</em> document which had catalyzed the entire process through its failure, also proved useful for the Citizens’ Assembly. It provided a solid foundation from which assembly members could create their new plan.  Facilitators have acknowledged that having an original document helped to focus deliberation on what problems were most important while also allowing citizens to build on the more acceptable parts.  While the document provided a useful framework for the Citizens’ Assembly, its release had also compromised trust between city and neighborhood. This was the raison d’être for the Citizens’ Assembly and trust would be a major theme throughout the entire process.  As facilitators have stated much of the deliberation process was spent proving that the assembly was a meaningful avenue for opinion deliberation and expression.</p><p>As discussed above, the community had resoundingly rejected the typical top down planning of the city, embodied by the unilateral changing of the <em>Emerging Directions</em> document. The citizens' assembly was both a break from politics as usual and also an extension and strengthening of community consultation processes that had existed before. The fact that the City was using a relatively new democratic innovation, in a uniquely complex area like urban planning, could have indicated to residents their earnest desire to fix their mistakes. For some it likely did, however for others it was not enough and the assembly received a significant amount of early opposition. Perhaps the most vocal opposition came from the group <em>Our Community Our Plan </em>(OCOP), which actually held a contest for the most creative way to destroy or dispose of assembly invitations. These community members were entirely cynical towards the community planning process with the city government and were “suspicious of the entire process” as merely a way for the city to legitimize its plans, which they believed had been “heavily influenced by the interests of big developers”, without actually listening to the community (OCOP 2014).  Many of the early meetings of the assembly were then concerned with building trust as the assembly was forced to prove its sincerity to the community. This came to a head in the 5th meeting of the assembly in which members demanded certain documents and maps from the city that they felt were vital, the city acquiesced and provided the documents.  This was particularly important for the assembly as it showed the City was willing to commit to transparency as well as listening to citizens, and so beginning to create trust where it had been lost. Around this time the blog and social media presence of OCOP the group most critical of the process stopped posting, possibly indicating that they had been somewhat persuaded of the sincerity of the Citizens’ Assembly itself (OCOP 2014). One could possibly draw a circumstantial relationship between the end of online criticism from a vocal opposition group and the turning point in the relationship between the City and the assembly described above. Anecdotally it is noted that a few assembly members were actually part of OCOP and one in particular championed their cause. OCOP even gave a presentation to the assembly, which it likely would not have done if it maintained its earlier belief that the assembly was useless. The assembly was effective at reaching a consensus on and identifying what the community needed from the City in order to start re-establishing trust.  The process was even able to convince the most cynical of its opponents to participate, whether they wholeheartedly believed in the assembly or not. This sort of effective consensus building and dialogue is one of the most beneficial parts of the assembly process.  In this way we see that this citizens' assembly was able to first, identify a solution to the issue of trust between the city government and the community and then second, incorporate important voices in the community that had previously rejected the entire process.  The trust building described above was one of the most interesting parts of the Grandview-Woodland assembly and it shows the effectiveness of the citizen assembly model in general.</p><p>Another interesting part of the Citizen’s Assembly process is the fact that after being selected as members to the assembly many of the volunteers were worried that they had no real right to make decisions for their fellow residents. Only after a detailed explanation of the random selection process and the representative nature of their group did they accept the role that they were assigned to.  They were then more confident in their deliberation as they understood both the reasoning behind their position as assembly members and the importance of the decisions that they would make.     </p><p>While the assembly successfully produced a comprehensive plan and managed to build up trust in many ways no democratic process can please every citizen. Suspicion towards the city continues from some vocal citizens and likely will not end until it is determined how much influence the final document has on City planners.  If the plan is ignored then much of the trust rebuilt by the Citizens’ Assembly will likely be lost. Due to the non-binding nature of any recommendations from the Citizens’ Assembly this is a distinct possibility.  This then is one of the largest flaws in this process.  The Citizens’ Assembly cannot be sure that all or even any of its plans will actually be accepted by the city.  There is no way for members to ensure implementation on anything they decided during the process.  The possibility that the City could render the whole process pointless weakens the democratic value of the Citizens’ Assembly.</p><p>Besides the major critique mentioned above there have been a few other criticisms leveled at the process and methodology of the Citizens’ Assembly itself.  These critiques essentially encompass what did not work with the assembly. One of the main concerns raised was the English only nature of the assembly.  Despite the fact that a significant minority of the Grandview-Woodland population speaks Cantonese and Tagalog the assembly did not provide translations (Terms of Reference 2014). It was argued that this marginalized important minorities from the assembly process making it less representative than it could have been.  This is a particularly powerful critique as much of the value of the Citizens’ Assembly process rests in its representative nature.</p><p>Another critique put forward about the Grandview-Woodland Citizens’ Assembly is on the randomization process used for the civic lottery. This requires sampling for a set of characteristics that can be randomized.  What is troublesome is that one must survey the population to determine how they identify with these characteristics. This issue arises when you are dealing with characteristics like ethnicity, race, or sexuality. People are generally less willing to answer survey questions about intimate aspects of their identity. The implication for this is that the survey design has to take this into account. By doing so they limit the quality of their sample. It is a difficult dilemma to reconcile. This is a societal issue and is not an issue of the methodology. Rather this criticism shows how the environment can influence the quality of a sample and therefore the quality of the Citizens’ Assembly as a whole.</p><h3><strong><u>Secondary </u><u>Sources</u></strong></h3><p>Campbell, Charles. "Frequently Asked Questions." <em>Grandview-Woodland</em>. City of Vancouver, 12 June 2014. Web. May 2015.</p><p>"Citizens' Assembly on the Grandview-Woodland Community Plan: Terms of Reference." (n.d.): n. pag. <em>Grandview-Woodland Citizens' Assembly</em>. City of Vancouver, 11 Sept. 2014. Web. 10 May 2015.</p><p>City of Vancouver. "Grandview-Woodland Community Plan." <em>Vancouver</em>. City, 30 Sept. 2014. Web. May 2015.</p><p>City of Vancouver, and Plan. "Emerging Directions." <em>Grandview-Woodland Community Plan</em> (2013): n. pag. <em>Vancouver</em>. City of Vancouver, June 2013. Web. June 2015</p><p>City of Vancouver, comp. "Grandview-Woodland Community Profile 2014 - Updated." <em>Community Profile</em> (2014): n. pag. <em>Grandview-Woodland Community Plan</em>. City of Vancouver, 2014. Web. 10 May 2015.</p><p>Cole, Yolande. "Citizens' Assembly Process Draws Criticism." <em>Georgia Straight Vancouver's News &amp; Entertainment Weekly</em>. Georgia Straight, 01 July 2014. Web. 7 June 2015.</p><p>Fleming, Andrew. "Emerging Directions Plan Lambasted." <em>Vancouver Courier</em>. Vancouver Courier, 09 July 2013. Web. 22 June 2015.</p><p>Fung, Archon. "Putting the Public Back into Governance: The Challenges of Citizen Participation and Its Future." <em>Public Administration Review Public Admin Rev</em> (2015): n. pag. <em>Wiley Online Library</em>. Web. May 2015.</p><p>"Grandview Woodland Area Council." <em>Facebook</em>. Facebook, Sept. 2014. Web. 5 June 2015.</p><p>Jakking. "Our Community Our Plan!" <em>Our Community Our Plan</em>. Wordpress, 12 Oct. 2014. Web. May 2015</p><p>Lang, Amy. “But Is It For Real? The British Columbia Citizens’ Assembly as a Model of State-Sponsored Citizen Empowerment” in Politics and Society, Vol. 35, No. 1 (2007).</p><p>Lee, Jeff. "Relations with Vancouver City Hall Sour." <em>National Post</em>. National Post, 23 Sept. 2013. Web. June 2015.</p><p>Moran, Kristen. "Community Group to Form a Citizens' Assembly." <em>Vancouver Courier</em>. Vancouver Courier, 3 Apr. 2014. Web. 22 June 2015.</p><p>O'Connor, Noibh. "Grandview-Woodland Group Wants Spot Rezoning Halted." <em>Vancouver Courier</em>. Vancouver Courier, 21 Apr. 2015. Web. 5 June 2015.</p><p>"Stages of the Assembly." <em>Grandview-Woodland Citizens' Assembly</em>. MASS LBP, 12 Sept. 2014. Web. 10 May 2015.</p><p>"Summary Citizens' Assembly Design Choices." (n.d.): n. pag. <em>Grandview-Woodland Community Plan</em>. City, 6 Dec. 2014. Web. 12 May 2015.</p><h3><u><strong>External Links</strong></u></h3><p><u>A histroy of Grandview-Wooland</u>: <a href="https://www.youtube.com/watch?v=5ZBh2bGEHqo">https://www.youtube.com/watch?v=5ZBh2bGEHqo</a></p><p><u>Grandview-Woodland Citizens' Assembly Main Website</u>: <a href="http://www.grandview-woodland.ca/">http://www.grandview-woodland.ca/</a></p><p><u>Grandview-Woodland Community Plan Homepage</u>: <a href="http://vancouver.ca/home-property-development/grandview-woodland-community-plan.aspx">http://vancouver.ca/home-property-development/grandview-woodland-communi...</a></p><p><u>Our Community Our Plan Blog</u>: <a href="https://ourcommunityourplan.wordpress.com/">https://ourcommunityourplan.wordpress.com/</a></p><p><u>Emerging Directions PDF</u>: <a href="http://vancouver.ca/files/cov/gw-emerging-directions-booklet.pdf">http://vancouver.ca/files/cov/gw-emerging-directions-booklet.pdf</a></p></div></div></div><div class="field field-name-field-file-attachements field-type-file field-label-above"><div class="field-label">File Attachments:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://participedia.net/sites/default/files/case-files/Key%20Media%20Items-Grandview-Woodland%20Citizens%27%20Assembly.pdf" type="application/pdf; length=1882957">Key Media Items-Grandview-Woodland Citizens&#039; Assembly.pdf</a></span></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/citizens-assembly-1" typeof="skos:Concept" property="rdfs:label skos:prefLabel">citizens&#039; assembly</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1660">Municipal Participatory Planning</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1548">Community Organizing</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Grandview-Woodland Neighborhood</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">East 1st Ave to East 12th Ave (North South) Clark Drive to Nanaimo</span>
+              </div>
+                  <span class="locality" itemprop="addressLocality">
+      Vancouver      </span>
+              ,                     <span class="region" itemprop="addressRegion">BC</span>
+              <div class="country-name" itemprop="addressCountry">Canada</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.ca?q=East+1st+Ave+to+East+12th+Ave+%28North+South%29+Clark+Drive+to+Nanaimo%2C+Vancouver%2C+BC%2C+%2C+ca">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        British Columbia        CA      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, September 20, 2014 - 12:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Tuesday, June 30, 2015 - 11:59</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">32.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">48</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A124">Other</a></div></div></div><div class="field field-name-field-demographics-target-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Demographics:&nbsp;</div><div class="field-items"><div class="field-item even">Residents of Grandview-Woodland</div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A126">Other</a></div></div></div><div class="field field-name-field-participant-select-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even">Open to all with a randomisation process for targeted recruitment.</div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizens-assembly-0">Citizens’ Assembly</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A172">Other</a></div></div></div><div class="field field-name-field-facilitation-type-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Facilitation:&nbsp;</div><div class="field-items"><div class="field-item even">Graduate Students with Two Days of Training</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A138">Story-Telling</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A139">Informal Social Activities</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">The City of Vancouver</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/mass-lbp">MASS LBP</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$196 762.50</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">7</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">8</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Chair, Senior Project Advisor, Lead Writer, Principal (MASS LBP),Curriculum and Program, Civic Lottery Coordinator, Project Support and Logistics, Table Facilitator</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-8ed401f8bb52fc24ac8a8a0f610efa3d">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/4228">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

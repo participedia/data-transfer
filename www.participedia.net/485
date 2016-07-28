@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/g1000-belgium" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/485" />
+  <title>G1000 (Belgium) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"TU70XyO-8wagIRKup7QUnItunwfPuNnJEjcWGhZALBg","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"485"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/g1000-belgium?destination=node\/485":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-485 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/g1000-belgium" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/g1000-belgium?destination=node/485" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-jGzIC4xBg1T4SuM2R5OWUQFZpvfmYd5Tn7mahK90ox8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">G1000 (Belgium)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">G1000 (Belgium)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/ijm2012" title="View user profile." class="username" xml:lang="" about="/en/people/ijm2012" typeof="sioc:UserAccount" property="foaf:name" datatype="">Isaiah Jihad Muhammad</a> on Wed, 01/11/2012 - 04:05</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sun, 03/27/2016 - 08:44</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="G1000 (Belgium) - Participedia" addthis:url="http://participedia.net/en/cases/g1000-belgium"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/800px-2007_07_Belgium_Brussels_06_%28cropped%29-1.jpg?itok=x2XMan0D" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong>Problems and Purpose</strong></h3><p>The G1000 is an innovative experiment in deliberative democracy that attempts to deal with Belgium's recent "democratic crisis" by bringing citizens together. <a href="http://www.g1000.org/">G1000</a> aims to revitalize and "advise" Belgium's current representative democratic system by complementing it with deliberative democracy.  It is a response to the increasing ineffectiveness of the representative democracy system, as evidenced in part by the 2010-11 parliamentary crisis.</p><p>The G1000 was conceived as a project that would complement representative politics, rather than replace it through an institutional redesign. The purpose of the project is to engage a wider audience in political discourse and generate popular and useful policy suggestions. The large size of the deliberative project was aimed towards raising more of an awareness around the issue in Belgian politics and policy making. The G1000 took place in three distinct phases; each used a different method of deliberative democracy, but worked towards results that informed and served as a starting point for the next. </p><p>The projects' organizers published a manifesto in the following format analyzing the ongoing problems and analyzing potential solutions and alternatives:</p><p><em>Analysis </em><br />1) The political crisis in Belgium is not only a Belgian crisis, but also a crisis of democracy in general. Similar problems have occurred in the Netherlands and Great Britain as well. In a democracy, citizen govern themselves, either directly or indirectly. Belgium has been a representative democracy since its founding in 1830.<br />2) However, the formula is reaching its limits after two centuries. Elections obstruct more than facilitate good governance. There is little party loyalty left, so political parties need to fight for every vote in an increasingly media driven political landscape. Electoral promises have been becoming ever more unrealistic.<br />3) After the demise of pillarisation, civil society organizations have partly lost their function as intermediaries between political organizations and the wider public.<br />4) The emergence of a much more interactive Internet and Web 2.0 have become important factors to consider. Citizens have never been as quickly informed and armed with the ability to follow and comment on the latest news moment by moment. In contrast, however, citizens can only vote every four years. Never before has the citizen been so opinionated and yet so powerless.<br />5) Politicians in 2011 are like a team of heart surgeons who have to perform a delicate operation in the middle of a full football stadium. Supporters shout at every movement of the cardiologists, but no-one dares to move, ultimately to the detriment of the patient.<br />6) Democracy has become a dictatorship of elections.</p><p><em>Alternative</em><br />1) Everywhere innovation seems to be encouraged and expected, except in a democracy. In fact, we’re still following the procedures of 1830 in 2011.<br />2) Many Western countries have experimented with deliberative or participatory democracy over the past few years. These tries have often proven successful, even on highly important issues (the new constitution in Iceland) or in more problematic contexts (Northern Ireland).<br />3) The Belgian government as of yet does not have a tradition of deliberative democracy. Over the last half-century, politicians have been too busy with constitutional reforms to give priority to democratic reforms. But deliberative democracy is interesting to transcend the limitations of representative democracy. It does not replace the work of parliaments and parties, but wants to complement it. This could be the future of democracy.</p><h3><strong>History</strong></h3><p>The impetus for the project came from the Belgian political crisis, which began in 2007. It reached a protracted climax after the June 2010 federal elections, when parliamentary elections did not result in any clear majority. Neither of the two largest parties that were elected, the Flemish conservative and regionalist New Flemish Alliance (N-VA) and the Francophone social-democratic Socialist Party (PS), were able to create an easy coalition. In the end, it took 541 days for the new parliament to agree on a government.</p><p>On June 10, 2011, a manifesto was published in five national newspapers, containing among other things the problem analysis summarized above. The first 27 signatories were the initiators of the G1000. Within a few weeks following its publication more than 10,000 people signed the Manifesto. The G1000 project is designed in three phases:</p><p>July- November 2011: <em>public agenda setting</em> through a large scale online consultation</p><p>November 11, 2011: 704 citizens were gathered (of 1,000 people who had accepted an invitation) to discuss with each other at a ‘<em>Citizens’ Summit</em>’ in a large hall in Brussels. The event was live-streamed on the website of the organization, and two side projects enabled the organization of a simultaneous online discussion (G-Home) as well as the gathering of citizens in smaller groups all across the country (G-Off).</p><p>September- November 2012: In three weekends, a <em>citizens’ panel</em> of 32 people elaborated on the ideas and proposals of the previous phase.</p><p>A closing ceremony was held on the 11th of November 2012, during which the 32 participants of the Citizens’ Panel presented their final report.</p><h3><strong>Funding and Organisation</strong></h3><p>G1000 was initiated by 27 people, including native speakers of all three official languages of Belgium (i.e. Dutch, French, and German). Their background lies in a variety of occupations: in academia (political scientist, professor of law, professor of sociology); communications and technology (radio journalist, digital media and marketing consultant, web developer); arts (novelist, actresses, playwright, cultural organization executives, graphic designer); and the non-profit sphere (activist, non-profit executives).</p><p>The website of G1000 claims that it is “run entirely by volunteers (the only paid collaborators are the external consultants that have helped us to implement the process).” G1000 also partners with <a href="http://www.foundationfuturegenerations.org/index.php?golang=EN&amp;__utma=1.441173061.1349999708.1349999708.1349999708.1&amp;__utmb=1.2.10.1349999708&amp;__utmc=1&amp;__utmx=-&amp;__utmz=1.1349999708.1.1.utmcsr=(direct)%7Cutmccn=(direct)%7Cutmcmd=(none)&amp;__utmv=-&amp;__utmk=24786">The Foundation for Future Generations</a>, “the only Belgian foundation exclusively devoted to sustainable development”.</p><p>G1000 organizers chose to accept only donations rather than sponsors, public, or research money. By financing the project through crowd funding and keeping donator information private, the project avoided creating “privileged sponsors.” Over 3000 donors have supported the project thus far.</p><h3><strong>Participant Selection</strong></h3><p>During the <em>first phase</em> of Public Agenda Setting, any person with Internet access could participate by proposing a question or theme for the Citizens’ Summit. More than 6000 individuals took part in this process.</p><p>For the <em>second phase</em>, the Citizens’ Summit, 90% of the participants were selected randomly through Random Digit Dialing, a phone outreach technique that yielded a 3% “yes” (acceptance of the invitation to participate) response rate. The other 10% of participants were from marginalized demographics such as homeless people or immigrants; G1000 organizers encouraged these individuals to participate by working with grassroots organizations.</p><p>Participants ranged from 18 to 85 years old, and their gender and linguistic diversity reflected that of Belgian inhabitants (participants were 52-48 female-male, and 61-39 Dutch-French speaking compared to the Belgian’s overall 58-32 Dutch-French ratio). 1000 participants committed to attending the Summit, while 704 actually attended.</p><p>In addition, 1,086 people participated through two side projects, G-Home and G-Off: 730 people joined the online G-Home discussion module, and 356 people came to the G-Offs, the simultaneously organized local mini-summits spread throughout the country. These participants were self-selected.</p><p>Of course there was a degree of self-selection in the G1000 Citizens’ Summit as well: as mentioned, measurers were taken to keep the group roughly representative of the country as a whole on a number of characteristics, they were still of a small minority of people willing to invest time in the project. Their reasons for participating were as follows: 63% wanted to show their personal commitment as a citizen; 52% was worried about the democratic and political crisis; 43% participated to renew democracy; 35% participated because of curiosity and in order not to miss the experience; 29% was interesting in the process of dialogue in diversity; and 21% wanted to contribute to restoring the dialogue between the communities in Belgium (most likely referring to the Flemish and Walloon communities).  </p><p>The 32 participants in the Citizens’ Panel, the <em>third phase</em>, were selected from participants in the G1000, G-Offs, and G-Home and who had indicated that they wished to be considered for the Panel (491 in total). They were selected through a random selection process with controls for gender, language, region, and age as well as an ex-post control for socio-economic background. The distribution of participants was as follows:</p><p><strong>Native language    Gender           Education            Age</strong><br />Dutch: 18                 Female: 16       Secondary: 12      - 30 : 7<br />French: 12               Male: 16           Vocational: 8         30-45: 9<br />German: 2                                        University: 12        45-60: 9<br />                                                                                      60+ : 7</p><h3><strong>Deliberation, Decisions, and Public Interaction</strong></h3><p>In the G1000’s <em>first phase</em>, “Public Agenda Setting”, participants determined the agenda for the later Citizens’ Summit. Throughout July 2011, Belgians were encouraged to submit questions, suggestions or problems through the G1000 website. Anyone who had made a proposal could also vote for the ideas of others.</p><p>The results were a few thousand useful ideas, which were grouped by the organizers into 25 themes representing the most common topics. These were posted online in October 2011 and put up for a vote. The public was asked to select a top three of important topics, which resulted in three themes for the Citizens’ Summit in phase two: “Social Security”, “Distribution of Wealth in Times of Financial Crisis”, and “Immigration”. The ideas appeared in a random order for each participant, and organizers ran an IP Check to ensure that no individual or group had skewed the results through mass voting.</p><p><em>The second phase</em>, was a Citizens’ Summit, held on November 2011 in Brussels. 704 people (of the 1,000 selected) attended the event, which was held according to the Town Hall Meeting format. The participants were divided among 81 tables (meaning approximately 9 people per table), and invited to share and discuss their visions on the three selected themes.</p><p>Each topic was introduced with presentations by two experts. Presenters were Bea Cantillon (University of Antwerp) and Philippe Van Parijs (Université catholique de Louvain) for Social Security; Koen Schoors (University of Ghent) and Eric De Keuleneer (Université Libre de Bruxelles) on Distribution of Wealth in Times of Financial Crisis; and Marie-Claire Foblets (KU Leuven) and Marco Martiniello (University of Liège) for Immigration. After every set of presentations, the theme was discussed at the tables. The results of these discussions were subsequently submitted as proposals to the control desk, where they were aggregated and projected on screens throughout the room. Every participant could then indicate their preferences one last time in a voting round on the proposals of the topic just discussed. Participants were asked to indicate two preferences on each topic (with social security divided into four topics: unemployment; pensions; and child support; health care) for a total of six topics.</p><p>There were 35 Dutch, 29 French, 35 bilingual and one German table, with a facilitator present at each table, plus an interpreter for the bilingual tables. The discussions were structured by the facilitators to ensure that each group achieved the goals, of clearly defining the problem, suggesting solutions, and “taking stock” of the various perspectives and ideas of participants. Facilitators further ensured that the discussions were inclusive and open for all participants. To help participants uncomfortable with public speaking, the discussions were sometimes held between small subgroups of people at a table (i.e., splitting into pairs).</p><p>As mentioned before, G1000 organizers used technology to make participation possible for citizens who had not been selected to attend the conference. Citizen groups from five to one hundred people gathered across Belgium to participate through G-Off, watching the expert testimonials live-streamed and then deliberated as well. Others took part through G-Home, a web-based discussion tool.</p><p>The ‘decisions taken’ at this stage were which ideas to support. After the deliberation and voting was finished, the following proposals proved most popular:</p><p>Unemployment:</p><ul><li>Make paid work more attractive by raising minimum wage (38%)</li><li>Limit the maximum duration of unemployment benefits (36%)</li><li>Individually differentiated support for jobseekers (35%)</li></ul><p>Pensions:</p><ul><li>Harmonize the system and make it more egalitarian (23%)</li></ul><p>Child support:</p><ul><li>Same amount of child support for each additional child (45%)</li></ul><p>Health care:</p><ul><li>Guarantee equality and equal access to the system (35%)</li><li>Reduce overconsumption by putting the general practitioner at the center (31%)</li><li>Higher taxes for the pharmaceutical industry (27%)</li><li>Smaller medicinal packaging and awareness campaign against overconsumption (21%)</li></ul><p>Division of wealth:</p><ul><li>Reform corporate taxation: lower, but abolish all loopholes (43%)</li><li>Tobintax: tax on financial transactions (31%)</li><li> Lower the costs of labor, especially for certain categories (27%)</li></ul><p>Immigration:</p><ul><li>Duty of integration (31%)</li><li>Faster procedures and objective criteria (26%)</li><li>Harmonize policy at the European level (25%)<br /> </li></ul><p><em>The third phase</em> of G1000 had as its purpose to elaborate the ideas generated through the Citizens’ Summit. A much smaller group of 32 citizens came together during three weekends to discuss, expand the proposals, and turn them into policy recommendations. The phase was organized using the citizens’ panel, or consensus conference method of deliberation, which is more intense than the broader approach of the previous two stages. The participants had greater support from the organization, but at the same time had full freedom in the choice of subjects taken up and their strategy for coming to more concrete recommendations and conclusions. They had for instance the option of inviting experts or stakeholders to their meetings. The group came together on the 14-16 September 2012, in the Flemish Parliament in Brussels; on 6-7 October 2012, in the Walloon Parliament  in Namur; on 9-11 November 2012, in the House of the Members of Parliament in Brussels.   </p><p>The participants discussed with each other and with invited experts or stakeholders. Of the three main themes of the Citizens’ Summit, they decided to focus on social security, specifically the topic labor and unemployment. This was divided the suggestion in six concrete challenges, for each of which they formulated a number of concrete recommendations:</p><ol><li>The divide between high and low wages</li><li>How can the factor labor cost be dealt with to increase employment opportunities?</li><li>Assisting labor market access   </li><li>Labor and our future generations</li><li>Work of quality for quality of life</li><li>Workplace discrimination</li></ol><h3><strong>Influence, Outcomes, and Effects</strong></h3><p>The project aimed to add value in three different ways: through methodological experimentation with participatory politics; with concrete policy recommendations; and by putting the need for democratic innovation on the public agenda.</p><p>The organizers succeeded to carry out their entire plan, despite the fact that it seemed financially and organizationally unrealistic at the start. Immediate results were a lot of media attention, sustained for an extended amount of time, and in the end a clear and extensive final report with clear policy recommendation on a number of points concerning policies towards employment.</p><p>According to a posttest survey, “participants felt like they had sufficient opportunities to express their opinions and that they could participate without restraints.” Over 90% felt that other participants had been sincerely interested in their opinions, and 75% felt that they had been treated with great respect. More than 75% “felt that good decisions were made at the G1000.” These results suggest a high level of satisfaction in the quality of the deliberations.</p><p>The project has also resulted in many publications on the case, both by organizers as well as other researchers. Didier Caluwaerts, whose PhD was the basis of the methodology of the G1000, received the Jean Blondel PhD Award from the European Consortium for Political Research. The G1000 has been the subject of over twenty academic publications.</p><p>The project certainly succeeded in putting participatory politics on the public agenda. Politicians of every part of the political spectrum took note of and commented on the project. The organization was asked to give presentations on her project with deliberative democracy for many different types of institutions: from various levels of government, to civil society organizations, and universities. Furthermore, other people in Belgium took on the idea by organizing similar initiatives on a more local level or on a more specific topic (for instance a K35 in the city of Kortrijk, or a G100 on the future of education). These adopted names with a clear reference to the G1000, a testament to its groundbreaking influence. Since it has only been two years since the end of the G1000 though, it is still unclear whether this is the start of a tradition of deliberative democratic initiatives or a temporary hype. The project also garnered international attention, and a G500 has been organized in the Netherlands.  </p><p>Although the project and its resulting recommendations gained a lot of attention of politicians on all levels (including the PM) as well as from the media, it is unfortunately hard to measure to what extent they have had an effect on policies subsequently adopted.</p><h3><strong>Analysis and Criticism</strong></h3><p>The interesting choice to finance G1000 through crowd funding limited the project’s budget and required volunteers to spend lots of energy fundraising. Partnering with an academic institution might have helped this problem, although organizers may have felt this violated their principle of “independence.”</p><p>Bias was potentially introduced into the Citizens’ Summit deliberations because the expert positions probably did not reflect the full spectrum of expert opinions on each subject, and organizers had not provided further supplementary material such as background reading before the Summit. During the deliberations, facilitators attempted to combat bias by repeatedly telling participants that they were not required to follow the experts’ viewpoints.  According to the posttest survey, 23% said their opinions had been changed after hearing the experts and 50% of participants claimed to have been uninfluenced. Changing one’s opinion based on expert testimony is not, in itself, problematic; care needs to be taken, however, to ensure that the experts’ testimonies do not create bias towards certain solutions that other experts would disagree with.</p><p>The third face of the project has been criticized for its lack of transparency. Although it produced a much more concrete and unambiguous end product, some have suggested that it would have been better to finish after the Citizens’ Summit.</p><h3><strong>Sources and Links</strong></h3><p><strong>Organizations:</strong><br /><a href="http://www.foundationfuturegenerations.org">The Foundation for Future Generations</a><br /><a href="http://www.foundationfuturegenerations.org/fr/projet/g1000-le-sommet-des-citoyens">Page on the G1000</a> [French]<br /><a href="http://www.foundationfuturegenerations.org/nl/project/g1000-de-top-van-de-burgers">Page on the G1000</a> [Dutch]<br /><a href="http://www.g1000.org">G1000 Website</a><br />G<a href="http://www.vormingplusantwerpen.be/icms/web/php/index.php?pag_id=220714">-Off in Antwerp</a> [BROKEN LINK]</p><p><strong>Final report (PDF):</strong><br /><a href="http://www.g1000.org/documents/G1000_EN_Website.pdf">English</a><br /><a href="http://www.g1000.org/documents/G1000_NL_Website.pdf">Dutch</a><br /><a href="http://www.g1000.org/documents/G1000_FR_Website.pdf">French</a><br /><a href="http://www.g1000.org/documents/G1000_DE_Website.pdf">German</a></p><p><strong>News and Articles </strong><br /><a href="http://www.rethinkingbelgium.eu/rebel-initiative-files/events/seventh-public-event-g1000-european-citizens-initiative-malaise-democracy/G1000-Background-Paper.pdf">Caluwaerts, Didier and Reuchamps, Min. “The G1000:  Facts, Figures, and Some Lessons from an Experience of Deliberative Democracy in Belgium.”</a> <br /><a href="https://www.youtube.com/watch?v=jQiLQLMFWKQ">“It’s not the G20, it’s the G1000!”  Europe Weekly. November 11, 2011. </a><br /><a href="http://www.deliberative-democracy.net/index.php?option=com_content&amp;view=article&amp;id=178:g1000&amp;catid=1:general&amp;Itemid=68">Vermeersch, Peter. “G1000: Deliberative Democracy in Belgium.”  Deliberative-Dmeocracy.net.  November 2, 2011. </a></p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/deliberative-democracy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">deliberative democracy</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A45">Immigration</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1587">Political Representation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A627">Social Security</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1584">Distribution of Wealth</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A907">immigration</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1585">Health Care</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1586">Labor and Unemployment</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Brussels      </span>
+              ,                     <span class="region" itemprop="addressRegion">BRU</span>
+              <div class="country-name" itemprop="addressCountry">Belgium</div>
+                                            <span class="geo"><abbr class="latitude" title="50.850340">50° 51' 1.224" N</abbr>, <abbr
+            class="longitude" title="4.351710">4° 21' 6.156" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.be?q=%2C+Brussels%2C+%2C+be">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Brussels        BE      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A110">Protest</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, June 10, 2011 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, November 11, 2012 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">1 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A120">Low-Income Earners</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A121">Racial/Ethnic Group(s)</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/21st-century-town-meeting">21st Century Town Meeting</a></div><div class="field-item odd"><a href="/en/methods/consensus-conference">Consensus Conference</a></div><div class="field-item even"><a href="/en/methods/online-consultations">Online Consultations</a></div><div class="field-item odd"><a href="/en/methods/online-voting">Online Voting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A172">Other</a></div></div></div><div class="field field-name-field-facilitation-type-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Facilitation:&nbsp;</div><div class="field-items"><div class="field-item even">Interpreters</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-funding-entity-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Funding:&nbsp;</div><div class="field-items"><div class="field-item even">Crowdfunding</div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">The Foundation for Future Generations</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-fbd5c0aa80021986d7bb31f889f4766e">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/485">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/conversation-cafes" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/184" />
+  <title>Conversation Cafes | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"6EA0AFNucs_HC0Paw5ol1aNtWjjoc1emENau72sOyvY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/conversation-cafes?destination=node\/184":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-184 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/conversation-cafes" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/conversation-cafes?destination=node/184" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-J9aoX_S8naktEVyDhd7nKUKoMeBr0CTB64KuKogIK-0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Conversation Cafes</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Conversation Cafes - Participedia" addthis:url="http://participedia.net/en/methods/conversation-cafes"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 7 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/yunakim" title="View user profile." class="username" xml:lang="" about="/en/users/yunakim" typeof="sioc:UserAccount" property="foaf:name" datatype="">Yuna Kim</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Definition" id="Definition"></a><h2> Definition </h2>
+<p>Conversation Cafes are openly hosted conversations in local coffee shops, but are also widely entertained inside, but not limited to, restaurants, conference rooms, churches, and classrooms. This participatory method was intentionally designed in efforts to gather friends, neighbors, acquaintances, and strangers to exchange something more than "small talk" on a regular basis. The agenda is set in hopes to create stimulating conversations among a diverse set of minds who have a common goal to not only express their own preferences, but to further explore, develop, and possibly rehabilitate their own opinions through the engagement with others in their community. <a href="#cite_note-conversation_cafe-0" title="">[1]</a>
+</p><p>Conversation Cafes aim to foster a society that actively engages in important social topics, which are newly selected for each gathering, by creating a temporary environment that promotes--through mild facilitation--certain conversational etiquette, including open-mindedness, acceptance, curiosity, discovery, sincerity, and brevity. <a href="#cite_note-conversation_cafe-0" title="">[1]</a> The project addresses the need to escape the crippling dangers of a repressive society, and attempts to increase social intelligence through the construction of social capital, thus generating social engagement. <a href="#cite_note-participation-1" title="">[2]</a> From this practice of the "Socratic tradition" of respectful dialogue, these Conversation Cafes aspire to build a more enlightened--and thus wiser--democracy. The minimal, simplistic, and undemanding structure of its agenda allows for this hosted event to seem feasible for anyone and everyone to become a part of the small group, transforming interpersonal communication from trivial topics to conversations that matter. The goal is not to refine answers, pick out flaws, and decide on a list of solutions from a pool of ideas, but rather to listen respectfully, cultivate individual ideas and vocalize them, and suspend judgements about others in the process.
+</p>
+<a name="Process" id="Process"></a><h2> Process </h2>
+<p>The process of Conversation Cafes follows a conventional outline. In its inception, hosts assemble up to 10 people and generally have a topic or theme selected prior to the event. As a part of the introduction, the host explains the Conversation Cafe agreements, which promote respect, suspends judgment, seeks understanding and new insights rather than persuasion, sharing of personal testimonies and honesty. <a href="#cite_note-conversation_cafe-0" title="">[1]</a> Once the conversational maxims are pledged to be adhered to by all participants, the host explains the step-by-step process of what is about to occur in the following 60-90 minutes. Furthermore, a "Talking Object" is presented, which permits only the speaker who has the Talking Object in hand to present their views, and is then passed along the circle in a timely manner (individuals are allowed to "pass" and not say anything). The Talking Object can be any miscellaneous item. 
+</p><p>Once the rules and goals of the event are unanimously understood among all participants, the host should pass out pencils and paper/index cards for people to jot down their thoughts. The conversation begins with introductions and then proceeds into round 1, where each person briefly addresses the topic at hand with no reciprocated feedback from others, using the Talking Object. Then, round 2 takes place as the Talking Object is still in a motion, with each individual further explaining in explicit detail their prior comments and thoughts, or any fresh insights they had arrived at since then. At the end of the facilitated rounds using the Talking Object, the host opens up the floor to free dialogue. At this time, groups participate in open, spirited conversation, and the Talking Object is only implemented to control contention, domination, or to redirect tangent conversations that are far from the topic at hand. To conclude, the last 5-10 minutes before the ending time is devoted to the final round, which reintroduces the Talking Object, as each person takes a moment to reflect and briefly state how their prior ways of thinking had changed, refined, or strengthened. <a href="#cite_note-participation-1" title="">[2]</a> 
+</p><p>While Conversation Cafes have this general skeletal outline of communication, there are three, narrowly defined types of conversations that can occur in response to unique circumstances: Cafe Lite (less than 45 minutes), Instant Cafe (spontaneous), and Super Cafe (large events).<a href="#cite_note-conversation_cafe-0" title="">[1]</a>
+</p>
+<a name="History" id="History"></a><h2> History </h2>
+<p>The inception of Conversation Cafes took place in the summer of 2001, in the city of Seattle, Washington. The idea was conceived by author Vicki Robin and her friends, Susan Partnow and Habib Rose. Living with the mantra that more spontaneous, casual public dialogue would better mold the critical minds that make up our democracy all the while simultaneously fostering friendly relations, each of the three Seattle women sat in a different cafe every week and began conversations with neighboring customers on important matters. Officially, on September 10, 2001, what began as a simple fostering of coffee house meetings for casual yet stimulating discussions on current issues amongst customers continued on into what is now recognized as Conversation Cafes. 
+</p><p>From that moment in history, this method of participatory deliberation spread throughout the city of Seattle and ultimately caught on in seventy cities in the U.S., Canada, and Europe. New Road Map Foundation funded the project from its primordial stages, with the Foundation for Global Community and Bob and Jacquelyn Pogue's foundation contributing large sums as well. <a href="#cite_note-conversation_cafe-0" title="">[1]</a>
+</p><p>The invention of "Conversation Week" premiered soon after, where all Conversation Cafes across the world pondered over the same topic for one week each year. Through this global communication and exchange of ideas, a sense of patriotic unity emerged. Co-founders Vicki and Susan transferred the project to Bob and Jacquelyn Pogue, who are now the head stewards of the online Conversation Cafe website. <a href="#cite_note-conversation_cafe-0" title="">[1]</a>
+</p>
+<a name="Case_Studies" id="Case_Studies"></a><h2> Case Studies </h2>
+<p>Community X-Change:
+</p><p>From 2005 to 2006, this case study that took place in the United Kingdom, analyzed the beginnings of a series of workshops where members of the public, scientists, and policy makers came together to discuss relevant issues on science. <a href="#cite_note-participation-1" title="">[2]</a> This new method for dialogue provided an isolated area of time and space in which these individuals could converse about ideas for possible actions concerning the policy of climate change. 
+</p><p>Participants were carefully selected in order to ensure a diverse range of views, and they met on a regular basis to talk about the climate change with regards to other science and technology issues. A rigor structure was provided to guide the discussions of the group. Individuals of the study attended an interactive video report at the 2006 BA Festival of Science in Norwich. <a href="#cite_note-participation-1" title="">[2]</a>
+</p><p>As for the results of the study, a majority of the members had genuinely expected that something was going to be produced from their efficient process of discourse, and that the ideas generated would be presented to decision-makers. By creating a safe, constructive space for scientists and citizens to communicate, the two compartmentalized groups found a common language to relate with. More specifically, scientists overcame their fears of a two-way engagement with the public individuals. <a href="#cite_note-participation-1" title="">[2]</a>
+</p>
+<a name="Evaluation" id="Evaluation"></a><h2> Evaluation </h2>
+<p>The minimal cost and necessities to host a Conversation Cafe makes it an appealing and inviting method of deliberation since all that is needed is an open, public space and a willing individual to host the event. <a href="#cite_note-2" title="">[3]</a>
+Other strengths regard its informality, flexibility, and its encouragement to actively listen, learn, and share different views. Weaknesses include its lack of structure and rigor, and that the activity does not lead to any particular goal except accomplishing the social deed of conversation and dialogue. <a href="#cite_note-3" title="">[4]</a>
+</p><p>In terms of its evaluation as a deliberative process, the overall analytic process of deliberation is moderately to highly successful. The introduction phase allows the time and encourages individuals to discuss personal and emotional experiences, especially those attending with not much prior legal background information regarding the topics at hand. With the opening time of silence to digest the announced topic, participants are encouraged to reflect on their own values before the speaking portion of the event begins. Beyond that, the use of the Talking Object not only regulates equal distribution of speaking time, but it also allows for those who are listening to reflect on the communicated values they hear as well as their own, as they wait for their turn to speak. Since the main goal of Conversation Cafes is to produce a free flow of ideas, suspending own opinions to bring alternative views that are often eclipsed from our own view to light, this method ideally works to generate a range of different ideas and possibilities. Furthermore, as the last stage of the method is a time where each individual reflects and has one minute to summarize their new insights, the development of refined judgments in light of what was said is the ultimate if not only goal of this deliberative method. 
+</p><p>In terms of the overall social process of deliberation, it is also fairly successful. To begin, the implementation of a Talking Object strictly ensures a balanced discussion in which no one person is denied the opportunity to speak. Each turn is evenly distributed by time. The middle round of open discussion allows for members to respond to other comments, as well as ask clarifying questions, listening carefully to each voice even in disagreement since there is no pressure to reach a consensus. The thoroughly constructed skeletal outline of the conversation leaves no room for disrespectful behaviors, but if any were to be exchanged, the presence of a host would regulate the matter. Therefore, the overall social process set in these coffee houses are cooperative and considerate in regards to each member of the small group.
+</p>
+<a name="References" id="References"></a><h2> References </h2>
+<ol class="references"><li id="cite_note-conversation_cafe-0">↑ <a href="#cite_ref-conversation_cafe_0-0" title="">1.0</a> <a href="#cite_ref-conversation_cafe_0-1" title="">1.1</a> <a href="#cite_ref-conversation_cafe_0-2" title="">1.2</a> <a href="#cite_ref-conversation_cafe_0-3" title="">1.3</a> <a href="#cite_ref-conversation_cafe_0-4" title="">1.4</a> <a href="#cite_ref-conversation_cafe_0-5" title="">1.5</a> <a href="http://www.conversationcafe.org/default.htm" class="external free" title="http://www.conversationcafe.org/default.htm" rel="nofollow">http://www.conversationcafe.org/default.htm</a> Welcome to Conversation Cafe</li>
+<li id="cite_note-participation-1">↑ <a href="#cite_ref-participation_1-0" title="">2.0</a> <a href="#cite_ref-participation_1-1" title="">2.1</a> <a href="#cite_ref-participation_1-2" title="">2.2</a> <a href="#cite_ref-participation_1-3" title="">2.3</a> <a href="#cite_ref-participation_1-4" title="">2.4</a> <a href="http://www.peopleandparticipation.net/display/Methods/Conversation+Cafes" class="external free" title="http://www.peopleandparticipation.net/display/Methods/Conversation+Cafes" rel="nofollow">http://www.peopleandparticipation.net/display/Methods/Conversation+Cafes</a> People and Participation</li>
+<li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a>  <a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=FUWNYLxbiZoC&amp;oi=fnd&amp;pg=PA1&amp;dq=conversation+cafe&amp;ots=NQDZ4PTL6z&amp;sig=DK5bErXPRwiR3PxibzDli_Tj_JQ#v=onepage&amp;q=conversation%20cafe&amp;f=false" class="external free" title="http://books.google.com/books?hl=en&amp;lr=&amp;id=FUWNYLxbiZoC&amp;oi=fnd&amp;pg=PA1&amp;dq=conversation+cafe&amp;ots=NQDZ4PTL6z&amp;sig=DK5bErXPRwiR3PxibzDli_Tj_JQ#v=onepage&amp;q=conversation%20cafe&amp;f=false" rel="nofollow">http://books.google.com/books?hl=en&amp;lr=&amp;id=FUWNYLxbiZoC&amp;oi=fnd&amp;pg=PA1&amp;dq=conversation+cafe&amp;ots=NQDZ4PTL6z&amp;sig=DK5bErXPRwiR3PxibzDli_Tj_JQ#v=onepage&amp;q=conversation%20cafe&amp;f=false</a>.
+Brown, Juanita &amp; David Isaacs. "The World Cafe: Shaping Our Futures Through Conversations That Matter”</li>
+<li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a>  <a href="http://eprints.gla.ac.uk/23/" class="external free" title="http://eprints.gla.ac.uk/23/" rel="nofollow">http://eprints.gla.ac.uk/23/</a> Buckner, K., Laurier, E., and Whyte, A. (2001). "An Ethnography of a Neighbourhood Café: Informality, Table Arrangements and Background Noise." Journal of Mundane Behaviour, 2 (2). pp. 195-232. ISSN</li></ol><a name="Secondary_Literature" id="Secondary_Literature"></a><h2> Secondary Literature </h2>
+<p>Galloway, K. &amp; S. Rabinowitz. (1992). "Welcome To 'Electronic Cafe International': A Nice Place For Hot Coffee, Iced Tea, &amp; Virtual Space." Cyber Arts. Miller Freedman, Inc., San Francisco: California. 10 pages. <a href="http://www.res-qualia.net/files/text_81.pdf" class="external autonumber" title="http://www.res-qualia.net/files/text_81.pdf" rel="nofollow">[1]</a>
+</p><p>Laurier, E., Whyte, A. and Buckner, K. (2001). "An Ethnography of a Neighbourhood Café: Informality, Table Arrangements and Background Noise. Journal of Mundane Behaviour," 2 (2). pp. 195-232. ISSN 1529-3041. <a href="http://eprints.gla.ac.uk/23/" class="external autonumber" title="http://eprints.gla.ac.uk/23/" rel="nofollow">[2]</a>
+</p>
+<a name="Links" id="Links"></a><h2> Links </h2>
+<p><a href="http://www.communityactiondialogues.org/" class="external autonumber" title="http://www.communityactiondialogues.org/" rel="nofollow">[3]</a> Community Action Dialogues
+</p><p><a href="http://www.ncdd.org/" class="external autonumber" title="http://www.ncdd.org/" rel="nofollow">[4]</a> National Coalition for Dialogue &amp; Deliberation
+</p><p><a href="http://www.theworldcafe.com/" class="external autonumber" title="http://www.theworldcafe.com/" rel="nofollow">[5]</a> The World Cafe
+</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-a9b2c8228f4b2ca463c066ab018720f9">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/184">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">3</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">10</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial Preference Aggregation</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Press Releases</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/5-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Very Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/4-often-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Often Interdependent with Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/develop-individual-capacities-eg-skills-learning" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Develop individual capacities (e.g. skills, learning)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Talking Object</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

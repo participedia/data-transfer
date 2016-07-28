@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/tomorrows-europe" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/69" />
+  <title>Tomorrow&#039;s Europe | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"dtZ3TQC-9JAdkewqaJ3BfShZo0LLnCcSB0LpWWl8q8I","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"69"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/tomorrows-europe?destination=node\/69":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-69 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/tomorrows-europe" class="language-link active" xml:lang="en" title="Tomorrow&#039;s Europe">English</a></li>
+<li class="de last"><a href="/de/faelle/tomorrows-europe-das-europa-von-morgen" class="language-link" xml:lang="de" title="Tomorrow&#039;s Europe (Das Europa von Morgen)">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/tomorrows-europe?destination=node/69" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-0HqpfeSKlBJ0VvNObDTxlz8Fwe_pscuahzpHJz9NAXw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Tomorrow&#039;s Europe</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Tomorrow&#039;s Europe</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/ychoi6" title="View user profile." class="username" xml:lang="" about="/en/users/ychoi6" typeof="sioc:UserAccount" property="foaf:name" datatype=""><span class="__cf_email__" data-cfemail="c6bfa5aea9afe8f086a1aba7afaae8a5a9ab">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> on Tue, 12/07/2010 - 06:39</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 05/20/2016 - 15:56</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Tomorrow&#039;s Europe - Participedia" addthis:url="http://participedia.net/en/cases/tomorrows-europe"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/eustar.jpg?itok=9KUdstZu" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Note: a German translation of this case is available at: <a href="http://participedia.net/en/node/2218">http://participedia.net/en/node/2218</a></em></p><p><a id="Summary" name="Summary"></a></p><h2>Summary</h2><p>Tomorrow’s Europe, categorized as Europe’s first transnational deliberative poll, was a part of the European Commission’s Plan D for Democracy, Dialogue and Debate. With an aim to stimulate democratic participation and establish a European Union that was closer to its citizens, this deliberative experiment convened 362 randomly selected citizens (of the 27 member states of the European Union) for a weekend in October (of 2007) at the European Parliament in Brussels in which to discuss various social and economic issues affecting the European Union and its member states. Through small group discussions led in over 23 different languages, sample surveys, along with a two-way communication platform system (between citizens and policymakers), citizens were able to engage in substantive debate and discussions on issues ranging from pension and retirement to the issue of enlargement. Although a worlds first in its category, Tomorrow’s Europe not only proved to be successful in employing public opinion research tools in a "new and constructive" manner, the event also set precedence for future deliberative polling methods within various nations and organizations.<a href="#1">[1]</a></p><p><a id="Problems.2C_Purpose.2C_and_History" name="Problems.2C_Purpose.2C_and_History"></a></p><h2>Problems, Purpose, and History</h2><p>On October 13, 2005, the European Commission, also known as the executive body of the European Union, introduced its Plan D for Democracy, Dialogue and Debate which arose during a “period of reflection” following the rejection of the European Constitution by French and Dutch voters earlier that year.<a href="#2">[2]</a> In an effort by heads of state to better understand the citizenry in which the EU sought to represent, Plan D was launched in order to enable member states to initiate national debates on prominent issues regarding the future of Europe. By emphasizing the importance of substantial dialogue, public debate, and civic participation, the commission allocated nearly 45 million euro in aid towards various pan-European projects and non-governmental organizations. Of the six initiatives selected, were projects such as Speak up Europe, Radio Web Europe, and Jacques Delores' Tomorrow’s Europe project.</p><p>Tomorrow’s Europe itself was a project both initiated and coordinated by Jacques Delores, the creator of Notre Europe, an independent ‘think tank’ based in Paris, France. Striving to create a “true European debate” devoid of national political distortion, this deliberative experiment convened 362 randomly selected citizens (of the 27 member states of the European Union) for a weekend at the European Parliament in Brussels in which to engage in substantive debate and discussions.<a href="#3">[3]</a> These discussions were subsistent of an array of social, economic, and foreign policy issues affecting the future of the European Union and its member states.</p><p>In essence, with an enhancement of citizen integration and cooperation, the hope behind Tomorrow’s Europe was to give citizens a voice in decisions made within the European Union. In addition, the creators presumed the event would set precedence for the creation of a cross-border democracy, enhanced participatory democracy, as well as a European Union that was closer to the citizens.</p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h2>Participant Selection</h2><p>With the aim to gather “Europe into one room,” TNS Sofres, an internationally renowned polling institute and market research center (responsible for the Eurobarometer), conducted a parallel random sampling from the 27 member states within the European Union.<a href="#4">[4]</a> The 3550 participants invited to the deliberative poll were thus determined by country in rough proportion to the size of its delegation in the actual European Parliament. With an intentional over-representation of smaller countries, this provided an equalized balance in terms of the voices present.</p><p>The initial survey and comprehensive questionnaire itself was administered between August 20-September 21 in which the 3550 citizens were queried on various socio-economic issues pertaining to the future of the European Union itself. On September 10, 2007, a subsample of 362 participants, were then invited to a weekend in Brussels, Belgium, in which to partake in a process of information and deliberation.</p><p>The demographics of the participants themselves varied significantly from those of the non-participants. Although the members were typically male, single, employed with a secondary education or higher, there were still differences, albeit minimally, in terms of the attitudes and opinions of policies. Therefore, Tomorrow’s Europe was thought to have collected a good microcosm of the EU.</p><p><a id="Deliberations_and_Decisions" name="Deliberations_and_Decisions"></a></p><h2>Deliberations and Decisions</h2><p>The Tomorrow’s Europe project commenced with an initial surveying of the 27 member states within the European Union in which the citizens were queried and polled on specific targeted issues. Following the baseline poll, 362 randomly selected participants were then invited to the European Parliament for a weekend to debate the following issues:</p><ul><li>The preservation of pension systems</li><li>Enlargement and the admittance of additional member states (Ukraine and Turkey)</li><li>The maintenance of competitiveness in an increasingly global economy</li><li>Role of the European Union in the world</li></ul><p>Prior to the date of the actual event, the participants were provided with briefing materials and substantial information in which to sufficiently prepare for the coming rigorous debates and discussions. The briefing packet, titled Tomorrow's Europe: The first-ever wide deliberative poll, provided an outline of the event, its purpose, and the structural mechanisms of the European Union. In addition, the issues (to be debated) were divided into sub-sections with an outline of the challenges, the pro’s and con’s of various approaches, and probable solutions in response to the inherent challenges presented.</p><p>When the participants convened in Brussels on October 13, 2007, the 362 citizens were able to alternate between small group discussions and plenary question and answer sessions. Within small group discussions, led by trained moderators, participants were able to engage in debates and discussions on the previously mentioned issues. The participants were then able to present their findings and opinions to a panel of policy experts and policymakers in the plenary question and answer sessions. This session was reflective of a two-way communication method system.</p><p>Various deliberative polling methods were also implemented throughout the duration of the event. By employing James Fishkins’ deliberative polling methods, Tomorrow’s Europe was able to determine the effects of deliberation through a polling of participants upon initial contact, before the invitation, upon arrival at the event, and then at the end. In addition, Tomorrow’s Europe also applied "new and constructive" ways in which to poll participants.<a href="#5">[5]</a> By utilizing mass media outlets such as internet and public research tools, Tomorrow’s Europe was successful in conducting small group discussions in over 23 languages (simultaneous translations) and were often able to broadcast parts or portions of the event on television and online.</p><p><a id="Outcomes_and_Effects" name="Outcomes_and_Effects"></a></p><h2>Outcomes and Effects</h2><p>The results of the deliberative discussions and attitudes of participants in terms of the targeted issues were as follows:</p><ul><li>In the case of retirement, the number of participants in favor of a raise in the retirement age rose from 57% to 70% after the sessions. With an acceptance that the current rules in the retirement system were flawed, 60% of the citizens thus believed that the pension system was heading for bankruptcy.</li><li>In terms of enlargement, the percentage of participants supporting a continual increase in the admittance of new member states (Turkey and Ukraine in particular) to the European Union, despite their qualifications, decreased from 65% to 60%. There was a strong consensus amongst the participants that the EU was adding members in haste, which they believed, would have adverse effects upon the unions’ ability to make critical decisions. In addition, the participants were supportive of utilizing coercion as a means to defend another EU country against attack but not to prevent genocide or removing the threat of mass weaponry.</li><li>On the topic of the EU and its role in an increasingly globalized economy, support for foreign investments as the means to maintain competitiveness rose from 58.4% to 69.3%.</li><li>In regards to the issue of EU integration, participants were in agreement that the degree of the EU’s role in the pension policy and system should be minimized and left to the individual member states. There was also much sentiment amongst the member states in terms of the incompetency of the European Union. Therefore, there was an increase from 52% to 59% favoring a larger union role on the issue of energy and an increase from 55% to 63% in diplomatic relations. (Luskin 4-8)</li></ul><p>As part of the deliberative process, the participants were able to present these findings to a panel of policy experts and policymakers during the plenary question and answer sessions.</p><p><a id="Analysis_and_Criticism" name="Analysis_and_Criticism"></a></p><h2>Analysis and Criticism</h2><p>With the commencement of the Tomorrow’s Europe project, Europe was able to begin ascending on to the world stage in terms of deliberative polling. Although the project proved to be effective in various ways, there were instances in which Tomorrow’s Europe fell short of ideal expectations.</p><p>Many questions and concerns were raised in terms of Tomorrow’s Europe and its claim as being a true representation of the EU and its member states. Although the project aimed to randomly sample citizens in proportion to the number of seats each member states held in the European Parliament, it was apparent that the proportions were invariably flawed. In terms of the initial polling conducted, Germany (the larger holder of seats with 12.6%) were underrepresented by 1.7% and the Maltese (smallest holder of seats with .6%) were over-represented by an astonishing percentage of 2.2%. Therefore, it was apparent that randomly polling the microcosm of the European Union might have been a slightly far-fetched idea.<a href="#6">[6]</a></p><p>The project itself successfully employed Fishkins’ deliberative polling method, which sought to explore the effects deliberation and enhanced knowledge had on the attitudes and opinions of the public. Although it was apparent that the polls reflected significant knowledge gains in terms of the issues discussed, it was apparent that there was insufficient evidence as to the degree of substantive information and deliberation present within the small group discussions. Dr. John Gastil stated that deliberation occurs when one is able to reflect on his or her own values, weigh the benefits and disadvantages, as a result, making a decision according to his or her best assessment (Gastil 87). Therefore, without transcripts or videos of all of the discussions (both small group discussions and question and answer sessions), it was difficult to assess the quality of information participants were basing their decisions and conclusions on.</p><p>Despite its criticisms, it was inevitably clear that significant knowledge gains were made and old and new member states were able to build consensus on a variety of overarching issues regarding the EU. By enhancing its stakes and deliberative processes, this project has great potential in establishing a stronger, more unified EU as well as foundation that will pave way for future deliberative methods and processes within Europe.</p><p><a id="References" name="References"></a></p><h2>References</h2><p><a name="1" id="1">1.</a> <a class="external free" href="http://cdd.stanford.edu/polls/" rel="nofollow" title="http://cdd.stanford.edu/polls/">http://cdd.stanford.edu/polls/</a></p><p><a name="2" id="2">2.</a> <a class="external free" href="http://www.opendemocracy.net/blog/dliberation/how_can_the_tomorrows_europe_poll_claim_to_be_representative" rel="nofollow" title="http://www.opendemocracy.net/blog/dliberation/how_can_the_tomorrows_europe_poll_claim_to_be_representative">http://www.opendemocracy.net/blog/dliberation/how_can_the_tomorrows_europe_poll_claim_to_be_representative</a></p><p><a name="3" id="3">3.</a> <a class="external free" href="http://europa.eu/legislation_summaries/institutional_affairs/decisionmaking_process/a30000_en.htm" rel="nofollow" title="http://europa.eu/legislation_summaries/institutional_affairs/decisionmaking_process/a30000_en.htm">http://europa.eu/legislation_summaries/institutional_affairs/decisionmaking_process/a30000_en.htm</a></p><p><a name="4" id="4">4.</a> <a class="external free" href="http://www.peopleandparticipation.net/display/CaseStudies/Tomorrow's+Europe,+the+first+EU-wide+Deliberative+Poll" rel="nofollow" title="http://www.peopleandparticipation.net/display/CaseStudies/Tomorrow's+Europe,+the+first+EU-wide+Deliberative+Poll">http://www.peopleandparticipation.net/display/CaseStudies/Tomorrow's+Europe,+the+first+EU-wide+Deliberative+Poll</a> [DEAD LINK]</p><p><a name="5" id="5">5.</a> <a href="http://www.neweurope.org/blog/tomorrows-europe-var-en-aegte-succes/">http://www.neweurope.org/blog/tomorrows-europe-var-en-aegte-succes/</a> [DANISH]</p><p><a name="6" id="6">6.</a> <a class="external free" href="http://www.tomorrowseurope.eu/spip.php?article169" rel="nofollow" title="http://www.tomorrowseurope.eu/spip.php?article169">http://www.tomorrowseurope.eu/spip.php?article169</a> [BROKEN LINK]</p><p><a name="7" id="7">7.</a> <a href="http://www.nationalcaucus.org/blog/2007/10/11/today-us-...-tomorrows-europe%3F">www.nationalcaucus.org/blog/2007/10/11/today-us-...-tomorrows-europe%3F</a></p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Secondary Sources</h2><p>Gastil, John. Political Communication and Deliberation. 1st ed. Thousand Oaks, CA: Sage Publications Inc., 2008. Print.</p><p>Luskin, Robert C., James S. Fishkin, Stephen Boucher, and Henri Monceau. Considered Opinions on Further EU Enlargement: Evidence from an EU-Wide Deliberative Poll. Tech. Paris, 2008. Print.</p><p>Strauss-Kahn, Dominique. BUILDING A POLITICAL EUROPE: 50 Proposals for Tomorrow’s Europe. Tech. 2004. Print.</p><p><a id="External_Links" name="External_Links"></a></p><h2>External Links</h2><p><a class="external text" href="http://www.tomorrowseurope.eu/" rel="nofollow" title="http://www.tomorrowseurope.eu/">Tomorrow's Europe Official Website</a></p><p><a class="external text" href="http://www.nationalcaucus.org/blog/2007/10/11/today-us-...-tomorrows-europe%3F" rel="nofollow" title="http://www.nationalcaucus.com/blog/2007/10/11/today-us-...-tomorrows-europe%3F">National Presidential Caucus Article on Tomorrow's Europe</a></p><p><a class="external text" href="http://cdd.stanford.edu/2007/final-report-tomorrows-europe-the-first-eu-wide-deliberative-poll/" rel="nofollow" title="http://cdd.stanford.edu/polls/docs/summary/">Final Report by the Center for Deliberative Democracy</a></p><p><a class="external text" href="http://www.speakupeurope.eu/" rel="nofollow" title="http://www.speakupeurope.eu/">Speak Up Europe</a> [GERMAN]</p><p><a class="external text" href="http://democracy.blogactiv.eu/plan-d-needed-more-than-ever-democracy-dialogue-and-debate/" rel="nofollow" title="http://democracy.blogactiv.eu/plan-d-needed-more-than-ever-democracy-dialogue-and-debate/">Democracy for Europe</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A14">Economic Development</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A102">International Trade &amp; Global Economy</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A293">Future of the European Union</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1832">Pension System</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1833">EU Integration</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Brussels      </span>
+                        <div class="country-name" itemprop="addressCountry">Belgium</div>
+                                            <span class="geo"><abbr class="latitude" title="50.850340">50° 51' 1.224" N</abbr>, <abbr
+            class="longitude" title="4.351710">4° 21' 6.156" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.be?q=%2C+Brussels%2C+%2C+be">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                BE      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A47">International</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div></div></div><div class="field field-name-field-influence-kind-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Intended Purpose(s):&nbsp;</div><div class="field-items"><div class="field-item even">Showcase Merits of Deliberative Democracy</div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, October 12, 2007 - 17:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, October 14, 2007 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">2.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">362</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/deliberative-polling">Deliberative Polling</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A144">Opinion Survey</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">European Commission</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A169">International Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A28">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/jacques-delors-institute-notre-europe">Jacques Delors Institute (Notre Europe)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Trained Moderators</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-89e2a6cb08bedb5e53184cfc1a7db0e9">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/69">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

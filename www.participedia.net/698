@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/americans-elect" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/698" />
+  <title>Americans Elect | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"6i_hO6PDktu7Xv9sYIDi5xM72fAudQtTjXA3UVypknY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/americans-elect?destination=node\/698":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-698 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/americans-elect" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/americans-elect?destination=node/698" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-r1o2vqqysAweqNUdUPvwPLa4lag9YYJEM3FFzfp4LIo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Americans Elect</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Americans Elect - Participedia" addthis:url="http://participedia.net/en/organizations/americans-elect"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/160px-Americans_Elect_Icon.png?itok=7O_tN9C2" /></span></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Nov 13 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/coltonschweitzer" title="View user profile." class="username" xml:lang="" about="/en/people/coltonschweitzer" typeof="sioc:UserAccount" property="foaf:name" datatype="">Colton Schweitzer & Tony Elia</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>Americans Elect is a nonprofit nonpartisan organization whose goal is to “fix the way we elect our leaders” by implementing the first non partisan, national online presidential primary. Americans Elect has focused on achieving three clear goals:</p><ul><li>Gaining nationwide ballot access for a third presidential ticket to compete in the 2012 race;</li><li>Holding the first ever nonpartisan secure national online primary at AmericansElect.org;</li><li>Fielding a credible, balanced, unaffiliated ticket for the 2012 presidential race.</li></ul><p> </p><h3>Problems and Purpose</h3><p><u>Purpose</u>: To offer more viable third party options to the American public.</p><p>The founders all felt that the status quo is broken; they are exasperated with partisan politics. They wanted a new solution and they felt like a radically new approach would reset the political scene. Two of their core ideas - the importance of a centrist, bi-partisan approach to the solving of our nation's problems and the possibility of an independent, unity ticket for the presidency. </p><p><u>Problems</u>: One of the many problems with Americans Elect is exposure.</p><p>The reason that the organization suspended itself until 2013 was they weren’t able to get enough American political interest in the general population for their vision. This same lack of interest eventually made them unable to champion a candidate to go on the ballot and declared “no candidate had reached the required level of national support to qualify for Americans Elect's online convention.”  Nobody had come close to meeting the minimal threshold of 10,000 votes to win the Americans Elect online primary. </p><p>Partisanship was a serious problem with the movement. Not too long after they dropped their plans to offer a third party candidate for the 2008 presidential election, they told the press that they would focus on other campaign issues. They then targeted some of their funding towards partisan advertisements in the years leading up to 2012, such as encouragement for the Simpson-Bowles commission to control deficit spending. </p><p>The group has met with skepticism within the Washington beltway because there has been a backlash of criticism based on the traditional third party argument; people see this as another way to take away disproportional votes from one of the two main parties which could create a counterproductive scenario.  The group, Americans Elect, failed to generate interest in possible campaigns from Sens. Joe Lieberman and Lamar Alexander, and its intensive outreach to a host of other prospective candidates, including former Nebraska Sens. Chuck Hagel and Bob Kerrey, didn’t yield much political “buzz” for its efforts. </p><p>Buddy Roemer, former Democratic governor from Louisiana and former Republican presidential candidate, who on a prime facie basis, fulfilled the politically expansive profile Americans Elect was seeking, topped the list of "declared candidates." He had 4,354 on-line support clicks, placing him squarely in the lead of this race, but he failed to qualify for the Americans Elect candidacy before the group withdrew from the 2012 campaign. It was common conjecture that Americans Elect leadership determined that Governor Roemer’s pedigree and maverick positions (e.g. legalized gambling) did not fit neatly into the worldviews of the organization's donors. </p><p>The most successful candidate on the "draft" side, was Ron Paul, who came the closest to the mark with 9,330 "support clicks”. Ron Paul was considered a political outlier, whose nomination would undoubtedly never have cleared American Elect’s nine-member board of directors, which Phil Ackerman put together and bestowed $5 Million in seed money.  The directors retain the right to vet and even veto the candidates to spare the organization embarrassment and even mutiny. </p><p> </p><h3>History</h3><p>The history of Americans Elect begins with Unity08, a political movement that attempted to reform the political system by giving voters a viable nonpartisan “third party option in the 2008 presidential elections." The group was created by political figures, Doug Bailey, former President Carter Chief of Staff Hamilton Jordan, former New Jersey Governor Christine Todd Whitman, and Gerald Rafshoon, and was made up of Democrats and Republicans who wanted to see a change in the status quo, transitioning away from highly polarized leadership and towards a future where Americans had more power to affect the political system.  Unfortunately, Unity08 fizzled out with time after the founders, Doug and Rafshoon, quit the team to “draft Mr. Bloomberg” as a potential candidate for President as an alternative to the 2008 election calculus.</p><p>Peter Ackerman and Kahlil Byrd established Americans Elect in 2010 as a continuation of Unity08. The goal of Americans Elect was to create the first “nonpartisan, national online presidential primary." They refined the “Field of Dreams – Build It and They Will Come” strategy to be different from the Ross Perot, Ralph Nader, John Anderson, and Theodore Roosevelt third-party models where the candidate came first, and the money and organization followed. What Americans Elect was trying to do was the reverse.  Ackerman and Bird were out to build an organization and handle the tedious task of getting the party on the ballot in every state, all in hopes of enticing an “A” List candidate. </p><p>Many were optimistic 2012 was the year because there was general unhappiness in the electorate over Congress and the legislature’s gridlock and lack of accomplishment.  To not drum up enthusiasm for a third-party in a year like this when neither candidate was prohibitively popular, was almost resignation that a third-party renaissance in American politics will continue to be put off. </p><p> </p><h3>Participant Selection</h3><p><u>Delegates:</u></p><p>Every American citizen committed to improving the political process at the Federal government can join the process.  Americans Elect delegates can be any registered voter who signs up online to choose a presidential ticket through successive rounds of Internet voting. Americans Elect’s open membership policies garnered just shy of eligible delegates to be included in the selection process. </p><p><u>Candidates:</u></p><p>Much of the attraction associated with becoming a delegate is that delegates and not party leaders have full control of who is drafted as a candidate. Their criterion for possible presidential selection included proverbial qualifications such as being a United States Senator, a president of an organization with a large member base, a ranked military officer, Governors, Cabinet portfolios, etc. Such lofty credentials qualifications were not necessary in the end because all constitutionally eligible United States citizens are permitted to run for President of the United States. </p><p><u>Nominee:</u></p><p>In order to qualify for the primary ballot, a single candidate with the qualifications listed above needed only 10,000 support clicks from ten different states. The initial phase of voting was intended to weed the competition down to six contenders.  If any ticket received a majority they would immediately become the nominee. Without that being the case, the top two individuals who received the most votes would face off in another round of voting to determine the nominee. </p><p> </p><h3>Deliberation, Decisions, and Public Interactions</h3><p>This group received substantial media coverage during the beginning of their organization. It slowly tapered off as time went on and a candidate didn’t emerge. Political movements are typically built around compelling personalities or causes, but not technology, and neither personality or causes materialized for Americans Elect. Despite widespread discontent with the two-party system and near-record numbers of people saying that they would be open to voting for a third-party candidate, the future of another major political party emerging after the failure of Americans Elect to field a viable candidate in 2012 appears impractical. </p><p>The perception in many politico circles is this was a dubious end for a group that carried a number of high-profile backers in the political strategist and donor community and who, as of earlier this month, had secured ballot access in more than half of the 50 states. Elections in a Republic like the United States are winner take all with the Electoral College, so there will be a clear victor elected, without all the coalition-building that comes with a parliamentary system. Like any other secular industry selling homogenous goods or services with a high barrier to entry like commercial aircraft, high-speed mainframe computers and political parties, usually duopolies emerge, e.g. Boeing vs. Airbus, Cray vs. IBM, Republicans versus Democrats.  The only dynamic that might not force voters into two camps may be non-secular in origin, which is something Unity08 wanted to avoid at all costs. </p><p>There are lots of small “third parties” out there, but they rarely win major elections. The few political “independents” in Congress, like Sen. Bernie Sanders of Vermont, are people who get elected not because of some structure someone else set up, but through their own political skill. And they end up caucusing with one party or the other anyway, as Senator Sanders caucuses with the Democrats. </p><p> </p><h3>Influence, Outcomes, and Effects</h3><p>There hadn’t been a credible third-party candidate since 1992 when Texas businessman, Ross Perot, garnered an impressive 19% of the popular vote and created a novel dynamic and uncertainty among the pundits in the race between President George Herbert Bush and Governor Bill Clinton.  Ross Perot also ran for president as a third-party candidate in 1996, but his backing had dwindled to only 9% of the electorate. </p><p>The defection of Bailey and Rafshoon supplanted Unity08 of much its mainstream support on behalf of a third-party strategy largely because the notion of “Draft Blomberg” was met initially with a fair amount of enthusiasm. However, a poll conducted by Quinnipiac University<a href="http://cityroom.blogs.nytimes.com/2008/01/09/poll-some-would-draft-bloomberg-for-governor/"> </a>found that 61 percent of New Yorkers thought Mr. Bloomberg had a “moral obligation” to serve out his full term, and Mr. Bloomberg’s reluctance to seize the possibility were catalysts in their “cause célèbre” to dissipate almost as fast as it was proposed. </p><p>Americans Elect tried to immediately distinguish themselves from the fractionalized 2008 Bloomberg courtship.  Right out of the gate, within its first few hours of business to select a nominee through a 2012 online primary, Americans Elect’s 360,000 delegates drafted 52 candidates for president, including well-recognized politicians such as Michael Bloomberg, Jon Huntsman, Buddy Roemer, Warren Buffett, Rahm Emanuel and Condoleezza Rice.     </p><p>What frustrated follow-on actions from advancing this impressive list was the manifest complexity of the process.  The delegates could anticipate beginning three rounds of online voting to narrow the field to six candidates.  The ultimate winner would be selected in June as the Americans Elect nominee and will appear on the ballot in November.  Their running mate would have to be a past member of the opposing political party of the nominee.  For instance, if George Stephanopoulos, a former Democrat, was the nominee, a Republican like Condoleezza Rice would be slotted as the vice-presidential candidate. That many conflicting ideologies on the same ticket projected a risky partnership; the actual task of governing for leaders who were political incompatible would result in something as dysfunctional as the Democratic or Republicans parties may do on their own.  </p><p>The result was a hardening of conventional wisdom that a third-party movement will not take much more than a pox-on-both-your-parties sentiment or a single-issue crusade for the effort to succeed. It will also require a compelling candidate and a convincing, comprehensive platform. And it will require money — perhaps several hundred million dollars — to compete with the financial power of the major parties. “This is a very, very major organizational undertaking,” said Larry Jacobs, a political scientist at the University of Minnesota. “It’s like building an army from scratch. And how you do that without significant resources — organizational resources, monetary resources, intellectual resources.” Unfortunately, in era of 30-second “sound bites,” over-complication contributed to failing to generate enough interest in the concept.  </p><p> </p><h3>Analysis and Criticism</h3><p>At first Unity08 was a “media darling” story because their premise was so simplistic and its simplicity made the idea plausible.  A group of political consultants, both Democratic and Republican, proposed a presidential ticket comprise of one candidate from each side of the partisan divide. The founders of Unity08 believed their best chance for momentum was to mine support from the prevalent dissatisfaction from the public’s view that neither the Democratic nor the Republican leaders are doing enough to put the country in the right direction.</p><p>Unity08 said it could win by stressing an outsider’s commitment to tackling problems the parties haven’t solved — partly because of the long run of divided government but also, the outsiders say, because both parties are motivated to emphasize partisanship in the cause of self-preservation. “Good and qualified people see politics as so poisonous today that they simply don’t want to participate,” explained Mark McKinnon, a former adviser to President George W. Bush and a major player in the Americans Elect movement. “It’s just damn difficult to break the iron grip of the two-party system.</p><p>The irony about Americans Elect to date is the view the only way to repair the perception of flawed democracy involves secret money. There also arises a serious question as to whether an organization whose stated aim is to participate in the presidential election — and has qualified <em>as a political party</em> on state ballots — can claim it is a nonprofit organization not required to disclose donors. Americans Elect argues that secrecy is necessary because its underwriters fear retaliation for challenging the political status quo. Its eventual nominee will comply with ordinary rules requiring disclosure and limiting contributions.</p><p>The one tangibly positive upshot of Americans Elect, is that it propelled one of its founders, Angus King, into the victor’s circle as the newest Senator from Maine.  Angus King has served earlier as an independent Governor of Maine.  True to his conviction, Senator-elect King ran as an independent candidate and earned more votes from registered Democrats than the official Democratic nominee. </p><p> </p><h3>Secondary Sources</h3><p>1.  Vogel, Kenneth P. and Abby Phillip, “Americans Elect 2012 presidential run: The third-party group has cash, but no candidate,” <u>Politico</u>, 13 January 2012, 21 October 2012, &lt;<a href="http://www.politico.com/news/stories/0112/71399.html&gt;">http://www.politico.com/news/stories/0112/71399.html&gt;</a>.</p><p> </p><h3>External Links</h3><p>2.     <u>Unity -08: The Re-United States of America</u>, &lt;<a href="http://www.unity08.com/&gt;">http://www.unity08.com/&gt;</a>.</p><p>3.     <u>Americans Elect: Pick a President, Not a Party</u>, &lt;AmericansElect.org&gt;.</p><p> </p><h3>Notes</h3><p>4. Bailey, Doug, ‘”Unity ‘08” Seeks Third Party,” <u>The Washington Post</u>, 27 June 2006, 21 October 2012, &lt;<a href="http://www.washingtonpost.com/wp-dyn/content/discussion/2006/06/15/DI2006061501406.html&gt;">http://www.washingtonpost.com/wp-dyn/content/discussion/2006/06/15/DI200...</a>.</p><p>5. Chan, Sewell, ”Time for the Mayor to Make Up His Mind,” <u>The New York Times</u>, 11 January 2008, 21 October 2012, &lt;<a href="http://cityroom.blogs.nytimes.com/2008/01/11/">http://cityroom.blogs.nytimes.com/2008/01/11/</a> time-for-the-mayor-to-make-up-his-mind/.</p><p>6. Giroux, Greg, “From CQ Weekly: Third-Party Push by Unity ’08 a Matter of Hope vs. History, <u>The New York Times</u>, 7 May 2007, 21 October 2012, &lt;<a href="http://www.nytimes.com/cq/2007/05/07/cq_2681.html?pagewanted=print&gt;">http://www.nytimes.com/cq/2007/05/07/cq_2681.html?pagewanted=print&gt;</a>.</p><p>7. Cilliza, Chris and Aaron Blake, “Americans Elect and the death of the third party movement,” <u>The Washington Post</u>, 18 May 2012, 21 October 2012, &lt;<a href="http://www.washingtonpost.com/blogs/the-fix/post/americans-elect-and-the-death-of-the-third-party-movement/2012/05/17/gIQAIzNKXU_blog.html&gt;">http://www.washingtonpost.com/blogs/the-fix/post/americans-elect-and-the...</a>.</p><p>8. Linkens, Jason, “Late Returns: Americans Elicet Candidates Still Not Doing Well,” <u>Huffington Post</u>, 2 May 2012, 21 October 2012, &lt;<a href="http://www.huffingtonpost.com/">http://www.huffingtonpost.com/</a> 2012/05/02/late-returns-candidates-not-doing-well_n_1472654.html&gt;.</p><p>9. Linkins, Jason, “Americans Elect?  More Like American’t Elect,” <u>Huffington Post</u>,15 May 2012, 21 October 2012, &lt;<a href="http://www.huffingtonpost.com/2012/05/15/  ">http://www.huffingtonpost.com/2012/05/15/  </a> americans-elect-candidate-deadline_n_518060.html&gt;.</p><p>10. Meyerson, Harold, “Don’t let Americans Elect muddy the 2012 race,” <u>The Los Angeles Times</u>, 20 March 2012, 21 October 2012, &lt;<a href="http://articles.latimes.com/2012/">http://articles.latimes.com/2012/</a> mar/20/opinion/la-oe-meyerson-americans-elect-20120320&gt;.</p><p>11. Marcus, Ruth, “Americans Elect: A wild card for the Internet age,” <u>The Washington Post</u>, 27 December 2011, 21 October 2012,&lt;<a href="http://www.washingtonpost.com/opinions/americans-elect-a-wild-card-for-the-internet-age/2011/12/27/gIQAPYlILP_story.html&gt;">http://www.washingtonpost.com/opinions/americans-elect-a-wild-card-for-t...</a>.</p><p>12. Douthat, Ross, “The Third Party Fantasy,” <u>The New York Times</u>, 15 May 2012, 21October 2012,&lt; <a href="http://campaignstops.blogs.nytimes.com/2012/05/15/the-third-party-fantasy/&gt;">http://campaignstops.blogs.nytimes.com/2012/05/15/the-third-party-fantasy/&gt;</a>.</p><p>13. Linkins, Jason, “Americans Elect Having Trouble Finding Americans Who Want to Elect,” <u>Huffington Post</u>,  27 March 2012, 10 November 2012, &lt;<a href="http://www.huffingtonpost.com/2012/03/27/americans-elect-">http://www.huffingtonpost.com/2012/03/27/americans-elect-</a> candidate_n_1383441.    html&gt;.</p><p>14. Avlon, John, “2012’s New Contenders,” <u>The Daily Beast</u>,  29 September 2011, 10 November 2012, &lt;<a href="http://www.thedailybeast.com/articles/2011/09/29/americans-elect-a-new-way-to-pick-a-president.html&gt;">http://www.thedailybeast.com/articles/2011/09/29/americans-elect-a-new-w...</a>.</p><p>15. Feldman, Linda, “Why Americans Elect failed to find a presidential candidate,” <u>The Christian Science</u>, 18 May 2012, 10 November 2012, &lt;<a href="http://www.csmonitor.com/">http://www.csmonitor.com/</a> USA/DC-Decoder/Decoder-Wire/2012/0518/Why-Americans-Elect-failed-to-find-a-presidential-candidate&gt;.</p><p>16. Stafford, Michael, “A Christian alternative to America’s broken political duopoly,” <u>ABC Religion and Ethics</u>, 25 January 2012, 10 November 2012, &lt;<a href="http://www.abc.net.au/religion/articles/2012/01/25/3415799.htm&gt;">http://www.abc.net.au/religion/articles/2012/01/25/3415799.htm&gt;</a>.</p><p>17. 6.     “Draft your nominee for president,” <u>SFGate</u>, 2 February 2012, 10 November 2012, &lt;<a href="http://blog.sfgate.com/opinionshop/2012/02/02/draft-your-nominee-for-president/&gt;">http://blog.sfgate.com/opinionshop/2012/02/02/draft-your-nominee-for-pre...</a>.</p><p>18. Cilliza, Chris.“Independent Angus King wins Maine Senate race,” <u>The </u><u>Washington Post</u>, 5 November 2012, 10 November 2012,&lt;<a href="http://www.washingtonpost.com/blogs/the-fix/wp/2012/11/06/independent-angus-king-wins-maine-senate-race/&gt;">http://www.washingtonpost.com/blogs/the-fix/wp/2012/11/06/independent-an...</a>.     </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Americans Elect Headquarters</span>
+              <div class="street-address">
+        <span itemprop="streetAddress">1901 Penn Avenue NW, Suite 1000</span>
+              </div>
+              <span class="postal-code" itemprop="postalCode">20006</span>
+              <span class="locality" itemprop="addressLocality">
+      Washington      </span>
+              ,                     <span class="region" itemprop="addressRegion">DC</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                            <span class="geo"><abbr class="latitude" title="38.900691">38° 54' 2.4876" N</abbr>, <abbr
+            class="longitude" title="-77.043813">77° 2' 37.7268" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=38.900691+-77.043813+%281901+Penn+Avenue+NW%2C+Suite+1000%2C+Washington%2C+DC%2C+20006%2C+us%29">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        District Of Columbia        US      </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Peter Ackerman </div></div></div><div class="field field-name-field-pt-staff-count field-type-text field-label-above"><div class="field-label">Part-time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">100+</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/political-institutions-eg-constitutions-legal-systems-electoral-systems" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

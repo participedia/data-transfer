@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/institute-common-good" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/205" />
+  <title>Institute on the Common Good | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"9Lq_5KnVvNjhjDrtp_Hut6F4uY-xquHvAEOknrferdk","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/institute-common-good?destination=node\/205":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-205 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/institute-common-good" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/institute-common-good?destination=node/205" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-k1OcOqggHcUSGStD8c3R27I8C3WsYN540izSsqo6W2U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Institute on the Common Good</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Institute on the Common Good - Participedia" addthis:url="http://participedia.net/en/organizations/institute-common-good"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/ICG_color_logo_2.jpg?itok=GeXlE-mR" /></span></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 9 '09</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/icgregis" title="View user profile." class="username" xml:lang="" about="/en/users/icgregis" typeof="sioc:UserAccount" property="foaf:name" datatype="">Icgregis</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The Institute on the Common Good at Regis University is an organization located on the Regis University campus in Denver, Colorado. The Institute on the Common Good's mission is to serve "the community at-large by promoting the common good and providing a safe and effective space for community dialogue, communal discernment, and public deliberation" using the tools of "Dialogue. Discernment. Democratic Deliberation."<a href="#cite_note-The_ICG_Website-0" title="">[1]</a> The Institute on the Common Good seeks to build strong communities, create dialogue within communities in order to foster improved community relationships and build trust, and to provide a safe and engaging environment for deliberative discussions. Additionally, The Institute on the Common Good sponsors various events such as workshops, panel discussions,speaking engagements, and forums. The Institute on the Common Good is heavily influenced by Jesuit philosophy as well as the Catholic social ethos.</p><h2>Contents</h2><ul><li class="toclevel-1"><a href="#MIssion_and_Purpose">1 MIssion and Purpose</a><ul><li class="toclevel-2"><a href="#Philosophy">1.1 Philosophy</a></li></ul></li><li class="toclevel-1"><a href="#History">2 History</a></li><li class="toclevel-1"><a href="#Major_Projects_and_Events">3 Major Projects and Events</a><ul><li class="toclevel-2"><a href="#Public_Deliberation_Initiative">3.1 Public Deliberation Initiative</a></li><li class="toclevel-2"><a href="#The_Homelessness_Dialogue_Project">3.2 The Homelessness Dialogue Project</a></li><li class="toclevel-2"><a href="#Notable_Speakers">3.3 Notable Speakers</a></li></ul></li><li class="toclevel-1"><a href="#Publications">4 Publications</a></li><li class="toclevel-1">5<a href="#References"> References</a></li><li class="toclevel-1">6<a href="#External_Links"> External Links</a></li></ul><p><a id="MIssion_and_Purpose" name="MIssion_and_Purpose"></a></p><h2>MIssion and Purpose</h2><p>The Institute on the Common Good's mission is to "to help individuals and groups engage one another more effectively as they seek to forge their common destiny."<a href="#cite_note-The_ICG_Website-0" title="">[1]</a> The primary means by which they endeavor to achieve this goal is through community dialogue and deliberation. The ICG also sponsors several speaking engagements, forums, and events aimed at fostering dialogue and encouraging deliberation in order to improve the common good.</p><p><a id="Philosophy" name="Philosophy"></a></p><h3>Philosophy</h3><p>The philosophy of The Institute on the Common Good finds its roots in the teachings of St. Ignatius of Loyola, particularly his three core values: finding God in all things, good intentions, and the will to be changed or transformed by others. Additionally, the ICG's philosophy is further informed by the four key concepts derived from the tradition of Catholic social teaching. These are:</p><ul><li>Human Dignity: The inherent belief in the dignity of the human person.</li><li>Common Good and Community: The human person is both sacred and social, growing and achieving fulfillment only in community.</li><li>Subsidiarity and Participation: Individuals have a right to fully participate in decisions made on issues relevant to them, and giving a voice to the most vulnerable members of society is a key moral duty.</li><li>Rights and Responsibilities: Society can only function if the fullest level of human rights are recognized and members recognize their rights and well as their responsibilities to their own welfare and the welfare of others.<a href="#cite_note-The_ICG_Website-0" title="">[1]</a></li></ul><p>The Institute on the Common Good endeavors to merge these philosophical tenets with "the latest research in the emerging field of dialogue."<a href="#cite_note-The_ICG_Website-0" title="">[1]</a></p><p><a id="History" name="History"></a></p><h2>History</h2><p>The Institute on the Common Good was founded in 1998 by Regis University President Father Michael J. Sheeran, S.J.. Father Sheeran had long sought to create a community outreach arm of the University and thus founded the Institute "based on his conviction that important issues can be resolved and societal changes can occur if people gather together and speak honestly with one another."<a href="#cite_note-The_ICG_Website-0" title="">[1]</a></p><p>Father Sheeran's interest in dialogue and deliberation originated from his participation in a dialogue between the New York president of the NAACP and several local business and labor leaders at the height of the civil rights movement, in the New York office of the Jesuit magazine America, for which Sheeran worked. Although these groups mistrusted one another, they were able to "create a set of priorities that helped convince Civil Rights leaders that New York business and labor leaders were committed to working together," preventing a potentially violent dispute from erupting.<a href="#cite_note-The_ICG_Website-0" title="">[1]</a></p><p>In 1993, Father Sheeran hosted the first meeting between President Bill Clinton and Pope John Paul II. Despite their differences on a whole host of issues, the meeting resulted in an agreement to cooperate on sending aid to Muslim countries, and a promise by the Pope to use his influence to encourage peace in Yugoslavia.</p><p>It was from these two historic experience on the power of dialogue that Father Sheeran gained the impetus to create The Institute on the Common Good.</p><p>Father Richard Dunphy, S.J. was named the Institute’s first director in 1998 and served until 2001. The directorship was then handed over to Dr. Paul Alexander, who is also the director of the Master of Nonprofit Management Master’s degree at Regis University, and serves as director to the present day.</p><p><a id="Major_Projects_and_Events" name="Major_Projects_and_Events"></a></p><h2>Major Projects and Events</h2><p>The Institute on the Common Good's primary purpose is to provide speaking engagements, forums, and community outreach through the numerous events and initiatives it sponsors each year. Rather than merely researching dialogue and deliberative techniques as an academic exercise the Institute on the Common Good "is unique in that it actively partners with groups engaged in community life. These projects take many forms and include public and private dialogues, initiatives, educational programs, speakers, and collaboration and partnerships with a large variety of civic and social organizations."<a href="#cite_note-The_ICG_Website-0" title="">[1]</a> Some notable examples include:</p><p><a id="Public_Deliberation_Initiative" name="Public_Deliberation_Initiative"></a></p><h3>Public Deliberation Initiative</h3><p>In the Spring of 2006, The Institute on the Common Good formed a partnership with the Council of Public Policy Education to create the Public Deliberation Initiative. The purpose of this initiative is to "offer workshops, forums and other activities based on a the National Issues Forums approach to discussing critical community and national issues."<a href="#cite_note-The_ICG_Website-0" title="">[1]</a> Additionally, the Public Deliberation Initiative is aimed at NIF moderator training and working with state, national, and international organizations to create and foster deliberative forums based on the NIF model.</p><p><a id="The_Homelessness_Dialogue_Project" name="The_Homelessness_Dialogue_Project"></a></p><h3>The Homelessness Dialogue Project</h3><p>In September of 2006 The Institute on the Common Good partnered with the Center for Civic Ethics at Denver University and the Capitol Hill United Neighborhoods to create the Homeless Dialogue Project. The purpose of this project was to bring the homed and the homeless together as neighbors to discuss the serious issues surrounding homelessness, and to create a forum through which deliberation about alternative policy options could take place.</p><p><a id="Notable_Speakers" name="Notable_Speakers"></a></p><h3>Notable Speakers</h3><p>In addition to sponsoring forums and initiatives, the Institute on the Common Good seeks to provide the student body of Regis University and the Denver community at large with a diverse range of world-renowned speakers as a fresh avenue of education, and as a means of creating dialogue about important national and international issues. The Institute on the Common Good has made it a tradition to invite Nobel Peace Prize Winners to speak, and, altogether, 13 Nobel laureates have spoken at Regis since 1996. Examples of such speakers include:</p><ul><li>President Lech Walesa, leader of the Polish Solidarity movement,</li><li>Gail Collins, New York Times Columnist,</li><li>Betty Williams of Northern Ireland, Nobel Peace Prize Winner,</li><li>David Trimble of Northern Ireland, Nobel Peace Prize Winner,</li><li>His Holiness, The Dalai Lama of Tibet,</li><li>Nobel Peace Laureate Archbishop Desmond Tutu of South Africa,</li><li>President Oscar Arias of Costa Rica,</li><li>Robert Bellah a Professor of Sociology at the University of California-Berkley,</li><li>Elizabeth Dole, former President of the American Red Cross and former US Senator,</li><li>Sister Helen Prejean, Author of Dead Man Walking,</li><li>Elie Wiesel, Holocaust survivor and author.<a href="#cite_note-The_ICG_Website-0" title="">[1]</a></li></ul><p><a id="Publications" name="Publications"></a></p><h2>Publications</h2><p>The Institute on the Common Good publishes a biannual electronic newsletter which can be found in PDF format in their <a class="external text" href="http://www.icgregis.org/index.cfm/id/19/Newsletter" rel="nofollow" title="http://www.icgregis.org/index.cfm/id/19/Newsletter">newsletter archive.</a> The newsletter details upcoming events, information about current and past initiatives, tips for effective dialogue, guest columns, and musings from the Director.</p><p><a id="References" name="References"></a></p><h2>References</h2><ol class="references"><li id="cite_note-The_ICG_Website-0">↑ <a href="#cite_ref-The_ICG_Website_0-0" title="">1.0</a> <a href="#cite_ref-The_ICG_Website_0-1" title="">1.1</a> <a href="#cite_ref-The_ICG_Website_0-2" title="">1.2</a> <a href="#cite_ref-The_ICG_Website_0-3" title="">1.3</a> <a href="#cite_ref-The_ICG_Website_0-4" title="">1.4</a> <a href="#cite_ref-The_ICG_Website_0-5" title="">1.5</a> <a href="#cite_ref-The_ICG_Website_0-6" title="">1.6</a> <a href="#cite_ref-The_ICG_Website_0-7" title="">1.7</a> <a href="#cite_ref-The_ICG_Website_0-8" title="">1.8</a> <a class="external text" href="http://www.icgregis.org" rel="nofollow" title="http://www.icgregis.org">The ICG Website</a></li></ol><p><a id="External_Links" name="External_Links"></a></p><h2>External Links</h2><ul><li><a class="external text" href="http://www.facebook.com/home.php?#/group.php?gid=2524177056" rel="nofollow" title="http://www.facebook.com/home.php?#/group.php?gid=2524177056">ICG Facebook Group</a></li><li><a class="external text" href="http://www.youtube.com/user/InstituteCommonGood" rel="nofollow" title="http://www.youtube.com/user/InstituteCommonGood">ICG YouTube Channel</a></li><li><a class="external text" href="http://commongood.ning.com/" rel="nofollow" title="http://commongood.ning.com/">ICG's Ning Social Network</a></li></ul></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Denver, CO</span>
+                                                                <span class="geo"><abbr class="latitude" title="39.789821">39° 47' 23.3556" N</abbr>, <abbr
+            class="longitude" title="-105.030262">105° 1' 48.9432" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Paul Alexander</div></div></div><div class="field field-name-field-budget field-type-text field-label-above"><div class="field-label">Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">225</div></div></div><div class="field field-name-field-ft-staff-count field-type-text field-label-above"><div class="field-label">Fulltime Staff:&nbsp;</div><div class="field-items"><div class="field-item even">3</div></div></div><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/national-issues-forum">National Issues Forum</a></div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/university-or-research" typeof="skos:Concept" property="rdfs:label skos:prefLabel">University or Research</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

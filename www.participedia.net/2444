@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/2444" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/2444" />
+  <title>Der Bürgerhaushalt in Recife | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"4qjbirIWdD9RsIFPK--DRUOuOzdbnEXKuHxB9D9QbTQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/video_2col\/video_2col.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"2444"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/2444?destination=node\/2444":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2444 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/recife-participatory-budgeting" class="language-link" xml:lang="en" title="Recife Participatory Budgeting">English</a></li>
+<li class="de last"><a href="/de/faelle/der-b-rgerhaushalt-recife" class="language-link" xml:lang="de" title="Der Bürgerhaushalt in Recife">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/2444?destination=node/2444" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-AVnAqHEN53Dtd1RUbCCSaVTrl3IlXHcq9p7yP5e-kbY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Der Bürgerhaushalt in Recife</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Der Bürgerhaushalt in Recife</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Sat, 04/05/2014 - 03:51</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a> on Mon, 06/30/2014 - 14:25</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Der B&amp;Atilde;&amp;frac14;rgerhaushalt in Recife - Participedia" addthis:url="http://participedia.net/en/node/2444"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/Recife%20Brazil.jpg?itok=yNXYRPEt" /></span></div></div></div><div class="field field-name-field-images field-type-image field-label-above"><div class="field-label">Other images:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/index.php__22.jpg?itok=408tnONC" title="" class="colorbox" rel="gallery-node-2444-XqyUxfYC9AY"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/index.php__22.jpg?itok=OiwtuZcg" width="40" height="40" alt="" title="" /></a></div><div class="field-item odd"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/index.php2__8.jpg?itok=U2H2-7ui" title="" class="colorbox" rel="gallery-node-2444-XqyUxfYC9AY"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/index.php2__8.jpg?itok=MZRgA4_Q" width="40" height="40" alt="" title="" /></a></div><div class="field-item even"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/index.php3__5.jpg?itok=lRDkTUez" title="" class="colorbox" rel="gallery-node-2444-XqyUxfYC9AY"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/index.php3__5.jpg?itok=szbPSZxP" width="40" height="40" alt="" title="" /></a></div><div class="field-item odd"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/index.php4__4.jpg?itok=0EX0AHw5" title="" class="colorbox" rel="gallery-node-2444-XqyUxfYC9AY"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/index.php4__4.jpg?itok=IYy_nfMw" width="40" height="40" alt="" title="" /></a></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+
+
+</p><p>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Fallstudie, die von Hollie Russon Gilman am 24.05.2011 verfasst wurde. Die Originalversion ist abrufbar unter <a href="http://participedia.net/en/cases/recife-participatory-budgeting">http://participedia.net/en/cases/recife-participatory-budgeting</a>.</p><p><em>Beachte: Eine weitere Version dieser Fallstudie kann als Dateianhang mit dem Präfix "VD" aufgerufen werden. Diese alternative Version wurde bei </em><a href="http://www.vitalizing-democracy.org/">Vitalizing Democracy</a><em> als Bewerber um den 2011 Reinhard Mohn Preis eingereicht.</em></p><p> </p><p>In Recife, Brasilien, sind die Gemeindemitglieder seit 2001 daran beteiligt, über die Entwicklung der Stadt mitzuentscheiden.  Von den 1.6 Millionen Einwohnern sind seitdem mehr als 100,000 Erwachsene und junge Menschen in lokalen Foren zusammen gekommen oder haben sich über das Internet geäußert um Politikziele zu bestimmen, neue Programme vorzuschlagen und die Implementierung von Gemeindeaktivitäten zu überwachen. Weiterhin organisiert die Stadt Foren zu speziellen Themen, die es den Einwohnern erlauben, Prioritäten zu 15 verschiedenen Politikfeldern wie Kultur, Bildung, oder Senioren- und Jugendangeboten zu identifizieren. Bisweilen kommen Schüler hinzu, um Vorschläge zur Verbesserung ihrer schulischen Erfahrung zu machen und dabei mitzuhelfen, ihre Ideen umzusetzen.</p><p>Während des gesamten Jahres animieren Angestellte der Stadt und Freiwillige in jeder Nachbarschaft, die Bürger dazu sich zu engagieren. Recifes Bewohner wählen Delegierte, die den partizipatorischen Prozess vom Anfang bis zum Ende kontrollieren und sogar dabei helfen, das Budget der Stadt festzulegen. Seit die partizipative Haushaltsplanung 2001 ins Leben gerufen worden ist, wurden mehr als 3.000 Projekte von den Bürgern ausgewählt und implementiert. Hierbei ging die Mehrheit des bereit gestellten Kapitals an ärmere Nachbarschaften. Nach Aussagen von Recifes Einwohnern hat sich die Situation dank der partizipativen Maßnahmen merklich verbessert, insbesondere für benachteiligte Gruppen.</p><p>2011 bekam das Projekt aus Recife die Reinhard Mohn Auszeichnung, dotiert mit einem Preisgeld in Höhe von €150,000 ($211590), verliehen von der Bertelsmann Stiftung. <a href="http://www.participedia.net/en/cases/recife-participatory-budgeting#cite_note-0">[1]</a> 11.600 Deutsche, die repräsentativ gemäß gesellschaftlicher Strukturen in Deutschland ausgewählt wurden, waren dazu eingeladen online für einen von sieben Finalisten abzustimmen, die aus seiner Liste von ursprünglich 123 Programmen und Projekten ausgewählt worden waren. <a href="http://www.participedia.net/en/cases/recife-participatory-budgeting#cite_note-1">[2]</a></p><p><strong>Problemstellung und Zweck</strong></p><p>Nach brasilianischen Finanzgesetzen muss die Exekutive der Legislative den Budgetvorschlag jedes Jahr zur Bewilligung vorlegen. Wie jedoch die Exekutive den Budgetplan erarbeitet, ist ihr frei gestellt. Dies ist der Ausgangspunkt für partizipative Haushaltsführung, bei der die Exekutive die Diskussion mit der Bevölkerung zu Haushaltsprioritäten sucht. Recife, im Staat Pernambuco, verfolgt partizipative Haushaltsführung nach drei Komponenten, die über den Haushaltszirkel hinweg miteinander verflochten sind: die regionale partizipative Haushaltsführung, die thematische partizipative Haushaltsführung, und die partizipative Haushaltsführung für Kinder.</p><p><strong>Geschichte</strong></p><p>Die ersten beiden Komponenten begannen mit der neuen Regierung im Jahr 2001, gefolgt von einer dritten Komponente 2002. Wie der Name schon andeutet, hat die regionale partizipative Haushaltsführung einen territorialen Fokus und soll vor allem öffentliche Ressourcen für Infrastruktur und öffentliche Projekte in den Bereichen Straßenpflasterung, Abwasser, und Wohnungswesen zuteilen. Die thematische partizipative Haushaltsführung verfolgt einen stadtweiten Ansatz um öffentliche Politik in Schlüsselfeldern und –Sektoren zu diskutieren. Zuerst ging es dabei um soziale Angebote, Kultur, Stadtentwicklung, ökonomische Entwicklung, Bildung, sowie Frauen und Gesundheit. Später wurden auch sensiblere Themen, wie Gleichheit und Menschenrechte, einbezogen. In einigen Fällen, wie zum Beispiel Brasiliens universellem Gesundheitssystem, waren die Themen auch mit anderen partizipativen Management-Strukturen verbunden. In der partizipativen Haushaltsführung für Kinder diskutieren die Schulkinder der Stadt über die Bedürfnisse ihrer Schulen, ihrer Stadt und ihrer Gemeinden. (Angelehnt an das Wahlsystem ist die Teilnahme an der regionalen und thematischen partizipativen Haushaltsführung für Einwohner ab einem Alter von 16 Jahren erlaubt).</p><p>Erfahrungen im Bereich öffentlicher Beratung sind nicht neu für Recife (das portugiesische Wort für Riff), das wegen seiner Wasserwege oft auch als das „Venedig Brasiliens“ bezeichnet wird. Schon seit 1940 gibt es Bürgerkomitees in den Nachbarschaften um über Politik zu diskutieren. In der Zeit vor dem militärischen Staatsstreich von 1964 war Recife ein Hotspot für soziale Aktionen und Diskussionen. Mit dem Übergang zur Demokratie (1978-82) eröffnete der damalige Bürgermeister eine Reihe von gemeindebasierten Service Zentren mit Verbindungen zu Gemeindeverbänden.  </p><p>Während der Veranstaltungen, die der Verfassung von 1988 voran gingen, waren die Erwartungen und Forderungen für praktische Veränderungen hoch. In vielen Teilen des Landes wurden progressive Regierungen gewählt, die sich jedoch ohne die finanziellen Ressourcen wieder fanden um den hohen Anforderungen gerecht zu werden. Im Glauben an elektorale Offenheit entschieden sich die lokalen Verwaltungen dazu, Prioritäten direkt mit den lokalen Einwohnern zu diskutieren und initiierten den Prozess, der heute als partizipative Haushaltsführung bekannt ist.</p><p>In Recife wurde ein erster Versuch der Partizipation 1993 unternommen unter dem Titel „Rathaus in der Nachbarschaft“. Der Fokus lag dabei auf Planungsprioritäten, jedoch wurde lediglich marginaler Fortschritt erzielt und die Initiative verlor während des nächsten Mandats an Schwung. Gründe dafür waren Konflikte zwischen der Legislative und der Exekutive, in denen es vor allem um den Verlust legislativer Macht, Probleme der Institutionalisierung und das Faktum ging, dass keine ernsthaften Versuche unternommen wurden, die praktischen und finanziellen Aspekte der geplanten Aktionen zu überwachen. Im Vorfeld der Wahlen im Jahr 2000 gab es eine große Debatte über die Relevanz effektiver Partizipation. Der erfolgreiche Kandidat schlug als zentralem Aspekt eines neuen demokratischen Management-Ansatzes einen neuen Prozess der partizipativen Haushaltsführung vor. Er und sein Team betrachteten die partizipative Haushaltsführung als über simple Investitionsentscheidungen hinausgehend und wollten lokale Partizipation stärken, die Mitbestimmung und soziale Kontrolle über Investitionen und das öffentliche Budget beinhält.</p><p><strong>Erstellung und Auswahl der Teilnehmer</strong></p><p>Recife’s partizipative Haushaltsführung beinhaltet drei Komponenten, die über den Haushaltskreislauf hinweg miteinander verflochten sind: Die regionale partizipative Haushaltsführung, die thematische partizipative Haushaltsführung, und die partizipative Haushaltsführung für Kinder. Die ersten beiden Komponenten begannen mit der neuen Regierung im Jahr 2001, gefolgt von der dritten 2002. Wie der Name bereits andeutet, hat die regionale partizipative Haushaltsführung einen spezifisch territorialen Fokus und beschäftigt sich vor allem mit öffentlichen Ressourcen für Infrastruktur und öffentliche Bauarbeiten in Bereichen Straßenbau, Abwasser, Wohnungswesen usw. Die thematische partizipative Haushaltsführung versucht mit einem stadtweiten Ansatz öffentliche Politik in Bezug auf Schlüsselthemen und –Sektoren zu diskutieren. Die ersten Themen waren soziale Angebote, Kultur, urbane Entwicklung, Bildung, sowie Frauen und Gesundheit. Später ging es auch um sensiblere Themen in den Bereichen von Gleichheit und Menschenrechten. Einige Fälle, wie Brasiliens universelles Gesundheitssystem, sind mit weiteren partizipativen Management Strukturen verbunden. In der partizipativen Haushaltsführung für Kinder diskutieren die Schulkinder der Stadt über die Bedürfnisse ihrer Schulen, ihrer Stadt und ihrer Gemeinden. Angelehnt an das Wahlsystem ist die Teilnahme an der regionalen und thematischen partizipativen Haushaltsführung für Einwohner ab einem Alter von 16 Jahren erlaubt.</p><p><strong>Regionale und thematische partizipative Haushaltsführung</strong></p><p>Regional</p><p>Die regionale partizipative Haushaltsführung ist das Forum für Entscheidungen in Bezug auf alle infrastrukturellen Investitionen, die momentan ungefähr zehn Prozent der gesamten Gemeindeausgaben betragen. Die regionale partizipative Haushaltsführung betont die Bedeutung lokaler Bürger und nachbarschaftlicher Beziehungen. Recife ist in sechs politisch administrative Regionen (PARs) eingeteilt.</p><p>Thematisch</p><p>Die thematischen Sitzungen der partizipativen Haushaltsführung finden in der Mitte des Zyklus‘ statt. Es gibt 15 Plenarsitzungen, die sich mit Kultur, Bildung, Sozialleistungen, männlichen afro-amerikanischen Nachkommen, weiblichen afro-amerikanischen Nachkommen, Menschenrechten, Frauen, wirtschaftlicher Entwicklung, Tourismus, Umwelt, Jugend, älteren Menschen, Behinderten, LGBT3 und Gesundheit befassen. Die thematische partizipative Haushaltsplanung betrifft die Stadt als Ganzes und die Treffen finden an leicht zu erreichenden Orten statt. Ihre Rolle besteht darin, Politikinitiativen auf stadtweiter Ebene zu entwickeln und zu diskutieren. Die Diskussionen und Entscheidungen der thematischen partizipativen Haushaltsführung beeinflussen das Gesamtbudget in vielerlei Hinsicht: Erstens, im Bereich direkte Investitionen: Vom jährlichen Gesamtinvestitionsbudget von €170 ($240) Millionen, werden €13.7 Millionen direkt durch die thematische partizipative Haushaltsplanung zugewiesen. Zweitens spielt die thematische partizipative Haushaltsplanung eine wichtige Rolle dabei, soziale Anliegen bekannt zu machen und Minderheiten Legitimität und Sichtbarkeit zu verleihen. Drittens, zusätzlich zu den direkten Investitionen der Gemeinde selbst, gibt es auch andere Einnahmequellen des Staates und der föderalen Regierungen, die sich auf €100 ($141) Millionen im 2010 Budgetplan belaufen. Ein steigender Anteil dieser Geldmittel wird für Prioritätsprogrammbereiche bereit gestellt, die sich mit den thematischen Anliegen befassen.</p><p>Acht-Schritte-Prozess</p><p>1) Informationstreffen</p><p>Die Informationstreffen finden jedes Jahr zwischen Januar und März statt um zu erklären wie die partizipative Haushaltsführung funktioniert und um Teilnahme zu fördern. Die Treffen finden in den Gemeinden statt, nachdem die Einwohner sie entweder direkt beantragen oder sie von Angestellten des öffentlichen Sektors initiiert werden. Die Koordinatoren der Haushaltsplanung können zu den Treffen eingeladen werden um den Prozess zu erklären. Die Treffen variieren in der Größenordnung von 20 bis 200 Teilnehmer. Der 2010 mobilisierte ungefähr 8000 Menschen.</p><p>2) Registrierung von Forderungen für den Regionalen Prozess partizipativer Haushaltsplanung</p><p>Während der zweiten Phase, die normalerweise zwischen April und Mai stattfindet, reichen Gruppen von mindestens zehn Bürgern Forderungen ein. Jede Gruppe kann nur bis zu zwei territorial-basierte Forderungen stellen, die sich in verschiedenen thematischen Bereichen befinden (z.B. Bildung und Straßenbau, Wohnungswesen und Abwasser, ökonomische Entwicklung und Gesundheit, usw.). Diese werden dann von den Koordinatoren auf finanzielle, technische und institutionelle Umsetzbarkeit untersucht und genehmigt. 2010 wurden circa 600 Anfragen registriert, von denen die meisten validiert und zur Wahl zugelassen wurden.</p><p>3) Regionale Plenarsitzungen</p><p>a. Der erste Zyklus regionaler Plenarsitzungen wird im Juni und Juli abgehalten. Diese finden auf mikroregionalem Level statt und können in ihrer Anzahl variieren, je nach Größe, Organisation und geographischer Reichweite jeder Mikroregion. Einwohner können sich in jeweils einer Mikroregion registrieren und wählen (unter Angabe ihrer nationalen Identifikationsnummer). Jede der 18 Mikroregionen wählt die zehn Projekte, die von den Bürgern am wichtigsten erachtet werden, sodass es schließlich insgesamt 180 Projektvorschläge gibt. Nachdem die Top 10 Vorschläge für jede Mikroregion bekannt sind, beginnt die elektronische, geheime Abstimmung. Jeder Mikroregion werden zwei elektronische Wahlkabinen zur Verfügung gestellt und Einwohner, die nicht in der ersten Wahlrunde teilnehmen konnten, sind dazu eingeladen, für einen der zehn Vorschläge ihrer Mikroregion zu stimmen. Dabei wird eine Hierarchie von Dringlichkeit und Wichtigkeit erstellt. Die elektronische Kabinenwahl begann vor drei Jahren und ist Teil der Evolution und Erweiterung der traditionellen partizipativen Haushaltsführung durch das Internet.</p><p>b. Die thematischen Plenarsitzungen finden normalerweise Ende Juli statt und haben einen etwas anderen Zyklus, der mit Treffen und Diskussionen in der zweiten Hälfte des vorherigen Jahres beginnt. Die Delegierten des vorigen Jahres treffen sich um die sechs wichtigsten Themen für jeden inhaltlichen Bereich zusammenzufassen, über die dann während der Plenarsitzungen diskutiert und abgestimmt wird. Drei Prioritäten werden ausgesucht und neue Delegierte werden gewählt (ein Delegierter pro zehn Teilnehmer) um die Arbeit im nächsten Jahr fortzufahren.</p><p>4) Die Foren der Delegierten</p><p>Im August, nachdem die Abstimmung beendet ist, werden die thematischen und regionalen Foren der partizipativen Haushaltsführung initiiert. Diese Foren bestehen aus allen gewählten Vertretern und kommen einmal im Monat zusammen. Die regionalen Foren wählen zwei Vertreter pro Mikroregion um als Koordinatoren des Forums und zwei weitere um als Rat der partizipativen Haushaltsplanung zu wirken. Die Koordinatoren des Forum aller Mikroregionen werden begleitet von einem Mitglied der Gemeindeverwaltung, die als Vermittler für und während der Dikussionen mit der Exekutive da sind, was beinhält das Sekretariat und die Abteilungsleitung zu Treffen einzuladen, wenn dies nötig sein sollte. Die Foren überwachen und verfolgen die Investitionen und Deliberationen im Rahmen der partizipativen Haushaltsplanung, nicht nur für den Zyklus, für den die Vertreter gewählt worden sind, sondern auch für Entscheidungen aus vorausgegangenen Zyklen. Sie stellen eine wichtige Verbindung zwischen den Bürgern und lokalen Verwaltung dar, die über die Kontrolle der partizipativen Haushaltsführung hinaus geht, um Fragen in Bezug auf die Bereitstellung öffentlicher Güter und Plätze aufzuwerfen. Auf ganz ähnliche Art und Weise haben auch die thematischen Foren eigene Forumskoordinatoren und Räte.</p><p>5) Der Stadtrat der partizipativen Haushaltsplanung</p><p>Dieser Rat ist der Grundpfeiler der Struktur der partizipativen Haushaltsplanung. Er besteht aus zwei Vertretern jedes mikroregionalen und thematischen Forums sowie aus einem Delegierten jedes beratenden kommunalen Management-Rats für öffentliche Politik, mandatiert von der Verfassung. Der Rat ist verantwortlich für Diskussion und Entwicklung des Budget-Matrix-Vorschlags, das die unterschiedlichen Vorschläge, die während des Prozesses präsentiert werden, miteinander in Einklang bringt.</p><p>6) Abstimmung zum Budget-Matrix-Vorschlag</p><p>Während der fünften Phase, die von August bis September stattfindet, nimmt der so genannte Budget-Matrix-Vorschlag während verschiedener Treffen und Diskussionen Gestalt an. Auch der Rat der partizipativen Haushaltsplanung arbeitet an dem Vorschlag, wobei er in permanentem Kontakt mit den Regionen und thematischen Versammlungen durch deren Vertreter bleibt, sowie auch mit den unterschiedlichen kommunalen Sekretariaten, insbesondere dem Finanzsekretariat. Nachdem er fertig gestellt wurde, wird über den Budget-Matrix-Vorschlag vom Rat abgestimmt.</p><p>7) Überzeugung des kommunalen Stellvertreters der Gesetzgebung</p><p>Phase sechs findet in jedem Jahr zwischen Oktober und November statt. Zwischen fünf und sieben Räte der Haushaltsplanung werden ausgewählt um den Vorschlag dem kommunalen Gesetzgebungsrat zu präsentieren und ihn davon zu überzeugen, dass der Vorschlag dem Willen der Bürger entspricht. Obwohl dies der formelle Zeitpunkt ist, an dem die Legislative den Budgetvorschlag erhält, ist es nicht das erste Mal, dass sie von dessen Inhalt hören. Vielmehr nehmen viele Räte aktiv am Prozess der Haushaltsplanung teil, indem sie Schlüsselthemen im territorialen oder thematischen Bereich diskutieren. Dem gesetzgebenden Rat fällt die Aufgabe zu, den Budgetvorschlag zu ändern oder gar abzulehnen. </p><p>8) Deliberation zum Investitionsplan</p><p>Die siebte und letzte Phase des Kreislaufs findet im Dezember statt. Nachdem die generelle Haushaltsmatrix verabschiedet worden ist und die zehn Forderungen in jeder Mikroregion bewerten wurden, wird in den regionalen Foren damit begonnen, über Umverteilungen und die Details der spezifischen Projekte zu diskutieren. Jede Entwicklungspriorität zur Infrastruktur, zu der abgestimmt wird, wird ihr eigenes Projekt bekommen. Wenn das Projekt der Gemeinde vorgestellt wird, ist es lokalen Bewohnern erlaubt, an einer offenen Diskussion teilzunehmen und etwaige Verbesserungsvorschläge einzubringen. Während dieses Treffens wird eine Untersuchungskommission gewählt, die die Implementierung der Projekte und Aktivitäten überwachen soll.</p><p>Partizipative Haushaltsplanung für Kinder</p><p>Die partizipative Haushaltsplanung für Kinder folgt einer ähnlichen Logik, jedoch mit einem Zwei-Jahreszyklus, der mit dem Schulkalender verbunden ist. 2010 starte die Haushaltsplanung für Kinder in den fünften Zyklus. Alle 223 Grund- und Primärschulen der Gemeinde – mit insgesamt 89,000 Kindern im Alter zwischen fünf und 15 Jahren – sind involviert.</p><p>Zu Beginn jeden Zyklus‘ werden die Schulleiter über den Verlauf der Haushaltsplanung informiert und ein Koordinator (ein Lehrer oder spezieller Berater) wird in jeder Schule gewählt um den Haushaltsprozess zu beobachten. In der zweiten Phase diskutieren die Direktoren mit den Lehrern wie die Haushaltsplanung an ihrer Schule implementiert und adaptiert werden soll. Die Schüler treten dem Prozess in der dritten Phase bei. Zwei Delegierte werden von einer Liste mit gegenwärtigen Klassensprechern gewählt, um die Schule in externen Treffen zu vertreten. Im Rahmen eines pädagogischen Klassenraumansatzes, benutzen die Studenten Zeichnungen oder Texte um die Bedürfnisse und Wünsche für Schule und Stadt zu identifizieren. Diese Wünsche und Forderungen werden zusammengetragen und in der Schule diskutiert. Daraus werden dann konkretere Vorschläge erarbeitet. Nach dieser Phase können die Schüler für ihr Lieblingsprojekt abstimmen.</p><p>Die Schüler stimmen für drei Prioritäten für die Schule und drei für die Stadt. Die Schulkoordinatoren geben die drei Prioritäten an das Rathaus weiter, wo sie dann von Gemeindemitgliedern gruppiert werden um sie später in speziellen regionalen Plenarsitzungen den Schülern erneut vorzulegen. Die Schülerdelegierten widerum diskutieren die Schulprioritäten und präsentieren sie dem Bürgermeister. Sie wählen auch die Mitglieder des Schüler-Haushaltsrats. Diese Räte werden die Projektstätten besuchen und dort Delegierte des regulären partizipativen Haushaltsprozesses sowie Stellvertreter der Stadtlegislative treffen. Nachdem sie die technische, finanzielle und institutionelle Umsetzbarkeit der Vorschläge der Kinder geprüft worden ist, werden sie in den regulären Prozess eingebunden, sofern sie dort nicht schon vertreten sind. Vorschläge für die individuellen Schulen werden implementiert sobald Fördermittel dafür vorhanden sind.</p><p><strong>Einfluss, Ergebnis und Effekte</strong></p><p>Zwischen 2001 (als der Bürgerhaushalt begann) und 2010, wurde ungefähr  €220 ($310) Millionen in den Projekten ausgegeben, über die direkt durch die Haushaltsplanung entschieden worden ist. Dies beinhaltet nicht föderale und staatliche Kooperationsvereinbarungen oder internationale Förderung, die benutzt werden um Projekte und Kampagnen nach den Abstimmungen zu implementieren. Da Projekte und öffentliche Arbeit unterschiedlichen Implementierungszyklen unterliegen, überlappen Werte von einem Jahr zum nächsten. Zum Beispiel gab es Mitte 2010 ungefähr 3000 öffentliche Arbeiten sowie 77 Programme und Projekte, die implementiert wurden und deren Kosten sich auf €110 ($155) Millionen beliefen. Die öffentliche Anerkennung des partizipativen Prozesses lässt sich nicht nur in dessen Ausweitung bemessen, sondern auch daran erkennen, dass der Bürgermeister wiedergewählt worden ist (2005-2008) und dass sein Nachfolger (2009-2012) der ehemalige Sekretär, der verantwortlich für den Bürgerhaushalt war, wurde. Dieser hatte die Weiterverfolgung und Vertiefung des Bürgerhaushalts zum Schlüsselelement seines Wahlkampfs gemacht.</p><p>Viele Bürgerhaushaltzyklen in Brasilien und anderen Staaten beginnen damit, dass die Gemeindebehörden den für den Budgetzyklus zur Verfügung stehenden Betrag festlegen, der oftmals Teil des Investitionsbudgets ist. Zudem ziehen es die Behörden oft vor, über generelle Fragen anstelle von spezifischen Projekten abzustimmen (zum Beispiel ob Bildung von höherer Priorität als Gesundheit oder Wohnraum ist). Wenn diese beiden Aspekte zusammen kommen – ob intentional oder nicht – haben sie einen partizipationslimitierenden Effekt. In Recife jedoch wird ein entgegengesetzter Ansatz verfolgt, mit dem die Stadt einen kreativen, praktischen und höchst effektiven Prozess initiiert hat, der sowohl gemeindebasiert und bottom-up ist.</p><p>Nachdem die Bürger den partizipativen Prozess kennengelernt und für sich gewonnen haben, sind die Beteiligungsraten sowohl in den regionalen als auch in den thematischen Plenarsitzungen gestiegen. Dies wird zum Beispiel an der höheren Teilnehmer- und Delegiertenzahl deutlich. Außerdem werden, durch die partizipative Haushaltsplanung für Kinder, Schülern eine Stimme und die Möglichkeit gegeben, die Bedürfnisse ihrer Schulen zusätzlich zu denen der Stadt und Gemeinde auszudrücken. Dieses Programm fördert die Entwicklung von kritischen, engagierten und partizipativen jungen Bürgern.</p><p>In den meisten Fällen sind die durchgeführten urbanen Infrastruktur-Projekte die gleichen, die außenstehende Beobachter als die notwendigsten bezeichnen würden. Der Betrag, der in die jeweiligen Projekte investiert wurde, spiegelt deutlich die Präferenzen der Wähler wider, egal ob es sich dabei um lokale Entwässerung, Straßenpflasterung und –Verbesserung, Wohnungswesen, oder die Befestigung von Hanglagen handelt, oder es um Abwasser und grundlegende Kanalisationspflege, Gesundheit, Bildung, Sport, ökonomische Entwicklung oder soziale Services geht. Dies zeigt, dass die partizipative Haushaltsplanung zu einem signifikanten Teil des demokratischen Lebens in Recife geworden ist. Zudem haben der Prozess des offenen Budgets und weitreichendes ziviles Engagement zu einer besseren Verteilung öffentlicher Geldmittel geführt. Es wurden mehr Projekte in den niedrigeren HDI Gegenden als in den höheren durchgeführt (hier gibt es eine fast geradlinige Korrelation in Bezug auf das verwendete Kapital), und das Investitionsbudget als Ganzes trägt dazu bei, Entwicklungen der ungleichen territorialen Degradierung und ungleicher Entwicklungsmöglichkeiten umzukehren.</p><p>Es ist ein langer Prozess effektiven Einfluss auf die Lebensqualität zu generieren, der nicht nur das Investitionsbudget beinhält, sondern auch viele andere budgetbasierte Aktivitäten. Auch hier hilft es, dass der Budgetprozess sich nicht lediglich mit Investitionsprojekten befasst sondern auch Themen diskutiert und diese in den generellen Prozess der Haushaltsplanung einbringt. So werden vorher unverbundene Gebiete zusammengebracht und eine größere Wirkung erzielt. Entwässerung, Straßenpflasterung und das Abbauen von rutschigen Berghängen fördert die Kanalisation, was wiederum Gesundheitsrisiken reduziert und die Bewegung von Menschen und Leistungen verbessert. Das wiederum macht es einfacher für soziale Dienste und Familiengesundheitsprogramme sich in der Gemeinde zu bewegen und den Menschen zu begegnen. Die Komplexität sozialer Exklusion aufzuheben heißt auch zu realisieren, dass dies sowohl ein sozialer als auch ein materieller Prozess ist. Die partizipative Haushaltsplanung hat die Art und Weise, in der Gemeindeangestellte – insbesondere, die die auf der Straße im Einsatz sind – sich mit der Bevölkerung identifizieren geändert. Zudem bietet es einen natürlichen Eintrittspunkt für Diskussionen um aktuelle Geschehnisse und für die Weiterverfolgung von Kampagnen. Es ist nicht überraschend, dass Sozialarbeiter und andere Mitarbeiter im Bereich der lokalen Entwicklung viele Aktivitäten des Bürgerhaushalts, zusätzlich zu ihrer eigentlichen Arbeit, unterstützen.</p><p><strong>Kosten und Personal</strong></p><p>Der Bürgerhaushalt kostet die Gemeinde ungefähr €385,000 ($543,000) pro Jahr, wovon viel für Kommunikation, elektronische Wahlsysteme und die Treffen ausgegeben wird. Das Team im Büro des Bürgermeisters ist klein, wird aber von einer Reihe von Gemeindemitarbeitern unterstützt, die auf den Straßen in den verschiedenen thematischen Gebieten im Einsatz sind. 2010 waren 70 zusätzliche Angestellte involviert und 80 Freiwillige halfen im Hintergrund bei der Organisation des Forums, der Plenarsitzungen und anderer Treffen (sie halfen z.B. bei Registrierung und Wahlen, überprüften Identitäten und organisierten Dokumente und Erfrischungen wenn nötig).  </p><p><strong>Analyse und Kritik</strong></p><p>Eine Sorge in Bezug auf die Komplexität des Haushaltsprozesses in Brasilien ist, dass Gesetze zum Budget zwar Ausgaben autorisieren, aber nicht festlegen. Bürger entscheiden über Projekte, Aktionen und Prioritäten, die in einer Budgetmatrix zusammengefasst werden. Die Gemeindebehörden sind verpflichtet die Projekte und Aktionen zu implementieren, jedoch benötigen einige, wie bereits erwähnt, zusätzliche Geldmittel oder müssen mit intergouvernementalen Überweisungen verbunden werden. Andere Projekte müssen lange in der Reihe von öffentlichen Arbeiten anstehen. Das Ergebnis ist, dass Bürger große Verspätungen in der Umsetzung ihrer Prioritäten erleben. Die Situation wurde bereits verbessert, sodass der Implementationszeitraum sich nun von sechs Jahren auf drei verkürzt hat, aber es besteht immer noch die Notwendigkeit die Kommunikation in dieser Hinsicht zu verbessern. Nachdem die Projektimplementierung begonnen hat, sorgen lokale Beobachtungskommissionen dafür, dass die Kommunikation fließt. Bis dahin ist es jedoch noch immer eine Herausforderung, die Bürger darüber zu informieren, was mit ihrem präferierten Projekt aktuell geschieht.  Dies sieht man daran, dass viele Projekte Jahr für Jahr zur obersten Priorität gewählt werden.</p><p>Zweitens hat sich die Rolle von NGOs im Bürgerhaushalt seit 2001 deutlich verändert. Vor 2001 spielten sie eine Schlüsselrolle. So sorgten sie dafür, dass bestimmte lokale Themen adressiert wurden und dienten als Brücke zwischen den Behörden und der Gemeinde. Seit 2001 verfolgen sie einen direktdemokratischeren Ansatz und reduzierten ihr direktes Engagement. Zwar nicht als Vermittler, so sind sie dennoch in den thematischen Sitzungen als Repräsentanten aktiv und spielen eine Schlüsselrolle in der Sicherstellung von Transparenz und Rechenschaft. Recife muss daran arbeiten, NGOs adäquat einzubeziehen in einer Art und Weise, die es erlaubt die Integrität lokal basierter Bürgerpräferenzen im Bürgerhaushalt zu bewahren.</p><p><strong>Referenzen</strong></p><p>Siehe auch:</p><ol><li><a href="http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-EDB28C9C-AF092E90/bst_engl/hs.xsl/101086_106137.htmg" title="http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-EDB28C9C-AF092E90/bst_engl/hs.xsl/101086_106137.htmg">http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-EDB28C9C-AF092E90/bst_engl/hs.xsl/101086_106137.htmg</a></li><li><a href="http://www.participedia.net/en/cases/recife-participatory-budgeting#cite_ref-1">↑</a> <a href="http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-478202EF-14470E95/bst_engl/hs.xsl/nachrichten_105967.htmg" title="http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-478202EF-14470E95/bst_engl/hs.xsl/nachrichten_105967.htmg">http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-478202EF-14470E95/bst_engl/hs.xsl/nachrichten_105967.htmg</a></li></ol><p><strong>Sekundärquellen</strong></p><ul><li><a href="http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-EDB28C9C-AF092E90/bst_engl/xcms_bst_dms_33357_33358_2.pdf" title="http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-EDB28C9C-AF092E90/bst_engl/xcms_bst_dms_33357_33358_2.pdf">[1]</a></li><li><a href="http://www.recife.pe.gov.br/op/" title="http://www.recife.pe.gov.br/op/">[2]</a></li></ul><p><strong>Externe Links</strong></p><p>Dieser Artikel bezieht sich teilweise auf die Programmbeschreibung, die für Recifes Nominierung für den Reinhard Mohn Preis der Bertelsmann Stiftung erstellt wurde. Siehe <a href="http://www.vitalizing-democracy.org/discoursemachine.php?id_viewback=96&amp;menucontext=4&amp;page=detail&amp;id_item=1324&amp;detail_layout_field=itemtype_layoutmisc4&amp;menucontext=4">http://www.vitalizing-democracy.org/discoursemachine.php?id_viewback=96&amp;menucontext=4&amp;page=detail&amp;id_item=1324&amp;detail_layout_field=itemtype_layoutmisc4&amp;menucontext=4</a></p><p>Siehe auch:</p><p><a href="http://www.youtube.com/watch?v=UHxVj4IyWFo&amp;feature=player_embedded" title="http://www.youtube.com/watch?v=UHxVj4IyWFo&amp;feature=player_embedded">http://www.youtube.com/watch?v=UHxVj4IyWFo&amp;feature=player_embedded</a> "Finalists for the Reinhard Mohn Prize 2011: Recife Participatory Budgeting"</p><p><a href="http://www.recife.pe.gov.br/op/" title="http://www.recife.pe.gov.br/op/">http://www.recife.pe.gov.br/op/</a> "Recife Participatory Budgeting"</p><p><a href="http://www.govint.org/good-practice/case-studies/participatory-budgeting-in-the-city-of-recife-brazil-the-worldas-most-participative-public-agency/">http://www.govint.org/good-practice/case-studies/participatory-budgeting-in-the-city-of-recife-brazil-the-worldas-most-participative-public-agency/</a> -- case study in Governance Internartional, July 2012</p><p> </p></div></div></div><div class="field field-name-field-file-attachements field-type-file field-label-above"><div class="field-label">File Attachments:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://participedia.net/sites/default/files/case-files/VD.%20Recife%20Participatory%20Budget.pdf" type="application/pdf; length=57271">VD. Recife Participatory Budget.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="Microsoft Office document icon" title="application/msword" src="/modules/file/icons/x-office-document.png" /> <a href="http://participedia.net/sites/default/files/case-files/1324_265_Social_Accountability.doc" type="application/msword; length=235520">1324_265_Social_Accountability.doc</a></span></div><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://participedia.net/sites/default/files/case-files/1324_303_Case_Study_Recife.pdf" type="application/pdf; length=241667">1324_303_Case_Study_Recife.pdf</a></span></div></div></div><div class="field field-name-field-video-ref field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div class="node node-video view-mode-full view-mode-full clearfix">
+
+    <div class="full-width">
+          <div class="group-left">
+        <div class="field field-name-field-video-file field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-5189" class="file file-video file-video-youtube">
+
+        <h2 class="element-invisible"><a href="/en/file/5189">UHxVj4IyWFo</a></h2>
+    
+  
+  <div class="content">
+    <div class="media-youtube-video media-youtube-1">
+  <iframe class="media-youtube-player" width="320" height="240" title="UHxVj4IyWFo" src="//www.youtube.com/embed/UHxVj4IyWFo?wmode=opaque" frameborder="0" allowfullscreen>Video of UHxVj4IyWFo</iframe>
+</div>
+  </div>
+
+  
+</div>
+</div></div></div>      </div>
+    
+          <div class="group-right">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/en/videos/finalists-reinhard-mohn-prize-2011-recife-participatory-budgeting">Finalists for the Reinhard Mohn Prize 2011: Recife Participatory Budgeting</a></h2></div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/plscully" title="View user profile." class="username" xml:lang="" about="/en/people/plscully" typeof="sioc:UserAccount" property="foaf:name" datatype="">Patrick L. Scully</a></div></div></div><div class="field field-name-field-video-url field-type-link-field field-label-inline clearfix"><div class="field-label">URL:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://www.youtube.com/watch?v=UHxVj4IyWFo">http://www.youtube.com/watch?v=UHxVj4IyWFo</a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/participatory-budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">participatory budgeting</a></div></div></div>      </div>
+      </div>
+
+</div></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A313">Participatory Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A760">restructuring civil society</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A752">public policy forum</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A747">government sponsored organization</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A777">youth involvement</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A769">civil infrastructure</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Recife      </span>
+              ,                     <span class="region" itemprop="addressRegion">PE</span>
+              <div class="country-name" itemprop="addressCountry">Brasilien</div>
+                                            <span class="geo"><abbr class="latitude" title="-8.054278">8° 3' 15.4008" S</abbr>, <abbr
+            class="longitude" title="-34.881256">34° 52' 52.5216" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="https://www.google.com.br/maps/place/Recife%2C+Pernambuco%2C+Brazil/@-8.054278,-34.881256">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Pernambuco        BR      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 31, 1969 - 16:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A119">Students</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Paid and Volunteer</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-4acbcf42eed1e8e8959c6df58776b0b3">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/2444">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

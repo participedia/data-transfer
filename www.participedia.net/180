@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/cabildo-abierto" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/180" />
+  <title>Cabildo Abierto | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"CDSfTpMqfuYWqjj5hZYbUcJM4LPl7tPMkxp2V_RzNhM","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/cabildo-abierto?destination=node\/180":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-180 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/cabildo-abierto" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/cabildo-abierto?destination=node/180" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-aKPAVjVhdBBnKSb2CN_fCM4hYXtD4HI0qn8YviC69bA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Cabildo Abierto</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Cabildo Abierto - Participedia" addthis:url="http://participedia.net/en/methods/cabildo-abierto"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 1 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/aaronmontenegro" title="View user profile." class="username" xml:lang="" about="/en/people/aaronmontenegro" typeof="sioc:UserAccount" property="foaf:name" datatype="">Aaron Montenegro, Trevor Evans</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Definition" name="Definition"></a>Cabildo Abierto (pluralized as Cabildos Abiertos), translates as "Open Town Council." It is a form of deliberative meeting that has used in South and Central America beginning in the 16th Century. The Cabildo Abierto was originally used to assemble citizens in case of emergencies and disasters. They also served as town hall meetings, and still do today.</p><h2>Definition</h2><p>These open meetings were called by the Cabildo (translated as "council"), the official government in towns and states. The "Abierto" portion of the name signifies the inclusion of the public. The Cabildo itself is an actual governing body with officials and leaders. Cabildo Abierto meetings gave the public a chance to vote on various issues that were important in their city and state. Political officials would meet with representatives of the public to come to an agreement on how to solve various issues. Cabildo Abiertos are still held periodically in South America and Central America, and are still considered effective and efficient in resolving all sorts of issues.</p><p><a id="Problems_and_Purpose" name="Problems_and_Purpose"></a></p><h2>Problems and Purpose</h2><p>Problems--The Cabildo Abierto did have some notable problems. It was not a complete democracy, and it tended to exclude people from the lower classes. Poor Criollos and Mestizos (people of mixed descent), Indians, women and slaves were not allowed to participate in the Cabildo Abierto. Only people of pure or nearly pure Spanish Ancestry were allowed to participate in the Cabildo Abierto. In addition, the most wealthy and fit members of society were considered to be more worthy of participating in the Catildo Abierto than the working class.</p><p>Although there was some favoritism in choosing the members who would participate in the Cabildo Abierto, it was still seen as a major step toward Democracy in Latin America because the voice of the people was expressed to the colonizers, who reported to the official Cabildo of the colony, who in turn, reported to the King of Spain's representative in Latin America. This was seen as progress. However, the views of the rich and the purebloods tended to be more elitist and did not always favor the poor classes in different colonies. In fact, the poor class was not favored at all. Many of the rich and elite class in Latin America at this time owned slaves. There was very little equality. Racism actually played a sizable part in the Cabildo Abierto. At these meetings, topics often involved such things as how to deal with Indian slaves.</p><p>Also, the power the Cabildos Abiertos held varied in each community:</p><p>"Subservience to royal administrators was most prominent in the 'capital towns,' or the seats of the audiencias and the viceroy. In the hinterland and on the frontier, where the population was forced to rely on its resourcefulness for subsistence and protection against foreigners and hostile aborigines, the cabildos sometimes evinced force and independence in the handling of municipal affairs." <a href="#cite_note-0" title="">[1]</a></p><p>Basically, when prominent authorities such as the viceroy or royal administrators were on hand, the Cabildo Abierto was likely to have a weaker impact on issues. But in more remote areas, the high authorities generally did not attend meetings. This made it easier for the the people to have an impact and get what they wanted. The fact that effectiveness varied, and that citizens views were generally overlooked at Cabildos Abiertos in the high population capitals was a problem. That meant the majority of the people were not always able to make their voices heard.</p><p>Purpose--The purpose of the Cabildo Abierto was to get the viewpoint of the citizens on issues that were important to the people. These issues involved elections, defense and security issues, and the allocation of funds: "Subsequent sections set out in like fashion the sometimes obscure role of the Cabildo Abierto in the election of local officials (including such worthies as governors and a bishop), discussion of municipal religious observances, the voting of gifts of money to the crown, and measures for communal defense against pirates, indians and epidemics." <a href="#cite_note-1" title="">[2]</a> They were considered to be a democratic institution that the South American and Central American cities and provinces used as a way to express opinions and feelings.</p><p>Cabildos Abiertos also served as a form of reunions, where people throughout the community would go with their neighbors. People would get together to talk and decide about what issues they considered relevant. Until the 16th century, Cabildos Abiertos were used to elect governors and other officials. Later on, the meetings became more like a town hall, where people would show up to deliberate and participate in discussions about important topics with neighbors such as defense, budgeting, and keep the government honest and in check.</p><p><a id="History" name="History"></a></p><h2>History</h2><p>The first Cabildo Abierto was believed to have been held on June 10, 1541 in Chile. The mayor of Santiago had called a meeting to elect a new governor of the region. Rumors of the Spanish Conquistador and explorer Francisco Pizarro being killed in Peru had necessitated an election. The Cabildo Abierto met and nominated Pedro De Valdivia to be the governor of the province. de Valdivia accepted the nomination and was awarded power of council and assembly. He accepted and became the first governor elected by the people in Latin or South America via Cabildo Abierto.(Moore,129)<a href="#cite_note-Moore-2" title="">[3]</a></p><p>John Moore writes about the history in "The Cabildo in Peru Under The Hapsburgs", saying "The Cabildo Abierto had its roots in the popular concejos of the Castilian towns of the Middle ages, which were a more or less fixed feature of their political life, and despite the hostility of the monarchy flourished in some regions of the Peninsula as late as the 19th century. Like other European customs and habits it was transplanted to the New World during the early period of exploration and discovery." (Moore 125) <a href="#cite_note-Moore-2" title="">[3]</a>. The Cabildo Abierto served as a way to bring the community together. It was evident that the Spanish conquerors brought the custom of meeting in this way to South America. As Moore mentioned, it is not hard to find similarities between the Cabildo Abierto and "El Concejo Abierto Castellano-Leones," the Spanish version of municipal councils. El Concejo had been practiced for centuries in Spain. The meeting and reunion aspect of the Cabildo Abierto was especially useful when nominating as well as electing public officials. Cabildos Abiertos were also used to discuss issues of money and civil rights, as well health and diseases epidemics that were traveling through South and Latin America at the time. This was especially important in cities because living conditions were often unclean and disease had the tendency to spread quickly in that day and age. Public debates would be had among the residents and a vote would take place. Governors were often elected via Cabildo Abierto. In the 16th century, some colonies lost that privilege after failed uprisings. After that, the meetings continued, but more as a forum to discuss issues and hold town hall meetings to discuss topics of general interest. These topics were not always extremely important, but the Cabildo Abierto was a way to bring the people of the town together.</p><p>Modern Cabildos Abiertos are held in places where many people can gather. They are held often in town squares, churches, and schools. They are far more organized than they used to be, but they are still relatively informal. Modern Cabildos Abiertos do sometimes have set meeting schedules, with speakers and an itinerary though, when the first ones did not. Sometimes there is even food or entertainment (such as musical guests) at the Cabildo Abierto. Cabildos Abiertos are often called by presidential candidates as a means to connect with people and spread their message. A Cabildo Abierto can be called by pretty much any authority, as it is just a general meeting. Turnouts vary depending on the cause, but it still serves as a way to organize people, which was the original goal.</p><p><a id="Participant_Selection" name="Participant_Selection"></a></p><h2>Participant Selection</h2><p>In the earliest Cabildos Abiertos, the participants included the Governor, the Mayor or other municipal authority, and members of the church in addition to the people of the city. In respect to the citizens, it was hard to determine what number of them were chosen to participate in the Cabildo Abierto. In the first Cabildos Abiertos held in South America, the number of citizens who attended this meetings was very high. As time went on, the numbers began to decline. However, official tallies were never taken at meetings to document the number of citizens that participated. This demonstrates that the Cabildos Abiertos did not have any real structure, instead, they were operated according to customs and cultural norms of the time. There was no official parliamentary house that they were held it, nor was it a structured event in any way. Each Cabildo was different, and was catered to the topic at hand. This informal atmosphere allowed the participants at the meeting to express their feelings and opinions about the current issue being discussed.</p><p>As time went on, there was some debate about who should be allowed to participate in Cabildos Abiertos<a class="external autonumber" href="http://docencia.udea.edu.co/derecho/constitucion/cabildo_abierto.html" rel="nofollow" title="http://docencia.udea.edu.co/derecho/constitucion/cabildo_abierto.html">[1]</a>. Indians and Mestizos who lived in the city generally did not participate. There was no actual document that forbid Indians and Mestizos, but the Cabildos Abiertos were never promoted to those two groups, and they were discouraged from coming. There was a strong racist feeling towards these groups from the Spanish and Criollos.</p><p>Article 9, Law 134 (of 1994) of the Colombian constitution declares the rules of the Cabildo Abierto. There is a legal process that is used to call the Cabildo Abierto in Colombia, and the constitution necessitates by law that at least 5 members per thousand (0.05%) of the electorate in question must show up to the Cabildo Abierto. Civil organizations can also call Cabildos Abiertos and make them community events. The racism that once dictated who showed up to Cabildos Abiertos does not play much of a factor in these meetings today. Any person that interested in attending a Cabildo Abierto can go to one. Colombian Cabildos Abiertos work differently than those throughout much of Latin America. A speaker is appointed by those who call the Cabildo Abierto, and only he can speak in front of the crowd. However, others may also speak to the crowd and present as long as they sign in at least 3 days before the Cabildo and present a summary of their argument to the party calling the Cabildo Abierto. Anyone can participate in the deliberation, and a decision is made by a representative of the corporation/civil organization or person who called the Cabildo Abierto. These meetings in Colombia tend to be more formal and organized than the Cabildos Abiertos throughout the rest of Latin America.</p><p><a id="Deliberations.2C_Decisions.2C_and_Public_Interaction" name="Deliberations.2C_Decisions.2C_and_Public_Interaction"></a></p><h2>Deliberations, Decisions, and Public Interaction</h2><p>Deliberation at the first Cabildos was generally good but did not always have a huge impact on political outcome. Often, those with power would be willing to hear the voice of the people, but they would still generally make their own decisions. The amount of citizens that actually showed up at a Cabildo Abierto varied widely depending on the issue being discussed. Also, the figure of authority could decide if invitations to the Cabildo Abierto were to be extended to all citizens or only a certain number. Elitism was sometimes shown in the invitations to the Cabildo Abierto, which could limit the effectiveness and scope of the deliberation and public interaction. Adding to this, Moore asks and answers the question, "To what extent were these assemblies deliberative entities with authority independent and separate from that of the regular cabildos? No categorical answer can be given to the question, yet in most instances they were clearly subordinate to the corporations." (Moore, 134) <a href="#cite_note-Moore-2" title="">[3]</a></p><p>It is hard to say just how much impact that the Cabildos Abiertos had on decision making within the regular Cabildo (the official governing body), but at least it provided the people with an opportunity to make their voice heard, which they had not always been able to do. Moore does add, "It would seem that free and uncensored discussions took place and that any citizen might give his opinion on the subject before the body." (Moore, 134)<a href="#cite_note-Moore-2" title="">[3]</a>. Citizens were allowed to express their own opinions without punishment, which was not always allowed at the time. This was a major step forward for deliberation in the 15th century. Also, as time went on, Cabildos Abiertos became much more powerful. Nicaragua, Peru, Argentina and Nueva Grenada all declared their independence via Cabildos Abiertos. These meetings carried real weight in the 19th and 20th century and still do today.</p><p>Most South American countries are very centralized, and there is a sizable disconnect between state government in the capitals and local governments in the towns that are located farther out. Cabildos Abiertos are a popular way to gather people in these smaller areas and get them involved in local government. These meetings are generally well attended and let people in these smaller towns know about what is going on in state government and how this affects local government. Debate and deliberation are often had at Cabildos Abiertos. They make people aware of lawmaking and current issues at hand. Current Cabildos Abiertos also serve as a way to keep a system of checks and balances.</p><p>John Gastil's book "Political Communication and Deliberation" <a href="#cite_note-3" title="">[4]</a> defines criteria for success of the analytic process of deliberation in 5 categories: Creating a solid information base, prioritizing the key values at stake, identifying a broad range of solutions, weighing the pros, cons and tradeoffs among solutions and making the best decision possible. Cabildos Abiertos attempt to satisfy all of these criteria. They create a solid information base by allowing organizations and government and private citizens as well to state their opinions on issues that are important in the community. Citizens who attend a Cabildo Abierto are given the opportunity to deliberate and hear others deliberate as well, which strengthens their information base and level of knowledge on the local issues being discussed. This information base and level of knowledge allows them to use their opinion to prioritize the key values at stake and identify a broad range of solutions. The Cabildo Abierto starts a process that provides the foundation for successful deliberation within Gastil's formula. Once the key values have been prioritized and a broad range of solutions has been discussed, members of the Cabildo Abierto can discuss pros, cons and tradeoffs among solutions and make the best decision possible. The process of the Cabildo Abierto from start to finish covers all of these deliberative criteria,</p><p><a id="Outcomes_and_Effects" name="Outcomes_and_Effects"></a></p><h2>Outcomes and Effects</h2><p>Cabildos Abiertos originally helped to integrate local people with colonizers, but over time, they became a means to unify the country. As mentioned, Latin American countries are very centralized, and Cabildos Abiertos served as a way to make rural people aware of large-scale issues that started in the cities and other areas of their countries. They serve many functions. Countries have used them to declare independence, for example. They help raise awareness about points of concern for citizens of all classes and races. A Cabildo Abierto is very valuable because it can keep leaders and members of government aware of what is really important to the citizens. Having a forum for people to have their voices heard is always necessary in any democracy, and Cabildos Abiertos allow the people of Latin America to express their concerns and feelings and give them a say in the political process of their country.</p><p><a id="Examples" name="Examples"></a></p><h2>Examples</h2><p>There is a long history of significant events happening at Cabildos Abiertos. As mentioned before in 1541, in Santiago, Chile. Pedro Valdivia was elected governor of Chile after a series of Cabildos Abiertos due to rumors that Francisco Pizarro had died in Peru. The Spanish conquerors of Chile did not want to award the governorship to anyone without merit, or anyone who would go against their wishes. Conquerors are generally not Democratic. By even holding the Cabildo Abierto, progress was made toward representative democracy. By holding a Cabildo Abierto, the conquerors showed the citizens of Chile that they were not necessarily trying to oppress them. This was an attempt to introduce some sort of political structure to Chile.</p><p>As time went on, Cabildos Abiertos became more democratic and open. Open deliberation began to take place between the people and the Spanish conquerors in the various colonies. In Asuncion, Paraguay many governors were also elected at these kinds of popular assemblies. Over a 200 year period, starting in 1548, when the incumbent died or suffered a mysterious death or disappearance (at the hand of the Conquerors), the Cabildo Abierto of all the neighbors of Ascunsion were charged with electing new governors. King Carlos V of Spain was considered to be the leader of the colonies. Paraguay had the most privelege bestowed upon their Cabildos Abierto. They actually had a Democratic system in place. In most colonies, a governor could be selected by the people but King Carlos V had the power to override the decision. In Paraguay, the people elected their own governor with almost any outside interference. This signified the beginning of a more democratic structure. However, this privelege given by King Carlos V was lost after a revolution was attempted by the commoners, who did not believe the king's power should exceed that of the people's will.</p><p>In Cuba, Cabildos Abiertos worked differently. Citizens could propose two candidates for municipal elections in addition to the one who was nominated by the governor. The "regidores," who were part of local Cuban government, would also propose 2 more candidates. 5 candidates in total were nominated, and the election happened at the Cabildo Abierto. Cabildos Abiertos were used in the cities like Havana until the mid-1550's <a href="#cite_note-Tapia-4" title="">[5]</a>. These kinds of public elections of officials only lasted until the 16th century in the Spanish colonies such as the Antillas, Panama, Quito, Lima, Santiago and Cuzco. However, some of the other Spanish colonies and cities like Guatemala, Caracas, Pamplona, Potosi and Buenos Aires and Ascunsion continued to elect at least some of their own officials via Cabildos Abiertos, because there was a more democratic (relative to most of the Spanish colonies) system in place in these areas. <a href="#cite_note-5" title="">[6]</a> For example, the people of Santiago de Cali, in Nueva Granada held a Cabildo Abierto in a church to organize a protest to the Audience of the Quito (which was a political assembly in Nueva Granada) against Spanish commissioner Medina, who was sent to Cali to check the money and treasure accounts of royalty in the colony. He was accused of committing injustices against the people of the colony. The audience heard the protest and discharged the commissioner and sent him away from the colony. This is an example of Cabildo Abierto that was heard by the authorities, and made a difference in local politics. Cabildos Abiertos had the potential to make a difference. <a href="#cite_note-6" title="">[7]</a>The citizens of Havana also met in Cabildos Abiertos to discuss issues such as how to improve city defense against potential attacks from pirates. This was a major issue in Havana and many other countries in Spanish and Latin America. Many Cabildos Abiertos were held to discuss topics like these.</p><p>In the 19th century, when many colonies were declaring independence from Spain, Cabildos Abiertos were vital tools to organizing and promoting freedom and resistance. When the Criollos decided it was time to form their own nations, they spread the word via Cabildo Abierto. This ended up being a vital tool to many Latin American and South American countries in separating from Spain. For example, in the capital of Nueva Granada, independence was proclaimed in a famous Cabildo Abierto on July 10, 1810. It was called by citizens against the will of the Viceroy, who was needed in Nueva Granada to approve any Cabildo Abierto. The citizens met anyway, and declared a rebellion and declared Nueva Granada's independence against Spain.(Tapia, 64) <a href="#cite_note-Tapia-4" title="">[5]</a> Similar events took place in Nicaragua on December 22, 1811, Argentina on May 21, 1810 (which influenced the uprisings in Nueva Granada and Peru) on and Peru on July 28, 1821. All countries declared independence via Cabildos Abiertos.</p><p>Also, Cabildos Abiertos are held today. An example was found of a recent one in Esperanza, Argentina on February 12, 2010. Important Argentine officials such as the Secretary of Government, Secretary of Public Service, and the Secretary of Finance showed up to meet with the people to discuss the public's awareness of the financial situation that the city was in. They presented tax and budget proposals to the people of Esperanza and held discussions and took questions, much like a town hall meeting would go in America. Cabildos Abiertos are still being used today to solve a wide range of issues and make citizens aware of what the options are. ("Todas Las Vecinales en el cabildo abierto", La Region Noticias, 2-12-10) <a class="external autonumber" href="http://laregionnoticias.com.ar/noticia.php?id_noticia=6601" rel="nofollow" title="http://laregionnoticias.com.ar/noticia.php?id_noticia=6601">[2]</a></p><p><a id="Analysis_and_Criticism" name="Analysis_and_Criticism"></a></p><h2>Analysis and Criticism</h2><p>Criticisms of Cabildos Abiertos do exist, but it is important to recognize that there is no perfect way to organize the public. However, some problems that the Cabildos Abiertos did have in the early stages (approx. 16th-19th century) were things like racism, lack of inclusion of all citizens, and the king or governor's ability to override the will of the people and make a decision that does not necessarily have the citizens' best interests in mind. The Cabildo Abierto was always a good way to make voices heard, but the elite and the "pure-bloods" did not always share the same interests that the working class did. In addition, when the will of the people was overruled by authority, then the Cabildo Abierto that was held to discuss the issue became worthless. Some rulers were better at listening to the will of the people than others, though. However, when one decided to completely disregard the popular opinions of the citizens, the purpose of the Cabildo Abierto was disrespected.</p><p>Modern Cabildos Abiertos are more fair, as Latin American countries are mostly democratic. When a Cabildo Abierto is called today, it is done so with the genuine desire to hear the voice of the people. Cabildos Abiertos have grown over time and the deliberation and fairness of the meetings are stronger than ever. Also, local government was very detached from central government in the years of the first Cabildos Abiertos. With the advent of modern technology, Cabildos Abiertos can connect to central government much better and centralized issues become national topics of debate.</p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Secondary Sources</h2><ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> Gil, John. The Journal of Politics Vol. 18 No. 4, Nov. 1956, p. 730</li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> Newton, Ronald C., Tapia, Francisco X. "Review of El Cabildo Abierto Colonial un Estudio De La Naturaleza y Desarollo del Cabildo Abierto, Durante Los Tres Siglos de la Administracion Colonial Espaniola en America." Hispanic American Historical Review, Aug. 1967, vol. 47, no. 3, p. 402-403.</li><li id="cite_note-Moore-2">↑ <a href="#cite_ref-Moore_2-0" title="">3.0</a> <a href="#cite_ref-Moore_2-1" title="">3.1</a> <a href="#cite_ref-Moore_2-2" title="">3.2</a> <a href="#cite_ref-Moore_2-3" title="">3.3</a> Moore, John P. "The Cabildo in Peru under the Hapsburgs." (Durham, 1954)pp. 125-135</li><li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> Gastil, John. "Political Communication and Deliberation". California: Sage Publications, 2008"</li><li id="cite_note-Tapia-4">↑ <a href="#cite_ref-Tapia_4-0" title="">5.0</a> <a href="#cite_ref-Tapia_4-1" title="">5.1</a> Tapia, Francisco X. "Algunas Notas Sobre el Cabildo Abierto en Hispanoamerica." Journal of Inter-American Studies, Vol 11, No. 1. Jan 1969, pp 58-65</li><li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> Gongora, Mario. "El estado en el derecho indiano." (Santiago, 1951) p. 71</li><li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a> Arboleda, Gustavo "Historia de Cali", p. 235</li></ol><p>Tapia, Francisco X. "Algunas Notas Sobre el Cabildo Abierto en Hispanoamerica." (Translated as "Some Notes About the Cabildo Abierto in Latin America")</p><p>Gongora, Mario. "El estado en el derecho indiano." *(Translated as "The State on the Indians Rights")</p><p><a id="External_Links" name="External_Links"></a></p><h2>External Links</h2><p>["Cabildo Abierto Article 9, Law 134." Constitution of Colombia. Universidad de Antioquia. <a class="external free" href="http://docencia.udea.edu.co/derecho/constitucion/cabildo_abierto.html" rel="nofollow" title="http://docencia.udea.edu.co/derecho/constitucion/cabildo_abierto.html">http://docencia.udea.edu.co/derecho/constitucion/cabildo_abierto.html</a>]</p><p>["Todas Las Vecinales en el Cabildo Abierto." La Region Noticias. <a class="external free" href="http://laregionnoticias.com.ar/noticia.php?id_noticia=6601" rel="nofollow" title="http://laregionnoticias.com.ar/noticia.php?id_noticia=6601">http://laregionnoticias.com.ar/noticia.php?id_noticia=6601</a>]</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-5842173583b6ae460fe2123264b8fec3">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/180">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">2</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all-targeted-recruitment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all with targeted recruitment</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Trust Building</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Public Hearings</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Typically Voting</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/local-eg-neighbourhood-citytown-metropolitan-area" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/agenda-formation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Agenda Formation</a></div><div class="field-item odd"><a href="/en/governance-contributions/conflict-resolution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Conflict Resolution</a></div><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item odd"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div><div class="field-item even"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/3-somewhat-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/co-governance-ie-share-decision-making-public-authorities" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/distributing-individual-material-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Distributing Individual Material Goods</a></div><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

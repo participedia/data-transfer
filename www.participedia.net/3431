@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/direct-representation-minimal-coleman" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/3431" />
+  <title>Direct Representation (Minimal Coleman) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"LjeHTg8GYhR5tO7yf-B2dj1dvl2efzMU1JvM1En7AB4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/direct-representation-minimal-coleman?destination=node\/3431":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-3431 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/direct-representation-minimal-coleman" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/direct-representation-minimal-coleman?destination=node/3431" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-BcVSWS2hxUzNwihbJe6hf8uLtc_9IE3S-EgJ5u6Rkz0" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Direct Representation (Minimal Coleman)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Direct Representation (Minimal Coleman) - Participedia" addthis:url="http://participedia.net/en/methods/direct-representation-minimal-coleman"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">May 31 '14</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/ditch-townsend" title="View user profile." class="username" xml:lang="" about="/en/people/ditch-townsend" typeof="sioc:UserAccount" property="foaf:name" datatype="">Ditch Townsend</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>In 2005, Stephen Coleman called 'Direct Representation', "an ongoing conversation... something that speaks to (citizens) emotional needs to be respected and treated as equals... in which representatives listen to and acknowledge the authority of the people they represent, and account openly for their own beliefs and actions." His general form of direct representation has five features: public consultation (effective), two-way conversation (skilfully facilitated), ongoing attention (between elections), honesty (acknowledgement where wrong), and accountability (representatives explaining themselves).</p><p>The minimal form elaborated here offers representatives a minimum set of actions which could be taken by, or on behalf of (not least unwillingly), an elected representative.</p><p>The parenthetic suffix (Coleman) should enable differentiation from any other meaning of the term 'Direct Representation', not least <a href="http://www.directrep.org/">Dave Robinson's proposed voting system</a>.</p><h3>Problems and Purpose</h3><p>Coleman notes that the, "dominant approaches to representation: first... pits direct democracy against representative democracy; and, second... sees representation as mimetic representativeness... a system that scores high on qualities of formal representativeness might, nevertheless, fail to represent, precisely because citizens and politicians fail to connect." He concludes, "Citizens don’t want to go through the time-consuming process of examining and voting upon every area of policy and piece of new legislation. They do not expect every decision to go their way, nor that politicians will perform miracles. They do expect, however, ordinary levels of competence and efficiency, and to be engaged in the political conversation as equals. And they want to know that their contribution will be valued – that it will make a difference... the challenge for democratic politicians is to be seen as ordinary enough to be representative, while extraordinary enough to be representatives."</p><p>This method seeks to offer elected representatives (or political activists where representatives will not do it for themselves) a way to supplement the existing system, by informally hybridising it with aspects of direct democracy, i.e. it can be done now without awaiting system changes.</p><h3>History</h3><p>After returning to live in the UK in 2009 from 14 years away, the author was exploring how to apply experience gained in Asia around participatory development, to British local politics. Unable to source advice on how to pragmatically bridge the representative-direct democracy divide, he developed and in early July 2013 began to implement, the method described below experimentally, whilst a local activist in the membership of a mainstream political party. Continuing to seek theoretical underpinnings or criticisms to such a venture, he stumbled onto Coleman's work in late July 2013. This offered useful background and reasoning, although it did not detail the exact process proposed here.</p><p>Useful additional links discovered since include Mark Warren's 2009 paper about democratic deficits. He notes, "The second kind of deficit calls for what I shall call the ‘retrofitting’ existing institutions: designing new forms of democracy which supplement and complement the formal institutions of electoral democracy, primarily in those functional policy areas where electoral institutions now have weak capacities to generate democratic legitimacy." The retrofit he recommends, he calls 'Supplementary Democracy' noting, "We have more questions than answers," about appropriate processes, "but we should get started."</p><p>Martin Karlsson has also offered useful insights in a paper dated 2010. Termed 'Interactive Democracy' (itself rooted in Leif Lewin's theorising in 1970), he defines it as, "the practice among political representatives to interact in a responsive fashion with their voters, potential voters, or constituents regarding issues related to the relationship of representation." He does however restrain his model, "to regard only communication, and not, for example, the sharing of decision competences with citizens".</p><p>Edmund Burke in 1774 offered perhaps the earliest, clear apology for representative democracy in the face of direct democracy (what he terms, "the coercive authority of... instructions"). His arguments have been much debated since, and this method is essentially incompatible with Burke's conclusions.</p><h3>Participant Selection</h3><ol><li>Participants are drawn from the population of residents in a particular political constituency.</li><li>An elected constituency representative (or activist in their lieu) will attempt to contact all constituents.</li><li>Mechanisms should exist both to periodically purge the list of those who move out, and to add new constituents who move in or have never yet responded.</li><li>The representative will offer membership of a non-partisan voting panel of constituency residents.</li></ol><h3>Deliberation, Decisions, and Public Interaction</h3><p>This minimalist method recognises that representatives (and political activists) may for a range of reasons feel unable yet to develop extensively participatory approaches to democracy within their constituency. But it allows representatives to take a significant step in that direction:</p><ol><li>A topic is selected with sufficient notice which is scheduled for a forthcoming, openly notified, publicly accessible, municipal vote involving the relevant representative.</li><li>The representative (or activist) digests the issue and constructs a relatively simple polling question on the subject, involving equivalent options to those they will have at the vote (generally yes/no/abstain).</li><li>The representative (or activist) circulates the question to all members of the panel (along with links to publicly available agenda-related documents for those with an internet connection), giving them an efficient but simple mechanism for voting on which way the representative should themself vote, and a reasonable deadline for responding.</li><li>If necessary, an activist will collate and forward a summary; the representative should consider the proportion of votes offered for each option (or not replying) before deciding how they will vote themself on the issue.</li><li>The representative votes, preferably transparently (sometimes municipal votes are nodded through in council if no request is made to put the issue to a vote).</li><li>The representative (or an activist) feeds back to all panellists, and preferably also all constituents, how the representative voted.</li><li>The representative should account (or be invited to do so by the activist) to all  panellists, and preferably also all constituents, about the way they voted.</li><li>Constituent responses need to be managed, including 'unsubscribe' requests, broken email links, and wrong phone numbers, in preparation for the next cycle.</li></ol><h3>Influence, Outcomes, and Effects</h3><ol><li>Where an activist rather than the elected representative uses this method, it should aid the conscientization of constituents and their representative to their representative's (and municipality's) consultative democratic deficit.</li><li>Making use of such a panel part of an election candidate's personal manifesto in a conscientized constituency may increase the likelihood of their election, both through increased turnout by otherwise disaffected voters, and by allegiance switching by more regular voters.</li><li>By involving more socially excluded (including unregistered) constituents in the panel, not least by offering alternative forms of contact than the internet, systemic inequities can be partly addressed.</li><li>Where an advisory sub-group of panellists can assist with selecting issues and drafting questions, partisanship can be reduced (and be seen to be) despite the political affiliation of the representative/ activist managing the panel.</li><li>A representative should have a less tentative and more objective appreciation of the polarity and strength of feeling amongst constituents on the issue up for a vote, and be better able to test the viability and reasonableness of their personal opinion; they are likely to make a more valid choice themselves.</li><li>Representatives may even become <em>de facto</em> proxies without the formal institution of direct democracy (a positive feature of this method for those keen to see more direct democracy but not wanting to await the end of structural resistance to it).</li><li>Representatives are likely to clarify their own ethical boundaries, more often distinguishing them from political ones, with the potential to reduce partisanship.</li><li>A representative will have a better opportunity to engage in a conversation with constituents.</li><li>A representative will have a better opportunity to demonstrate their accountability to constituents.</li><li>A representative may well converse authentically with constituents far more than previously, not least given the need to start, maximise and sustain the panel, to everyone's greater satisfaction.</li><li>A representative may well influence similar developments amongst colleagues, and influence municipal systems, both processes enabling an increase in authentic participation across the municipality.</li><li>A representative may well be stimulated to progress from the limited form of direct representation to Coleman's proposed more general form.</li><li>Inevitably, expectations will be raised through beginning this process. If such expectations are broken, prior voter cynicism is likely to be more deeply entrenched.</li></ol><h3>Lessons Learned</h3><ol><li>Observors, critics, and sometimes panellists will often interpret the polling as a sample survey, and offer a critique of the supposed survey methodology. But it can be too obvious to grasp that:</li></ol><ul><li>firstly this panel is the <strong>population </strong>of constituents willing to interact; it is <strong>not </strong>a <strong>sample</strong>,</li><li>and secondly, polling is a (non-binding) proxy <strong>vote</strong>, <strong>not </strong>a <strong>survey</strong>.</li></ul><p>Were it a sample survey, it could indeed be criticised. But it is not designed to merely inform a representative prior to a vote, or it would ask a nuanced range of questions, preferably also with a qualitative component. It is a very specific aggregated proxy vote who's outcome the representative can choose to adopt or not.</p><p> </p><ol start="2"><li>For several months from September 2010, the author piloted a doorstep random sample-survey approach to gauging constituency views about the way their representative should vote. For a constituency of several thousand voters, a desired yes/no response ratio of at least 60/40, an acceptable margin of error of 10%, and a confidence level of 95%, the sample size calculation was around 90.</li></ol><ul><li>For a short-notice poll, this proved logistically very difficult to achieve, suggesting it would be ultimately unsustainable.</li><li>Debriefing the outcome with colleagues indicated an intuitive disbelief that a sample size of 90 could be representative, despite its statistical <em>bona fides</em> (likely also therefore to feed the politician-mistrusting view of the average constituent). There was already an ambivalence about random sampling - purposive sampling would have been considered indistinguishable from biased sampling, probably undermining constituency trust.</li><li>The offer of influence was only made to a small percentage of constituents: to have even a 50/50 chance of one specific constituent being contacted in a year would require an unmanageable number of surveys, and to leave a significant number of constituents with the impression that they were being much more regularly contacted would not only be overwhelming in terms of work load, but would require an improbable number of issues coming up for vote.</li><li>A seasoned political colleague observed that constituents might feel disappointed - even cheated - if a survey were to bypass them: she noted that people would at least want to know in the aftermath of a vote that they had chosen not to respond, or been unavailable, or they might react disproportionately negatively. They would not want to know that the 'average' constituent's view had been considered by their representative, but that their own view had been, even if it had not prevailed.</li><li>The surveys did not add the complicating third option of abstaining, but even if it had, it could not account for strength of feeling without adding a supplementary question - complicating the analysis.</li><li>Political canvassers are familiar with, and already have systems for, visiting and providing printed information to every household.</li></ul><p>Constructing and maintaining a constituency-wide panel should not add significantly to, or disrupt, the work of the more committed local politician, and will be more sustainable than random survey sampling. Voting instead of surveying, and approaching the whole poll population instead of a sample, mean that non-response rates approximate the degree of importance of the issue to the polity, not the poll's representativeness (like comparing voting rates in local and national elections for non-compulsory voting jurisdictions). Whole-population voting is likely to be intuitively a more authentically personal communication than sample surveying in the eyes of constituents; as such it could also increase appreciation of subsequent feedback about the impact of 'my' response (even if it was a deliberate non-response).</p><p> </p><ol start="3"><li>Limited direct representation had not (until at least 2014) been practised from the position of an elected representative; only that of a mainstream opposition political activist in a local authority first-past-the-post voting system.</li></ol><ul><li>Lack of incumbency (let alone lack of experience) could reduce an activist's apparent relevance.</li><li>Setting up a panel could be seen as merely a short term and partisan political tactic; it certainly introduces an extra barrier for the incumbent representative(s) facing such an activist's activities in their constituency, to such a scheme's implicit acceptability.</li><li>Constituency conscientization may possibly be aided by the apparent resistance of incumbents (representing the <em>status quo</em>), but it may simultaneously politicise the concept of participation and entrench vested interests.</li><li>Getting a political representative to be involuntarily accountable for their actions may be considered hostile, and at the very least will need careful management.</li></ul><p>No experience-based advice can be offered to incumbent representatives about the viability of introducing such a mechanism to their polity, but it is likely to be much more painless than doing so as an activist against ambivalent incumbents.</p><p> </p><ol start="4"><li>Accusations can (and probably will) easily arise about bias in recruitment of panellists, the selection of voting topics, question phrasing, and feedback.</li></ol><ul><li>Early attempts to add panel members suggested that the political roots of the recruiter should be explicit (emphasised whilst speaking) not merely implied (for example with a badge), but the non-partisan nature of the panel should also be clear (for example, by not canvassing for political support on the same visit).</li><li>A standing offer should be made and repeated to panellists to offer themselves (transparently) to assist with question selection and wording.</li><li>Questions should not appear to persistently hound one particular political party, although even extremely contentious issues coming to a vote can usefully be put to a panel.</li><li>Guiding people to relevant agenda items and supporting documents needs to be sufficient yet not overwhelming; specific yet not selective.</li><li>Where agendas and upcoming votes are only available at short notice, it can be hard to satisfy any stakeholder in the process, but representatives should not be prioritised (so long as they can receive the polling summary before the vote) since they already have personal voting power (and accountability), may well have access to advance knowledge of upcoming agenda items, and in a pre-vote debate should anyway be logically open to last moment persuasion (this is not the place to critique 'whipped' votes!)</li><li>Neither sharing management of the panel with opposing politicians, nor placing it into constituency trusteeship had been attempted up until 2014.</li><li>The proportion of non-responders should be given in feedback to avoid misinterpreting the balance of support (e.g. 81 'Yes' / 19 'No' has a significantly different import if supplemented by 400 'Non-response').</li></ul><p>Such a panel can appear to be a very disruptive political tool, not least where it is not merely tactical but actually empowering local communities. Resistance taking the form of spoiling or disparaging are real possibilities.</p><p> </p><ol start="5"><li>Such a panel can only serve a limited purpose - it is not a comprehensive participatory democracy methodology.</li></ol><ul><li>Early panellist recruitment suggested that an offer of contact, "10-12 times per year - maximum," balanced palatability with joining rates, but an offer to choose a preferred contact frequency in the face of possible unlimited involvement appeared to actually reduce the overall joining rate.</li><li>If any panellists are recruited well before the first question is eventually asked, they may not recall the original contact and the first question may then appear to be unsolicited and even intrusive. It is worthwhile contacting all panellists with a welcome to the panel and a reminder of its purpose and activities within two months, if they do not receive their first question by then.</li><li>Without the more comprehensive participatory approach (Coleman's general direct representation), using the panel for <em>ad hoc</em> polling disconnected from transparent municipal votes (and associated public documentation) may be seen as partisan.</li><li>Every enquiry stimulated by the polling should be responded to as an opportunity to build authentic constituent conversations.</li></ul><p>On any particular issue, there is no reason a representative cannot try to persuade panellists of their own views prior to a panellists poll, even where the representative is clear that they will choose to abide by the majority position. This is not a formal proxy voting system after all, and representatives are entitled to disregard the majority opinion of their constituents. The key is to make this an opportunity for honest and transparent constituency conversation and increased two-way influence.</p><h3>Secondary Sources</h3><p><a href="http://press-pubs.uchicago.edu/founders/documents/v1ch13s7.html">Burke, E. (1774). Speech to the Electors of Bristol.<em> On Government, Politics and Society.</em></a></p><a href="http://www.ippr.org/assets/media/ecomm/files/Stephen_Coleman_Pamphlet.pdf">Coleman, S. (2005). Direct representation. <em>Toward a Conversational Democracy. IPPR exchange</em>.</a><p class="gs_citr" id="gs_cit1" tabindex="0"><a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2:376179">Karlsson, M. (2010). Interactivity in political representation: A conceptual discussion and some empirical insights. In <em>ECPR Joint Sessions-Workshop 6:“The Developing Role of the Councillor in a Comparative European Context: Attitudes, Assumptions and Perceptions towards Aspects of Local Democracy”, Münster 22-27 March 2010</em>.</a></p><a href="http://www.politics.ubc.ca/fileadmin/user_upload/poli_sci/Faculty/warren/Citizen_Participation_and_Democratic_Deficits_Draft_5.pdf">Warren, M. E. (2009). Citizen Participation and Democratic Deficits: Considerations from the Perspective of Democratic Theory. <em>Activating the Citizen. Dilemmas of Participation in Europe and Canada, Palgrave Macmillan, Great Britain</em>, 17-40.</a><p> </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-8e1768a2ed97cd62fdde9b6d3039f635">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/3431">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/no-interaction-among-participants" typeof="skos:Concept" property="rdfs:label skos:prefLabel">No interaction among participants</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Recruitment (perpetual), Interaction (cycles)</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">All forum members are invited to participate, and all should be given feedback after every cycle. Public political communications can reference relevant cycles.</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Forum voting proportions are used to influence decisions by elected representatives.</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/local-eg-neighbourhood-citytown-metropolitan-area" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/5-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Very Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/3-somewhat-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/co-governance-ie-share-decision-making-public-authorities" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Representative/ activist direct to multiple individual constuents via email, text, telephone, direct messaging, in person.</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

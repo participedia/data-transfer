@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/electoral-district-forum" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/4241" />
+  <title>Electoral District Forum | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"IzS3h2dLVqltpcRR_Nla7_sF2yDq1Ac0KgOwJa5mx6Q","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/electoral-district-forum?destination=node\/4241":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-4241 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/electoral-district-forum" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/electoral-district-forum?destination=node/4241" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-n9eYQ8GacYnpkYSpPGERE-AS2y8NG292feMvl27zzw4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Electoral District Forum</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Electoral District Forum - Participedia" addthis:url="http://participedia.net/en/methods/electoral-district-forum"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 10 '15</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/travis-mitchell" title="View user profile." class="username" xml:lang="" about="/en/people/travis-mitchell" typeof="sioc:UserAccount" property="foaf:name" datatype="">Travis Mitchell</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>An electoral district forum is an online nonpartisan <a href="http://en.wikipedia.org/wiki/Internet_forum">discussion board</a> for the constituents of a single officeholder to interact with themselves, and with their incumbent and candidate political leaders. It is designed to make it easier for representatives to be more responsive to their constituents. It does this by increasing dialogue and by reducing everybody's dependence on expensive mainstream media.</p><h3>Problem and Purpose</h3><p><strong>Problem</strong>: In the U.S., representatives aren't responsive to all their constituents anymore, only the wealthy ones. This is because communications between politicians and constituents mainly go through expensive mainstream media.</p><p><strong>Purpose</strong>: To reform U.S. politics to be more inclusive and representative by adding inexpensive <a href="http://en.wikipedia.org/wiki/Participatory_democracy">participatory democracy</a> elements.</p><p><strong>Approach</strong>: To move political discourse away from commercial media (both online and traditional), and towards non-commercial online public spaces where it can be more inclusive, accessible, <a href="http://en.wikipedia.org/wiki/Manufacturing_Consent">unfiltered</a> and conversational.</p><p><strong>Method</strong>: To create nonpartisan discussion boards, one forum for each elective office, and then enlist political leaders and constituents to engage with each other there.</p><h3>Theory Background</h3><p><a href="http://www.oecd.org/futures/35176328.pdf">Stephen Coleman posited</a> that effective representative democracy requires that information flow in various channels and offered this appraisal of their status:</p><ul><li><strong>Government to Citizen</strong> (G2C) - takes place largely via the mass media</li><li><strong>Citizen to Government</strong> (C2G) - is limited</li><li><strong>Citizen to Citizen</strong> (C2C) - is the basis of a healthy civil society, but is in decline</li><li><strong>Citizen to Representative</strong> (C2R) - is very limited</li><li><strong>Representative to Citizen</strong> (R2C) - is limited outside of election campaigning</li></ul><p><a href="http://www.ippr.org/assets/media/ecomm/files/Stephen_Coleman_Pamphlet.pdf">Coleman subsequently surveyed </a>2,273 UK citizens to characterize what they ideally wanted in their relations with their representatives. He found a strong desire for a connectedness, and that they specifically wanted:</p><ul><li>To be heard</li><li>Conversations, not consultations</li><li>Ongoing, rather than episodic, contact</li><li>Honest yet not adversarial discussions</li><li>Representatives to account for themselves</li></ul><p>So in theory terms, the underlying problem the model seeks to address is that communication among citizens (C2C) and between representatives and citizens (C2R/R2C) is too little, too infrequent, and not significant enough.</p><h3>Basic Model</h3><p><strong>Electoral district forums</strong> are online <a href="http://en.wikipedia.org/wiki/Internet_forum">discussion boards</a> for the constituents of a single officeholder to interact with themselves, and with their incumbent and candidate political leaders. They are intended to provide inexpensive and <a href="http://en.wikipedia.org/wiki/Manufacturing_Consent">unfiltered</a> channels of continuous C2C/C2R/R2C information flow which are apart from the mainstream media.</p><p>Online civic engagement forums have existed <a href="http://firstmonday.org/ojs/index.php/fm/article/view/838/747">in listserv form since 1994</a>, and discussion boards have existed <a href="http://talkingpointsmemo.com/theslice/confessions-of-an-online-forum-loyalist-in-facebook-reddit-era">in modern form since 1999.</a> As a result, the community dynamics of online political forums are pretty well known, as are the problems which can arise. This previous experience tells us that certain design features (such as being moderated) need to be present if district forums are to be successful.</p><p>There are a lot of these features, and it requires a few paragraphs to adequately describe them and how they can be implemented in a discussion board. Therefore, the detailed model is presented in Appendix 1 below.</p><h3>Implementation</h3><p>I have put together a fully functional <a href="http://www.electoraldistrict.org/pa/senate/index.php">prototype</a> district forum, using the popular and secure open-source <a href="http://www.phpbb.com/">phpBB</a> software. The prototype is presented in Appendix 2 below, and its code is available upon request. Based on it, a small district forum could be hosted very inexpensively (a few dollars a day) and without any requirements for programming skills.</p><h3>History</h3><p>While many ideas for participatory politics projects similar to electoral district forums exist - see <a href="http://participedia.net/en">Participedia</a> and <a href="http://www.oecd.org/dataoecd/9/11/35176328.pdf">Promises and Problems of E-Democracy</a> for examples - this specific model has never been tried out before. However, district forums can be considered an extension/optimization of a long-standing internet tradition: the <a href="http://www.reddit.com/r/IAmA/wiki/index">Ask-Me-Anything (AMA)</a>.</p><p>Since their genesis back in 2005, AMAs have become a <a href="http://www.theatlantic.com/technology/archive/2014/01/ama-how-a-weird-internet-thing-became-a-mainstream-delight/282860/">mainstream interview format</a> and politicians have recently begun participating in them. Barack Obama did an AMA on Reddit <a href="http://www.reddit.com/r/IAmA/comments/z1c9z/i_am_barack_ob">in 2012</a>, and 2016 presidential candidate Bernie Sanders has generated a <a href="http://www.vox.com/2015/5/7/8560925/bernie-sanders-reddit">lot of acclaim</a> for three which he did in 2013-15.</p><p>A comparison of district forum discussions and Reddit AMAs is given in Appendix 3; there are many points of similarity. Given this fact, if a district forum is started up then voters should quickly grasp how they work and what they are trying to accomplish.</p><h3>Participant Selection</h3><p>Each district forum is focused on a single elective office. Politician participation is therefore limited to the incumbent representative and to any challenging candidates for the office.</p><p>Citizen participation is more open in that anyone can register and get involved. However, some privileges will be limited to district residents. For example, only a constituent will have the ability to “+like” a post, and only they will be eligible to propose and have a discussion with their political leaders. These special privileges will enable constituent views to be separately known, and will afford them greater access to their representative.</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>The internet has revolutionized many aspects of society, but so far its impact on constituent-representative communication has been comparatively minor. Significant <a href="http://en.wikipedia.org/wiki/E-democracy">e-democracy </a>advances have occurred <a href="http://www.igi-global.com/article/content/76929">mainly in terms</a> of information provision and delivery of public services. What have been conspicuously missing are advances incorporating dialogue, the core of democratic governance.</p><p>To help remedy this, fostering dialogue is a major goal of a district forum. The importance of unfiltered dialogue, and how district forums make use of it, is further discussed in Appendix 4 below.</p><p><strong>Constituent-Representative Dialogues:</strong> Forum interactions between citizens and political leaders follow a process in order to facilitate written or verbal dialogues. Because there are many thousands of constituents for every representative, discussion and voting are used to identify the questions and questioners the electorate is most interested in.</p><ul><li>Constituents start the process for a written discussion by submitting questions in the “Questions\Asked” subforum.</li><li>Constituents discuss and rank the existing questions in the same forum.</li><li>When politicians decide to engage in a dialogue based on a top-ranked question, they create a new topic in the “Questions\Answered” subforum. There they repeat the question and provide their answer.</li><li>The constituents who asked selected questions (and only they) are able to post follow ups.</li></ul><p>These written discussions continue until they are terminated by mutual consent, or the moderator concludes they have outlived their usefulness. Many conversations will amicably end after the constituent and representative have learned exactly where they disagree.</p><p>Because there is little time pressure in this discussion format, an unusual degree of scholarship can be exercised. For example, each side can:</p><ul><li>ask for proof that suspect assertions are supported by the facts,</li><li>include visual information like graphs, charts and photographs, and</li><li>ask that the other read and respond to an external document such as an article.</li></ul><p>The same two-step process is used to organize off-line verbal discussions to be held via video-conference, tele-conference, or at a meeting hall. Initiating a verbal discussion would begin with a post in the “Discussions\Asked” subforum. Ultimately, video or audio of the completed discussion would be posted in the forum.</p><p><strong>Citizen-Citizen Interactions</strong>: These interactions are more free-form, and this part of the forum is more experimental. The “District Talk” and “Dispatches” subforums in the <a href="http://www.electoraldistrict.org/pa/senate/index.php">prototype</a>provide templates for what citizens could do: post and answer polls, read and write letters to the community, debate issues, etc.</p><p>The size of the district will impact what is practical and useful here. A <a href="http://en.wikipedia.org/wiki/Direct_democracy#Democratic_reform_trilemma">small enough</a> district could experiment with <a href="http://en.wikipedia.org/wiki/Participatory_democracy">participatory democracy</a> initiatives, or work to build up an <a href="http://www.ippr.org/assets/media/images/media/files/publication/2011/05/Realising%20Democracy%20Online%20-%20in%20_1230.pdf">online civic commons</a>. The admins/moderators of a large district forum would have to work to prevent the same subforums from becoming an unusable cacophony.</p><h3>Influence, Outcomes, and Effects</h3><p>An electoral district forum's goal is to create new channels for C2C/C2R/R2C information flow. Put less abstractly, its goal is to facilitate some basic democratic actions:</p><ol><li>Citizens publicly discuss among themselves what the community preferences for policy are</li><li>Candidates inexpensively campaign to tell the community how they propose to implement its policy preferences</li><li>The policy preferences of the entire community, not just its wealthiest citizens, are made clear to everyone</li><li>The representative communicates her positions and tactics to the community</li></ol><p>The activity level of a forum can be easily quantified through pageviews, links to it, shares on social media, etc. The forum's impact on its community will be proportional to its activity level.</p><p>The presumption behind the project is that increased levels of C2C/C2R/R2C communication will naturally result in more representative governance. This would manifest itself by incumbent representatives changing their behavior, or by their being replaced by more populist candidates for their office.</p><h3>Criticism</h3><p>1.  One problem with the district forum concept is that potential participants will be scared off by its novelty.  This can be addressed by beginning with a simple, online implementation of a candidate townhall - something everyone is familiar with.  After users are comfortable with the site, additional subforums and communication flows can be added.</p><p>2. Successful U.S. politicians enjoy a very high degree of job security, along with the prospect of a lucrative lobbying career after retirement. A second criticism is that many incumbents will refuse to participate since it would conflict with their current career path of representing only their wealthy constituents.</p><p>Incumbent non-participation is not just a valid concern, it is pretty much guaranteed to happen. However, there are paths to get a district forum started even without the incumbent on board:</p><ul><li>Challenging candidates interested in a more populist career path may find participation attractive. Their participation should provide enough ‘buzz’ to attract constituents, which would in turn generate pressure for incumbent participation.</li><li>Occasionally there are open races without a defending incumbent.</li><li>Advocacy groups may find forum participation a useful way to get their message out to their fellow citizens, even if the incumbent isn't responding.</li></ul><p>Alternatively, other countries have campaign financing traditions which are less corrupting, and have less of a tradition of a revolving door between public service and lobbying. These countries may be more fertile soil for the concept than the U.S.</p><p>3. A third criticism is that participating in a district forum will hurt, not help, a candidate. The reasoning here is that the candidate's posts will provide material which will be spun and put out in a mainstream media attack ad by a non-participating candidate. Weighing against this scenario happening is that:</p><ul><li>attack ad fodder is already plentiful since <a href="http://www.washingtonpost.com/lifestyle/style/tracking-the-trackers-what-its-like-to-have-the-most-mind-numbing-job-in-a-campaign/2014/10/14/a2ed9d46-50a0-11e4-8c24-487e92bc997b_story.html">trackers</a> often record what a candidate says at public (and even <a href="http://newsinmi.com/republicans-caught-using-spyglasses-at-schauer-campaign-fundraiser/">private</a>) events,</li><li>written posts are less useful than verbal gaffes for attack ads since posts can be edited for clarity after publishing, and vetted by staff before, and</li><li>dishonest quotation in an attack ad is liable to backfire since it is so easy for constituents to click over and read the full context of the misrepresented statement.</li></ul><p>4. A final criticism is that because very few constituents actively seek out information about their officeholders and candidates, not enough will participate. While the observation is true, the conclusion doesn't necessarily follow. District forums don't need to be sought out to be used, because they can be tightly integrated with the ubiquitous social media sites.</p><p>Facebook alone has an amazing reach - over 85% of U.S. households have at least one active Facebook user. District forums take advantage of this with:</p><ul><li><strong>Social media sharing buttons for every post.</strong> Since many of a person's social media friends are local and live in the same electoral district, sharing will frequently take place. For example, if a forum user likes an asked question and wants to see the representative answer it, sharing the post on Facebook provides an easy way for the user to get it upvoted.</li><li><strong>Easy registration with an existing social media account.</strong> So if a Facebook friend sees the shared post and wants to upvote a question, it takes only one click for them to register to do so.</li></ul><h3>Secondary Sources</h3><ul><li>Democracy, deliberation and design: the case of online discussion forums, by Scott Wright and John Street (2007, <a href="http://www.researchgate.net/profile/Scott_Wright11">pdf</a>)</li><li>Direct Representation: Towards a Conversational Democracy, by Stephen Coleman (2005, <a href="http://www.ippr.org/assets/media/ecomm/files/Stephen_Coleman_Pamphlet.pdf">pdf</a>)</li><li>Extending the Public Sphere through Cyberspace: The Case of Minnesota E-Democracy, by Lincoln Dahlberg (2001, <a href="http://firstmonday.org/ojs/index.php/fm/article/view/838/747">html</a>)</li><li>Managing Online Forums: Everything You Need to Know to Create and Run Successful Community Discussion Boards, by Patrick O'Keefe (2008, <a href="https://books.google.com/books?id=wD1A5rrD8w4C">Preview</a>)</li><li>Manufacturing Consent: The Political Economy of the Mass Media, by Edward S. Herman and Noam Chomsky (2002, <a href="http://books.google.com/books?id=18IWX4hxHNUC">Preview</a>)</li><li>Promise and Problems of E-Democracy: Challenges of Online Citizen Engagement, Organisation for Economic Co-operation and Development (2003, <a href="http://www.oecd.org/futures/35176328.pdf">pdf</a>)</li><li>Realising Democracy Online: A civic Commons in cyberspace, by Stephen Coleman and Jay G. Blumler (2001, <a href="http://www.ippr.org/assets/media/images/media/files/publication/2011/05/Realising%20Democracy%20Online%20-%20in%20_1230.pdf">pdf</a>)</li><li><em>Digital Disconnect</em>, by Robert W. McChesney (2013, <a href="https://books.google.com/books?id=j_7EkTI8kVQC">Preview</a>)</li><li><em>The Internet and Democractic Citizenship</em>, by Stephen Coleman and Jay G. Blumler (2009, <a href="http://books.google.com/books?id=yvXpBpiRWvMC">Preview</a>)</li></ul><h3>External Links</h3><ul><li><a href="http://www.vtownhall.org/wa03/">Prototype vTownhall</a> - a simplified version of a district forum, containing only online townhall funtionality.</li><li><a href="http://www.electoraldistrict.org/pa/senate/index.php">Prototype District Forum</a></li><li><a href="http://www.districtforums.org/white-paper/">Virtual Town Hall Forum</a> - for discussion of the district forum concept, and of e-democracy initiatives in general</li></ul><h3>Appendix 1: Electoral District Forum - Detailed Model</h3><p>An electoral district forum is a discussion board centered around a single political office. There are many ways such a concept could be implemented, but knowledge of related projects suggests the following features would help it succeed:</p><p><strong>Focused</strong></p><ol><li>restricted to a single electoral district - to narrow focus onto one geographical area and one political office</li><li>with clear goals - increasing information flow (C2C, R2C and C2R)</li></ol><p><strong>Fair</strong></p><ol start="3"><li>nonpartisan - so everyone feels welcome</li><li>moderated - to keep things civil</li><li>non-anonymous - so people take their posts seriously, but only forum moderators are privy to posters' real names and e-mail addresses</li><li>with disclosure of interests - it must be made clear if someone is posting as part of their paid work</li><li>with limits on user posts - so the conversation isn't monopolized by a small number of people</li></ol><p><strong>Inclusive</strong></p><ol start="8"><li>online - so it's easy to participate</li><li>mainly text based - to keep it simple, inexpensive, informative and searchable</li><li>optimized for searchbots - to make it easy to find content through Googling</li><li>registration via existing accounts - the vast popularity of Facebook, NextDoor, etc., will allow many (&gt;85%) to become registered forum users with one click</li><li>integrated with social media - to foster participation by making it very easy to share posts</li></ol><p><strong>Conversational</strong></p><ol start="13"><li>with an emphasis on dialogue - to prevent uninformative “defense by talking point”</li><li>with dialogue subforums - these will have restricted posting permissions to prevent a cacophony</li><li>continuously run - a continuing conversation, not a one-off or an occasional interview</li><li>with internal communication systems - to make it easy to communicate privately to other users through message, chat or forwarded e-mail</li></ol><p><strong>Useful</strong></p><ol start="17"><li>factual - with fact-checking encouraged since people are not entitled to their own reality</li><li>with “like” voting system - so posts can be ranked by popularity</li><li>with polls - to quantify what the community thinks</li><li>organized with categories and tags - to help find what the community has discussed in the past</li><li>with video discussions also possible - because footage can be much more dramatic and viral than text</li></ol><p><strong>People Powered</strong></p><ol start="22"><li>volunteer run and hosted - so it is independent of outside funding</li><li>simple - so volunteers can moderate or admin without extensive training</li><li>inexpensive to host - to make it possible to be independent</li><li>nonprofit - to focus on community serving and not profit seeking</li></ol><p><strong>Politician Friendly</strong></p><ol start="26"><li>fully open only to district residents - since non-constituent opinions are of limited interest to representatives</li><li>with a reasonable time commitment - staff can write first drafts of responses, only highly upvoted questions need to be responded to, etc</li><li>deliberative - staff can vet posts prior to publishing since there is little time pressure</li><li>correctable - posts can be updated afterwards for clarification or correction</li></ol><p>A standard, open-source <a href="https://www.phpbb.com/">phpBB</a> discussion forum will automatically have features 8, 9, 15, 16, 19, 21, 23, 24, 28 and 29. The remaining ones can be added in the following ways:</p><ul><li>additional software code: 10, 11, 12, 18 and 20</li><li>website rules and organization: 1, 5, 6, 7, 22, 25, 26 and 27</li><li>discussion forum structure: 2 and 14</li><li>forum moderation and norms: 3, 4, 13 and 17</li></ul><h3>Appendix 2: Prototype Software</h3><p>I have put together a fully functional prototype district forum based on the popular and secure open-source <a href="http://www.phpbb.com/">phpBB</a> software. This software is able to handle very large communities - the <a href="http://forums.realgm.com/boards/index.php">largest one </a>running it has over 100,000 registered users and over 28 million posts.</p><p>This screen shot of the prototype's <a href="http://www.electoraldistrict.org/pa/senate/index.php">homepage</a> shows one way in which the categories and subforums could be organized:</p><img alt="" height="450" src="http://images.dailykos.com/images/144545/large/pa-senate-electoraldistrict-forum.gif?1432245790" width="600" /><p>The basic phpBB board has been extended through the use of approved mods and some custom coding. The prototype incorporates most of the desired features discussed in Appendix 1. For example, the prototype software includes both a “like” button for every registered user, and a “+like” button that is only available to district residents. Tallying likes allows the best questions, petitions, etc., to get ranked above the less interesting ones.</p><h3>Appendix 3: Electoral District Forums and Ask-Me-Anythings</h3><p>District forums can be considered an extension/optimization of a long-standing internet tradition: the <a href="http://www.reddit.com/r/IAmA/wiki/index">Ask-Me-Anything</a> (AMA). The format of an AMA is that any registered user can submit questions and vote to rank others. <a href="http://en.wikipedia.org/wiki/Reddit">Reddit</a> is currently the most popular website for this type of interview. The interviewee answers whichever questions he chooses for about an hour, ignoring upvoted questions <a href="http://www.washingtonpost.com/blogs/the-fix/wp/2014/05/05/martin-omalley-did-a-reddit-ama-it-didnt-go-very-well/">at his peril</a>. Questions and answers are both short, and there are no follow-ups.</p><p>There are many things to like about this <a href="http://www.theatlantic.com/technology/archive/2014/01/ama-how-a-weird-internet-thing-became-a-mainstream-delight/282860/">new social media form</a>. It is:</p><ul><li><strong>Online and free to use</strong> - so it's easy to participate</li><li><strong>Egalitarian</strong> - no users are privileged above others</li><li><strong>Unfiltered</strong> - no gatekeepers</li><li><strong>Responsive to good ideas</strong> - questions and suggestions are ranked by voting</li><li><strong>Moderated</strong> - which keeps things civil</li><li><strong>Nonpartisan</strong> - so everyone feels welcome</li><li><strong>Mainly text based</strong> - which keeps it simple, inexpensive, informative and searchable</li></ul><p>However, while the Reddit AMA format is a good fit for celebrities promoting something, or for Q&amp;As with unusual people, it is a bad fit for constituents wanting to have substantive conversations with their representatives.  Here are some important issues:</p><ul><li>The politician AMAs that have taken place tend to be <a href="http://www.theatlantic.com/technology/archive/2012/08/on-obamas-reddit-appearance/261758/">dull and unenlightening</a> due to the lack of follow up questions.</li><li>Not many constituents will participate because of the event's brief time window.  For example, nobody living in the relevant district submitted questions to <a href="https://www.reddit.com/r/SandersForPresident/comments/433vrw/lucy_flores_running_for_us_house_in_nv4_ama/">this AMA</a> from a candidate for congressional office.</li><li>Because there is no identity verification, questioners may not be what they claim to be.  An account's comment history can't be used to definitively filter out sock-puppets because old Reddit accounts are openly sold to people wishing to influence discourse on the site.</li><li> Although in principle there is no gatekeeping on Reddit, in practice it happens all the time.  For example, organized users have done it through downvoting ("<a href="https://www.reddit.com/r/OutOfTheLoop/comments/36xhxc/what_is_brigading_and_how_do_you_do_it/">brigading</a>") since the inception of the site.</li></ul><p>For citizen-representative conversations, I believe these important attributes need to be added to the Reddit format:</p><ul><li><strong>Emphasis on dialogue</strong> - to prevent uninformative Q&amp;As where the answer is a talking point, and there are no follow-ups</li><li><strong>Continuously run</strong> - a continuing conversation, not a one-off or an occasional interview</li><li><strong>More inclusive</strong> - let people log in using their Facebook or other social media accounts</li><li><strong>Non-profit</strong> - to keep separate from Big Media, including Big Social Media</li><li><strong>Non-anonymous</strong> - to keep out <a href="http://www.forbes.com/sites/davidvinjamuri/2012/09/12/do-consumer-reviews-have-a-future-why-amazons-sock-puppet-scandal-is-bigger-than-it-appears/">corporate</a> and <a href="http://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks">government</a> sock-puppets</li><li><strong>Covers a single political office</strong> - to narrow the focus</li></ul><p>When these attributes are included, what results is close to being an electoral district forum as described in Appendix 1.</p><h3>Appendix 4: The Importance of Unfiltered Dialogue</h3><p>Minds work much better when they are open. Unfortunately, people have an innate <a href="http://en.wikipedia.org/wiki/Selective_exposure_theory">tendency</a> to seek out only information which reinforces their pre-existing views. Furthermore, in those important cases where opinion is <a href="http://www.vox.com/2014/4/6/5556462/brain-dead-how-politics-makes-us-stupid">bound up with identity</a>, a straightforward presentation of facts will often be rejected without being considered first. And to make matters worse the most accessible information, that provided by the mainstream media, is <a href="http://www.electoraldistrict.org/white-paper/chomsky-challenge.html">heavily filtered</a>.</p><p>A district forum aims to fight these effects by encouraging participation (active discussion or passive reading) in a nonpartisan forum filled with information and views which have not been pre-filtered by either the user or by the mainstream media.</p><p>Can dialoguing on forums result in people learning new things and viewpoints, and perhaps changing their opinions as a result? Certainly, but the process of opening a closed mind is slow, and one estimate is that it takes <a href="http://firstmonday.org/ojs/index.php/fm/article/view/838/747" title=" The case of Minnesota E-Democracy">three or four months</a> of forum participation for users to become receptive to new viewpoints.</p><p>Relatedly, wealthy interests have long used a <a href="http://billmoyers.com/2014/01/10/why-conservatives-old-divide-and-conquer-strategy-%E2%80%94-setting-working-class-against-the-poor-%E2%80%94-is-backfiring/">divide-and-conquer strategy</a> of fanning prejudicial resentment to gain the support of people who are hurt by their policies. However, <a href="http://en.wikipedia.org/wiki/Contact_hypothesis">personal contact</a> has been shown to be an effective way of reducing prejudice towards out-groups, even when the contact is <a href="http://www.sciencedirect.com/science/article/pii/S0747563214004324">computer-mediated</a>. A recent study <a href="http://www.sciencedirect.com/science/article/pii/S0022103112000108">has demonstrated</a> that reductions in intergroup bias and anxiety occur after only two weeks of online interaction. District forums are one way of harnessing the power of personal contact.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/electoral-district-forum" typeof="skos:Concept" property="rdfs:label skos:prefLabel">electoral district forum</a></div><div class="field-item odd"><a href="/en/tags/conversational-democracy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">conversational democracy</a></div><div class="field-item even"><a href="/en/tags/deliberative-democracy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">deliberative democracy</a></div><div class="field-item odd"><a href="/en/tags/e-democracy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">e-democracy</a></div><div class="field-item even"><a href="/en/tags/online-discussion" typeof="skos:Concept" property="rdfs:label skos:prefLabel">online discussion</a></div><div class="field-item odd"><a href="/en/tags/discussion-board" typeof="skos:Concept" property="rdfs:label skos:prefLabel">discussion board</a></div><div class="field-item even"><a href="/en/tags/direct-representation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">direct representation</a></div><div class="field-item odd"><a href="/en/tags/digital-democracy" typeof="skos:Concept" property="rdfs:label skos:prefLabel">digital democracy</a></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-974aa138c30fdfcb0c53f65fa6c72a30">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/4241">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">10</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">Varies</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">Ongoing</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">Ongoing</div></div></div><div class="field field-name-field-min-cost field-type-number-integer field-label-above"><div class="field-label">Minimum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$1</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$200</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/targeted-participants-public-roles/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Connection through social networks</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Voting on discussion board</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/local-eg-neighbourhood-citytown-metropolitan-area" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item odd"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/5-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Very Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/5-highly-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Highly Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/5-always-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Always Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/co-governance-ie-share-decision-making-public-authorities" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

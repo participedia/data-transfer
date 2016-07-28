@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/study-circles" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/188" />
+  <title>Study Circles | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"yQ_VH9I0s0becfZoNY5P_xN3J8H3kzRCDen1GIvjnMI","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/study-circles?destination=node\/188":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-188 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/study-circles" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/study-circles?destination=node/188" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-OHL72yTxwecdsUsCozl-T3d57OcAY1YgFV2cVxLiBHE" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Study Circles</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Study Circles - Participedia" addthis:url="http://participedia.net/en/methods/study-circles"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 7 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/shirleykim12" title="View user profile." class="username" xml:lang="" about="/en/users/shirleykim12" typeof="sioc:UserAccount" property="foaf:name" datatype="">Shirleykim12</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Definition" name="Definition"></a></p><h1>Definition</h1><p>Study circles -- also called Dialogue-to-Change programs, Dialogue-to-Action, or Dialogue Circles -- emphasize small group deliberation by providing opportunities for members of a community to meet face-to-face and discuss a particular set of issues that are important to them. They can be used by neighborhoods, school districts, counties and cities, as well as other organizations and larger regions. These programs meet regularly over a certain period of time, which can last from weeks to months, to engage and further refine a public issue. The final product of these discussions is to actively brainstorm a variety of solutions and assess the strengths and weaknesses of those solutions in a final large group discussion. Meetings are guided by a neutral facilitator that refrains from imposing his or her opinions or expertise on the group. Study circles aim to incorporate the diverse backgrounds of the community’s constituents and encourage participants to respectfully consider the views and values of fellow members. They also seek to foster social networks between people and uncover new and thoughtful methods of addressing public concerns.<a href="#cite_note-0" title="">[1]</a></p><p><a id="Process" name="Process"></a></p><h1>Process</h1><p><a id="Organizing_Study_Circles" name="Organizing_Study_Circles"></a></p><h3>Organizing Study Circles</h3><p>An initial working group meets to discuss its goals for the study circle program. The group then creates a team of coordinators and delegates specific duties and responsibilities as needed. The team chooses an issue or problem currently faced by the community, which will become the main topic for the study circle discussions. Discussion guides and materials are made as necessary. Coordinators decide the geographic region subject to recruitment of participants. They also select and train facilitators for the study circles. A written plan is composed, which details the structure, schedule, and location of the study circle sessions. Budgeting and fundraising preparations are also made at this time. Sometimes, outside resources are consulted or requested.<a href="#cite_note-1" title="">[2]</a></p><p><a id="General_Structure_of_Program" name="General_Structure_of_Program"></a></p><h3>General Structure of Program</h3><p>Each program begins with a ‘kickoff’ session in which people can participate in ice-breaking activities and get acquainted with each other. During this time, the goals and purposes, as well as the structure and schedule, of the study circles are introduced and described in some detail. The first few sessions allow for people to discuss their values in light of the issue and share any personal experiences. This is done in small groups. The next few meetings, also done in small groups, are designed to examine key arguments surrounding the issue. These arguments, for example, can be for or against a policy change or simply highlight the concerns that participants may have concerning the issue. The last few meetings allow for small groups to brainstorm potential solutions that take into consideration the views, values, and concerns discussed in previous meetings. Afterwards, all of the small groups reconvene in a final large group discussion that narrows the list of ideas into several proposed solutions for the community.<a href="#cite_note-2" title="">[3]</a></p><p><a id="History" name="History"></a></p><h1>History</h1><p>In 1912, the concept of modern day study circles emerged in Sweden after the first study association, ABF, was established. Study associations were created to address issues related to popular movements, such as the temperance and Free Church movements, or other community concerns, such as farmers’ and white-collar workers’ rights. The main purpose of study circles in Sweden is to increase citizen participation and boost social solidarity.<a href="#cite_note-3" title="">[4]</a></p><p>In 1989, the Paul J. Aicher Foundation (formerly known as the Topsfield Foundation), a U.S. nonprofit organization that advances deliberative democracy, established the Study Circles Resource Center (SCRC) to promote the use of dialogue-to-change programs in the U.S. Later, the SCRC would become the organization known as Everyday-Democracy. Everyday-Democracy has published numerous “How-To” guides that people can reference to create their own study circle programs. They also publish news of previous and current examples of study circles used in U.S. neighborhoods and communities. Today, many people use the study circle model offered by the SCRC.<a href="#cite_note-4" title="">[5]</a></p><p>Today, Australia has considered implementing study circles in local areas. The concept was introduced in the 1980s and received growing interest in the late 1990s. The organization Adult Learning Australia (ALA) coined the term “Learning Circles Australia” and has published and circulated various pamphlets encouraging the use of study circles. ALA has also suggested that study circles be used to discuss topics such as land-care issues and Aboriginal reconciliation.<a href="#cite_note-5" title="">[6]</a></p><p><a id="Case_Studies" name="Case_Studies"></a></p><h1>Case Studies</h1><p><a id="KCK_Study_Circles" name="KCK_Study_Circles"></a></p><h3>KCK Study Circles</h3><p>The Kansas City, Kansas (KCK) school district has been confronted with a number of issues, including low parent involvement and student test scores well below the national average. Also, many immigrant families, having increased recently, often found it difficult to transition both academically and culturally to the school systems in Kansas City. The northeastern side of the city particularly faced obstacles such as low income and high unemployment rates, which translated into minimal parent involvement in public schools.</p><p>In 1999, Brandi Fisher, program director for KCK Study Circles, and her colleagues adopted the methodology provided by the SCRC. They printed flyers and made announcements for the program, inviting parents to participate by sharing their views and values. Fisher also reached out to neighborhood organizations and churches to help support KCK school reform. In order to attract more participants, the study circle was held at community centers and churches to help parents who found it uncomfortable to visit their child’s school. School administrators and city council members were excluded for the first few sessions to prevent parents from feeling intimidated. The main goals of the KCK Study Circles were to educate parents on ways that they could help their children succeed but also to allow parents to make their own goals, judgments, and agenda regarding school reform.</p><p>The structure of the KCK Study Circles included three sessions of small group discussion with each group consisting of between eight and twelve participants. During the first session, parents shared personal experiences concerning their own education. In the second session, parents proposed various ideas for improving schools and weighed the strengths and weaknesses of those potential solutions. Finally, in the third session, parents participated in an “action forum” in which they organized into teams, shared their conclusions and worked on specific solution proposals.</p><p>Since the first KCK Study Circles program, there have been over one hundred meetings, and about 10 percent of the northeast Kansas City population (about 1,676 people) have attended these sessions. Over time, discussion topics have evolved from being strictly about schools and education to city-wide issues such as crime and racism. Overall, the program has been largely successful, particularly because it allows its participants, as opposed to organizers and facilitators, to choose the agenda and topics of discussion. Furthermore, reforms in education have taken place, such as organizing parent support groups, tutoring and mentoring opportunities, and school fundraising events.<a href="#cite_note-6" title="">[7]</a></p><p><a id="Buffalo_Policing_Circles" name="Buffalo_Policing_Circles"></a></p><h3>Buffalo Policing Circles</h3><p>Tense relations between the police and teenagers of Buffalo, N.Y. have made it difficult for community members to reach a common ground in terms of law enforcement, crime prevention, and neighborhood safety. Lack of trust and respect between the police and youth has amplified community stress, sometime escalating to dangerous police-youth confrontations.</p><p>In 2000, the Margaret L. Wendt Foundation and United Way of Buffalo and Erie County started the United Neighborhoods Center in Buffalo, which worked to foster better relations between the police and teenagers. United Neighbors received funding from the Department of Justice and was best known for its problem-solving initiatives. Over 250 youth participated in the study circles in Buffalo. Some objectives of the program included engaging youth in discussing police-community relations and addressing the issue of racial profiling.</p><p>Youth from various organizations and clubs formed teams with police and other community members. These teams met during facilitated events where they were provided discussion guides with sample questions and various viewpoints concerning police-community relations and racial profiling. In order to attract more participants, rap and hip-hop events, drama performances, and games were incorporated into the small group events to encourage conversation and idea-sharing. At one of the events, teenagers and police played a game modeled after Family Feud, called “Community Feud,” to break down existing tensions between the two parties.<a href="#cite_note-7" title="">[8]</a></p><p>The study circles allowed the teams to pinpoint issues underlying police-teen conflicts. The participants realized that teens had minimal outlets for after-school activities and thus used parties as entertainment venues, which were often linked to substance abuse and violence. Angela Jones, program coordinator for the Buffalo Policing Circles, noted some proposed solutions to this issue, including planned meetings to educate teens on rules and guidelines for hosting safe parties. The study circles were successful because they increased policing programs, which resulted in faster response times for 911 calls. However, cuts in police funding and the United Neighborhoods coordinator’s moving to a different community prevented improvements from becoming substantial and permanent.<a href="#cite_note-8" title="">[9]</a></p><p><a id="Sweden" name="Sweden"></a></p><h3>Sweden</h3><p>The use of study circles has been an enduring tradition for Sweden since 1912. It is often considered a “mass phenomenon” because nearly 2 million citizens participate in one or more study circle programs per year. Study associations or organizations often receive funding from the state government and are accountable for promoting and facilitating study circles. In addition, they are responsible for reporting numbers and statistics relating to the study circles. In the early 1900s, common topics for discussion included workers’ rights, the temperance movement, and Free Church movement. However, more recently topics have proven to cover a large spectrum and can depend on the will of coordinator. Some study circles even discuss poetry or certain crafts, though these circles are generally organized by any person with a particular cultural interest as opposed to a study association. Usually participants meet for three hours on one day every week for 10 to 15 meetings.</p><p>Though study associations have faced difficulty in measuring the quality and success of these study circles, it is widely understood that many Swedes participate in at least one program per year and far more participating in several. Also, they have been successful in encouraging all age brackets to get involved, including young adults.<a href="#cite_note-9" title="">[10]</a></p><p><a id="Evaluation" name="Evaluation"></a></p><h1>Evaluation</h1><p><a id="Strengths" name="Strengths"></a></p><h3>Strengths</h3><p>Study circles have been particularly beneficial in fostering community bonds and social solidarity. In the case of the KCK Study Circles, people of diverse backgrounds were able to reach a common ground because they decided their agenda and freely discussed their views, values, and concerns. Networking amongst parents increased, which helped parent involvement in schools and children’s education.<a href="#cite_note-10" title="">[11]</a></p><p>Particularly in Sweden, study circles have often been used to increase literacy amongst citizens. By emphasizing speech as a feature of literacy, study circles offered those lacking formal education a venue for learning language and civic participation. A striking quality found within Swedish study circles is that they are used by half of the state’s population, which proves that study circles can advance the significance of citizen involvement.<a href="#cite_note-11" title="">[12]</a></p><p><a id="Weaknesses" name="Weaknesses"></a></p><h3>Weaknesses</h3><p>The quality of deliberation in a study circles program depends on the dynamics of the group. Some participants may be passive while others are more outspoken. This prevents some voices from being heard, and sometimes speaking opportunities are not equally distributed. Furthermore, the diversity of the group may hinder participants from reaching any consensus, especially if members come from very different backgrounds. If consensus becomes a serious issue, participants may drop out from the group altogether.<a href="#cite_note-12" title="">[13]</a></p><p>Leadership is another primary factor in assessing the success of study circles. If the facilitator does not perform his or her duties properly, the discussions may be too heavily influenced by the facilitator or fail to provide organization and structure. In the case of the Buffalo Policing Circles, the head coordinator’s moving to a different community prevented the program from achieving long-lasting success.<a href="#cite_note-13" title="">[14]</a></p><p><a id="References" name="References"></a></p><h1>References</h1><ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> Sarah vL. Campbell, Amy Malick, John Landesman, Molly Holme Barrett, Matt Leighninger, Martha L. McCoy and Patrick L. Scully, “Organizing Community-wide Dialogue for Action and Change: A Step-by-step Guide,” Study Circles Resource Center (Topsfield Foundation, Inc., 2001), 1-5.<a class="external autonumber" href="http://www.everyday-democracy.org/en/Publication.39.aspx" rel="nofollow" title="http://www.everyday-democracy.org/en/Publication.39.aspx">[1]</a></li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> Ibid., 8-9. <a class="external autonumber" href="http://www.everyday-democracy.org/en/Publication.39.aspx" rel="nofollow" title="http://www.everyday-democracy.org/en/Publication.39.aspx">[2]</a></li><li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a> Ibid., 3-5. <a class="external autonumber" href="http://www.everyday-democracy.org/en/Publication.39.aspx" rel="nofollow" title="http://www.everyday-democracy.org/en/Publication.39.aspx">[3]</a></li><li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> Staffan Larsson and Henrik Nordvall, “Study Circles in Sweden: An Overview with a Bibliography of International Literature,” Mimer –The Swedish National Programme for Research on Popular Education (Linköping University Electronic Press, 2010), 18. <a class="external autonumber" href="http://liu.diva-portal.org/smash/get/diva2:328351/FULLTEXT01" rel="nofollow" title="http://liu.diva-portal.org/smash/get/diva2:328351/FULLTEXT01">[4]</a></li><li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> “About Us,” Everyday-Democracy, <a class="external free" href="http://www.everyday-democracy.org/en/Page.AboutUs.aspx" rel="nofollow" title="http://www.everyday-democracy.org/en/Page.AboutUs.aspx">http://www.everyday-democracy.org/en/Page.AboutUs.aspx</a> (accessed Dec. 6, 2010).</li><li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> Liz Suda, “Learning Circles—Democratic Pools of Knowledge,” ARIS Resources Bulletin, vol. 12 no. 3 (2001): 5, <a class="external free" href="http://eric.ed.gov/PDFS/ED457363.pdf" rel="nofollow" title="http://eric.ed.gov/PDFS/ED457363.pdf">http://eric.ed.gov/PDFS/ED457363.pdf</a>.</li><li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a> Matt Leighninger, “Is Everything Up to Date in Kansas City? Why ‘Citizen Involvement’ May Soon Be Obsolete,” National Civic Review (2007), Web.<a class="external autonumber" href="http://www.ncl.org/publications/ncr/PDFLeighninger2.pdf" rel="nofollow" title="http://www.ncl.org/publications/ncr/PDFLeighninger2.pdf">[5]</a></li><li id="cite_note-7"><a href="#cite_ref-7" title="">↑</a> “Study circles: New strategies for police-community collaboration,” Focus on Study Circles, Study Circles Research Center, vol. 14 no. 1 (2003): 1-3. <a class="external autonumber" href="http://www.google.com/url?sa=t&amp;source=web&amp;cd=1&amp;ved=0CBgQFjAA&amp;url=http%3A%2F%2Fwww.everyday-democracy.org%2Fen%2FPublication.55.aspx&amp;rct=j&amp;q=Study%20circles%3A%20New%20strategies%20for%20police-community%20collaboration&amp;ei=SmL-TKCNAo3CsAPIrriwCw&amp;usg=AFQjCNE8V91CiwGHkPHBQhE4Q3C43GhflQ&amp;sig2=HgRY1JEjALO71ALyM7ZXhg&amp;cad=rja" rel="nofollow" title="http://www.google.com/url?sa=t&amp;source=web&amp;cd=1&amp;ved=0CBgQFjAA&amp;url=http%3A%2F%2Fwww.everyday-democracy.org%2Fen%2FPublication.55.aspx&amp;rct=j&amp;q=Study%20circles%3A%20New%20strategies%20for%20police-community%20collaboration&amp;ei=SmL-TKCNAo3CsAPIrriwCw&amp;usg=AFQjCNE8V91CiwGHkPHBQhE4Q3C43GhflQ&amp;sig2=HgRY1JEjALO71ALyM7ZXhg&amp;cad=rja">[6]</a></li><li id="cite_note-8"><a href="#cite_ref-8" title="">↑</a> “Case Studies: Buffalo Policing Circles,” Democracy Helpline, <a class="external free" href="http://helpline.deliberative-democracy.net/case_studies/studies.php/buffalo" rel="nofollow" title="http://helpline.deliberative-democracy.net/case_studies/studies.php/buffalo">http://helpline.deliberative-democracy.net/case_studies/studies.php/buffalo</a> (accessed Dec. 6, 2010).</li><li id="cite_note-9"><a href="#cite_ref-9" title="">↑</a> Staffan Larsson and Henrik Nordvall, “Study Circles in Sweden: An Overview with a Bibliography of International Literature,” Mimer –The Swedish National Programme for Research on Popular Education (Linköping University Electronic Press, 2010), 7-14.<a class="external autonumber" href="http://liu.diva-portal.org/smash/get/diva2:328351/FULLTEXT01" rel="nofollow" title="http://liu.diva-portal.org/smash/get/diva2:328351/FULLTEXT01">[7]</a></li><li id="cite_note-10"><a href="#cite_ref-10" title="">↑</a> Matt Leighninger, “Is Everything Up to Date in Kansas City? Why ‘Citizen Involvement’ May Soon Be Obsolete,” National Civic Review (2007), <a class="external free" href="http://www.ncl.org/publications/ncr/PDFLeighninger2.pdf" rel="nofollow" title="http://www.ncl.org/publications/ncr/PDFLeighninger2.pdf">http://www.ncl.org/publications/ncr/PDFLeighninger2.pdf</a>.</li><li id="cite_note-11"><a href="#cite_ref-11" title="">↑</a> Liz Suda, “Learning Circles—Democratic Pools of Knowledge,” ARIS Resources Bulletin, vol. 12 no. 3 (2001): 5, <a class="external free" href="http://eric.ed.gov/PDFS/ED457363.pdf" rel="nofollow" title="http://eric.ed.gov/PDFS/ED457363.pdf">http://eric.ed.gov/PDFS/ED457363.pdf</a>.</li><li id="cite_note-12"><a href="#cite_ref-12" title="">↑</a> Ibid.</li><li id="cite_note-13"><a href="#cite_ref-13" title="">↑</a> “Case Studies: Buffalo Policing Circles,” Democracy Helpline, <a class="external free" href="http://helpline.deliberative-democracy.net/case_studies/studies.php/buffalo" rel="nofollow" title="http://helpline.deliberative-democracy.net/case_studies/studies.php/buffalo">http://helpline.deliberative-democracy.net/case_studies/studies.php/buffalo</a> (accessed Dec. 6, 2010).</li></ol><p><a id="Secondary_Literature" name="Secondary_Literature"></a></p><h1>Secondary Literature</h1><p>Henry Blid, Education by the People—Study Circles (1989).</p><p>John Gastil, Political Communication and Deliberation (Thousand Oaks: Sage Publications, Inc., 2008).</p><p>Leonard P. Oliver, Study Circles: Coming Together for Personal Growth and Social Change (Vancouver: Seven Locks Press, 1987).</p><p>Martha L. McCoy, “Study Circles,” in The Change Handbook (San Francisco: Berrett-Koehler Publishers, Inc., 2007).</p><p>Study Circles Resource Center. (2001). <em>Organizing Community-Wide Dialogue for Action and Change: A Step-by-Step Guide</em>. Pomfret, CT: Study Circles Resource Center. <a href="http://www.everyday-democracy.org/en/Resource.39.aspx">http://www.everyday-democracy.org/en/Resource.39.aspx</a></p><p><a id="External_Links" name="External_Links"></a></p><h1>External Links</h1><p>Australian Study Circles Network <a class="external autonumber" href="http://studycircles.net.au/" rel="nofollow" title="http://studycircles.net.au/">[8]</a></p><p>Deliberative Democracy Consortium Helpline <a class="external autonumber" href="http://helpline.deliberative-democracy.net/" rel="nofollow" title="http://helpline.deliberative-democracy.net/">[9]</a></p><p>Everyday-Democracy <a class="external autonumber" href="http://www.everyday-democracy.org/en/index.aspx" rel="nofollow" title="http://www.everyday-democracy.org/en/index.aspx">[10]</a></p><p><a id="On_Participedia" name="On_Participedia"></a></p><h3>On Participedia</h3><p><a href="/cases/portsmouth-listens" title="Portsmouth Listens">Portsmouth Listens</a></p><p><a href="/organizations/everyday-democracy" title="Everyday Democracy">Everyday Democracy</a></p><p><a href="http://participedia.net/cases/strong-starts-children-albuquerque-new-mexico-usa">Strong Starts for Children (Albuquerque, New Mexico, USA)</a></p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-15d6fa276b6d245ede7fd39e86c17309">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/188">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">3</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">300</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">180</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all-targeted-recruitment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all with targeted recruitment</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Trust Building</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">communication by word of mouth</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">list of solutions narrowed into several proposals during final large group discussion</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/implementation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Implementation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/3-somewhat-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Somewhat Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/develop-individual-capacities-eg-skills-learning" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Develop individual capacities (e.g. skills, learning)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/addressing-identity-based-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Addressing Identity-Based Issues</a></div><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">small group discussion</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

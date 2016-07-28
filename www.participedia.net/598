@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/choicework-dialogue" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/598" />
+  <title>Choicework Dialogue | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"vweTLt8yevFtURM_hCJZnUrGiCIwokKPJvYpGjMeohc","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/choicework-dialogue?destination=node\/598":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-598 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/choicework-dialogue" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/choicework-dialogue?destination=node/598" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-NFYxQDSkDgkmlyeuDpVaegbdJfJ9WLnTyz2VagmGEeo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Choicework Dialogue</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Choicework Dialogue - Participedia" addthis:url="http://participedia.net/en/methods/choicework-dialogue"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 11 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>Choicework Dialogue -- also called Choice-Dialogue or ChoiceDialogue -- developed by <a href="http://participedia.net/organizations/viewpoint-learning">Viewpoint Learning</a>, is a structured and facilitated method of face-to-face, in-person deliberation in which a representative sample of approximately 40 citizens deliberates for 8 hours about a policy issue. Choicework Dialogue has been used for public deliberations about public policy issues as well as for intraorganizational deliberations about organizational policies. The method requires participants to read workbooks containing information about the policy issue, consider several possible policy approaches -- each of which is associated with certain values -- for addressing the issue, consider multiple means of funding those policy approaches, identify policy objectives, and then weigh tradeoffs in making feasible policy and funding choices that will further those objectives. Surveys measure participants' attitudes about the issue at the start and end of the deliberation. Survey results are used by the organization sponsoring the deliberation as evidence of informed public opinion about the issue.</p><h3>Problems and Purpose</h3><p>According to <a href="http://participedia.net/organizations/viewpoint-learning">Viewpoint Learning</a>, the Choicework Dialogue method is intended to address the problems of volatility and superficiality in public opinion research.  Research and theory suggest that most citizens are poorly informed about, and so do not have informed opinions about, most public policy issues. Research also suggests that citizens when considering policy issues in everyday life do not ordinarily consider the tradeoffs in interests or values that are usually necessary to choose a public policy that is both feasible and acceptable to a diverse public. Accordingly, results of most public opinion polls are likely to be volatile and to have low validity, and are unlikely to reflect tradeoffs in values or interests. The Choicework Dialogue method -- by guiding a representative sample of citizens through a structured deliberation that requires participants to learn about a policy issue, to consider multiple policy approaches each of which is associated with values held by large numbers of citizens, and to make tradeoffs in values or interests necessary to creating a policy that is feasible, capable of broad public support, and effective at furthering policy goals -- is designed to produce public opinion survey results that are more stable and valid than are most public opinion polls, and that reflect tradeoffs in interests or values.</p><h3>History</h3><p>According to Yankelovich (1991), the term "choicework" was introduced by David Mathews of the <a href="http://participedia.net/organizations/kettering-foundation">Kettering Foundation</a> -- perhaps in the 1980s -- to describe several deliberation methods intended to enable participants to "work through" difficult policy problems. Yankelovich subsequently used the term "Choicework Dialogue" to describe his particular three-stage dialogue method. Later Yankelovich's organization <a href="http://participedia.net/organizations/viewpoint-learning">Viewpoint Learning</a> changed the name of this three-stage dialogue method to Choice-Dialogue.</p><p>Choicework Dialogue has been used in many public policy deliberations, including:</p><ul><li>Beyond Wishful Thinking: Californians Deliberate State Budget Reform (2008)</li><li>California Citizen Dialogues on K-12 Education Reform (2007)</li><li>Citizen Dialogues on Covering the Uninsured (2004)</li><li>Citizen Dialogues on Paying for Health Care in Retirement (2008)</li><li>Citizen Dialogues on the Coming of Age in Arizona (2003)</li><li>Citizens' Dialogue on Canada’s Future (2002)</li><li><a href="http://participedia.net/cases/citizens-dialogue-future-health-care-canada">Citizens' Dialogue on the Future of Health Care in Canada</a> (2002)</li><li>Citizens' Dialogue on the Long-term Management of Used Nuclear Fuel in Canada (2004)</li><li><a href="http://participedia.net/cases/commonground-first-five-years-dialogue-early-childhood-new-mexico">CommonGround: The First Five Years: A Dialogue on Early Childhood in New Mexico</a> (2010)</li><li>Facing Up to Our Nation's Finances: Changing Expectations: Americans Deliberate our Nation’s Finances and Future (2006-2007)</li><li>The Future of Housing in San Mateo: Citizen Dialogues (2003)</li><li>The Future of the San Diego Region’s Airport: Choice-Dialogues with County Residents (2004)</li><li>Health Coverage for All Arizonans: Citizen Dialogues (2005)</li><li>Health Coverage for All Californians: Dialogues with the Public (2005-2006)</li><li>Listening to Californians: California Citizens' Dialogues About California's Government (2004)</li><li>San Diego Dialogues on Community Water Fluoridation (2005-2007)</li><li>Sustainability Research Initiative: Listening to the Public: Understanding and Overcoming Barriers to Sustainability: [Vancouver ChoiceDialogues] (2005) </li><li>Voices for Health Care: Engaging the Public to Advance Signiﬁcant Health Care Reform (2008)</li></ul><h3>Participant Selection</h3><a href="http://participedia.net/organizations/viewpoint-learning">Viewpoint Learning</a> often describes the participant selection process for Choicework Dialogues that address public issues as "random selection" such that the participants are "representative of the broader population."  Each sample consists of approximately 40 participants.<h3>Deliberation, Decisions, and Public Interaction</h3><p>The following description of a Choicework Dialogue about a public policy issue is based on the method used during the <a href="http://participedia.net/cases/citizens-dialogue-future-health-care-canada">Citizens' Dialogue on the Future of Health Care in Canada</a>.</p><p>The goal of a Choicework Dialogue about a public policy issue is usually to give guidance to government officials or other community leaders respecting informed public opinion about the policy issue.</p><p>To prepare for a Choicework Dialogue about a public policy issue, a project team -- often consisting of personnel from the sponsoring organization, the facilitating organization, and one or more local partner organizations -- generally reads relevant scholarly and policy literature and consults with experts on the issue and stakeholders respecting the issue, including government officials.</p><p>From those information sources the project team writes a workbook describing a small number of important dimensions or sub-issues of the principal policy issue, the facts related to those sub-issues, up to four "scenarios," and advantages and disadvantages of each "scenario." A "scenario" is an account combining a description of a broad policy approach -- or set of policy instruments -- that is related to important values believed to be held by a large portion of the relevant community, with descriptions of  advantages and disadvantages associated with that approach.  A "scenario" generally does not describe policy objectives. The workbook also usually describes several options for funding each scenario.</p><p>After the project team completes a draft of the workbook experts and stakeholders are invited to comment on the draft workbook. Using those comments the project team makes final revisions to the workbook.</p><p>Each Choicework Dialogue consists of one continuous, 8-hour session, and has approximately 40 participants.</p><p><a href="http://participedia.net/organizations/viewpoint-learning">Viewpoint Learning</a> calls the first part of a Choicework Dialogue "Opinion Formation." At the start of each Choicework Dialogue each participant receives a workbook. Trained facilitators explain "the purpose of the dialogue," how the results of the dialogue will be used, and the procedure and "ground-rules" of the dialogue for the session. The facilitators then explain the important sub-issues discussed in the workbook and present facts concerning them. Next, the facilitators explain the scenarios described in the workbook.  At this point the participants complete a survey respecting their beliefs about the sub-issues described in the workbook and their attitudes respecting each of the scenarios and funding methods described in the workbook. </p><p>After completing the survey the second part of the Choicework Dialogue -- called "Working Through" -- begins.  During this second part of the dialogue participants engage in discussions in small groups and in plenary sessions to determine desirable and undesirable effects of each scenario and the participants' preferred "vision of the future" respecting the policy issue that is the subject of the Choicework Dialogue. The "vision of the future" contains policy objectives. Trained facilitators moderate the small-group and plenary discussions to ensure compliance with the ground-rules.   </p><p>Once the "vision of the future" has been agreed the participants break for a meal. After the meal the Choicework Dialogue participants work again in small groups and plenary sessions to discuss the tradeoffs respecting the scenarios and funding methods that would be required to realize their preferred "vision of the future." Once again trained facilitators moderate the small-group and plenary discussions to ensure compliance with the ground-rules.</p><p>During the third and final part of the Choicework Dialogue, called "Resolution," during their discussions of scenarios, funding methods, and tradeoffs a majority of participants typically reach agreement on one or more scenarios -- or components of scenarios -- and funding methods that make up their preferred policy approaches. At the end of these discussions participants complete another survey respecting their beliefs about the sub-issues described in the workbook and their attitudes respecting each of the scenarios and funding methods described in the workbook.</p><p>After the conclusion of the Choicework Dialogue the project team analyzes the survey results. During some Choicework Dialogues the project team interviews some participants and/or records the dialogue, and then conducts qualitative analysis of the interviews and/or the dialogue as reflected in the recording. The project team writes a report describing the qualitative and quantitative results of the dialogue. Finally, the project team shares the report with the sponsoring organization.</p><h3>Influence, Outcomes, and Effects</h3><p>In terms of effects on participants, quantitative results of many Choicework Dialogues show that participants' beliefs or attitudes about information in the workbook undergo substantial change during the dialogues.  For example, reported quantitative results of the <a href="http://participedia.net/cases/citizens-dialogue-future-health-care-canada">Citizens' Dialogue on the Future of Health Care in Canada</a> showed that participants' attitudes about two (out of four) scenarios underwent substantial change during the dialogue:</p><ul><li>Respecting Scenario 1 (concerning increasing public funding for the existing Canadian public health care system) the percentage of participants supporting this scenario rose from 48% at the start of the dialogues to 61% at the end of the dialogues.</li><li>Respecting Scenario 4 (concerning overhauling the primary care component of the Canadian public health care system) the share of participants supporting this scenario rose from 56% at the start to 79% at the end of the dialogues.</li></ul><p>Similarly, the reported quantitative results of the Choicework Dialogues held in connection with <a href="http://participedia.net/cases/commonground-first-five-years-dialogue-early-childhood-new-mexico">CommonGround: The First Five Years: A Dialogue on Early Childhood in New Mexico</a> showed that participants' beliefs about one sub-issue and participants' attitudes about one funding method had changed notably during the course of the dialogues:</p><ul><li>The percentage of participants who believed that the period from birth to five years was the most important for a child's future outcomes rose from 66% at the start of the dialogues to 85% at the end of the dialogues. </li><li>The percentage of participants who supported increasing public funding for early childhood education and development, even if that meant cutting public spending on health and public safety, dropped from 77% at the start of the dialogues to 56% at the end of the dialogues.</li></ul><p>In Choicework Dialogues involving multiple dialogue events reported results often show consistency among events respecting ranking of scenarios and funding methods and other quantitative survey results. </p><p>In terms of qualitative results reports often describe highly positive responses from participants respecting feelings of community or solidarity or feelings of having been treated with respect during the dialogue. Some reports of qualitative results of Choicework Dialogues describe participants' accounts of feeling "transformed" by the dialogue experience.</p><p>Several Choicework Dialogues appear to have influenced the policy decisions of the sponsoring or target organizations. For example, less than a year after the conclusion of the Choicework Dialogues held in connection with <a href="http://participedia.net/cases/commonground-first-five-years-dialogue-early-childhood-new-mexico">CommonGround: The First Five Years: A Dialogue on Early Childhood in New Mexico</a>, New Mexico enacted a state statute -- entitled the Early Childhood Care and Education Act [SB 120] -- that implemented several policies recommended by participants in the CommonGround dialogues.</p><p>In another example, several policy recommendations agreed by participants of the <a href="http://participedia.net/cases/citizens-dialogue-future-health-care-canada">Citizens' Dialogue on the Future of Health Care in Canada</a> appear to have been incorporated into the final report of the Commission on the Future of Health Care in Canada (known as the Romanow Commission), entitled <em>Building on Values: The Future of Health Care in Canada</em>.</p><p>The Choicework Dialogue method has also influenced other communication methods used for public deliberations. For example, the "Citizen Dialogue" method used by the Canadian Policy Research Networks to structure several Canadian public policy deliberations was based on the Choicework Dialogue method. In addition, the Choicework Dialogue method appears to have influenced the "dialogue process" used by EKOS Research Associates in certain public deliberations such as the Citizens’ Dialogue on Public Health Goals in Canada.</p><h3>Analysis and Criticism</h3><p>Several strengths of the Choicework Dialogue method are evident. First, Choicework Dialogues regularly produce substantial changes in participants' attitudes or beliefs respecting the issues being discussed. This indicates that the Choicework Dialogue method fosters genuine deliberation.</p><p>Second, the results of Choicework Dialogue often influence policy makers, as in the examples of  <a href="http://participedia.net/cases/commonground-first-five-years-dialogue-early-childhood-new-mexico">CommonGround: The First Five Years: A Dialogue on Early Childhood in New Mexico</a> and the <a href="http://participedia.net/cases/citizens-dialogue-future-health-care-canada">Citizens' Dialogue on the Future of Health Care in Canada</a> discussed above.</p><p>Third, the use of random sampling lends credibility to the results of Choicework Dialogues.</p><p>Fourth, in some instances where public-opinion polling has been used in connection with Choicework Dialogues, similarities and differences between the dialogue and polling results suggest that (a) as predicted, the dialogue results are representative of the broader population respecting items that were not the subject of the "working-through" dialogue stage; and (b) also as predicted, dialogue results differ substantially from polling results on items that participants "worked through" during the dialogue. These results support the view of Choicework Dialogue as a means of determining what "informed" public opinion on a policy issue would be given deliberation requiring respondents to consider important values and to make difficult tradeoffs.</p><p>Fifth, the Choicework Dialogue method can scale. The method has been used in single-dialogue events involving only 40 participants on a single day, as well as in nationwide dialogues consisting of ten or more events involving hundreds of participants who meet over the course of several weeks.</p><p>Sixth, Choicework Dialogue has been used successfully at many governmental levels -- including local, regional, and national levels of government -- and in multiple contexts, including citizens' public-policy deliberations and dialogues with employees of individual private businesses about intraorganizational policies.</p><p>Seventh, Choicework Dialogue can be used to address issues of great complexity and controversy, such as health care reform, early childhood education and development, land use planning, state budget reform, and nuclear waste management. </p><p>Nonetheless some criticisms of Choicework Dialogue have been expressed. Von Lieres and Kahane (2007) have criticized the Choicework Dialogue method on the grounds that political and social elites dominate the process by determining the workbook content -- including the dimensions of the issue and the relevant values to be considered and the policy and funding approaches to be weighed -- and discussion procedures. For von Lieres and Kahane (2007) this arrangement gives ordinary citizens a very small role in the process -- apart from the functions of choosing policy objectives in the "vision of the future" and ranking the policy and funding approaches -- and does not allow participants to reflect critically upon the deliberative process. Von Lieres and Kahane (2007) further argue that the Choicework Dialogue method does not adequately address the issues or perspectives of socially marginalized groups -- notwithstanding that those groups are represented among the participant sample in proportion to their numbers in the population -- because the workbook content and the discussion rules reflect the views and customs of the majority and/or elites.  For these reasons von Lieres and Kahane (2007) question the extent to which Choicework Dialogue method can be considered "democratic, or deliberative, or inclusive."</p><h3>Secondary Sources</h3><p>Canadian Policy Research Networks. (2005). <em>CPRN and Deliberative Dialogue – A Primer</em>. Ottawa: Canadian Policy Research Networks. <a href="http://www.cprn.org/doc.cfm?doc=1238">http://www.cprn.org/doc.cfm?doc=1238</a></p><p>Commission on the Future of Health Care in Canada. (2002). <em>Report on Citizens' Dialogue on the Future of Health Care in Canada</em>. Saskatoon: The Commission. <a href="http://publications.gc.ca/collections/Collection/CP32-77-2002E.pdf">http://publications.gc.ca/collections/Collection/CP32-77-2002E.pdf</a></p><p>EKOS Research Associates. (2005). <em>Citizens’ Dialogue on Public Health Goals in Canada: Final Findings Report</em>. Ottawa: EKOS Research Associates. <a href="http://www.ekos.com/admin/articles/cd-phg_e.pdf">http://www.ekos.com/admin/articles/cd-phg_e.pdf</a></p><p>James S. Fishkin et al. (2004). ChoiceDialogues and Deliberative Polls: Two Approaches to Deliberative Democracy. <em>National Civic Review</em>, 93(4), 55-63.</p><p>Isabella Furth, Heidi Gantwerk, and Steven A. Rosell. (2006). <em>Health Coverage for All Californians: Catching Up with the Public: A Report on Dialogues with the Public and with Business and Civic Leaders</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Health_Coverage_for_All_Californians.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Health_Cover...</a></p><p>Isabella Furth, Heidi Gantwerk, and Steven A. Rosell. (2009). <em>Medicare: It's Not Just Another Program: Citizen Dialogues on Paying for Health Care in Retirement</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Medicare_its_Not_Just_Another_Program.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Medicare_its...</a></p><p>Isabella Furth, Heidi Gantwerk, and Steven A. Rosell. (2009). <em>Voices for Health Care: Engaging the Public to Advance Signiﬁcant Health Care Reform: Project Report, Spring 2009</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Engaging_the_Public_to_Advance_Significant_Health_Care_Reform.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Engaging_the...</a></p><p>Heidi Gantwerk. (2004). <em>The Future of Housing in San Mateo: Citizen and Stakeholder Dialogues</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Future_of_Housing_in_San_Mateo.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Future_of_Ho...</a></p><p>Heidi Gantwerk. (2011, February 14). New Mexicans Can Reach Agreement About Early Childhood Issues. <em>NMPolitics.net</em>. <a href="http://www.nmpolitics.net/index/2011/02/new-mexicans-can-reach-agreement-about-early-childhood-issues/">http://www.nmpolitics.net/index/2011/02/new-mexicans-can-reach-agreement...</a></p><p>Heidi Gantwerk and Isabella Furth. (2006). <em>Health Coverage for All Arizonans: A Report on Citizen and Stakeholder Dialogues</em>. San Diego, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Health_Care_Coverage_for_All_Arizonans.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Health_Care_...</a></p><p>Carolyn J. Lukensmeyer and Lars Hasselblad Torres. (2006). <em>Public Deliberation: A Manager's Guide to Citizen Engagement</em>. Washington, DC: IBM Center for the Business of Government. <a href="http://unpan1.un.org/intradoc/groups/public/documents/un-dpadm/unpan039229.pdf">http://unpan1.un.org/intradoc/groups/public/documents/un-dpadm/unpan0392...</a></p><p>Mary Pat MacKinnon et al. (2003). <em>Citizens' Dialogue on Canada's Future: A 21st Century Social Contract</em>. Ottawa: Canadian Policy Research Network. <a href="http://www.cprn.org/doc.cfm?l=en&amp;doc=359">http://www.cprn.org/doc.cfm?l=en&amp;doc=359</a></p><p>Judith Maxwell, Steven Rosell, and Pierre-Gerlier Forest. (2003). Giving Citizens a Voice in Healthcare Policy in Canada. <em>BMJ</em>, 326, 1031-1033. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1125934/pdf/1031.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1125934/pdf/1031.pdf</a></p><p>Judith Maxwell et al. (2004). <em>Responsible Action - Citizens' Dialogue on the Long-term Management of Used Nuclear Fuel</em>. Ottawa: Canadian Policy Research Network. <a href="http://www.cprn.org/doc.cfm?doc=1050">http://www.cprn.org/doc.cfm?doc=1050</a></p><p>Steven A. Rosell and Heidi Gantwerk. (2008, September 24). The California Government We Want: Dialogues with Californians. Presentation to the California Forward Conference on Getting Past Gridlock — Achieving Fiscal Reform, Sacramento, CA, September 24, 2008. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/calgov_fall08.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/calgov_fall0...</a></p><p>Steven A. Rosell and Heidi Gantwerk (2010). Moving Beyond Polls and Focus Groups. In Daniel Yankelovich and Will Friedman (Eds.), <em>Toward Wiser Public Judgment </em>(pp. 110-128). Nashville, TN: Vanderbilt University Press. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/TowardWiserPublicJudgment.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/TowardWiserP...</a></p><p>Steven A. Rosell, Heidi Gantwerk, and Isabella Furth. (2005). <em>Listening to Californians: Bridging the Disconnect: A Report to the William and Flora Hewlett Foundation and The James Irvine Foundation</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Listening_to_Californians-Bridging_the_Disconnect_full.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Listening_to...</a></p><p>Steven A. Rosell and Isabella Furth. (2006). <em>Listening to the Public: Understanding and Overcoming Barriers to Sustainability: Sustainability Research Initiative</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Listening_to_the_Public.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Listening_to...</a></p><p>Steven A. Rosell and Isabella Furth. (2007). <em>Effectiveness of Population-Based Interventions to Promote Oral Health: Understanding Public Judgment on Science-Intensive Issues: San Diego Dialogues on Community Water Fluoridation</em>. La Jolla, CA: Viewpoint Learning; Oakland, CA: Dental Health Foundation. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Undetstanding_Public_Judgment_on_Science-Intensive_Issues_San_Diego.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Undetstandin...</a></p><p>Steven A. Rosell, Isabella Furth, and Heidi Gantwerk. (2008). <em>Beyond Wishful Thinking: Californians Deliberate State Budget Reform</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Beyond_Wishful_Thinking.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Beyond_Wishf...</a></p><p>Steven A. Rosell, Isabella Furth, and Heidi Gantwerk. (2008). <em>Changing Expectations: Americans Deliberate Our Nation’s Finances and Future</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/changing_expectations.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/changing_exp...</a></p><p>Steven A. Rosell, Isabella Furth, and Heidi Gantwerk. (2008). <em>Moving Along the Learning Curve: From Values to Public Judgment Citizen Dialogues on K-12 Education Reform</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Moving_Along_the_Learning_Curve.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Moving_Along...</a></p><p>Amanda Sheedy. (2008). <em>Handbook on Citizen Engagement: Beyond Consultation</em>. Ottawa: Canadian Policy Research Networks. <a href="http://www.sasanet.org/documents/Resources/Handbook%20on%20Citizen%20Engagement_Beyond%20Consultation.pdf">http://www.sasanet.org/documents/Resources/Handbook%20on%20Citizen%20Eng...</a></p><p>Viewpoint Learning. (2003). <em>Citizen Dialogues on the Coming of Age in Arizona: A Report to St. Luke’s Health Initiatives</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Coming_of_Age_in_AZ.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Coming_of_Ag...</a></p><p>Viewpoint Learning. (2004).<em> Citizen Dialogues on Covering the Uninsured: A Report to the Robert Wood Johnson Foundation</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Citizen_Dialogues_on_Covering_the_Uninsured.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Citizen_Dial...</a></p><p>Viewpoint Learning. (2004). <em>The Future of the San Diego Region’s Airport: Choice-Dialogues with County Residents</em>. La Jolla, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/Future_of_San_Diego_Regions_Airport.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/Future_of_Sa...</a></p><p>Viewpoint Learning. (2010). <em>The First Five Years: Choice-Dialogues on Early Childhood in New Mexico</em>. San Diego, CA: Viewpoint Learning. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/First_Five_Years.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/First_Five_Y...</a></p><p>Bettina von Lieres and David Kahane. (2007). Inclusion and Representation in Democratic Deliberations: Lessons from Canada's Romanow Commission. In A. Cornwall and V. Schattan (Eds.), <em>The Politics of Participation in New Democratic Arenas </em>(pp. 131-151). London: Zed Books. Preprint available from <a href="http://www.dfid.gov.uk/R4D//PDF/Outputs/CentreOnCitizenship/Romanowpaper.pdf">http://www.dfid.gov.uk/R4D//PDF/Outputs/CentreOnCitizenship/Romanowpaper...</a></p><p>Daniel Yankelovich. (1991). <em>Coming to Public Judgment: Making Democracy Work in a Complex World</em>. Syracuse, NY: Syracuse University Press.</p><p>Daniel Yankelovich. (1999). <em>The Magic of Dialogue: Transforming Conflict into Cooperation</em>. New York: Simon and Schuster.</p><p>Daniel Yankelovich. (2009, August 31). It's Time to Really Engage Americans in Health Reform. <em>Huffington Post</em>. <a href="http://www.huffingtonpost.com/daniel-yankelovich/its-time-to-really-engage_b_273136.html">http://www.huffingtonpost.com/daniel-yankelovich/its-time-to-really-enga...</a></p><p>Daniel Yankelovich and Will Friedman (Eds.). (2010). <em>Toward Wiser Public Judgment</em>. Nashville, TN: Vanderbilt University Press.</p><p>Daniel Yankelovich and Isabella Furth. (2006, Fall). Public Engagement in California: Escaping the Vicious Cycle. <em>National Civic Review</em>, 95(3), 3-11. <a href="http://www.viewpointlearning.com/wp-content/uploads/2011/04/civic_leaders_fall_06.pdf">http://www.viewpointlearning.com/wp-content/uploads/2011/04/civic_leader...</a></p><h3>External Links</h3><p>New Mexico. (2011). Early Childhood Care and Education Act [SB 120]. <a href="http://www.nmlegis.gov/Sessions/11%20Regular/final/SB0120.pdf">http://www.nmlegis.gov/Sessions/11%20Regular/final/SB0120.pdf</a></p><p>New Mexico Legislature. Legislative Education Study Committee. (2011). Bill Analysis: SB 120a, 50th Legislature, 1st Session, 2011. <a href="http://www.nmlegis.gov/Sessions/11%20Regular/LESCAnalysis/SB0120.pdf">http://www.nmlegis.gov/Sessions/11%20Regular/LESCAnalysis/SB0120.pdf</a></p><p>Our Voices, Our Children: CommonGround, <a href="http://www.ourvoicesourchildren.org/CG_home.html">http://www.ourvoicesourchildren.org/CG_home.html</a></p><p>Viewpoint Learning, <em>Choice-Dialogue</em>, <a href="http://www.viewpointlearning.com/our-approaches/choice-dialogue/">http://www.viewpointlearning.com/our-approaches/choice-dialogue/</a></p><h3>Notes</h3><p> </p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-304e54d5a5a6202d4bfe43c8179cf48f">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/598">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">30</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">45</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">8 hours</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">8 hours</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/random-selection" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Random Selection</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Published reports</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Surveys</div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/philanthropic-organization-ie-dedicated-making-monetary-grants-or-gifts" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div><div class="field-item even"><a href="/en/entities/profit-business" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit Business</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/5-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Very Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/5-highly-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Highly Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/5-always-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Always Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/consultation-ie-advise-decision-makers" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/kind-influence/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div><div class="field-item odd"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/non-governmental-organization-non-profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Governmental Organization (Non-profit)</a></div><div class="field-item even"><a href="/en/entities/philanthropic-organization-ie-dedicated-making-monetary-grants-or-gifts" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div><div class="field-item odd"><a href="/en/entities/profit-business" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit Business</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/non-governmental-organization-non-profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/entities/profit-business" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit Business</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-face dialogue</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

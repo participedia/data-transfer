@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/we-people-citizen-and-constitution" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/172" />
+  <title>We the People: The Citizen and the Constitution | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"tv5yObDBmOlL3UU04lqK0AhKHQz6S_1Lz70WYltYKUs","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/we-people-citizen-and-constitution?destination=node\/172":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-172 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/we-people-citizen-and-constitution" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/we-people-citizen-and-constitution?destination=node/172" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-bNn0xQHwjQfpR6TIZpBM5Mj61k_uE3IBrQ4FgMlHarU" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">We the People: The Citizen and the Constitution</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="We the People: The Citizen and the Constitution - Participedia" addthis:url="http://participedia.net/en/methods/we-people-citizen-and-constitution"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 4 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/un-gato" title="View user profile." class="username" xml:lang="" about="/en/users/un-gato" typeof="sioc:UserAccount" property="foaf:name" datatype="">Matthew D. Zemek</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Definition" id="Definition"></a><h2>Definition</h2>
+<p>We the People is an elementary and secondary school oriented civic education process designed to enable students to learn about and address civic issues locally, regionally, and nationally.  It works to allow the student participants to educate themselves about a variety of governance-related topics and culminates in a series of simulated congressional hearings, with the most developed presenters proceeding to the state and national level competitions.  The primary focus of the program is the United States Constitution and the Bill of Rights, although the range from the abstract philosophical underpinnings of government to concrete proposals for government environmental policy.  The method repeats yearly and is designed to take a significant portion of a school year, and the entirety of one for the national competitors.
+</p>
+<a name="Problems_and_Purpose" id="Problems_and_Purpose"></a><h2> Problems and Purpose </h2>
+<p>We the People was created as a response to decades of decline in civic knowledge and participation which was conducted at the University of California, Los Angeles beginning in the 1960’s and included more than 250,000 matriculated college students from around the country. The study compiled evidence from 30 years of data showing that in 1998 “Only 26% of freshmen think that keeping up with politics is important, down from 58% in 1966. Only 14% say they frequently discuss politics, down from 30%”. (Galston 219). Subsequent studies also found that “35% of high school seniors were considered to have a ‘below-basic’ understanding of civic education or “near total civic ignorance” (Galston 221). Furthermore the study found that another 39% were only at the “basic” level, indicating a deeply systemic problem in civic participation and knowledge. 
+</p><p>The Center for Civic Education makes the program’s goals explicit: “to promote civic competence and responsibility among the nation’s elementary and secondary students.”1  The intent is to expand knowledge about and encourage enlightened understanding of civic issues within the country, and by extension to increase public participation.
+</p>
+<a name="History" id="History"></a><h2> History </h2>
+<p>The organizing entity behind We the People is the Center for Civic Education, a civics organization created in 1964 as a committee at the University of California, Los Angeles.  In 1981 the organization transformed into a non-profit entity.  The We the People program was first implemented in 1987 by the Center for Civic Education and has continued yearly with funding from the United States Department of Education.2
+</p>
+<a name="Participant_Selection" id="Participant_Selection"></a><h2> Participant Selection </h2>
+<p>The program, by being academically grounded, is limited to students.  Within participating schools the method of participant selection varies.  It is at some a voluntary club activity, in others a optional substitution for a mandatory civics class, and at others is restricted to those who have taken a year-long prerequisite course.  Given that there is a minimum of three members in each unit at least 18 students are usually required, although some schools have students in multiple units, lowering the theoretical requirement to 3 total individuals.  There is no explicit upper bound on the number of participants from each school, although having seven of more members in each group will make it difficult to use the time available effectively.
+</p>
+<a name="Program_Structure" id="Program_Structure"></a><h2> Program Structure </h2>
+<p>The structure can be broken down into two parts which enhance the deliberative nature of the program; the Unit structure and the actual structure of the competition. 
+</p><p>•	Units:
+The Center for Civic education has broken down the competition into 6 units, comprised of 3 to 6 people. Each unit focuses on a relatively narrow range of topics, which allows them to unlock more meaningful aspects of the Constitution. In order to be successful participants must look past the obvious questions of the Constitution and into the deeper meaning and policy implications it has on the real world. Because participants work in groups of 4 or 5 and focus on specific portions of the Constitution they are able to discusses their chosen topics with greater insight; instilling a stronger sense of civic knowledge and duty. 
+The Units topics break down accordingly (Civiced.org/wtpcompanion); 
+</p><p>Unit 1) Historical and Philosophical Foundations of our County’s Ideas about Constitutional Government
+</p><p>Unit 2) Creation of the Constitution
+</p><p>Unit 3) Expansion of Rights since the Ratification of the Constitution in 1788
+</p><p>Unit 4) Organization of the National Government
+</p><p>Unit 5) Meanings of the Various Rights Guaranteed in the Bill of Rights
+</p><p>Unit 6) Roles of Citizens in American Democracy
+</p><p>Because the Units are discussing nebulous topics, there is a great deal of influence, discourse, compromise and persuasion which occurs through their discourse. This factor alone is a major contributor in strengthening the deliberative nature of this program. A study conducted by the Council for Basic Education in 1994 found that after competing in We the People; 
+“exhibit more political tolerance in a number of ways, including (1) placing fewer restrictions on the press, speech and advocacy of radical or unorthodox ideas (2) more willingness to grant freedom of assembly to groups with diverse opinions (3) placing fewer restrictions on due process and (4) displaying a willingness to grant others a wide latitude of speech and act politically”         (Brody 6).
+</p><p>The structure of these units adheres to the maxims of an ideal analytic process by encouraging students to engage in a back and forth dialogue in a manner which maintains a healthy team dynamic as outlined by communications professor Dr. John Gastil. The groups brainstorm a series of answers to the given questions and do so according to a strong information base in order to maximize the overall group success. The information is found by one group is almost always applicable to the research of other groups, encouraging cross-unit collaboration. Current events play a significant role in the formation of the group’s answers, so there is a constant need to remain updated on contemporary political and legislative changes. Personal experiences also play a key role in the group’s deliberation as they can incorporate those experiences into evidence to support their conclusion. Furthermore those conclusions must represent the comprehensive advocacies of all group members, as they will need to support them during the competition. 
+</p><p>•	Competition:
+After months of preparation, studying and discussion participants travel to a competition which includes students from other high schools around the State. The students are given 3 potential questions before the competition, which they have written speeches for, and are told which question they will be discussing when the judges enter the room. A panel of 3 judges questions the students, but in a manner which is to probe them to think deeper about their positions and defend them, which truly encourages the deliberative process. Because participants have no knowledge of the specific questions, or style of questions the judges will ask, they must think of their feet and be able to recall and apply relevant information quickly. The judges then score the responses based on the completeness of their answers, as well as the group’s support for their claims. Because the competition is essentially a conversation between the judges and participants, there is no fear of agreeing with the judges personal ideologies, but rather supporting the group’s personal advocacies.
+The structure of these groups models the ideal social deliberative process , also outlined by Dr. Gastil which includes such maxims as distribution of speaking times, mutual comprehension and respect for all participants view points; as all of these are factors in the overall score the group will receive. 
+</p>
+<a name="Examples" id="Examples"></a><h2> Examples </h2>
+<p>The following are examples of the types of questions a Unit may receive, which represents the overall thesis of their argument, and the topic they would prepare research to support. 
+Unit One: What Are the Philosophical and Historical Foundations of the American
+Political System?
+</p><p>1.	How did both classical republicans and the natural rights philosophers influence the Founders’ views about government? 
+</p><p>•	What are the essential differences between classical republicanism and natural rights philosophy? 
+</p><p>•	Why do both classical republicans and natural rights philosophers stress the need for education and preparation for citizenship?
+</p><p>2. What are the fundamental characteristics of a constitutional government?
+</p><p>•	In what ways does constitutional government mean limited government?
+</p><p>•	Describe at least three provisions of the Constitution that provide a means of preventing the abuse or misuse of governmental power. Explain how these provisions work in our system of government today.
+</p><p>3. What effect did colonial experiences have on the Founders’ views about rights and government?
+</p><p>•	In what ways were eighteenth-century American and British societies similar or dissimilar in terms of the rights of individual liberty, equality of opportunity, and property?
+</p><p>•	How did early state constitutions reflect colonial experiences as well as the ideas of classical republicanism and the natural rights philosophy?
+</p><p>This type of questioning is essential in promoting the deliberative process because questions cannot be answered with black and white analysis. It incorporates a necessity to weigh the pros and cons of any given conclusion. The sub-questions create a broader range of analysis, forcing participants to ‘think outside the box’ and gain an understanding of that the judges will be looking for. 
+</p><p>The competition represents an interesting hybrid between formal, mediated discussion and informal, casual conversation which maximizes the importance of participant knowledge and communication skills to promote a truly deliberative environment. 
+</p><p>
+</p>
+<a name="Deliberations.2C_Decisions.2C_and_Public_Interaction" id="Deliberations.2C_Decisions.2C_and_Public_Interaction"></a><h2> Deliberations, Decisions, and Public Interaction </h2>
+<p>What distinguishes We the People as a deliberative process rather than as a glorified class is the method of case development.  Each group is meant to specialize in a broad topic, such as US case law or the developmental process of the Constitution, and for each level of competition they are given three questions, with a number of subtopics, around which they need to develop a response.  The teacher, unlike in a normal class, is not the primary source of information beyond the initial several classes where general background knowledge is taught and units are usually selected.  After those classes the groups must work to create a timed written response to be presented at the simulated hearing, and more importantly to respond to follow-up questions that are not known prior.  The method for constructing the responses is determined by the participants, but must necessarily include a significant degree of consensus seeking to maintain a coherent group.  
+</p><p>The hearings themselves are conducted by a variety of individuals, frequently including judges, politicians, and other legal professionals.  They will select one of the questions assigned to each group to be presented and will then ask impromptu follow-up questions.  This requires successful groups to be widely self-educated on each topic to deal with potentially obscure questions, as well as to have a significant depth of knowledge so that each question can be thoroughly responded to.  Neither the pre-assigned questions nor the hearing questions are intended to have correct responses, but rather to require the participants and groups to take and defend a stance.  They are thus not serving as what would be technical experts in a real hearing, but as the subjects of the hearing or as representatives for the subjects.
+</p><p>In addition to interacting with public officials and legal professionals during the competitive stage, many teams use experts in constitutionally related issues as everyday class resources. For example, a team may invite a Constitutional lawyer into their classroom to collaborate with them on questions that require more research or discuss ways to increase civic engagement with experienced politicians across that region. During tournaments, teams frequently visit prominent public leaders as a way to both contact people in power about issues they are passionate about as well as to consult them about issues they have been researching. These methods and experiences give participants insight into the inner workings of government agencies and ability to contact political leaders in an effort to understand policy and actively engage with the government. This contact represents deliberation by actively sharing personal ideas and ideals as well as provides a mechanism for students to become more passionate about these issues and become increasingly motivated to be responsible civic participants.
+</p>
+<a name="Outcomes.2C_and_Effects" id="Outcomes.2C_and_Effects"></a><h2> Outcomes, and Effects </h2>
+<p>The main outcome from the We the People… program is increased civic engagement and virtue. Because one of the essential components involves being engaged in critical analysis of media and political actions, an active citizenry is inherent in the process of education that We the People fosters. In an exit study of student participants in the 2010 We the People competition, 63% of students reported that either they had or were planning on contacting an elected official whereas only 23% of non-We the People students reported that they were planning on contacting an elected official. (Eschrich, 3) Professor Richard Brody of Stanford University explains ”the We the People… program is effective in promoting political tolerance because students in the program become more interested in politics, feel more politically effective, and perceive fewer limits in their own political freedom.” (Council for Basic Education, 5) Comparatively, in other nations that experience a significant rift between civic culture and government politics form a “patron-client” atmosphere. (Rice, 100) In response to this, nations that experience the divide between the two sects of governance and wish to represent true democracy by creating civic programs similar to what the We the People program strives to achieve (Chareka and Sears).
+</p><p>While legal adults may have few opportunities to engage with government and civic issues, pre-voting-age students have even fewer.  We the People, though limited in its direct influence on government, provides students with a rare opportunity to engage with and learn about issues and to interact with government officials and professionals in the mock hearings.  Through crafting their groups’ positions on the issues they must themselves develop their own political stances in collaboration with other students.  This has lead to We the People students being significantly more knowledgeable about government, rights, and law, and to be more civically active.3
+</p><p>In addition to fostering more active citizenship in American Democracy, the openly deliberative structure of the We the People… classroom fosters a unique educational experience. A pilot test of the We the People… curriculum revealed “statistically significant differences between those students who used We the People and those students who used a different civics curriculum and between students enrolled in AP classes and students in regular classes…the hypothesis that participating in We the People significantly adds to student performance over and above the role of class placement is confirmed.” (Ardice Hartry, 11) This data implies an educational difference in civics based on the deliberative and collaborative process provided by the program.
+</p>
+<a name="Examples_2" id="Examples_2"></a><h2> Examples </h2>
+<p>The national finals for 2009 has been uploaded to the Center for Civic Education website.4
+</p>
+<a name="Analysis_and_Criticism" id="Analysis_and_Criticism"></a><h2> Analysis and Criticism </h2>
+<p>The focus on ensuring enlightened understanding among the participants has both positive and negative impacts.  The process does result in greater civic awareness and action by participating students; however, it does not, despite frequent involvement by government officials, offer any direct participatory role by the students in the formation of policy.  To some extent this is understandable, given that most participants are not legal adults and are thus are traditionally excluded from public decision-making processes.  However, the extent of the knowledge gained over the course of the program is not trivial, leaving the participants uniquely qualified to address a number of complex issues.  The number of participants available might thus constitute an untapped pool for more direct civic engagement by the program, or by related efforts.
+</p><p>Locating this program within the school system similarly provides both positive and negative impacts.  It sharply limits the accessibility of the program to the general public, but allows for a significantly greater commitment then most would be able to make outside of a class setting.  While this should be acknowledged, it does not appear to be a significant detriment considering the other programs managed by the Center for Civic Education and other groups in which adults can participate, and indeed are often the only allowed participants.
+</p><p>The largest cause for concern within the We the People program is the lack of general accessibility and funding. The United States Department of Education contributes a limited number of free materials to each congressional district, which limits the number of schools that can participate and thus the overall national participation in the program (Eschrich). Limited accessibility of the We the People… program is troublesome for the deliberative goal of the program. Limited access to materials and funding has historically drawn affluent schools into the program and rejected schools that are not well funded or in poverty-stricken neighborhoods. This lack of representation limits the political perspectives that can be brought into the competition.
+</p><p>Another criticism of the function that We the People… provides is of the competitive nature of the class and activity. The competition portion of the program can override the educational and deliberative aspect of creating educational materials. The incentive to win in competition can motivate students to tailor their responses in a way to create answers that they believe will convince the judges rather than reflect their own beliefs. This motivation also leads students to stray from the activity’s mission of applying personal experiences and unintentionally encourages overemphasis on scholarly sources that will create an aura of scholarship within a particular group’s answers. 
+</p><p>Division of labor within groups can also provide a detrimental impact on the deliberation within We the People… by forcing each group to focus on one portion of the competition rather than engage in a holistic constitutional debate, each group is led to specialize in some aspect of the Constitution, while being educationally anemic on others. For example, a member of Unit 1 may be extremely proficient on philosophical underpinnings of the Constitution and authors such as John Locke or Jean-Jacque Rousseau but may have nominal background on judicial intervention during the civil rights movement.
+</p><p>One important aspect of the We the People… lesson plan is an emphasis on group collaboration and self-direction. The hands-off approach that is asked for teachers to take while in this program creates an opportunity for conflict within groups. Personal attitudes as well as inappropriate skill-sets both contribute to the possibility that some students will not be effective in their use of the process of social deliberation. Teachers must also be constantly aware of the opportunity to neglect using in-class opportunities wisely. This detracts from deliberation within groups because the lack of properly moderating group interaction creates an opportunity for dominant voices to control group views and create a spiral of silence within individual groups.
+</p>
+<a name="Future_of_the_Program" id="Future_of_the_Program"></a><h2> Future of the Program </h2>
+<p>Funding has been a consistent problem of the We the People… program. Despite its success nationwide, there has never been a stable funding source other than Congressional appropriations and private donations. This mechanism is problematic because it does not ensure a consistent income throughout tough economic times, which places We the People… in jeopardy of discontinuation. This problem exacerbates the lack of accessibility as well as the lack of expansion efforts to more schools nationwide. Unless the program secures some sort of reliable funding source, the goals of civic engagement and responsibility will not be fully realized. In response, local school boards and commercial organizations individually have taken it upon themselves to contribute to students’ educations by funding trips to competitions as well as educational materials necessary for participation in the program. While the program boasts 28 million students since inception (Eschrich), individual school participation has not increased dramatically, largely due to funding limitations as well as a lack of knowledge of the program. Illustrating the significance of the program past college applications and transcript significance could increase the deliberative aspect of the program and students that would not have previously considered participating in the We the People… program.
+</p>
+<a name="Supporters" id="Supporters"></a><h2> Supporters </h2>
+<p>The We the People… program is mainly supported by the Center for Civic Education, American Heritage Foundation, Pew Charitable Trusts, as well as other public-policy oriented organizations. The primary goal for many of the contributors to this organization is to promote civic responsibility and education rather than promoting any particular partisan goals or ideology. The strong interest in this program represent the desire for greater civic education in general rather than the fulfillment of particular interests, highlighting a desire to promote civic participation over advocacies in self-interest. This display of altruism is unique to this particular portion of education because there is seemingly no long-term profit motive other than to improve and preserve the American political landscape for the future.
+</p>
+<a name="Resources" id="Resources"></a><h2> Resources </h2>
+<p>Ardice Hartry, Kristie Porter. "We the People Curriculum: Results of Pilot Test." Pilot test. MPR Associates, 2004.
+</p><p>Brody, R. (1994). Secondary Education and Political Attitudes; Examining the Effects of Political Tolerance on the "We the People..." curriculum. Calabasas.
+</p><p>Council for Basic Education. "Report on a Study of the Affective Impact of We the People...The Citizen and the Constitution." Council for Basic Education, 1998.
+</p><p>Eschrich, David. "We the People Nationals 2010 Report." Center for Civic Education, 2010.
+</p><p>Galston, W. A. (2001). Political Knowledge, Political Engagment and Civic Education. 217-231.
+</p><p>Gastil, John. Political Communication and Deliberation. Thousand Oaks: Sage Publications, 2008.
+</p><p>Ottilia Chareka, A. S. (2010). Young People's Conceptions of Voting as a Means of Political Participation. Canadian Journal of Education , 521-540.
+</p><p>Rice, T. a. (1997). Civic Culture and Government Performance in the American States. Publius , 99-114.
+</p><p>We the People...The Citizen and the Constitution. We the People...The Citizen and the Constitution Level 3 Companion. &lt;civiced.org/wtpcompanion&gt;.
+</p>
+<a name="Secondary_Sources" id="Secondary_Sources"></a><h2> Secondary Sources </h2>
+<p>1 <a href="http://www.civiced.org/index.php?page=wtp_introduction" class="external free" title="http://www.civiced.org/index.php?page=wtp_introduction" rel="nofollow">http://www.civiced.org/index.php?page=wtp_introduction</a>
+</p><p>2 <a href="http://gresyn0.100webspace.net/lessons/download.php?file=byrd5to6scrn.pdf" class="external free" title="http://gresyn0.100webspace.net/lessons/download.php?file=byrd5to6scrn.pdf" rel="nofollow">http://gresyn0.100webspace.net/lessons/download.php?file=byrd5to6scrn.pdf</a>
+</p><p>3 <a href="http://www.civiced.org/index.php?page=program_evaluation" class="external free" title="http://www.civiced.org/index.php?page=program_evaluation" rel="nofollow">http://www.civiced.org/index.php?page=program_evaluation</a>
+</p><p>4 <a href="http://www.civiced.org/index.php?page=national_finals_2009" class="external free" title="http://www.civiced.org/index.php?page=national_finals_2009" rel="nofollow">http://www.civiced.org/index.php?page=national_finals_2009</a>
+</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-d2b59b45f51586d0b37ceceb09673d40">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/172">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">3</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">42</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Deliberation</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Interpersonal</div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Consensus</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/public-marketing" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Public Marketing</a></div><div class="field-item odd"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/5-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Very Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/5-always-tied-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Always Tied to Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/raise-public-awareness" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Raise public awareness</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item even"><a href="/en/entities/national-government" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National Government</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Simulated Hearing</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

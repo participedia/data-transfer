@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/citizens-initiative-review" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/592" />
+  <title>Citizens&#039; Initiative Review | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"oIFiDUeM3vMCFx09PVoEG0hgj4ez1g5GpoCn1a6NpDk","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/citizens-initiative-review?destination=node\/592":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-592 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/citizens-initiative-review" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/citizens-initiative-review?destination=node/592" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-B-xEtAP1LAZeV2RMdECHl9Qhtk2WFuwUISdiuO-zVj8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Citizens&#039; Initiative Review</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Citizens&#039; Initiative Review - Participedia" addthis:url="http://participedia.net/en/methods/citizens-initiative-review"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">May 29 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/richards1000" title="View user profile." class="username" xml:lang="" about="/en/people/richards1000" typeof="sioc:UserAccount" property="foaf:name" datatype="">Robert Richards</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definition</h3><p>A Citizens’ Initiative Review (CIR) is a <a href="http://participedia.net/methods/citizens-jury">Citizens’ Jury</a> that deliberates about a ballot <a href="http://participedia.net/methods/initiative-process">initiative</a>. In a CIR, organizers select a panel, made up of a random sample of 18-24 citizens, who are demographically representative of the population. The panelists meet for five days to learn and deliberate about a ballot initiative—a proposed law or constitutional amendment that is drafted by, and can be enacted by a direct vote of, citizens—that will be voted on in an upcoming election.</p><p>During the CIR, the panelists hear arguments from advocates and stakeholders supporting and opposing the initiative, as well as neutral background witnesses’ presentations about issues related to the initiative.  Panelists have opportunities to question the advocates, stakeholders, and background witnesses. Then the panelists deliberate to identify important facts about the initiative, to decide whether to support or oppose the initiative, and to identify reasons to justify their support or opposition.  The panelists’ deliberations are structured and led by a moderator, who ensures that each panelist’s voice and opinion are heard and considered. </p><p>At the end of the CIR, the panelists write a Citizens’ Statement that sets out the facts about the initiative that they agree on, the number of panelists supporting and opposing the initiative, and the panelists’ reasons for supporting and opposing the initiative. The Citizens’ Statement is then made available to the public and the media. In some jurisdictions, such as the U.S. state of Oregon, the Citizens’ Statement is included in the official voters’ guide, a booklet, published by the government, that gives citizens information about candidates and ballot measures to be voted on in an election.  A CIR thus lets voters hear from well-informed citizens who help voters make the best choice regarding an initiative.</p><h3>Problems and Purpose</h3><p>The key problem the CIR seeks to address is that voters often receive inadequate information about ballot initiatives. Surveys show that many voters are unaware of ballot initiatives before election day. In addition, surveys show that many voters have inaccurate knowledge of ballot initiatives and few voters can express reasons to support or oppose particular ballot initiatives. Further, long-term public policy problems arising from ballot initiatives and the high rate at which ballot initiatives are struck down by courts indicate that many voters lack sufficient information about the policy consequences and the legality of ballot initiatives. The purpose of the CIR is to remedy these problems by improving the quality of information voters receive about ballot initiatives.</p><h3><strong>History</strong></h3><p>In 1999 in the U.S. state of Washington Michael Lowry, former governor of the state, proposed applying the Citizens’ Jury process to Washington State ballot initiatives; this new process was called Citizens’ Initiative Review. </p><p>From 1999-2007, Ned Crosby, founder of <a href="http://participedia.net/organizations/jefferson-center">the Jefferson Center</a>, which developed the Citizens’ Jury, and his wife Patricia Benn developed and promoted the CIR process in Washington State, but the CIR was not incorporated into Washington State’s official initiative process.</p><p>In 2000 John Gastil, in his book <em>By Popular Demand: Revitalizing Representative Democracy Through Deliberative Elections</em>, recommended that the Citizens’ Jury be applied to initiatives and referenda.</p><p>As early as 2002 a Website for the Washington Citizens' Initiative Review was  established at the URL: cirwa.org.  (For archived versions of that Website, <a href="http://wayback.archive.org/web/20020515000000*/http://www.cirwa.org">click here</a>).</p><p>In 2003 Gastil and Crosby wrote an <a href="http://www.seattlepi.com/local/opinion/article/Voters-need-more-reliable-information-1128957.php">op-ed article</a> reporting survey results showing that Washington State citizens had little knowledge of the initiatives on the 2003 Washington State ballot, and citing these results as evidence of the need for a CIR.</p><p>According to Tyrone Reitman, Crosby and Benn also advocated for the CIR in the U.S. state of Oregon in 2003.</p><p>In 2005 Crosby and others founded a nonprofit organization called <a href="http://promotinghealthydemocracy.org/">Promoting Healthy Democracy</a> (PHD), which began supporting CIR projects in 2009.</p><p>In 2006, Tyrone Reitman and Elliot Shuford organized a project to introduce the CIR in the U.S. state of Oregon. Crosby and Benn agreed to fund the project.  In early 2007 Reitman and Shuford founded <a href="http://participedia.net/organizations/healthy-democracy-oregon">Healthy Democracy Oregon</a> (HDO), an organization that would carry out the project, which was called the <a href="http://participedia.net/cases/oregon-citizens-initiative-review-oregon-cir">Oregon Citizens’ Initiative Review</a> (Oregon CIR). After a successful trial in 2008 the Oregon Legislature authorized the Oregon CIR for the 2010 election. In 2010 two Oregon CIRs were held and produced two Citizens’ Statements, which were included in the official 2010 Oregon voters’ guide.  In 2011 the Oregon Legislature passed a law making Oregon CIR a permanent part of Oregon’s statewide initiative process.</p><p>In 2011 HDO created a new, related organization, <a href="http://healthydemocracyfund.org/">Healthy Democracy Fund</a> (HDF). HDF’s activities include raising funds to sustain the Oregon CIR, further developing the CIR process, and applying the CIR method to public policy issues in legislatures in a process called Citizens’ Policy Review.</p><h3><strong>Deliberation, Decisions, and Public Interaction</strong></h3><p>Once the CIR organizers have chosen the panel, advocates, stakeholders, and background witnesses, the organizers gather the panel and explain the panel’s charge. The panel’s charge is to write a Citizens’ Statement explaining key facts about the initiative that a majority of the panel agrees about, stating how many panelists support or oppose the initiative, and setting out the reasons that the panelists support or oppose the initiative. The charge acts as a guideline for the panel, the advocates, the stakeholders, and the background witnesses.</p><p>On the first day of the CIR the panelists learn about the CIR procedures, practice deliberating according to the CIR procedures while using a hypothetical initiative, receive a brief overview of the actual initiative that will be the subject of their deliberations, and get to know each other. The next three days are dedicated to hearings at which advocates, stakeholders, and background witnesses present arguments and information to the panel. There is time allotted for the panelists to ask question of the advocates, stakeholders, and background witnesses, and also time for the panelists to deliberate.  Trained moderators organize the questioning and deliberations to ensure that all advocates, stakeholders, and background witnesses are treated fairly and that all panelists have the opportunity to be heard. </p><p>After the hearings have been completed the panelists engage in final deliberations about the initiative. These deliberations are also moderated.  During these deliberations the panelists decide on key facts about the initiative that a majority of panelists agree on, determine whether they support or oppose the initiative, and choose the best arguments supporting or opposing the initiative. Once these decisions have been made the panelists write a Citizens’ Statement that sets out those key facts, the number of panelists supporting or opposing the initiative, and their reasons for supporting or opposing the initiative.</p><p>On the final day of the CIR there is a public event at which the panelists present their Citizens’ Statement. In some jurisdictions the Citizens’ Statement is included in the official voters’ guide that explains ballot initiatives to voters. </p><p>An important part of the CIR process is the panelists’ evaluation of the CIR process. The panelists are asked to evaluate the process itself and the CIR personnel who moderate and organize the CIR. The panelists use several criteria to evaluate the CIR including the quality of the deliberations and any bias in the process or exhibited by CIR personnel.  As part of the evaluation each panelist may write a personal statement in which he or she may express views that were not included in the Citizens’ Statement.</p><p>Some time after the CIR has concluded the CIR organizers publish a final report about the CIR. The final report includes the Citizens’ Statement, the panelists’ evaluations of the CIR, and descriptions of the CIR process.</p><h3>Influence, Outcomes, and Effects</h3><p>In 2008 HDO conducted a successful field test using the CIR process.  In 2009 the Oregon Legislature approved a trial of the Oregon Citizens’ Initiative Review (Oregon CIR) to be held the following year. In 2010 HDO organized two Oregon CIRs, in each of which a randomly selected sample of 24 Oregon citizens learned and deliberated for five days about an initiative that was to appear on the November 2010 Oregon statewide ballot.</p><p>The first 2010 Oregon CIR, held August 9-13, 2010, concerned Measure 73, a proposed statute that would impose mandatory minimum criminal sentences for certain repeat offenses concerning driving while intoxicated, and for certain sexual offenses. For details about <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-73">Oregon CIR 2010 Measure 73</a>, <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-73">click here</a>.</p><p>The second 2010 Oregon CIR, held August 16-20, 2010, concerned Measure 74, a proposed statute that would have created a regulated distribution system for medical marijuana in Oregon. For details about <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-74">Oregon CIR 2010 Measure 74</a>, <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-74">click here</a>.</p><p>During each Oregon CIR the panelists produced a Citizens’ Statement evaluating the initiative that they had deliberated about. Those Citizens’ Statements were printed in the official 2010 Oregon Voters’ Pamphlet.</p><p>John Gastil, Katherine Knobloch, and colleagues conducted a study of the 2010 Oregon CIRs. The key results of the study were:</p><ul><li>The Oregon CIR panelists had engaged in deliberations of good quality, including consistently "fair and respectful discussions";</li><li>The Oregon CIR Citizens’ Statements accurately reflected their deliberations, contained no substantial factual or logical errors, and contained new and useful information for voters;</li><li>Surveys of Oregon voters showed that (1) most Oregon voters were unaware of the Oregon CIRs; (2) 65% of Oregon voters read the Citizens’ Statement concerning Measure 73 and 57% read the Citizens’ Statement on Measure 74; (3) for those voters who read the Citizens' Statements, reading the Citizens' Statements significantly increased voters' knowledge of and reduced voters' support for Measures 73 and 74; (4) the effect of reading the Citizens' Statements on voters' opposition to the ballot initiatives was too small to have influenced the outcome of the 2010 Oregon statewide election, but was large enough to indicate that in a future close ballot initiative election, a Citizens' Statement could potentially influence the outcome.</li></ul><p>For detailed results of <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-73">Oregon CIR 2010 Measure 73</a>, <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-73">click here</a>.</p><p>For detailed results of <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-74">Oregon CIR 2010 Measure 74</a>, <a href="http://participedia.net/cases/oregon-citizens-initiative-review-2010-measure-74">click here</a>.</p><p>In 2011 the Oregon Legislature passed a law making the Oregon CIR a permanent part of Oregon’s statewide initiative process.</p><h3>Analysis and Criticism</h3><p>Gastil and Knobloch's study of the 2010 Oregon CIR concluded that the CIR design used during the 2010 Oregon CIRs had been generally "appropriate and effective." In their 2010 report and in subsequent papers they also recommended several modifications to the CIR process:</p><ul><li>To enhance the stability and the knowledge base of a CIR, a CIR in a particular jurisdiction should be governed by a permanent board, whose members should include CIR organizers and moderators, public officials from the jurisdiction, and former CIR panelists.</li><li>If possible, CIR organizers should try to hold CIRs on every ballot initiative to appear on a ballot, and to schedule CIRs well in advance to allow advocates, stakeholders, and expert witnesses ample time to prepare their presentations.</li><li>CIR organizers should offer advocates training concerning how to make effective presentations to a CIR panel, because advocates are likely to be unfamiliar with the procedures and time constraints of the CIR.</li><li>If fewer than all initiatives to appear on a ballot can be addressed by CIRs, when choosing which ballot initiatives to review, CIR organizers should use particular selection criteria, such as the fiscal or legal impact of the initiative, the complexity of the issue, and the extent of voters’ uncertainty about the issue. Using such selection criteria will ensure that CIRs address ballot initiatives about which voters most need information.</li><li>The voting requirement for including a key factual finding in a Citizens’ Statement should be raised from 14 to 18, to ensure that included findings have broad support among panelists.</li><li>Citizens’ Statements should address general concerns and include value-based arguments, so as to be more accessible and relevant to voters.</li><li>CIR organizers should assure panelists that unanimous support for or opposition to a ballot initiative is an acceptable outcome of the CIR. This assurance should prevent panelists from taking a position that is contrary to their views, merely in order to avoid a unanimous outcome.</li><li>CIR organizers should give panelists sufficient time to deliberate about their reasons for approving and opposing the initiative, especially when one side has relatively little support, because such deliberation improves the quality of those reasons.</li></ul><p>The Social Capital Review published an article, by DeAnna Martin, about the Oregon CIR. The article summarized the Oregon CIR process in a positive light. The article compared the Oregon CIR's participant-selection procedure to the Jury Process, and saw the Oregon CIR as a beneficial addition to Oregon’s democracy.</p><p>Some criticisms of the Oregon CIR have been expressed by proponents of Measure 73. These advocates argued that the Oregon CIR process was flawed on the grounds that the Oregon CIR sampling procedure was not stratified on the basis of support for or opposition to the measures; that advocates were not allowed to cross-examine other advocates, stakeholders, or background witnesses; and that advocates, stakeholders, and background witnesses were not required to testify under oath.</p><h3>Secondary Sources</h3><p>Binder, M., Boudreau, C., &amp; Kousser, T. (2011). Shortcuts to deliberation? How cues reshape the role of information in direct democracy voting. <em>California Western Law Review</em>, 48, 97-128.</p><p>Citizens' Initiative Review. (2002). History of the project. <a href="http://web.archive.org/web/20021012090756/http://www.cirwa.org/historycir.php">http://web.archive.org/web/20021012090756/http://www.cirwa.org/historycir.php</a></p><p>Ned Crosby and John C. Hottinger. (2011). The Citizens Jury Process. <em>Book of the States</em>, 2011, pp. 321-325, <a href="http://knowledgecenter.csg.org/drupal/system/files/Crosby2011.pdf">http://knowledgecenter.csg.org/drupal/system/files/Crosby2011.pdf</a></p><p>John Gastil. (2000). <em>By Popular Demand: Revitalizing Representative Democracy through Deliberative Elections</em>. Berkeley: University of California Press.</p><p>John Gastil and Ned Crosby. (2003, November 5). Voters Need More Reliable Information. <em>seattlepi.com</em>, <a href="http://www.seattlepi.com/local/opinion/article/Voters-need-more-reliable-information-1128957.php">http://www.seattlepi.com/local/opinion/article/Voters-need-more-reliable-information-1128957.php</a></p><p>John Gastil and Katherine Knobloch. (2010). <em>Evaluation Report to the Oregon State Legislature on the 2010 Oregon Citizens’ Initiative Review</em>. <a href="http://www.la1.psu.edu/cas/jgastil/CIR/OregonLegislativeReportCIR.pdf">http://www.la1.psu.edu/cas/jgastil/CIR/OregonLegislativeReportCIR.pdf</a></p><p>John Gastil, Katherine Knobloch, Justin Reedy, Mark Henkels, and Katherine Cramer Walsh. (2011). Hearing a Public Voice in Micro-Level Deliberation and Macro-Level Politics: Assessing the Impact of the Citizens’ Initiative Review on the Oregon Electorate. Paper Presented at NCA 2011: Annual Conference of the National Communication Association, held November 17-20, 2011, New Orleans, Louisiana<em>.</em></p><p>John Gastil, Katherine Knobloch, and Robert Richards. (2012). Vicarious Deliberation: How the Oregon Citizens’ Initiative Review Influences Deliberation in Mass Elections. Paper Presented at RSA 2012: The 15th Biennial Conference of the Rhetoric Society of America, May 23-28, Philadelphia, Pennsylvania.</p><p>John  Gastil and Robert Richards. (2012). Making Direct Democracy Deliberative through Random Assemblies, Paper to Be Presented at ASA 2012: The Annual Meeting of the American Sociological Association, August 17-20, 2012, Denver, Colorado.</p><p>Katherine Knobloch, John Gastil, Justin Reedy, and Katherine Cramer Walsh. (2011). Did They Deliberate? Applying a Theoretical Model of Democratic Deliberation to the Oregon Citizens’ Initiative Review<em>. </em>Paper Presented at NCA 2011: Annual Conference of the National Communication Association, held November 17-20, 2011, New Orleans, Louisiana.</p><p>Katherine Knobloch and Rory Raabe. (2011). <em>Exploring the Effects of Deliberative Participation through Panelist Self-Reports. </em>Paper Presented at NCA 2011: Annual Conference of the National Communication Association, held November 17-20, 2011, New Orleans, Louisiana.</p><p>DeAnna Martin. (2010, April 20). Citizen Initiative Review to Educate Oregonians on Ballot Measures. <em>Social Capital Review</em>. <a href="http://socialcapitalreview.org/citizen-initiative-review-to-educate-oregonians-on-ballot-measures-2/">http://socialcapitalreview.org/citizen-initiative-review-to-educate-oreg...</a></p><h3>External Links</h3><p>Citizens' Initiative Review Website (archived versions), <a href="http://wayback.archive.org/web/20020515000000*/http://www.cirwa.org">http://wayback.archive.org/web/20020515000000*/http://www.cirwa.org</a></p><p>Healthy Democracy Fund, Programs and Projects, <a href="http://healthydemocracyfund.org/programs-projects/">http://healthydemocracyfund.org/programs-projects/</a></p><p>Healthy Democracy Oregon. (2010). <em>Citizens’ Initiative Review 2010, Measure 73, Interim Final Report.</em> Portland, OR: Healthy Democracy Oregon. <a href="http://cirarchive.org/media/attachments/documents/M73_Final_Report.pdf">http://cirarchive.org/media/attachments/documents/M73_Final_Report.pdf</a></p><p>Healthy Democracy Oregon. (2010). <em>Citizens’ Initiative Review 2010, Measure 74, Interim Final Report.</em> Portland, OR: Healthy Democracy Oregon. <a href="http://cirarchive.org/media/attachments/documents/M74_Final_Report.pdf">http://cirarchive.org/media/attachments/documents/M74_Final_Report.pdf</a></p><p>Healthy Democracy Oregon, Citizens’ Initiative Review, <a href="http://healthydemocracyoregon.org/citizens-initiative-review">http://healthydemocracyoregon.org/citizens-initiative-review</a></p><p>Oregon Citizens' Initiative Review, 2010, Archive Website, <a href="http://cirarchive.org/">http://cirarchive.org/</a></p><p>Oregon Citizens' Initiative Review, 2010, Measure 73. (2010). Citizens' Initiative Review of Measure 73. Salem, OR: Oregon Secretary of State. <a href="http://cirarchive.org/media/attachments/documents/statements/M73_Citizens_Statement.pdf">http://cirarchive.org/media/attachments/documents/statements/M73_Citizens_Statement.pdf</a></p><p>Oregon Citizens' Initiative Review, 2010, Measure 74. (2010). Citizens' Initiative Review of Measure 74. Salem, OR: Oregon Secretary of State. <a href="http://cirarchive.org/media/attachments/documents/statements/M74_Citizens_Statement.pdf">http://cirarchive.org/media/attachments/documents/statements/M74_Citizens_Statement.pdf</a></p><p>Oregon Laws, 2011, Chapter 365, <a href="http://www.leg.state.or.us/11orlaws/sess0300.dir/0365.html">http://www.leg.state.or.us/11orlaws/sess0300.dir/0365.html</a></p><p>Oregon Secretary of State. (2010). <em>Voters’ Pamphlet, Oregon General Election, November, 2, 2010</em>, <a href="http://oregonvotes.org/doc/history/nov22010/guide/book13.pdf">http://oregonvotes.org/doc/history/nov22010/guide/book13.pdf</a></p><h3>Notes</h3><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">deliberation</a></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-93b52c75db2905cd18df072af3151cf6">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/592">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">18</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">24</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">4 days</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">6 days</div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/philanthropic-organization-ie-dedicated-making-monetary-grants-or-gifts" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/5-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">5 - Very Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/4-quite-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Quite Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/4-often-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Often Interdependent with Other Issues</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/regional-government-eg-state-provincial-territorial" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/non-governmental-organization-non-profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Governmental Organization (Non-profit)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

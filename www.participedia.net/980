@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/980" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/980" />
+  <title>Die Gacaca Gerichte | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"ffgLCoin0ABlJXo8x7Sndeus8JVRyDS60Xsm6-iaCFI","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"980"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/980?destination=node\/980":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-980 node-type-case i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/cases/gacaca-courts-community-justice-rwanda" class="language-link" xml:lang="en" title="Gacaca Courts: Community Justice in Rwanda">English</a></li>
+<li class="de last"><a href="/de/faelle/die-gacaca-gerichte" class="language-link" xml:lang="de" title="Die Gacaca Gerichte">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/980?destination=node/980" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Tn5bbLmLiA4JmhUpdv-T1JU_ssj5lMlMgkghGv1jpTk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Die Gacaca Gerichte</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Die Gacaca Gerichte</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/rwillers" title="View user profile." class="username" xml:lang="" about="/en/people/rwillers" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rabea Willers</a> on Sun, 05/26/2013 - 09:09</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sat, 05/07/2016 - 13:19</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Die Gacaca Gerichte - Participedia" addthis:url="http://participedia.net/en/node/980"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ German
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Anmerkung: Dies ist die deutsche Übersetzung einer englischen Fallstudie, die von Rina Kuusipalo am 25.04.2011 verfasst wurde. Die Originalversion ist abrufbar unter <a href="http://participedia.net/de/cases/gacaca-courts. ">http://participedia.net/de/cases/gacaca-courts. </a></p><p> </p><p>Die Gacaca Gerichtshöfe sind Gemeinde-Gerichtsverhandlungen, die die Täter des Genozids in Ruanda im Jahr 1994 verurteilen sollen. Sie sind einzigartig und ein groß angelegtes nationales Experiment eines gemeinschaftlichen Justizsystems. Damit bilden sie einen wichtigen Präzedenzfall für partizipative Gemeindejustiz überall auf der Welt.</p><p>Gacaca wurde als „ein revolutionäres Gerichtssystem“ bezeichnet, das als rechtliches Instrument dient aber auch eine sich stetig entwickelnde, dynamische sozio-rechtliche Praxis ist, die die Macht hat, Nachkriegsgesellschaften zu heilen und zu bestärken. Gacaca ist einzigartig in Bezug auf die demokratische Beteiligung der Bevölkerung, da die Mehrheit der Ruander auf die ein oder andere Art und Weise daran teilgenommen hat. Es ist tatsächlich die größte gemeindebasierte Justizinitiative aller Zeiten. Die Gacaca-Gerichte sind mit der Vollmacht ausgestattet, Straftäter wegen Verbrechen gegen die Menschlichkeit und Genozids zu verfolgen und zu verurteilen.</p><p>Die Gacaca Gerichtsverfahren waren wegen ihrer unkonventionellen rechtlichen Natur und der Votalitaet der tiefen und traumatischen persoenlichen Narben der Menschen innerhalb des gespaltenen Post-Genozid Klimas ein riskantes Unterfangen fuer Ruanda. Auf der anderen Seite war Gacaca jedoch auch ein Risiko, das Ruanda wegen fehlender Resourcen mit der enormen Anzahl von Genozid Verdaechtigen in nationalen Gefaengnissen umzugehen und wegen fehlender Hilfe in Bezug auf diese Belastung, fast schon gezwungen wurde einzugehen. So wurden zum Beispiel bis zum Jahr 2000 lediglich 3 Prozent der Faelle von Genozid-Verdaechtigen angehoert (Clark 56).</p><p>Die Gerichtsverfahren waren auch eine Manifestation des Willens der ruandischen Bürger um die Verbindung zu ihrer prä-kolonialen Vergangenheit vor der kolonialen Periode wieder aufleben zu lassen, die die Trennung, die schließlich im Genozid endete, gesät hat. Bis zum heutigen Zeitpunkt haben hunderttausende Ruander an den Gerichtsverfahren teilgenommen.</p><p><strong>Zweck und Problemstellung</strong></p><p>Also Folge des Genozids in Ruanda im Jahr 1994 brauchte das Land eine Lösung um Gerechtigkeit in einen Staat einzuführen, der noch immer voller Täter war. Im Jahr 2002 gab es noch 115,000 Verdächtige, die auf eine Verhandlung ihrer Verbrechung in Verbindung mit dem Genozid warteten. Viele Juristen wurden während des Genozids ermordet und die Kapazitäten des Landes waren nicht ausreichend um mit den Gefangenen fertig zu werden, die eng wie Sardinen in den Gefängnissen zusammen saßen.</p><p>Zudem sollte Gacaca tiefere, emotionale und längerfristigere Ziele erfüllen. Wie die Gacaca Jurisdiktion auf ihrer Website erklärt war der präzise Zweck von Gacaca: „1. Die Wahrheit über das was geschehen ist ans Licht zu bringen. Die Einigung und Versöhnung aller Ruander, die erreicht werden soll, basiert auf dem Konzept der Gerechtigkeit für alle. Diese Gerechtigkeit kann jedoch nur wahr werden, wenn die Wahrheit über die Geschehnisse hergestellt wird. 2. Die Genozid Gerichtsverfahren zu beschleunigen. 3. Die Kultur der Straffreiheit zu beseitigen. 4. Die Ruander zu versöhnen und ihre Einheit wiederherzustellen. 5. Zu beweisen, dass die ruandische Gesellschaft die Kapazitäten hat ihre eigenen Probleme durch ein System von Gerechtigkeit zu lösen, das auf Ruandischen Bräuchen basiert.“ (Website des Nationalen Dienstes der Gacaca Jurisdiktion). </p><p>Die Gerichtsverfahren erfüllten demnach nicht bloß die Funktion den juristischen Prozess der Verurteilung der Genozid Verdächtigen zu verfolgen, sondern auch die der sozialen Heilung und post-konflikt Versöhnung. Die Traumata des Genozids sind noch immer tief in der Ruandischen Gesellschaft verankert. Die Gacaca Prozesse sollten deshalb alle Schichten der Gesellschaft in einem Prozess der Partizipation und Hoffnung auf Gerechtigkeit einbeziehen.</p><p><strong>Geschichte</strong></p><p>Um die Characteristika und Notwendigkeit eines Organs wie Gacaca in Ruanda zu verstehen, ist es wichtig mit Geschichte des Ruandischen Genozids, der sich 1994 zutrug, vertraut zu sein. Der Genozid wurde in der kurzen Zeitspanne von 100 Tagen durchgefuehrt, mit einer geschaetzten Zahl von schwindelerregenden 800,000 bis eine Million Toten. Dies waren vor allem Tutsis, eine der beiden Hauptgruppen des Landes. Ungefaehr 75 Prozent der Tutsi Bevoelkerung fielen dem Genozid zum Opfer.  </p><p>Die Trennung zwischen den Tutsi und Hutu begann, als belgische Kolonisten im 18. Jahrhundert in Ruanda eintrafen. Davor hatten die Ruander als eine Nation mit einer Sprache, Kinyarwanda, und einer geteilten Religion und Kultur zusammen gelebt. Tutsi und Hutu bezeichneten Unterschiede im gesellschaftlichen Rang: Tutsi bedeutete ursprünglich Hirte, während Hutu Ackerbauer meinte. Als sich später Hierarchien entwickelten, symbolisierte Tutsi jemanden mit einem höheren Rang innerhalb des Staates. Dies unterschied sich jedoch nicht besonders von vagen Klassenunterschieden in anderen Gesellschaften der Welt. Als die Europaer im spaeten 18. Jahrhundert in Ruanda ankamen, zwangen sie der Bevölkerung hamitische Ideale auf, ein ‚Teile und Herrsche‘ Regime, um der Minderheit zur Macht zu verhelfen. Dies sollte die Verwaltung einfacher machen. Sie verteilten Identitätskarten, sodass jeder, der mehr als zehn Kühe besaß ab damals als Tutsi (14%) bezeichnet wurde – genau wie die Nachkommen. Jeder mit weniger galt als Hutu (85%). Zwischen den Hutus baute sich mit der Zeit grosse Feindseligkeit auf, da sie zum Beispiel vollkommen vom oeffentlichen Leben und hoeheren Positionen ausgeschlossen wurden. Die belgischen Machthaber sagten den Tutsi, die mit dem System nicht einverstanden waren: „Ihr peitscht die Hutu aus oder wir peitschen euch aus.“   </p><p>Nach dem Zweiten Weltkrieg, als die Ruandische Unabhaengigkeit erwachte, begannen die Hutus eine soziale Revolution um den Tutsis ihre Macht zu nehmen. Im Jahr 1959, zum ersten Mal in der Geschichte, gab es Gewalt zwischen den Gruppen, die sich selbst Tutsis und Hutu nannten. Jahre des Konflikts folgten und die Hutus hatten bald die gesamte Gewalt an sich gerissen. Seit Anfang der Feindseligkeiten dachten die Belgier pragmatisch  und wechselten die Seite zu den Hutus. Der Genozid erfolgte schliesslich, nach vielen Warnsignalen und unbeantwortetem Flehen nach Hilfe, im April 1994. Medien und Gesellschaft hatten die Hutu Bevoelkerung so sehr indoktriniert, dass, als Befehl gegeben wurde, die Tutsi zu toeten, Nachbarn und Familienmitglieder Menschen, die ihnen sehr nahe standen, nieder gemetzelt haben. Weil die Mehrheit der Taeter durchschnittliche Buerger waren, mussten die Gerichte spaeter unvorhergesehen viele Menschen verurteilen und mit Gerechtigkeit auf einer sehr persoenlichen Ebene umgehen (Jones 51).</p><p>Aufgrund der lethargischen franzoesischen Intervention und einer UN Truppe, die weder die Resourcen noch das Mandat für eine Intervention hatte, vertrat die Rwandan Patriotic Front (RPF) schließlich die Ruander. Die RPF bestand vornehmlich aus Ruandischen Tutsis, deren Familien der Verfolgung entkommen waren, aber auch aus Hutus. Bis Ende Mai hatte RPF mehr als die Hälfte Ruandas unter Kontrolle und beendete den Genozid, dem sonst wohl die gesamte Tutsi Bevölkerung zum Opfer gefallen wäre.</p><p>Ruanda war nach dem Genozid offiziell, laut der Rangliste der Weltbank, das absolut ärmste Land der Welt. Es hatte eine Ernte verloren, was nicht nur bedeutete, dass es zu wenig Nahrung für die Menschen gab, sondern auch dass eine Saison Kaffee und Tee, die Hauptexportgüter, verloren gingen. Auch die Infrastruktur lag am Boden: Von Elektrizität über Telefonleitungen bis hin zu Heftgeräten in Büros. Brunnen, die nicht mit Körpern gefüllt waren, waren schwer zu finden. Die Morde fanden nicht in abgetrennten Konzentrationslagern statt, sondern auf den Straßen und in Häusern, Krankenhäusern, Geschäften und vielen katholischen Kirchen. Das bedeutete, dass auch Gerechtigkeit in dieser lokalen Umgebung walten musste. Die Staatskasse war vollkommen leer und die Zahl der Kinder, die ohne Erwachsene miteinander lebten, belief sich auf 100,000. (Kuusipalo)</p><p>1995 brachte die Zerstörung auf allen Ebenen der Gesellschaft Pasteur Bizimungu, damals ruandischer Präsident, dazu, eine internationale Konferenz einzuberufen, um eine Strategie zu finden, mit der man mit den Nachwirkungen von Genoziden besser fertig werden konnte. Doch trotz aller Bemühungen Menschen in gewöhnlichen Gerichtsverfahren zu bestrafen, hätte es, wie bereits erwähnt, mehr als 200 Jahre gedauert, alle Straftäter zu belangen. Da die neue Regierung jedoch Gerechtigkeit als einen der Hauptpunkte ihrer Politik ansah, wollte es um jeden Preis verhindern, dass Kriminelle unbelangt oder unbestraft davon kämen. Die Regierung bestand vor allem aus Tutsi, jedoch auch aus einigen Hutu, die nicht an dem Genozid teilgenommen hatten.</p><p>Darum wurde 1998 eine Komission eingesetzt, die „alle politischen Parteien… Ministerien, Professoren, Universitätsdozenten und die Jugend“ einbezog, um öffentliche Beteiligung herzustellen und so eine Lösung für die Probleme zu finden. Damit entstand die Gacaca Idee. 1995 hatte zudem die Ruhengeri Provinz Gacaca genutzt, um Justizprobleme zu lösen. Auch dies diente als Inspiration. Die ruandische Regierung schlug deshalb 1999 vor, Alternativen wie zum Beispiel die Täter zu begnadigen auszuschlagen und die Gacaca Gerichtshöfe einzusetzen um mit Verdächtigen zu verfahren (Harrell 66).</p><p>Zudem ist es wahrscheinlich, dass auch der Wille einen prä-kolonialen ruandischen Ansatz zu verfolgen, eine Rolle gespielt hat – vor allem aufgrund des eklatanten Mangelns an Entwicklungshilfe während und direkt nach dem Genozid, obwohl es mehrere Bitten um Unterstützung und Intervention gegeben hatte.</p><p><strong>Gestaltung und Auswahl der Teilnehmer </strong></p><p>Die aufgezeigte Geschichte des Landes führte zu einer Neubelebung der traditionellen Gacaca Konfliktresolution, welche historisch in unterschiedlichen Formen im Land benutzt wurde. Ruanda besitzt sowohl eine ausgeprägte Tradition der dezentralisierten Entscheidungsfindung und Gesetzgebung als auch der Gemeindedeliberation. Obwohl der Kolonialismus Ruanda ein westliches Rechtssystem aufgezwungen hatte, behielt Gacaca seinen Platz in der Gesellschaft, obwohl es merklich Einfluss während der Kolonialzeit verloren hat. (Ingelaere 43)</p><p>Gemeindemitglieder, deren Streitigkeiten zu kontrovers waren um sie intern zu klären, sind in der Vergangenheit an den Inyangamugayo, den Gemeinderechtsrat, berufen worden, um zu einem Urteilsspruch über den Disput zu gelangen. Konflikte wurden demnach oft kommunal auf einem Stück Gras zwischen allen beteiligten Parteien beigelegt. Daher kommt auch das Wort ‚gacaca‘, das Kinyarwanda ist und so viel bedeutet wie ‘Gras’ oder ‚Rasen‘. Die Gacaca-Richter der Vergangenheit besaßen jedoch nicht die Macht um über Mord zu urteilen. Das traditionelle System war auf nationaler Ebene vereinheitlicht und kodifiziert um gewisse Standards einzuhalten. Der Ansatz war jedoch bottom-up basiert und nicht von der zentralen Regierung standardisiert.</p><p>Im Oktober 2001 wählten die Ruander in ihren Städten und Dörfern eine Viertelmillion Richter, die Recht in den 11,000 Gemeinden, die an Gacaca beteiligt waren, sprechen sollten. Im Jahr 2004 fiel die Zahl der Richter von 250,000 auf 170,000. Menschen mit einer höheren Bildung wurden als Bereichsrichter gewählt. Gacaca hat das soziale Kapital von Frauen erhöht, die 35 Prozent der Richter auf der Zellenebene ausmachten. Viele Hutu wurden ebenfalls durch ihre Partizipation als Gacaca Richter bestärkt.</p><p>Der Richter im Gacaca Justizsystem ist eine ‚Person von Integrität‘ der Gemeinde, die Weisheit, Wahrheit und Gerechtigkeit für die Gemeinschaft verkörpert. Die Menschen in der Gemeinde wählen jeden Richter in seine Position. Diese ist nicht Vollzeit, eine Vergütung wird jedoch gewährleistet wenn der Richter wegen der Deliberation nicht seiner regulären Arbeit nachkommen kann. Die Richter sprechen das finale Urteil in jedem Fall.</p><p>Die Gacaca Gerichte wurden durch zwei Gesetze eingesetzt: das ‚Organic Law‘ (1996) und das ‚Gacaca Law‘ (2001). Die Pilotphase begann 2002 mit einer Zelle in jedem Bereich, die die Gerichte testen sollte. 2005 wurde der Prozess national ausgeweitet. (Molenaar 77)</p><p>Die Gacaca Gerichte werden draußen abgehalten und jeder in der Gemeinde ist eingeladen ihnen beizuwohnen. Um sich am Prozess zu beteiligen muss der Teilnehmer lediglich seine Hand heben um sprechen zu dürfen. Beweise dürfen auf spotaner Basis präsentiert werden. Der Verdächtige wird zu dem Dorf oder der Gemeinde geführt, in der das Verbrechen geschehen ist. Überlebende, Zeugen und jeder, der von dem Fall betroffen ist, ist normalerweise anwesend.</p><p>Die internationalen Gerichtshöfe (International Criminal Tribunal für Ruanda) und die nationalen Gerichte verhandeln über die schwersten Verbrechen und über die Organisatoren des Genozids. Diese internationalen Gerichte werden jedoch oft als eine separate westliche Vorgehensweise betrachtet, die im Klima nach dem Genozid die beste Option ist um den Bedürfnissen der Menschen gerecht zu werden. (Ingelaere 45) Nur die, die Verbrechen begangen, jedoch selbst keine Befehle gegeben haben, können in den Gacaca Gerichten verurteilt werden.</p><p>Die Gacaca Gerichte setzen sich aus verschiedenen Reichweiteeinheiten zusammen. Erstens, gibt es da die Gacaca Gerichte der so genannten Zellen. Eine Zelle ist die kleinste, lokale administrative Einheit in der ruandischen Gesellschaft, die aus durchschnittlich 830 Menschen besteht. Die Sektor Gacaca Gerichte und die Sektor Gacaca Revisionsgerichte decken die administrative Einheit der Sektoren ab, die aus ungefähr 5000 Menschen bestehen.</p><p>Jede Jurisdiktion hat drei Organe: die Hauptversammlung, die die gesamte Bevölkerung einer Zelle im Alter von mindestens 18 Jahren umfasst; das Büro der Gacaca Jurisdiktion, das aus 19 Mitgliedern besteht, die von der Hauptversammlung gewählt werden; und das Koordinierungs-Komitee, das aus fünf Mitgliedern besteht, die von den Büro-Mitgliedern gewählt werden. (Nationaldienst der Gacaca Jurisdiktion; Clark 54)</p><p> </p><p><strong>Deliberationen und Entscheidungen </strong></p><p>Die Tätigkeiten der Gerichte sind wie folgt: Sammeln von Informationen in Bezug auf den Genozid; Kategorisierung von Personen, die wegen Genozids verfolgt werden bzw. die eine Rolle in verschiedenen völkermörderischen Verbrechen gespielt haben; Gerichtsverhandlung von Fällen, die unter ihre Kompetenz fallen. (Nationaldienst der Gacaca Jurisdiktion).</p><p>Die Tatsache, dass die Gerichte in einem offenen Raum und unter voller Beobachtung der Gemeinde stattfinden, veranschaulicht die tranparente und partizipative Natur des Systems. Jedem ist es erlaubt zu kommentieren, die finale Entscheidung bleibt jedoch bei den Richtern, von denen oft mehr als einer zuständig sind. Die Anwendung von religiösen Ideen, die von den Bürgern eingebracht wurden, wie zum Beispiel Gnade und Vergebung, hat eine große Rolle in den Prozessen, auch in Bezug auf Partizipation, gespielt. Ein Gacaca Gericht hat die Macht, jedes Strafmaß bis hin zu lebenslang zu verhängen, die Todesstrafe ist jedoch ausgeschlossen, die sonst legal in Ruanda ist. Wenn das begangene Verbrechen kleinen Ausmaßes ist, wie zum Beispiel die Zerstörung materiellen Eigentums, wird oft eine Strafe verhängt, die der Gemeinde nützlich ist, wie zum Beispiel, dass der Verurteilte, das was er zerstört hat, wieder errichtet. Denen, die im Gacaca Gericht lügen oder ihre Aussage verweigern, droht eine Haftstrafe von einem bis zu drei Jahren. (Harrel 72)</p><p>Erstaunlicherweise endeten 25 Prozent der Fälle mit einem Freispruch für den Angeklagten, was dafür spricht, dass die Richter zum größten Teil unparteiisch und repräsentativ für die ruandische Gesellschaft waren, die einst aus Tutsi und Hutu bestand (Clark). Tatsächlich unterstützen viele Verbrecher das Gacaca System, da es ihnen Hoffnung auf Schlichtung oder sogar auf eine Freilassung gibt.</p><p><strong>Ergebnis und Effekte</strong></p><p>Im Jahr 2009, sollen die Gacaca Gerichte 1.1 Millionen Menschen vor Gericht gestellt haben, andere Quellen sprechen von Hunderttausenden. 2010 näherte sich die Phase der Genozid Fälle ihrem Ende. Wegen ihres großen Erfolgs, berät die Regierung gegenwärtig über die Fortsetzung der Gerichte. Die Gacaca Gerichte könnten die abunzi lokalen Gerichte ersetzen und Teil der nationalen ruandischen Strafrechtsgesetzgebung, über Genozidgesetzgebung hinaus, werden.</p><p>In Bezug auf die Aussöhnung und nationale Einheit betonte ein ruandischer Beobachter die Rolle von Gacaca in der Ermöglichung von versöhnendem Dialog: „Es ist ein sehr wichtiger Dialog… mit den harten Fakten anzufangen ist schwierig, aber schließlich erreichst du einen Konsens in jedem Fall… Vorher wollten die Menschen sich nicht einmal gegenseitig anschauen, aber nun können sie darauf hoffen sich gemeinsam hinzusetzen und Probleme zu diskutieren.“</p><p>Eine enorme Zahl von Menschen in Ruanda hat an den Gacaca Gerichten teilgenommen, was ihre Bedeutung bestätigt. In einer Umfrage der John Hopkins University, sagten 89 Prozent der ruandischen Bevölkerung, dass sie aktiv an der Beweisführung während der Gacaca Prozesse teilnehmen würden, und 87 Prozent bestätigten, dass sie mittleres oder hoheres Vertrauen darin haben, dass Gacaca zu nachhaltigem Frieden in Ruanda beiträgt. (Molenaar 75).</p><p>Der Heilungsprozess ist jedoch unvermeidlicherweise langsam und die Ergebnisse variieren auf einem individuellen Level. In vielen Fällen hat Gacaca dem Versöhnungsprozess aber sehr geholfen. Die Verbreitung der Wahrheit durch die Gerichtsverhandlungen waren besonders in solchen Situationen bedeutend, in denen die Schicksale von vielen Familienmitgliedern der Betroffenen unklar waren. Andere Fälle stellten eine große Herausforderung dar, da der Prozess wegen mangelnder Wahrheit oder Partizipation keinen emotional erleichternden Effekt hatte. Aufgrund der intimen, persönlichen Natur des Völkermords, ist es fast unmöglich die Ebenen des Erfolgs in Bezug auf den Heilungsprozess des Genozids quantitativ zu messen.</p><p>In praktischer Hinsicht haben die Gerichte die Belastung des Justizsystems erleichtert, indem sie die Verdächtigen des Genozids vor Gericht stellten, deren Bestrafung durch konventielle Mittel Generationen überdauert hätte. Es hat auch die Situation in ruandischen Gefängnissen erleichtert, in denen Gefangene sich vorher oft  in gestapelten Betten abwechseln mussten, weil es so viele Verdächtige gab. Die Gerichtsverfahren haben auch diejenigen wieder auf freien Fuß gesetzt, die zu Unrecht festgehalten wurden, da sie den Prozess der Fallbearbeitung beschleunigt haben. Die Betriebskosten der ruandischen Regierung für das System beliefen sich auf 39 Millionen USD.</p><p><strong>Analyse und Kritik </strong></p><p>Das Level an Vertrauen in die Richter war, wie verlautet, aufgrund der Legitimität und Verantwortung, die sie in ihren jeweiligen Gemeinden bewiesen hatten um für die Position gewählt zu werden, hoch. Nichtsdestotrotz haben externe Beobachter manchmal kritisiert, dass Richter als Gemeindemitglieder zu sehr selbst betroffen sein können um vollkommen unparteilich zu sein. Auf der anderen Seite, besaßen sie oft größeres Wissen zu den Fällen, als ein Außenseiter haben könnte.</p><p>Die bloße Geschwindigkeit des Gacaca Systems in der Erleichterung der justiziellen Vorgänge ist wahrscheinlich der wichtigste Beweis für dessen Signifikanz auf praktischer Ebene. Ohne die Gerichte, unabhängig von ihren Unzulänglichkeiten, wäre es niemals möglich gewesen Gerechtigkeit für Hunderttausende von Menschen herzustellen.</p><p>Externe Menschenrechtsgruppen haben kritisiert, dass die Gerichte vor allem auf einer strikt juristischen Analyse des Bezugsrahmens, der dem System unterliegt, aufbauen, welche vom westlichen Standpunkt aus gesehen, fehlen könnte. Sie haben auch die Informalität der juristischen Dokumentation des Systems kritisiert. Nach Amnesty International waren die Gerichte nach internationalen Standards nicht fair, da sie die individuellen Rechte der Genozid Verdächtigen verletzten. Diese Kritik ist jedoch eher unbrauchbar, da die Alternative, wegen Ruandas begrenzter Ressourcen, eine lebenslange Haftstrafe gewesen wäre, während die tausenden Verdächtigen auf den Beginn ihres Gerichtsverfahrens warten.</p><p>Überlebende wurden scheinbar in manchen Fällen verfolgt, nachdem sie vor Gericht ausgesagt hatten. Nichtsdestotrotz berichteten andere externe Quellen, dass die Sicherheit, auch von Verdächtigen, relativ hoch war. (Clark 343)</p><p>Viele ruandische und nicht-ruandische Beobachter haben hervorgehoben, dass Gacaca nicht nur ein rechtliches Instrument sei, sondern auch eine soziale Instiution der Versöhnung. (Clark 5) Das hohe Maß öffentlicher Beteiligung zeigt dass das System erfolgreich genug war um einen Raum zu schaffen, in dem Menschen sich beteiligen können sowie einen Prozess, an dem Menschen weiter beteiligt sein möchten. Wie der ehemalige rechtliche Berater der Gacaca Kommission sagt, wird Gacaca durch die Partizipation der Menschen weiter bestehen: „In den Gacaca Gerichten kommt die Wahrheit von der Bevölkerung. Wir wissen, dass die Menschen sagen, wer verantwortlich ist, weil sie gesehen haben, was [die Verbrecher] taten. Sie standen da, als es passierte… Es wird keine Verwirrung darüber geben, wer für diese Dinge verantwortlich ist.“ (Clark 138)</p><p>Gacaca hat zudem spezielle Charackteristika, Bezug nehmend auf die Bedürfnisse der Menschen, weiter entwickelt. Über den rechtlichen Rahmen hinaus, hat es dem Verfahren einen persönlichen Charackter verliehen, der sehr wichtig in solch einem Fall ist.</p><p>Trotz einiger Zweifel und Unzulänglichkeiten, ist es schwer sich vorzustellen, wie ein Land, das so marode war wie Ruanda nach dem Genozid, besser mit seinen praktischen als auch emotionalen Lasten hätte umgehen sollen, als mit den Gacaca Gerichten, die versuchten die Gesellschaft zu heilen und wieder aufzubauen. Lokale Übergangsgerichte nach Völkermorden an anderen Orten können viele Lehren aus der ruandischen Erfahrung ziehen, da es ein besonders groß angelegtes und oftmals effektives Experiment war.</p><p> </p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h3>Sekundärquellen</h3><p>Clark, Phil. The Gacaca Courts, Post-Genocide Justice and Reconciliation in Rwanda. New York: Cambridge University Press, 2010.</p><p>Harrell, Peter E. Rwanda’s Gamble. Lincoln: Writers Club Press, 2003.</p><p>Ingelaere, Bert. “The Gacaca courts in Rwanda”. In Traditional Justice and Reconciliation after Violent Conflict. Stockholm: International IDEA, 2008.</p><p>Jones, Nicholas A. The Courts of Genocide. New York: Routledge, 2010</p><p>Molenaar, Arthur. Gacaca: Grassroots justice after genocide. Leiden: African Studies Centre, 2005.</p><p>Rombouts, Heidy. Victim Organisations and the Politics of Reparation: a case study on Rwanda. Antwerp-Oxford: Intersentia, 2004.</p><p>Urusaro, Alice Karekezi et al. “Localizing Justice: Gacaca courts in post-genocide Rwanda”. In My Neighbor, My Enemy. Cambridge: Cambridge University Press, 2004.</p><p><a id="External_Links" name="External_Links"></a></p><h3>Externe Links</h3><p><a href="http://digitalcollections.sit.edu/conflict_reconcilation_symposium/jan11/memoryjusticehumanrightspanel/1/">Chakravarti, S. (2012). Gacaca: A Flawed Project and the Hope for Transitional Justice</a></p><p><a class="external text" href="http://www.economist.com/node/1169808?story_id=E1_TTGJRDR" rel="nofollow" title="http://www.economist.com/node/1169808?story_id=E1_TTGJRDR">“Justice on the grass”. The Economist, June 6, 2002.</a></p><p><a class="external text" href="http://www.inkiko-gacaca.gov.rw/En/EnIntroduction.htm" rel="nofollow" title="http://www.inkiko-gacaca.gov.rw/En/EnIntroduction.htm">National Service of Gacaca Jurisdictions website</a></p><p><a class="external text" href="http://www.guardian.co.uk/world/2010/jan/11/rwanda-gacaca-courts" rel="nofollow" title="http://www.guardian.co.uk/world/2010/jan/11/rwanda-gacaca-courts">Khaleeli, Homa. “Rwanda’s community courts: a unique experiment in justice”. The Guardian, January 11, 2010.</a></p><p><a class="external text" href="http://interuwcmag.wordpress.com/2009/07/11/rwanda-of-a-thousand-stories/" rel="nofollow" title="http://interuwcmag.wordpress.com/2009/07/11/rwanda-of-a-thousand-stories/">Kuusipalo, Rina. Rwanda of a thousand stories. United World College Student Magazine, 2009.</a></p><p><a class="external text" href="http://www.wcl.american.edu/hrbrief/14/2lemon.pdf?rd=1" rel="nofollow" title="http://www.wcl.american.edu/hrbrief/14/2lemon.pdf?rd=1">Le Mon, C. “Rwanda’s troubled Gacaca courts” Human Rights Brief, Vol. 14, No. 2, p. 16, Winter 2007.</a></p><p><a class="external text" href="http://news.bbc.co.uk/2/hi/africa/7074494.stm" rel="nofollow" title="http://news.bbc.co.uk/2/hi/africa/7074494.stm">“’Don’t extradite’ Rwanda suspects”. BBC News, November 2, 2007.</a></p><p><a class="external text" href="http://www.youtube.com/watch?v=LiDea-PNoyw" rel="nofollow" title="http://www.youtube.com/watch?v=LiDea-PNoyw">YouTube: Gacaca Justice – Rwanda (Journeyman Pictures)</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A103">Human Rights</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A101">Law Enforcement, Criminal Justice, &amp; Corrections</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A205">Post-genocide community justice and reconciliation</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 31, 1969 - 16:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 31, 1969 - 16:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A15">Election</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/public-hearing">Public Hearing</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A146">Other</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A162">Other</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A20">Community Based Organization</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$39 000 000.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Judges; participant witnesses</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-7d2be273ddce713cf8760e69c4b5e365">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/980">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

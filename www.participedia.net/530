@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/model-united-nations" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/530" />
+  <title>Model United Nations | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"X_a8mf66-ir6YJ566eauWtWkW4bXxfRn3GiEgUm_0GY","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/model-united-nations?destination=node\/530":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-530 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/model-united-nations" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/model-united-nations?destination=node/530" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-CXktwLAwleT0xM25fLVMdJZ7mPxG3Z1nNBivWC9rmRo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Model United Nations</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Model United Nations - Participedia" addthis:url="http://participedia.net/en/methods/model-united-nations"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/modelUN.jpg?itok=MB6Xbm14" /></span></div></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Feb 26 '12</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/chang-hamilton-situ" title="View user profile." class="username" xml:lang="" about="/en/people/chang-hamilton-situ" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jennifer Chang</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong>Definition</strong></h3><p>Model UN is a simulation of the United Nations that aims to reach students from all walks of life by educating them about international political issues within the United Nations<a href="#_ftn1" name="_ftnref1" title="" id="_ftnref1">[1]</a>. The Model UN encourages students to act as leaders and ambassadors of a nation within a particular UN member states. The students play the role of an ambassador and are encouraged to gain knowledge of a current issue set on the UN agenda. There, they are able to discuss and debate political issues through the deliberative forum designed by the Model UN. The student participants are given the responsibilities of a delegate and diplomats where they are obligated to create speeches, outline paper drafts, debate, deliberate, consult with one another and further negotiate with their member states to resolve and develop solutions to a political issues set on the agenda. The students represent either a nation, or an NGO in a simulated session of a UN committee, such as the Security Council or the General Assembly.</p><h3><strong>History</strong></h3><p>In the early 1920’s, students from the United States participated in collegiate simulations of the League of Nations, the predecessor to the United Nations.<a href="#_ftn2" name="_ftnref2" title="" id="_ftnref2">[2]</a> For example National Model United Nations and the Harvard Model United Nation have started simulations of the League of Nation during the 1920’s. <a href="#_ftn3" name="_ftnref3" title="" id="_ftnref3">[3]</a> The Model UN began as the Model League of Nations Assembly, in the early 1930’s. This Model employed similar simulations to the League of Nations. In 1945, the League of Nations was dismantled and the United Nations was created. In 1947 the League of Nations and the Model League of Nations Assembly made a decision to combine their efforts to transition to a new organization that would later be named the Model United Nations<a href="#_ftn4" name="_ftnref4" title="" id="_ftnref4">[4]</a>.  The Model UN has traditionally always been a collegiate driven organization, but in 1968 it was expanded for high school students. The high school level of MUN was established to enhance high school student’s participation when it comes to negotiation and oratory skills, and to also broaden their understanding and knowledge of the world.</p><p>The Model of UN simulation was designed to be the exact same as the United Nations. The simulations are divided among the different organs of the United Nations, such as the General Assembly which is the main deliberative assembly, the Security Council for deciding the certain resolutions for peace and security, the Economic and Social Council for encouraging and promoting international and social cooperation and advance development, the Secretariat for providing information needed by the UN, and the International Court of Justice, which is the main judicial organ of the United Nations. Through these five bodies, student delegates are able to hold mock conferences and regular meetings. During this simulation exercises, students are expected to employ a wide variety of communication and critical thinking. They are obligated to employ great skills, such as writing, communication skills, leadership skills, and team work skills that they can apply to their future lives.</p><p>Recently simulation of other deliberative bodies, such as the Global Model United Nations, National Model United Nations, United Nations Youth Association, and Regional Conference has been added in the Model UN.</p><h3><strong>Purpose and Problems  </strong></h3><p>Through the Global Model United Nations conference, students are encouraged to participate from every region of the world, to act as diplomats and participate in simulated sessions of the United Nations General Assembly and other multilateral bodes In the UN system. The GMUN is delivers three principles embedded within their organization which differ from the Model UN. For example they offer the rules of procedure that offers closer look at how the United Nations actually functions. It offers unlimited access to UN official and diplomats before and during the conference. It also encourages diversity by giving students from different countries an opportunity to participate in the simulation exercises<a href="#_ftn5" name="_ftnref5" title="" id="_ftnref5">[5]</a>.</p><p>The National Model United Nations is a non-profit organization that aims at educating the student public of the United Nations and its political international issues. This organization’s main purpose is to actively engage students and to mold them to be more of effective global citizens. They aim to build strong leaders that are able to collaborate and deliberate about contemporary issues that plagues the world. They strive to develop “a world comprised of civically engaged people who are aim to create peaceful, multi-lateral conflict resolution and equitable, sustainable human development”<a href="#_ftn6" name="_ftnref6" title="" id="_ftnref6">[6]</a>.</p><p>The United Nations Association of the United States is also a non-profit organization that aims to promote and encourage the principles set within the United Nations Charter and the effective work performed within the United Nations among their national civil society<a href="#_ftn7" name="_ftnref7" title="" id="_ftnref7">[7]</a>.</p><p>The essential purpose of the Model UN is to provide an interactive educational experience that teaches students essentially about the United Nations. The simulations offer a detailed experience and understanding of how the process of international debate, negotiation and diplomacy operates. Model UN is very significant in producing well informed global citizens. The simulation of the diplomatic process is very significant in our world, where societies are quickly becoming more interdependent. Therefore, Model UN makes for informed global citizens who not only understand the decisions their nations makes but also how those changes effect politics nationally, regionally, and globally.</p><p>The Model UN aims to solve conflicts, and issues set originally on the United Nations agenda. The students or “delegates” prepare to draft resolutions, plot strategy, negotiate with supporters and adversaries, and resolve conflicts that affect almost every country in the world, all in the interest of mobilizing international cooperation. Model UN ambassador learn how the international community acts on its concerns about peace and security, human rights, the environment, food and hunger, economic development, globalization, and other issues that plagues our societies today. Model UN ambassadors are obligated to discuss these issues in an effective deliberative manner and try to solve these issues through debates and negotiations. </p><h3><strong>Participant Selection</strong></h3><p>As the program is not owned by a particular organization, students and non-profit organizations drive the organization. Model UN exercises are generally open to all students who show interest in participating. The Model UN is a learning process; it does not require participants to demonstrate extensive experience in international relations prior to the conference. A Model UN simulation can be practiced on various levels, in classrooms, school clubs, state-wide, national and international conferences. <a href="http://www.unausa.org/modelunfaq#Participates_MUN">[7]</a> The selection process and prerequisites may vary depending on the level, formality and size of the Model UN exercise. A club simulation of the Model UN may select their participants through recruitment, while a conference initiated by a non-profit organization may select through application submission.<br /><br />There are various roles in a Model UN simulation such as delegates, Secretary- Generals, committee staffs, committee chairs and press corp. <a href="http://www.asiapacificmun.org/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=125">[8]</a> Participants can decide what role to take on or may apply to perform specific roles. Prior to the simulation, participants would complete the necessary preparation work for their role and country of representation..<br /><br />Some high schools and universities offer Model UN as a semester long course. In these cases, students who wish to participate in the exercise can register and enroll at their home institution. For example, <a href="http://www.chapman.edu/">Chapman University i</a>n California offers an MUN course that focuses on learning about the United Nations, international diplomacy and breaking international issues. <a href="http://www.chapman.edu/wilkinson/peacestudies/modelUN.asp">[9]</a><br /><br />In addition, Model UN conferences can incorporate competitions into the simulation exercise, both on the high school level and collegiate level. Awards are given for specific aspects of the deliberations, such as  “best delegation”, “best large delegation” presented at the <a href="http://www.hnmun.org/">Harvard National Model United Nations </a>conference. <a href="http://www.harvardmun.org/wp-content/uploads/2012/02/Awards-Spreadsheet-1.pdf">[10]</a> To participate in larger scale conferences and international conferences (e.g. <a href="http://amunc.net/">Asia-Pacific Model United Nations </a>Conference), <a href="http://amunc.net/home/about/conference/">[11]</a> delegation teams from institutions are required to register with the hosting institution or organization.<br /><br />The <a href="http://www.unausa.org/Page.aspx?pid=220">UNA-USA </a>is a respective international Model UN organization; its Global Classroom International Model UN program demonstrates a rigorous participant selection process. <a href="http://www.unausa.org/Page.aspx?pid=579">[12]</a> It requires applicants to familiarize with the requirement of the position by providing an overview of the qualifications. The application asks for leadership experiences with the Model UN and a list of short answer questions. After applications are received by the organization, students would be scheduled for an interview to determine acceptance.</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>Deliberation in a Model UN simulation takes place in various committees within the organization. The general committees most often include the General Assembly, Economic and Social Council &amp; Regional Bodies, and the Specialized Agencies. The discussion topics for each committee are chosen by the host institution, which generally includes issues that are currently being discussed in the United Nations.<a href="http://www.harvardmun.org/committees">[13]</a> A member state is usually represented by one delegate in each council, though exception to the number of delegate representation can be granted by the host. Prior to the simulation, delegates are expected to have conducted a thorough research on their respective countries and a write a position paper regarding their stance to the topic.<br /><br />A basic flow of the deliberation process in a Model UN simulation could be:</p><p>1. Agenda Setting</p><p>2. Debate &amp; Caucus</p><p>3. Working Papers</p><p>4. Debate &amp; Caucus</p><p>5. Draft Resolutions</p><p>6. Amendments</p><p>7. Vote on Draft</p><p>8. Final Resolutions<a href="http://www.worldmun.org/upload/WorldMUN_101.pdf">[14]</a><br /><br />The Model UN simulation utilizes Rules of Procedure to facilitate and regulate deliberation. It may include general rules such as the usage of official language, authority of each role, and delegate conduct. Rules of Procedure also contain the rules governing debate, for example, the debate agenda, the caucus and the appeal proceedings. During the deliberative sessions, committee chairs act as moderators. In some simulations, the chair would prepare a speakers’ list to ensure equal speaking opportunity. In others, delegates would simply raise their placards to acquire a speaking time. However, delegates are almost always responsible to only speak at the chair’s discretion.<br /><br />Caucusing in the Model UN simulation are conducted both formally and informally. To open a debate, each delegate takes a turn to address their position on the chosen issue. The delegates split into those who support and those who oppose a specific position and are allocated equal speaking time. In between the sessions, informal small group discussion present an opportunity for delegates to assemble and work out differences and resolutions.<a href="http://www.amun.org/index.php?page=UNandMUN-diffs">[15]</a></p><p>Throughout the sessions, delegates keep a working paper that includes proposals regarding problems with the topic at hand. These working papers can be shared between delegates with the Chair’s approval. This process aids the committee in keeping clear records of new ideas and proposals. Proposals eventually accumulate into more concrete statements and are rewritten into comprehensive resolutions. A number of draft resolutions then go through committees for voting. Each member state has one vote, either voting “yes”, “no”, or “abstention,” Though in the <a href="http://www.un.org/Docs/sc/">Security Council</a>, simulating the<a href="http://www.un.org/en/"> UN</a>, one “no” from any permanent member would veto the draft resolution. A draft resolution must be passed through majority voting before it becomes the final resolution.</p><p> </p><h3>Influence, Outcomes, and Effects</h3><p>Since Model United Nations is an academic stimulation to educate students, both the outcome and effect focus on the way young people have grown and developed in terms of participation.</p><p>Public officials in national and international governments/organizations have called for voices from young people in a <a href="http://www.un.org/gmun/">Global Model United Nations </a>conference. <a href="http://www.un.org/sg/biography.shtml">Ban Ki-moon</a>, Secretary-General of <a href="http://www.dfat.gov.au/geo/rok/index.html">Republic of Korea</a> and <a href="http://www.un.org/wcm/content/site/chronicle/home/articlesbyauthor/ae/kiyoakasaka">Kiyo Akasaka</a>, <a href="http://www.un.org/en/">United Nations </a><a href="http://unic.un.org/aroundworld/unics/en/whoWeAre/aboutDPI/USG/index.asp">Secretary-General for Communication and Public Information</a> stated they would like to hear young voices in particular <a href="http://www.un.org/News/Press/docs/2011/pi1997.doc.htm"><u>[16]</u></a> because young people are the leaders of the future world. With the encouragement of public figures, more and more are students urged to participate in Model UN conferences. Through the conferences, students learn to appreciate and respect the views of different countries with diverse cultural backgrounds, have a better understanding of UN structures, and acknowledge the importance of cooperation from every country to deal with global affairs <a href="http://uca.edu/politicalscience/student-activities/amun/"><u>[17]</u></a>. Student participants have even attempted to sway decision-making. For example, young participates in <a href="http://www.nigmuns.org/">Nigeria Model UN</a> conferences became young diplomats who attempt to influence the world diplomacy, and they wrote articles, reports, and newsletters aimed at increasing awareness and ensuring the voices are heard through different media outlets globally. <a href="http://groups.tigweb.org/nmun"><u>[18]</u></a></p><p>The Model United Nations conferences mainly concentrate on debating international politics and law, which continues to impact delegates’ real life. Some participants become more and more interested in law and policies after gaining essential leadership and problem-solving skills during these conferences. The experience inspires students “toward deeper study of international relations and law and preparation for a career that promotes international understanding and common growth <a href="http://www.stanleyfoundation.org/articles.cfm?id=698"><u>[19]</u></a>.” Many public figures such as <a href="http://www.supremecourt.gov/">U.S. Supreme Court </a>Justice <a href="http://www.supremecourt.gov/about/biographies.aspx">Stephen Breyer</a>, former <a href="http://www.icj-cij.org/homepage/index.php">World Court </a>Justice <a href="http://www.iaiparis.com/profile/stephen.schwebel">Stephen M. Schwebel</a>, <a href="http://www.un.org/en/">United Nations </a>Secretary-General and actor <a href="http://www.biography.com/people/samuel-l-jackson-9542182">Samuel Jackson</a> are former Model UN participants <a href="http://cyberschoolbus.un.org/modelun/faq.html"><u>[20]</u></a>.</p><p> </p><h3>Analysis and Criticism</h3><p>Though the Model United Nations was intended to educate students about world affairs and get them engaged in the deliberative process, funding problems, fee abuse and criticism begin to rise. The Model United Nations receive financial support from international and national governments, non-governmental organizations (NGOs), and private organizations; however, they face fundraising deficiencies and budget cuts due the economic downturn in recent years. And some are concerned that financial problems will result in less deliberation. For example, according to Model UN Headquarter of Cyberschoolbus, every delegate is required to pay a fee ranging from $15 to $165 upon participation in Model UN conferences that are held in hotels and colleges; however, the fee does not include rooms, food and transportation <a href="http://cyberschoolbus.un.org/modelun/faq.html"><u>[20]</u></a>. A lot of delegates attempt to receive funds from school, scholarship, local organizations; however, they get very limited funds. Potential delegates are then excluded from participation if they do not receive enough funds. <a href="http://www.mdc.edu/north/">Miami Dade College’s North Campus </a>has been one of the constant participants at the National Model United Nations conferences in New York City since 1992 and there were 24 delegates attending in 2010 <a href="http://www.mdc.edu/main/falcontimes/archive/vol47-14/news/funding_cut_model_un_fundraises.asp"><u>[21]</u></a>. Unfortunately, there were only 11 delegates, half of 2010, going to the conference last year (2011) because the College Provost cut Model UN funding based on school budget cuts <a href="http://www.mdc.edu/main/falcontimes/archive/vol47-14/news/funding_cut_model_un_fundraises.asp"><u>[21]</u></a>. Those delegates attempted to raise funds by selling pizzas and sent letters to request sponsorship from different companies <a href="http://www.mdc.edu/main/falcontimes/archive/vol47-14/news/funding_cut_model_un_fundraises.asp"><u>[21]</u></a>.</p><p>Besides encountering funding problems, the Model United Nations faces some criticism. Critics asked whether it was efficient, reasonable and necessary for student groups to spend so much money on Model UN conferences; however, only one piece of news reported fee abuse. The Model UN’s student groups at the <a href="http://www.wisc.edu/">University of Wisconsin-Madison </a>requested 133 percent more than the Pre-Law Society’s student groups for the same event <a href="http://badgerherald.com/oped/2001/11/13/model_un_a_model_seg.php"><u>[22]</u></a>. As a result, Model UN got $1000 and Pre-Law Society only got $300 <a href="http://badgerherald.com/oped/2001/11/13/model_un_a_model_seg.php"><u>[22]</u></a>. It was unreasonable that Model UN got three times more funds than Pre-Law Society while they did not have three times more members than Pre-Law Society. This “special treatment” resulted in that critics suspected the Model UN’s student group at the <a href="http://www.wisc.edu/">UW-Madison </a>as a segregated fee abuser <a href="http://badgerherald.com/oped/2001/11/13/model_un_a_model_seg.php"><u>[22]</u></a>.</p><p>Other critics mainly focus on how Model United Nations conferences will actually impact the deliberation process in reality after spending a large amount of money. “As none of the delegates truly represent the countries they are fighting for in the Model United Nations conferences, it is always possible to be reasonable, deliberate, and forward-looking <a href="http://hpronline.org/specialty-blogs/hprgument-blog/harvard-model-un-self-congratulations-or-a-glimpse-of-how-the-world-could-be-run/"><u>[23]</u></a>.” Hence, it is easier for delegates to come up with better solutions and reach more important compromise than real political actors in the world <a href="http://hpronline.org/specialty-blogs/hprgument-blog/harvard-model-un-self-congratulations-or-a-glimpse-of-how-the-world-could-be-run/"><u>[23]</u></a>. In spite of that Model UN is not real, it is less likely its decision will affect the real deliberation process <a href="http://hpronline.org/specialty-blogs/hprgument-blog/harvard-model-un-self-congratulations-or-a-glimpse-of-how-the-world-could-be-run/"><u>[23]</u></a>.</p><p>While delegates are struggling with fundings, some Model United Nations conferences offer best/outstanding delegate award in order to encourage more  competiton and repay students' hard work <a href="http://bestdelegate.com/high-school-model-un-rankings-2011-2012-purpose-philosophy-and-methodology/">[24]</a>. Nonetheless, participations is more important than competition. Some people worry about that awards will be "the sole purpose of attending a Model UN conferences" <a href="http://www.unausa.org/modelun/conferenceplanning/substantiveinformation#awardsorexpectationsforperformance">[25]</a> for students.</p><h3>Secondary Sources</h3><ul><li><a href="http://www.unausa.org/modelunfaq#What_is_MUN">[<u>1</u>]</a><a href="http://www.unausa.org/modelunfaq#What_is_MUN">What is Model United Nations?</a> <a href="http://www.unausa.org/Page.aspx?pid=220">United Nations Association of the United States of America</a></li><li><a href="http://www.unausa.org/modelunfaq#What_is_MUN">[2]</a> <a href="http://www.unausa.org/Page.aspx?pid=220">United Nations Association of the United States of America</a></li><li><a href="http://www.munfw.org/archive/history.htm">[3]</a> <a href="http://www.munfw.org/archive/history.htm">MUNFW History</a>. <a href="http://www.munfw.org/index.htm">Model United Nations of the Far West</a>.</li><li><a href="http://liberalarts.iupui.edu/modelun/about">[4]</a> <a href="http://liberalarts.iupui.edu/modelun/about">About Us</a>. <a href="http://liberalarts.iupui.edu/modelun/">Indianaponis Model United Nations</a>.</li><li>[5] Ripley, Brian, Neal Carter, and Andrea K. Grove. "League of Our Own: Creating a Model United Nations Scrimmage Conference." Journal of Political Science Education. 5.1 (2009): 55-70.</li><li><a href="http://www.un.org/gmun/">[6]</a> <a href="http://www.un.org/gmun/">Global Model United Nations</a></li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b7%5d">[7]</a><a href="http://www.unausa.org/modelunfaq#Participates_MUN"> Participants, Model UN Frequently Asked Questions</a>. <a href="http://www.unausa.org/Page.aspx?pid=220"><em>United Nations Association of the United States of America</em></a></li><li><a href="http://www.asiapacificmun.org/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=125">[8]</a> <a href="http://www.asiapacificmun.org/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=125">Roles of Participants</a>. <a href="http://amunc.net/"><em>Asia-Pacific International Model United Nations</em></a></li><li><a href="http://www.chapman.edu/wilkinson/peacestudies/modelUN.asp">[9]</a><a href="http://www.chapman.edu/wilkinson/peacestudies/modelUN.asp"> The Model United Nations Programs</a>. <a href="http://www.chapman.edu/"><em>Chapman University</em></a>.</li><li><a href="http://www.harvardmun.org/">[10]</a><a href="http://www.harvardmun.org/wp-content/uploads/2012/02/Awards-Spreadsheet-1.pdf"> HMUN</a><a href="http://www.harvardmun.org/"> 2012 Success</a>. <a href="http://www.harvardmun.org/"><em>Harvard Model United Nations</em></a></li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b11%5d">[11]</a><a href="http://amunc.net/home/about/conference/"> Conference.</a> <a href="http://amunc.net/"><em>Asia-Pacific Model United Nations</em></a></li><li><a href="http://www.unausa.org/Page.aspx?pid=579">[12]</a><a href="http://www.unausa.org/Page.aspx?pid=579"> Global Classrooms Model UN Senior Secretariat Application</a>. <a href="http://www.unausa.org/Page.aspx?pid=220"><em>United Nations Association of the United States of America</em></a></li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b13%5d">[13]</a><a href="http://www.harvardmun.org/committees"> Committees.</a> <a href="http://www.harvardmun.org/"><em>Harvard Model United Nations</em></a></li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b14%5d">[14]</a><a href="http://www.worldmun.org/upload/WorldMUN_101.pdf"> What</a><a href="http://www.worldmun.org/page/about-us"> is World Model UN</a>. <a href="http://www.worldmun.org/page/welcome"><em>World Model United Nations</em></a></li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b15%5d">[15]</a><a href="http://www.amun.org/index.php?page=UNandMUN-diffs"> Endless,</a> Brian. Gazarian, Jean. <a href="http://www.amun.org/index.php?page=UNandMUN-diffs">Some Differences Between the United Nations and Model UN Conference</a>.  <a href="http://www.amun.org/"><em>American Model United Nations International.</em></a></li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b16%5d">[16]</a> Press Release 1997: <a href="http://www.un.org/News/Press/docs/2011/pi1997.doc.htm">Global Model United Nations Conference on Sustainable Development, Held in Republic of Korea, Closes with Adoption of Eight Resolutions</a>. Department of Public Information, News and Media Division, New York.</li><li><a href="///C:/Users/hadmin/AppData/Local/Temp/%5b17%5d">[17]</a> <a href="http://uca.edu/politicalscience/student-activities/amun">Participants in the 47th Annual AMUN Conference on November 16-17, 2012!. </a><a href="http://uca.edu/politicalscience/student-activities/amun/">Arkansas Model United Nations (AMUN), </a><a href="http://uca.edu/">University of Central Arkansas</a>.</li><li><a href="///C:/Users/Mandy/Desktop/Winter2012/COM417/[18]"><u>[18]</u></a> <a href="http://groups.tigweb.org/nmun">Nigeria</a><a href="http://www.nigmuns.org/"> Model United Nations</a></li><li><a href="///C:/Users/Mandy/Desktop/Winter2012/COM417/[19]"><u>[19]</u></a> <a href="http://www.stanleyfoundation.org/articles.cfm?id=698">Model UN: Building a Legacy for the Future of International Relations. September 2011</a>. <a href="http://www.stanleyfoundation.org/index.cfm"><em>The Stanley Foundation</em></a></li><li><a href="///C:/Users/Mandy/Desktop/Winter2012/COM417/[20]"><u>[20]</u></a> <a href="http://cyberschoolbus.un.org/modelun/faq.html">Frequently Asked Questions</a>. Model UN Headquarter. <a href="http://www.cyberschoolbus.un.org/">United Nations Cyberschoolbus</a>.</li><li><a href="///C:/Users/Mandy/Desktop/Winter2012/COM417/[21]"><u>[21]</u></a> Silva, Rebeka. <a href="http://www.mdc.edu/main/falcontimes/archive/vol47-14/news/funding_cut_model_un_fundraises.asp">Funding Cut, Model UN Fundraises</a>. <a href="http://www.mdc.edu/main/falcontimes/archive/vol48-01/">The Falcon Times—The Student News Paper of Miami Dade College North Campus Since 1961</a>. <a href="http://www.mdc.edu/north/"><em>Miami Dade College—North Campus</em></a></li><li><a href="///C:/Users/Mandy/Desktop/Winter2012/COM417/[22]"><u>[22]</u></a> <a href="http://badgerherald.com/oped/2001/11/13/model_un_a_model_seg.php">Badger</a> Hearld Editorial Board.  <a href="http://badgerherald.com/oped/2001/11/13/model_un_a_model_seg.php">Model UN a Model Seg Fee Abuser</a>. <a href="http://badgerherald.com/"><em>The Badger Herald</em></a>.</li><li><a href="///C:/Users/Mandy/Desktop/Winter2012/COM417/[23]"><u>[23]</u></a> <a href="http://hpronline.org/specialty-blogs/hprgument-blog/harvard-model-un-self-congratulations-or-a-glimpse-of-how-the-world-could-be-run/">Martin,</a> Eli. <a href="http://hpronline.org/specialty-blogs/hprgument-blog/harvard-model-un-self-congratulations-or-a-glimpse-of-how-the-world-could-be-run/">Harvard Model UN: Self-congratulations or a Glimpse at How the World Could be Run?</a> <a href="http://hpronline.org/"><em>Harvard Political Review</em></a>.</li><li><u>[24]</u> <a href="http://bestdelegate.com/high-school-model-un-rankings-2011-2012-purpose-philosophy-and-methodology/">High School Model UN Rankings 2011-2012: Purpose, Philosophy, and Methology.</a></li><li><u>[25]</u><a href="http://www.unausa.org/modelun/conferenceplanning/substantiveinformation#awardsorexpectationsforperformance"> Substantive Information Model UN Conference Planner's Guide</a></li></ul><h3><u>External Links</u></h3><p> </p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/united-nations" typeof="skos:Concept" property="rdfs:label skos:prefLabel">United Nations</a></div><div class="field-item odd"><a href="/en/tags/student-participant" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Student Participant</a></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-1037bc37946a561ceb7da1278c8f8999">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/530">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all-targeted-recruitment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all with targeted recruitment</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-methods field-type-text field-label-above"><div class="field-label">Decision Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Voting</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/international" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/1-not-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">1 - Not Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/1-very-simple" typeof="skos:Concept" property="rdfs:label skos:prefLabel">1 - Very Simple</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/develop-individual-capacities-eg-skills-learning" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Develop individual capacities (e.g. skills, learning)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/international-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International Organization</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/non-governmental-organization-non-profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/international-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">International Organization</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/non-governmental-organization-non-profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Governmental Organization (Non-profit)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

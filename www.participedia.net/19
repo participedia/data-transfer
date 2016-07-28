@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/health-effects-institute-united-states" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/19" />
+  <title>Health Effects Institute (United States) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"n61dJqNgImiC25-4mffKKhI41g0C1MpbrnXaAREx6Ng","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"19"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/health-effects-institute-united-states?destination=node\/19":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-19 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/health-effects-institute-united-states" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/health-effects-institute-united-states?destination=node/19" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-S7IKrttsRwRLuTcOs94vHosC-SLIxRoHSGUxdtoxWGY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Health Effects Institute (United States)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Health Effects Institute (United States)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/sandyheierbacher" title="View user profile." class="username" xml:lang="" about="/en/people/sandyheierbacher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Sandy Heierbacher</a> on Tue, 02/23/2010 - 14:51</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/pablojhr" title="View user profile." class="username" xml:lang="" about="/en/people/pablojhr" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pablo Hernandez</a> on Sat, 02/23/2013 - 09:35</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Health Effects Institute (United States) - Participedia" addthis:url="http://participedia.net/en/cases/health-effects-institute-united-states"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/192px-Star_of_life2.svg_.png?itok=ubyYZPpK" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This case study was written by Sandy Heierbacher, Director of the National Coalition for Dialogue &amp; Deliberation (NCDD), in 2001 as part of an independent consultancy for the Center for Disease Control's National Immunization Program.</p><p> </p><p><a id="Problems_and_Purpose" name="Problems_and_Purpose"></a></p><h2>Problems and Purpose</h2><p>The Health Effects Institute (HEI) is an independent, nonprofit corporation chartered in 1980 to provide high-quality, impartial and relevant scientific information on the health effects of emissions from motor vehicles and other sources of environmental pollution. HEI receives half of its core funds from the Environmental Protection Agency (EPA) and half from the motor vehicle industry. HEI has funded over 170 studies and published over 100 research reports, producing important research findings on the health effects of a variety of pollutants such as carbon monoxide and diesel exhaust.</p><p>The HEI research program has addressed many important questions about the health effects associated with exposure to both regulated pollutants such as carbon monoxide, ozone, and nitrogen dioxide, and unregulated pollutants such as diesel exhaust and methanol. HEI has also funded studies to understand the mechanisms of diseases, to develop better methods to assess health effects and to determine dose response relationships.</p><p>HEI has two main goals in funding research. One is to build a coherent research program for each set of related studies, thereby addressing questions that are more comprehensive than would be possible with independent studies. Another is to provide timely, high-quality information to its sponsors and government agencies in order to help them make more informed technological and regulatory decisions. In order to accomplish these goals, HEI works cooperatively with investigators and keeps in close contact with them through such means as progress reports, workshops and its annual conference.</p><p>Two independent committees, the Health Research Committee and the Health Review Committee, work separately on selecting and overseeing research and critically reviewing results. This separation permits HEI to fund and guide research and to provide credible peer review of that same research. A scientific and administrative staff works with the committees to conduct the Institute’s business.</p><p>Each year HEI holds an annual conference that investigators are expected to attend. The annual conference provides an opportunity for HEI’s sponsors to learn more about HEI studies, for HEI to receive feedback on its research program and for networking among investigators, Research and Review Committee members, sponsor representatives and HEI staff. Abstracts of each investigator’s work are published in the annual conference booklet. In addition to discussion of HEI program areas, the annual conference generally includes special symposia on broader issues of current interest.</p><p>Periodically, small workshops are organized which bring together investigators who are working on projects in a particular research area. These meetings offer an opportunity for investigators doing related research to get a better understanding of each other’s research and to explore opportunities for coordination of studies. Critical gaps in HEI’s program and ideas for new research may also be identified as a result of these workshops.</p><p>HEI, which considers itself to be a partnership of the U.S. Environmental Protection Agency and industry, is sponsored primarily by the U.S. EPA (including the Office of Research and Development and the Office of Air and Radiation) and by the motor vehicle industry (Ford Motor Company, General Motors Corporation, Volkswagen of America, Inc. and 24 others). Other sponsors include the American Chemistry Council, the American Petroleum Institute, and Europe’s Association des Constructeurs Européens d'Automobiles.</p><p> </p><p><a id="Participants" name="Participants"></a></p><h2>Participants</h2><p>The Health Research Committee is responsible for defining, implementing, and overseeing the Institute’s research program. The Health Research Committee’s 10 members are prominent professors and senior scientists, with such titles as Professor and Chairman of the Department of Biostatistics at the University of Pittsburgh’s Graduate School of Public Health and Senior Scientist and Deputy Director at the Lovelace Respiratory Research Institute’s National Environmental Respiratory Center.</p><p>Since 1980, several hundred physicians, toxicologists, biochemists, epidemiologists, exposure experts, engineers and statisticians from leading research institutions in the U.S. and Europe have either served on the Research Committee or as a special reviewer of research proposals.</p><p>The Health Review Committee conducts a critical, in-depth evaluation of every HEI-funded study. The Health Review Committee’s 11 members are also professors and renowned scientists, which such titles as Vice President for Analytical and Chemical Sciences at the Research Triangle Institute and Professor at the University of Chicago’s Biological Sciences Division and Harris School of Public Policy.</p><p>Committee members complete four-year terms (renewable for a second term). After they have completed their term, Health Review Committee members may apply to be considered for Health Research Committee membership, although Research Committee members are required to wait several years before applying to serve on the Review Committee in order to prevent a situation in which a Review Committee member is evaluating a research project they oversaw while on the Research Committee.</p><p>Selection of members is based on the current and anticipated needs of the committees. The type of expertise that is sought depends on the research that is being completed or planned for, and the current types of expertise that are available on the committees. The Health Research Committee meets three times a year for two-day meetings, while the Health Review Committee meets three or four times annually for one- or two-day meetings. Committee members receive a daily honorarium of $600 for the time they provide at these meetings and for additional work they choose to take on.</p><p> </p><p><a id="Process" name="Process"></a></p><h2>Process</h2><p>The Health Research Committee consults with HEI’s sponsors and other stakeholders to determine research priorities and to develop the HEI strategic plan. Members of the public are given the opportunity at HEI’s national conference to learn about and respond to various ideas and plans for future research. In this way, public involvement is incorporated at the beginning of a cycle of research, ensuring that stakeholders can provide input and advice before the 5-year strategic plans for research are developed.</p><p>Once the Research Committee has defined an area of inquiry, the Institute issues a request for applications to announce broadly to the scientific community that research applications are being solicited. Applications are first reviewed for scientific quality by an ad hoc panel, and then reviewed by the Research Committee, which seeks to develop an integrated research program. Studies recommended by the Research Committee undergo a final evaluation by the Board of Directors, which also reviews the procedures, independence and quality of the selection process.</p><p>The Research Committee may request modifications in the project plan or budget before making a final funding recommendation to the HEI Board of Directors. For example, the Research Committee may request deletion of parts of the proposed project that are less relevant to HEI’s objectives or overlap considerably with other studies. This approach enables HEI to mold diverse investigator-designed studies into a more coherent program and to generate data more relevant to regulatory needs. HEI staff scientists act as liaisons between the Research Committee and investigators in this scientific negotiation process. The end product is a project plan that is acceptable to both the investigator and Research Committee.</p><p>HEI’s Research Agreement is a cost-reimbursement contract rather than a grant. Contracts are usually issued for one year, although HEI expects to provide support for the number of years initially approved by the Research Committee if work is progressing satisfactorily. Studies typically range from 1 year to 3 years. Very rarely does HEI decide not to renew a contract, and very rarely do researchers abandon their HEI projects before they are completed.</p><p>The Research Agreement has been designed to maximize the integrity of the scientific process while providing needed protections and meeting applicable federal regulations. Once a contract is signed by both parties, an Abstract and Statement of Work written by the principal investigator is distributed to the Institute’s sponsors. These are also available to members of the public who request them.</p><p>HEI sometimes conducts site visits to the laboratories of its funded investigators during the course of their studies. The site visit team consists of members of the HEI Research Committee, HEI scientific staff, and outside consultants. The purpose of these visits is to evaluate the status of the project, to provide the investigator with expert technical advice, and to provide an opportunity for an exchange of ideas between the investigator and other experts in the field.</p><p>At HEI’s annual meeting, each investigator presents information about their ongoing work. This gives sponsors and representatives from all of the various stakeholder groups the opportunity to examine and respond to the research findings throughout the entire research process.</p><p>HEI works with the principal investigators, the Research Committee and staff to build a coordinated program of related studies. The program is designed to provide more comprehensive answers to questions of regulatory significance than would be possible with independent studies. Throughout the course of each study, HEI monitors progress through periodic reports, workshops, presentations at the Institute’s Annual Conference and site visits. When a study is completed and the investigator has submitted a final report, the Research Committee’s involvement with the study ceases.</p><p>The Health Review Committee, which is not involved with the ongoing studies in any way, assesses the scientific quality of each investigator’s final report and evaluates the study’s contribution to unresolved scientific questions. The objectives of the extensive and rigorous HEI review process are to (1) evaluate the scientific quality and significance of the research, (2) point out the strengths and limitations of the study, (3) place the study into scientific and regulatory perspective, (4) identify future research opportunities and (5) communicate all the findings (positive and negative) to the Institute’s sponsors and the public. HEI then communicates the complete findings of the studies it funds in Research Reports.</p><p>The Health Effects Institute goes to great lengths to share the final results of the research projects with all of the various stakeholders – the motor vehicle industry, environmentalists, government officials, scholars and others. For high-impact studies that have significant policy implications or which may cause controversy, the Review Committee holds briefings for their industry and government sponsors, during which they not only present and explain the results, but also give people the opportunity to ask questions, make comments and express concerns. After the Investigator has issued their report and before the Research Report is produced, however, only the Review Committee and its consultants provide input and suggest changes.</p><p>HEI’s high-quality, bias-free methods have won them the support and respect of all of the various stakeholder groups. Because of the trust HEI has earned within these groups, the research results tend to be accepted by the stakeholders even when they conflict with a particular group’s views or needs.</p><p>In addition to its longer term research program, HEI is called upon periodically to conduct special reviews and projects that address particular areas of science. Some examples of special projects are: a review of the health effects of asbestos in public and commercial buildings, a critical review and reanalysis of key studies of the links between particulate air pollution and mortality, and comprehensive scientific literature reviews of the health effects of diesel exhaust and oxygenated fuels. For each review, the HEI Board of Directors appoints an expert panel to work with the staff to conduct or oversee the project. The special reports describing this work go through an independent peer review process before they are published.</p><p> </p><p><a id="Outcomes.2FProducts" name="Outcomes.2FProducts"></a></p><h2>Outcomes/Products</h2><p>Progress reports prepared by the Principal Investigators are reviewed by the HEI Research Committee and staff. Investigators are required to submit progress reports twice during the first year of the study, and once a year thereafter. The comprehensive final report produced at the end of each study undergoes an in-depth review by the HEI Review Committee and additional experts.</p><p>The basic objective of the reports is to indicate how much progress has been made in the development of experimental procedures, which objectives have been completed, and what problems, if any, have arisen. The first report is actually a combined progress report and renewal application for the following year’s funding. HEI’s decision regarding renewal of the contract is based upon the information provided by the investigator in this report. The report should provide a detailed account of the experimental results obtained during the funding period, as well as a work plan and a budget for the coming year. Progress reports are reviewed by the Research Committee and by HEI’s scientific staff.</p><p>The final reports prepared by the Principal Investigators describe the studies and their findings in detail. The HEI Review Committee, which has no role in either the selection or the supervision of the research projects, evaluates the final reports and produces Research Reports, which consist of one or more related Investigators’ Reports and the Health Review Committee’s commentary on those reports. The commentary discusses the strengths and limitations of the studies and puts the findings in both scientific and regulatory (policy) contexts. With each Research Report, the Institute also publishes a one-page statement, written for nonscientists, which summarizes the scientific background and rationale for funding the study, the investigator’s approach and methods, the key findings, and the Committee’s interpretation of the study.</p><p>Each draft final report is peer-reviewed by scientists with appropriate technical expertise, including a Biostatistician. A compilation of the comments of the reviewers, together with the Review Committee's initial review, is sent to the investigator, who has an opportunity to respond to these comments and, if necessary, to revise the report. Occasionally, the Review Committee may request additional analyses or other major changes. After any revisions are made, the Review Committee prepares its commentary. The investigator is also given the opportunity to provide feedback on the commentary prior to publication.</p><p>The Research Reports are the principle means by which HEI communicates the results of its research and review processes. HEI typically distributes its Research Reports without charge to the Environmental Protection Agency, the motor vehicle industry and other sponsors, the scientific community, public interest groups and biomedical libraries. The Reports are also listed on national databases and are available on HEI’s website. In addition, HEI urges all investigators to publish the results of their work in peer-reviewed scientific literature, and hundreds of such contributions have been published.</p><p>In 2001, HEI published its 150th Investigator’s Report. At the same time, the Review Committee produced its first HEI Perspectives, a new type of document that summarizes and interprets for decision makers and nonscientists the results of the most recent HEI research.</p><p>HEI studies have resulted in many important reports which have informed and influenced policy. A ten-year research project on diesel emissions, for example, resulted in the publication of a special report entitled Diesel Exhaust: A Critical Analysis of Emissions, Exposure, and Health Effects in April of 1995. The results of this study were used to inform regulatory assessments by the by the U.S. Environmental Protection Agency, the California Air Resources Board and the World Health Organization.</p><p> </p><p><a id="Strengths" name="Strengths"></a></p><h2>Strengths</h2><p>HEI’s greatest asset is its reputation. It is a highly respected, well-trusted organization whose work is not dismissed, even when powerful entities may feel threatened by the implications of its results. This reputation has enabled HEI to influence government regulations and policies. But there are many factors which contribute to HEI’s good reputation.</p><p>By obtaining joint support from the U.S. Environmental Protection Agency and industry, HEI allows groups with very different needs, concerns and interests to be involved in every stage of the research process. This ensures stakeholder groups and the public that HEI’s work will not be designed to serve the needs of a particular stakeholder group.</p><p>By building a coherent research program for each set of related studies, HEI is able to address complicated, multi-dimensional questions and issues. Giving investigators the opportunity to learn about each other’s research and to explore opportunities for collaboration strengthens the individual research projects as well as the larger research program.</p><p>By having the two committees – the Health Research Committee and the Health Review Committee – work independently on selecting and overseeing research and on critically reviewing results, HEI has created a checks and balances system for itself. HEI can fund and guide research projects while also providing credible post-study peer review of the same projects. This helps to ensure unbiased reviewing, and builds people’s trust in the research results.</p><p>HEI requires that appropriate quality assurance procedures are in place for all approved research projects that may produce data of regulatory significance. This policy assures HEI’s sponsors and the public that the data has been obtained under well-defined conditions and is reliable, traceable and replicable.</p><p>The Health Effects Institute involves many different stakeholder groups in many stages of the research and review process. Stakeholder groups are consulted and given the opportunity to provide input in the research design process, they may stay informed and provide input throughout the research projects, and they are informed of the projects’ results.</p><p>Providing access to data from studies of the health effects of pollutants is an important element in ensuring credibility, especially for studies used in controversial policy debates.  HEI provides access to data about its studies in a manner that facilitates the review and validation of the work while protecting the confidentiality of any subjects who may have participated in the study and respecting the intellectual interests of the investigators who conducted the study.</p><p> </p><p><a id="Challenges_and_Limitations" name="Challenges_and_Limitations"></a></p><h2>Challenges and Limitations</h2><p>Financial constraints are a major and obvious limitation that the Health Effects Institute faces on an ongoing basis. Until about a year ago, HEI’s base funding was the same amount as it had been for nearly 15 years. With the escalating cost of research, HEI is limited in the number and type of research projects it is able to fund. This leaves many important questions unanswered, and many talented researchers un-hired.</p><p>One challenge that HEI faces is caused by its unique research and review procedure. Many scientific researchers are accustomed to a research process in which the researchers are able to simply move on at the end of their project. HEI’s investigators, however, are expected to go through a fairly lengthy (up to 8-month) peer review process after their project and report are complete. During this time period, the investigators often move on intellectually, and are sometimes not fully involved in the review process.</p><p>The Health Effects Institute is a scientific research institution and not, strictly speaking, a public participation entity. The Institute lacks easy ways for members of the public to provide input into the process. If a member of the public is interested in learning about and responding to research that is in progress, he or she needs to learn about HEI’s annual conference and pay to attend the event. Members of the public do not have a liaison at HEI who they can email with comments. They do not have the opportunity to attend public forums which solicit their ideas and feedback. And aside from information provided at the conferences, they do not have access to information about research that is in progress.</p><p> </p><p><a id="Resources_Used_to_Develop_Case" name="Resources_Used_to_Develop_Case"></a></p><h2>Resources Used to Develop Case</h2><p>Interviews conducted by Sandy Heierbacher with Robert O’Keefe, Vice President of the Health Effects Institute; Aaron J. Cohen, Principal Scientist at HEI; Debra Kaden, Senior Scientist; and Geoffrey Sunshine, Senior Scientist.</p><p>Health Effects Institute website. <a class="external free" href="http://www.healtheffects.org/" rel="nofollow" title="http://www.healtheffects.org/">http://www.healtheffects.org/</a></p><p>Health Effects Institute 2000-2001 Annual Report. “Two Decades of Trusted Science.”</p><p>Health Effects Institute 1998-1999 Annual Report. “Science in Action.”</p><p>Health Effects Institute Update. Spring 2002.</p><p>Revkin, Andrew. “Data Revised on Soot in Air and Deaths.” The New York Times, June 5, 2002.</p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A39">Environment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A207">health effects of emissions from motor vehicles and other sources of environmental pollution</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Boston      </span>
+              ,                     <span class="region" itemprop="addressRegion">MA</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                            <span class="geo"><abbr class="latitude" title="42.358431">42° 21' 30.3516" N</abbr>, <abbr
+            class="longitude" title="-71.059773">71° 3' 35.1828" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=42.358431+-71.059773+%28%2C+Boston%2C+MA%2C+%2C+us%29">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Massachusetts        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A124">Other</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A127">Appointment</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/study-circles">Study Circles</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A135">Express opinions/preferences only</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A58">Listen/watch as spectator</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A153">Appointed Public Servants (e.g. bureaucrats)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A12">Other</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A12">Other</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-2a836eaa4162d13d33596bbbe526af3e">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/19">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

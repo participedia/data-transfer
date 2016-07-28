@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/participaci-n-ciudadana-en-la-revisi-n-del-prc-de-estaci-n-central" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/91" />
+  <title>Participación Ciudadana en la Revisión del PRC de Estación Central | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"11Lyf6NiPvqzJc9YATqYcyZzCNvLW0MRDVXkk3tfVbw","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"91"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/participaci-n-ciudadana-en-la-revisi-n-del-prc-de-estaci-n-central?destination=node\/91":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-91 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/participaci-n-ciudadana-en-la-revisi-n-del-prc-de-estaci-n-central" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/participaci-n-ciudadana-en-la-revisi-n-del-prc-de-estaci-n-central?destination=node/91" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Cu9gmyqyqIejCKcAR86OxW539PA6_gJkHJ8tWCtoimc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Participación Ciudadana en la Revisión del PRC de Estación Central</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Participación Ciudadana en la Revisión del PRC de Estación Central</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/pmelendez" title="View user profile." class="username" xml:lang="" about="/en/users/pmelendez" typeof="sioc:UserAccount" property="foaf:name" datatype="">Paola Melendez Orellana</a> on Sun, 05/29/2011 - 22:05</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Thu, 05/26/2016 - 12:12</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Participaci&amp;Atilde;&amp;sup3;n Ciudadana en la Revisi&amp;Atilde;&amp;sup3;n del PRC de Estaci&amp;Atilde;&amp;sup3;n Central - Participedia" addthis:url="http://participedia.net/en/cases/participaci-n-ciudadana-en-la-revisi-n-del-prc-de-estaci-n-central"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Note: an English translation of this case study is available at <a href="http://participedia.net/en/cases/citizen-participation-revision-regulatory-communal-plan-estaci-n-central">http://participedia.net/en/cases/citizen-participation-revision-regulato...</a></em></p><p><a id="Summary.2FResumen." name="Summary.2FResumen."></a></p><h2>Summary/Resumen.</h2><p>En este trabajo se presentará y analizará el proceso de participación ciudadana que se realizó para la revisión del Plan Regulador de la Comuna de Estación Central de Santiago. Este es un caso de sumo interés a nivel nacional, ya que en este se conjuga la participación ciudadana con una de las herramientas más prominentes de la planificación urbana en Chile, el Plan Regulador Comunal.</p><p><a id="Historia._Antecedentes_y_contexto." name="Historia._Antecedentes_y_contexto."></a></p><h2>Historia. Antecedentes y contexto.</h2><p>Estación Central.</p><p>Estación Central es una comuna de la Región Metropolitana de Chile, emplazada en el área céntrica de Santiago que debe su nombre a la Estación Central de Ferrocarriles de la ciudad. Su historia como comuna es reciente ya que logró su autonomía municipal el 1° de febrero de 1985; es decir hace poco más de 25 años. La comuna se conforma por territorios anteriormente pertenecientes a las áreas periféricas de las comunas de Santiago, Quinta Normal, Pudahuel y Maipú. En total, estos territorios suman una superficie total de 1.550 hectáreas habitadas actualmente por 130.394 habitantes según los datos del censo 2002.</p><p>La comuna de Estación Central es diversa en sus funciones. Efectivamente, esta se caracteriza en cuanto al uso de suelo, por una distribución de usos heterogénea a lo largo del territorio, donde prevalece el uso de vivienda, pero que convive con usos productivos. Además de servir como comuna dormitorio, Estación Central ha sido considerada siempre con vocación de servicios – se explica por su localización estratégica en el contexto metropolitano – y como comuna de paso – la población flotante varía de 300.000 a 600.000 personas según la temporada del año. (Municipalidad de Estación Central, 2010)</p><p>PRC.</p><p>El Plan Regulador Comunal (PRC) es una de las principales herramientas con las que se cuenta actualmente para hacer efectiva la planificación urbana en Chile. El PRC se efectúa de manera local, bajo la coordinación del gobierno local – Departamento de Asesoría Urbana de la Municipalidad – pero con el control de la Secretaría Regional Ministerial de Vivienda y Urbanismo (SEREMI) de la Región Metropolitana. De modo que se articula de manera nacional – en tanto que es uno de los Instrumentos de Planificación Territorial (IPT) del Ministerio de Vivienda y Urbanismo (MINVU) – con el Plan Regional de Desarrollo Urbano (PRDU) y, en este caso específico, con el Plan Regulador Metropolitano de Santiago (PRMS) – por conformar parte de la Región Metropolitana.</p><p>El PRC es una herramienta gestionada por el Municipio, que permite ordenar y planificar el territorio de la comuna mediante un conjunto de normas que fijan los diversos usos y condiciones de edificación que tendrán los terrenos. Este define por ejemplo el uso del suelo, la altura de las edificaciones, la densidad y el porcentaje de ocupación del terrenos. Del mismo modo especifica el límite urbano de la comuna, las calles y sus categorías, los espacios de uso público y plazas y la ubicación de los equipamientos comunitarios tales como establecimientos educacionales, de salud, recreación, etc. Dicha herramienta está definida en el art. 41º de la Ley General de Urbanismo y Construcciones.</p><p>La participación ciudadana definida por ley (art. 43º) para la elaboración de un PRC contempla las actividades de información, realización de audiencias expositivas a las comunidades afectadas, mecanismos de consulta y sesiones de exposición del proyecto. Estos son los estándares mínimos para validar la elaboración de un PRC. Cabe resaltar que el procedimiento es básico por lo que queda al juicio de cada municipalidad profundizar más en la participación si así se desea.</p><p><a id="Problema_y_prop.C3.B3sito." name="Problema_y_prop.C3.B3sito."></a></p><h2>Problema y propósito.</h2><p>El problema que insta a la realización del estudio y revisión del PRC en vigencia de la comuna de Estación Central es la naturaleza de la formación de esta. Efectivamente, el PRC se constituyó en base a los planteamientos de los antiguos planos reguladores de las comunas con cuyos territorios se integró Estación Central. De modo que consiste en un collage de parches de planes reguladores antiguos que fueron pegados para formar uno sin considerar las especificidades del territorio. Este collage de Plan Regulador tiene más de 30 años; motivo por el cual es más que evidente la necesidad de actualizarlo y generar uno que contemple a la comuna como una unidad con todas sus particularidades. En suma, actualmente cada sector de la comuna se encuentra aún reglamentado por la legislación antigua que proviene de contextos muy distintos y en nada coherente con la realidad local actual. Esto ha dificultado la incorporación de la comuna al desarrollo urbano de la ciudad.</p><p>El desarrollo de los estudios del PRC de Estación Central es fruto del programa de actualización y adecuación de los IPT del MINVU. Este programa de actualización tiene como objetivo lograr una coherencia normativa – disposiciones generales vigentes en materia de urbanismo y construcciones – entre los PRC de la Región Metropolitana y los IPT de niveles superiores: Plan Regional de Desarrollo Urbano (PRDU) y Plan Regulador Metropolitano de Santiago (PRMS) con sus modificaciones. Además contempla la necesidad de dotar a cada comuna en estudio, de herramientas de regulación urbana que posibiliten su desarrollo en los ámbitos social, económico y funcional (Municipalidad de Estación Central, 2010).</p><p>La propuesta. Sumando los hechos planteados – desarticulación del PRC con la realidad de Estación Central y la heterogeneidad del territorio – se hizo ineludible el estudio y revisión del PRC de la comuna cuyo proceso inició en el 2003. En este marco, con el fin de dar sustentabilidad a la propuesta resultante, se procedió a acompañar el proceso de revisión del PRC con una participación ciudadana que permitiera conocer las necesidades y opiniones de la comunidad involucrada.</p><p><a id="Creaci.C3.B3n_de_la_participaci.C3.B3n_y_selecci.C3.B3n_de_los_participantes." name="Creaci.C3.B3n_de_la_participaci.C3.B3n_y_selecci.C3.B3n_de_los_participantes."></a></p><h2>Creación de la participación y selección de los participantes.</h2><p>La participación ciudadana en la revisión del PRC de Estación Central se contempló en dos de cuatro etapas del proceso: durante el cierre de la tercera etapa, “Anteproyecto”, y a lo largo de la cuarta etapa, “Proyecto”.</p><p>Según los planteamientos de la Municipalidad, la participación ciudadana en este proceso tuvo como objetivo principal presentar, difundir y discutir con la comunidad las propuestas de zonificación y normativa definidas por el equipo de expertos consultores. Asimismo, se realizó con el fin de promover la generación de instancias de discusión y análisis de las propuestas lo que permitió a las autoridades conocer la opinión de los distintos actores de la comuna. Finalmente, según la Municipalidad este proceso de participación ciudadana se generó para validar los cambios al ordenamiento territorial de la comuna que incorpora el PRC.</p><p>En la práctica, si bien se contemplaba el inicio de la participación ciudadana al final de la etapa 3, no se realizó la consulta ciudadana respecto de las propuestas del Anteproyecto sino hasta el principio de la etapa 4. Ello debido a retrasos internos en el cronograma municipal.</p><p>De acuerdo con documentos oficiales de la Municipalidad de Estación Central, la estrategia de participación adoptada consistió básicamente en la generación de actividades de carácter mayormente informativo y en menor grado consultivo. Las autoridades sostienen que esto se explica por la importancia de presentar a la totalidad de la comunidad – amplia – el Proyecto avanzado del PRC, dando prioridad a su comprensión por parte de todos los actores locales. Finalmente, se reconoce que debido al corto plazo estipulado y designado para la participación, se descartó dentro de esta la implementación un proceso con mayor énfasis consultivo, ya que sus resultados no les sería posible incorporar en el proyecto final.</p><p>Las actividades específicas contempladas en el proceso de participación ciudadana fueron las siguientes:</p><p>• Talleres de consulta a la comunidad sobre el Anteproyecto: Al inicio de la etapa 4 se realizaron 4 talleres de “consulta” a la comunidad con el fin de evaluar el anteproyecto del PRC. Para ello se dividió territorialmente a la comuna en 4 sectores. Se invitaron a los representantes de las Juntas Vecinales directamente por medio de una carta emitida por el Alcalde y se extendió la invitación a todas las personas que quisieran asistir. Asistencia en cada uno de los talleres: 19 personas sector 1; 21 personas sector 2; 8 personas sector 3; y, 7 personas sector 4.</p><p>• Exposición sobre el PRC en feria comunitaria: Exposición con antecedentes del estudio del PRC en feria comunitaria ubicada en el sector de la comuna. Esta exposición consistió en la colocación de paneles informativos y en la entrega de boletines a los asistentes. Posterior a esta feria los paneles informativos se colocaron en el edificio consistorial de la Municipalidad, abierto al público durante aproximadamente 6 meses.</p><p>• Presentación del proyecto de PRC a las autoridades de la Municipalidad de Estación Central: Se presentó durante el Concejo Comunal el estudio del PRC a las autoridades comunales y directores de reparticiones municipales. Expusieron el personal técnico de consultores, el equipo de participación ciudadana y la coordinadora del estudio SEREMI MINVU RM.</p><p>• Presentación del proyecto de PRC a habitantes de Villa Portales: Actividad solicitada por el Concejal Sr. Ronal Arenas, debido a las características especiales de esta comunidad. Villa Portales es una comunidad consolidada desde los años 50 que cuenta actualmente con alrededor de 7000 habitantes. Por este motivo es una comunidad con un alto grado de empoderamiento de su territorio por lo que presentó una especial resistencia a los cambios del PRC. Se contó con una asistencia de 150 personas y se realizó una exposición del equipo técnico consultor sobre las propuestas del PRC seguida de un plenario de preguntas y observaciones.</p><p>• Presentación del proyecto de PRC a representantes del sector productivo y comercial, instituciones de la sociedad civil y habitantes de Estación Central: En esta actividad se convocaron a los mismos actores presentes en actividades precedentes. Además se incluyó a dirigentes de diversas asociaciones y agrupaciones, empresarios e instituciones de las áreas de salud y seguridad, entre otros (en total se invitaron a 155 representantes de las cuales asistieron alrededor de 120). La actividad fue de carácter informativo; sin embargo, al cierre de la actividad se entregó a los asistentes un formulario para emitir comentarios, observaciones o preguntas respecto del proyecto de PRC.</p><p>La convocación para cada una de las actividades se realizó mediante la invitación personalizada suscrita por el Alcalde y distribuida por el personal de la Dirección de Desarrollo Comunitario (DIDECO) a los representantes de las Juntas Vecinales convocadas. Adicionalmente, hubo distribución de afiches de difusión de las actividades entre las juntas convocadas y en edificios municipales considerados de alta concurrencia.</p><p><a id="Deliberaciones.2C_decisiones_e_interacci.C3.B3n_p.C3.BAblica." name="Deliberaciones.2C_decisiones_e_interacci.C3.B3n_p.C3.BAblica."></a></p><h2>Deliberaciones, decisiones e interacción pública.</h2><p>De conformidad con lo expuesto anteriormente, las actividades de participación ciudadana emprendidas por la municipalidad fueron de carácter eminentemente informativo y acorde con lo que estipula la ley. No obstante, en todas las actividades se propició además un ambiente de discusión y manifestación de opiniones de los participantes para conocer sus percepciones respecto de las propuestas contenidas en el Proyecto. Cabe destacar que ello no implica que las opiniones y observaciones de la comunidad hayan sido influyentes en la toma de decisiones. Por el contrario, según lo que se ha podido observar, esta fue una formalidad y una instancia para involucrar a la comunidad en el proceso. generar un proceso de motivación e información de la comunidad, que le permitiría tener una participación más activa y de mayor contribución durante la fase de aprobación del nuevo PRC (Municipalidad de Estación Central, 2010).</p><p>Resulta importante notar que hubo una comunidad, Villa Portales, que presentó una especial resistencia a los cambios propuestos por el estudio y revisión del PRC. Históricamente el predio de 31 hectáreas donde hoy es la Villa Portales eran de la Sociedad Nacional de Agricultura, los cuales fueron comprados por la Universidad de Chile y estos a su vez los vendieron en 1954 a la Caja de Previsión de empleados particulares para la construcción de un proyecto inmobiliario. Entre 1954 y 1966, se construyeron edificios de 5 pisos de altura con más de 1.500 departamentos, los cuales en la actualidad albergan aproximadamente 7.000 habitantes.</p><p>Villa Portales tiene múltiples tipos de habitantes, aspiraciones sociales y formas de organización que comparten un pasado común y un presente marcado por el grave deterioro de infraestructura y precarización de los habitantes del sector. Además, esta comunidad está caracterizada por tener un alto grado de cohesión, ser muy poblada y poseer un nivel importante de empoderamiento con su territorio . Esto es de alta relevancia ya que es en parte lo que explica la oposición que tuvieron con el anteproyecto del Plan Regulador Comunal de Estación Central, hecho que fue corroborado por el Presidente del Consejo Vecinal de Desarrollo de la villa.</p><p>Lo que ocurrió en Villa Portales fue que al no estar debidamente informados del proyecto desde un inicio, se crearon y difundieron una serie de rumores y conjeturas respecto a las intensiones de la administración local respecto a los cambios del PRC. Dado el grado de consolidación de la comunidad es comprensible que los rumores se esparcieran rápidamente y generaran un ambiente de inseguridad respecto a los cambios del PRC. De modo que al manifestarse la municipalidad para presentar el anteproyecto, esta comunidad ya había adoptado una posición en contra de cualquier propuesta. Efectivamente, durante el taller en que se presentaba el anteproyecto a este sector los asistentes se mostraron bastante descontentos con las propuestas y expresaron abiertamente su rechazo. Actitud que provocó que la Municipalidad y el cuerpo técnico generaran cambios en la propuesta inicial. No obstante, según funcionarios de la Municipalidad, los habitantes de Villa Portales fueron poco proactivos para emitir alternativas. Finalmente, tras la segunda reunión con los habitantes de Villa Portales se detecto una mejor recepción a la propuesta del proyecto final.</p><p>Esto es prueba de que lo ideal en este tipo de proyectos es la coordinación con la ciudadanía desde sus etapas iniciales; ya que de lo contrario se abre el espacio a mitificaciones del proyecto y al esparcimiento de rumores erróneos dirigidos por el temor y la inseguridad de los habitantes.</p><p>Esto permite concluir que fue debido a la debilidad de la administración en cuanto a incluir una participación ciudadana efectiva en cada una de las etapas del proyecto que se generó la oposición de una comunidad relativamente organizada y empoderada. Lo que a su vez desencadenó una serie de atrasos en la aprobación del proyecto.</p><p>Actualmente el proyecto sigue en etapa de aprobación. Fuentes entrevistadas en la municipalidad de Estación Central atribuyen estos retrasos a los habitantes de Villa Portales quienes se opusieron al anteproyecto presentado y no a las debilidades del proceso de participación ciudadana que emprendió dicha institución. Por el contrario, los funcionarios de la Municipalidad manifestaron un alto grado de satisfacción respecto a la participación dado que fue la primera experiencia de este tipo que se ha realizado en la comuna.</p><p><a id="Resultados_y_efectos." name="Resultados_y_efectos."></a></p><h2>Resultados y efectos.</h2><p>De conformidad con lo establecido en los artículos 41 al 51 de la Ley General de Urbanismo y Construcción y los numerales 2.1.10 al 2.1.14 de la Ordenanza General de Urbanismo y Construcción , la comuna de Estación Central, acató lo dispuesto en la norma respecto a los estatutos para la participación ciudadana. No obstante, en la implementación del proceso de participación ciudadana, se presentaron falencias en cuanto a incluir a la comunidad desde las etapas 1 (diagnóstico) y 2 (imagen objetivo). Por el contrario, el proceso se limitó a ser una instancia informativa en las etapas 3 (anteproyecto) y 4 (proyecto). Por lo tanto no se puede hablar de una participación altamente efectiva.</p><p>La participación ciudadana utilizada fue eminentemente de carácter informativo y de menor grado consultivo. De modo que hubo poca influencia de la opinión de la comunidad en las decisiones públicas. Básicamente la influencia lograda fue mínima y únicamente en pequeños cambios del anteproyecto al proyecto.</p><p>Además, se puede detectar que la asistencia a las actividades realizadas como parte de la participación ciudadana no fue masiva, lo que refleja debilidades en los mecanismo de convocatoria y difusión: Talleres a la comunidad: 55 personas (19 personas sector 1; 21 personas sector 2; 8 personas sector 3; y, 7 personas sector 4); Presentación del proyecto a Villa Portales: 155 personas; Presentación del proyecto a a representantes del sector productivo y comercial, instituciones de la sociedad civil y habitantes dela comuna: 120 personas.</p><p>En cuanto a la inconformidad de la Villa Portales ante el proceso de actualización del Plan Regulador Comunal de la Estacón Central, se puede concluir, que esta ocurre principalmente por no haber sido tomados en cuenta en todas las etapas del proyecto. Siendo esta junta vecinal una de las más antiguas y pobladas de la comuna, presentan un grado importante de empoderamiento y cohesión, lo que permitió generar las presiones adecuadas para detener la aprobación del proyecto.</p><p>No obstante, cabe mencionar que la participación ciudadana finalmente cumplió su propósito de dar validación a los cambios del PRC pues previo a su aprobación, se escuchó la opinión de la población- al menos entre las etapas de anteproyecto y proyecto - y se realizaron actividades para informar y resolver interrogantes que este podría generar. No obstante, la participación permaneció puramente en el ámbito de la formalidad y solo se cumplieron los mínimos establecidos por ley.</p><p>Uno de los logros más importantes del proceso de participación ciudadana, siendo el primero de su tipo en la comuna, fue el involucramiento de la ciudadanía en temáticas urbanas mediante el proceso de información. Lo que finalmente permite la gestación de una comunidad con mayores capacidades para intervenir y participar en el futuro. Esto puede tener implicancias importantes en el futuro y en futuras intervenciones.</p><p><a id="An.C3.A1lisis_y_cr.C3.ADtica." name="An.C3.A1lisis_y_cr.C3.ADtica."></a></p><h2>Análisis y crítica.</h2><p>Teniendo en cuenta la importancia de los instrumentos de planificación en el territorio, la iniciativa de aplicar procesos de participación en dichos proyectos es elemental. El caso del estudio y revisión del PRC de Estación central es interesante en este sentido y permite detectar en qué ámbitos es necesario profundizar y mejorar.</p><p>Si bien la iniciativa de la administración municipal de la comuna de incluir a la comunidad en las etapas 3 y 4 del proyecto es un gran avance ya que es la primera experiencia en la comuna de Estación Central, se detecta que se pudieron arrojar mejores resultados de haberla incluido desde las primeras etapas.</p><p>No obstante, se pueden observar dos panoramas distintos. Por un lado, la comunidad que no tenía ningún tipo de experiencia en participación se mostró bastante receptiva a las propuestas. Con esta comunidad se propició una participación de carácter informativo para dar a conocer los conceptos básicos del urbanismo (usos de suelo, vialidad, tipología de fachadas, áreas públicas) de modo a luego presentar las propuestas del PRC. Este proceso informativo es esencial para generar capital social pero no suficiente para la planificación participativa. Este se utilizó en este caso para dar validez al proyecto recibiendo el apoyo de los participantes. Sin embargo, la participación fue tardía, reducida (poca asistencia) y por lo tanto poco efectiva. Esto revela que uno de los principales puntos a fortalecer son los mecanismo de convocación y difusión de este tipo de actividades así como la programación de una participación desde el inicio o incluso previo al inicio de los proyectos.</p><p>Por el otro, cuando se cuenta con una comunidad que tiene un mayor grado de cohesión y empoderamiento, como fue el caso con Villa Portales, el no incluirla en las etapas iniciales tiene importantes repercusiones. Primero da paso a la generación de rumores respecto a los proyectos que se están realizando “sin tomarlos en cuenta”, lo que tiene como consecuencia reducir la confianza en la autoridad pública y por lo tanto presentan altos grados de oposición. Esto eventualmente puede generar atrasos en etapas posteriores.</p><p>De modo que se debe comenzar con una actividad informativa previa al inicio del proyecto y luego incluir a una comunidad debidamente informada en cada una de las etapas de los proyectos. Es evidente que esto requiere de mayores fondos pero se compensa por una mejor recepción de las propuestas generadas en comunidad y una mejor fluidez de los proyectos.</p><p>Se hace evidente en nuestro caso de estudio, los efectos negativos que se generan por no informar y convocar oportunamente a comunidades empoderadas, entre ellos, atrasos en los proyectos, pues desde el 2003 se inicio la revisión del plan regulador comunal y hasta la fecha continua en proceso de revisión por parte de la autoridad competente; en consecuencia una comunidad empoderada pero no informada, ocasiona descontento y desconfianza en la implementación de programas, proyectos y políticas públicas.</p><p><a id="Fuentes_secundarias." name="Fuentes_secundarias."></a></p><h2>Fuentes secundarias.</h2><p>SEREX TERRITORIO UC (2010). Memoria explicativa. En Plan Regulador Comunal Estación Central. Santiago, Chile: Pontificia Universidad Católica de Chile.</p><p>SEREX TERRITORIO UC (2010). Participación Ciudadana. En Plan Regulador Comunal Estación Central. Santiago, Chile: Pontificia Universidad Católica de Chile.</p><p><a id="External_link" name="External_link"></a></p><h2>External link</h2><p><a class="external free" href="http://www.estacioncentral.cl/" rel="nofollow" title="http://www.estacioncentral.cl/">http://www.estacioncentral.cl/</a></p><p><a class="external free" href="http://cvdvillaportales.blogspot.com/" rel="nofollow" title="http://cvdvillaportales.blogspot.com/">http://cvdvillaportales.blogspot.com/</a></p><p><a class="external free" href="http://www.plataformaurbana.cl/archive/2011/04/28/villa-portales-patrimonio-arquitectonico-que-se-convierte-en-libro/" rel="nofollow" title="http://www.plataformaurbana.cl/archive/2011/04/28/villa-portales-patrimonio-arquitectonico-que-se-convierte-en-libro/">http://www.plataformaurbana.cl/archive/2011/04/28/villa-portales-patrimonio-arquitectonico-que-se-convierte-en-libro/</a></p><p><a class="external free" href="http://www.minvu.cl/" rel="nofollow" title="http://www.minvu.cl/">http://www.minvu.cl/</a></p><p><a class="external free" href="http://www.ichem.cl/index.php?option=com_remository&amp;Itemid=114&amp;func=startdown&amp;id=125" rel="nofollow" title="http://www.ichem.cl/index.php?option=com_remository&amp;Itemid=114&amp;func=startdown&amp;id=125">http://www.ichem.cl/index.php?option=com_remository&amp;Itemid=114&amp;func=startdown&amp;id=125</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A13">Planning (e.g. Urban planning, Transportation, etc.)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1660">Municipal Participatory Planning</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Región Metropolitana      </span>
+                        <div class="country-name" itemprop="addressCountry">Chile</div>
+                                            <span class="geo"><abbr class="latitude" title="-33.453214">33° 27' 11.5704" S</abbr>, <abbr
+            class="longitude" title="-70.700455">70° 42' 1.638" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+Regi%C3%B3n+Metropolitana%2C+%2C+%2C+cl">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                CL      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 31, 1969 - 16:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, December 31, 1969 - 16:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/collaborative-governance">Collaborative Governance</a></div><div class="field-item odd"><a href="/en/methods/citizen-dialogue">Citizen Dialogue</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A58">Listen/watch as spectator</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A142">Not Applicable</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A26">Academic Institution</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">Expertos y consultores</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-195d18151b4c51679ebaac7434ef1487">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/91">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

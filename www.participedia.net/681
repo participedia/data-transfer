@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/node/681" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/681" />
+  <title>Inhalte zu Participedia beitragen | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"tGooSDYUUGEJSUisNYQSYbBt7rFy6qWvCJHGoxM2yjA","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/node\/681?destination=node\/681":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-681 node-type-page i18n-en section-node" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first"><a href="/en/content/contributing-content-participedia" class="language-link" xml:lang="en" title="Contributing Content to Participedia">English</a></li>
+<li class="de last"><a href="/de/content/inhalte-zu-participedia-beitragen" class="language-link" xml:lang="de" title="Inhalte zu Participedia beitragen">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/node/681?destination=node/681" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-RDxFhiklcfhF5xrtMjcJVhthGgy-V6IlfeDCq2N1Tms" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Inhalte zu Participedia beitragen</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="node-681" class="node node-page view-mode-full clearfix" about="/en/node/681" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Inhalte zu Participedia beitragen" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+          <div class="node-links">
+      <span class="inline also-available-in">Also available in: <a href="/en/content/contributing-content-participedia" title="Contributing Content to Participedia" class="translation-link" xml:lang="en">English</a></span>
+          </div>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Definitionen</h3><ul><li>FALL: Artikel über <em>Fälle</em> beinhalten Beispiele partizipativer Politik und Governance jeglicher Form und Größe. Fälle können aktuell oder historisch sein, abgeschlossen oder noch andauernd.</li><li>METHODE: Artikel über <em>Methoden</em> vermitteln Informationen über die vielen Prozesse, die angewandt werden, um Innovationen und partizipative Politik und Governance zu leiten, wie Bürgerjurys, <em>deliberative polling</em> und Bürgerhaushalte.</li><li>ORGANISATION: Artikel über <em>Organisationen</em> beinhalten Profile formeller und informeller Gruppen, die Innovationen bei partizipativer Politik und Governance gestalten, umsetzen oder unterstützen.</li></ul><h3>Inhalte zu Participedia beitragen</h3><p>Auf Participedia Inhalte zu einem Fall, einer Methode oder einer Organisation beizutragen ist sehr einfach. Bitte gehen Sie auf <a href="/de/user/register"><strong>Jetzt registrieren</strong></a>, damit Sie Beiträge zur Seite erstellen können; Sie müssen sich registrieren, um Artikel hinzufügen, bearbeiten oder an Diskussionen teilnehmen zu können.</p><p>Sobald Sie registriert und angemeldet sind, können Sie auf mehrere Weisen beitragen:</p><ol><li><em>Einen neuen Artikel über einen Fall, eine Methode oder eine Organisation erstellen.</em> Auf der Seite <a href="/de/create-content"><strong>Inhalt erstellen</strong></a> wählen Sie aus, welche Art von Artikel Sie entwerfen möchten. Sie müssen nicht darauf vorbereitet sein, einen vollständigen Artikel zu schreiben; Sie müssen den Artikel lediglich anlegen. (Falls Sie einfach nur einen Artikel vorschlagen wollen, den jemand anderes schreiben soll, geben Sie einfach die Überschrift Ihres Artikels ein und wählen Sie "Stub" in der Auswahlliste zur Vollständigkeit.) Die Reiter oben auf dem Eingabeformular (zum Beispiel “Zweck, Geschichte, Teilnehmer” usw.) helfen Ihnen, sich im Formular zurecht zu finden. Einige Felder sind offen und sehen vor, dass Sie einen Text eingeben, darunter auch eine kurze Beschreibung. Andere Felder sehen vor, dass Sie aus einer Liste möglicher Antworten auswählen.</li><li><em>Einen bestehenden Eintrag editieren oder ergänzen. </em>Wenn Sie einen Artikel über einen Fall, eine Methode oder eine Organisation anzeigen, klicken Sie über dem Artikel auf den Reiter "Bearbeiten", um direkt hineinzugehen und den vorliegenden Eintrag zu ergänzen. Der Reiter "Überarbeitungen" gestattet Ihnen, die Liste aller Beitragenden zu dem Artikel anzuzeigen und wann diese Ihren Beitrag geleistet haben.<br /><img alt="1st Inuit Youth Symposium on the Inuit Language | Participedia" src="http://participedia.net/sites/default/files/contributing-content-fig1.png" /></li><li><em>Eine Diskussion starten oder an einer Diskussion teilnehmen.</em> Sie können zu jedem Fall, zu jeder Methode und zu jeder Organisation Kommentare abgeben, indem zu diesem bestimmten Artikel Sie einen Diskussionsstrang eröffnen. Diese Diskussionen sind ein gutes Mittel, um auf Fragestellungen aufmerksam zu machen, die weiteres Nachdenken oder Beachtung erfordern, oder um Bedenken bezüglich vorhergehender Überarbeitungen eines Artikels zu erheben. Genau wie jeder Wikipedia-Beitrag über einen Reiter "Diskussion" für Diskussionen über diesen Eintrag verfügt, hoffen wir, dass die Participedianer lebhafte Debatten über unsere Artikel führen werden. Sie können über jeden beliebigen Eintrag eine Diskussion starten oder, falls bereits eine Diskussion im Gange ist, an dieser teilnehmen.<br /><img alt="British Columbia Citizens' Assembly on Electoral Reform | Participedia" src="http://participedia.net/sites/default/files/contributing-content-fig2.png" /></li><li><em>Einen Fall, eine Methode oder eine Organisation nominieren.</em> Helfen Sie mit, die  Participedia-Community zu erweitern, indem Sie einen potenziellen Fall, eine potenzielle Methode oder Organisation vorschlagen, von dem/der Sie glauben, dass er/sie auf der Seite hinzugefügt werden sollte. Klicken Sie einfach <a href="/de/forum/nominate-case-method-or-organization"><strong>hier, um das Forum zu besuchen</strong></a>  und geben Sie einen Namen an sowie eine kurze Beschreibung und nach Möglichkeit einen Link zu dem Fall, der Methode oder der Organisation an, den/die Sie vorschlagen möchten.</li></ol><h2>Wirken Sie in jeder Sprache mit</h2><p>Auch wenn die Benutzeroberfläche von Participedia derzeit ausschließlich auf Englisch ist, freuen wir uns über Artikel in allen Sprachen. Tragen Sie Inhalte in der Sprache bei, die Sie bevorzugen, entweder mit Hilfe unserer Texteingabefelder oder indem Sie den Text von einem externen Editor kopieren und einfügen. Wenn Sie einen Artikel auf einer anderen Sprache als Englisch anlagen, geben Sie bitte in Klammern direkt hinter dem Titel des Artikels die Sprache an - z.B. “Orcamento Participativo (Portugiesisch)”. Wir arbeiten an einer mehrsprachigen Benutzeroberfläche, was auch die Übersetzung unserer Formulare für die Eingabe von Fällen, Methoden und Organisationen beinhaltet. Falls Sie Interesse daran haben sollten, die Entwicklung von Participedia in Ihrer Sprache oder Region zu unterstützen, nehmen Sie bitte <a href="/de/contact">Kontakt</a> mit dem Participedia-Team auf. Einstweilen können Sie sicher sein, dass wir daran arbeiten,  Participedia zu einer wahrhaft globalen, mehrsprachigen Ressource zu machen.</p><h6>Leitlinien für die Übersetzung von Inhalten in andere Sprachen:</h6><p>Falls Sie mehr als eine Sprache fließend beherrschen, möchten wir Sie ermutigen, Artikel, die bereits auf Participedia vorliegen, zu übersetzen. Falls Sie das tun, verwenden Sie bitte die Folgende Art von Hinweis gleich zu Anfang Ihres Artikels</p><p>Bitte beachten Sie: dies ist eine englische Übersetzung der ursprünglich italienischen Fallstudie, die zuerst eingestellt wurde von Maria Martinez am 01/19/2012, und die zu finden ist unter <a href="http://participedia.net/de/cases/progetto-ex-mercato-ortofrutticolo-bologna-italy">http://participedia.net/de/cases/progetto-ex-mercato-ortofrutticolo-bologna-italy</a></p><p>Klicken Sie <a href="/de/cases/project-ex-farmers-market-bologna-italy"><strong>hier</strong></a> um ein Beispiel zu sehen, wie dieser Hinweis in den Textkörper eines Artikels eingefügt werden sollte.</p><p>Und noch eine Sache: Wenn Sie einen Artikel übersetzen, achten Sie bitte auch darauf, die entsprechenden Angaben in den Datenfeldern zu machen.</p><h2>Bilder &amp; Videos einfügen</h2><p>Einem Fall, einer Methode oder einer Organisation Bilder und Videos hinzuzufügen kann Ihre Inhalte bereichern. Beide Funktionen finden Sie unter dem Reiter "Bilder", wenn Sie Ihren Artikel bearbeiten. </p><p>Um einen Link zu einem Video hinzuzufügen, das im Internet verfügbar ist oder zu einem "existierenden" Video, laden Sie es <a href="/de/node/add/video"><strong>hier</strong></a> hoch und beginnen Sie dann, den Titel in den Video-Upload-Block zu tippen, unter dem Reiter "Bilder" Ihres Artikels.</p></div></div></div>  </div>
+
+  
+  
+</div><!-- /.node -->      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

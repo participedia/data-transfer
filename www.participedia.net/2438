@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/participatory-budgeting-cruz-alta-rs-brazil" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/2438" />
+  <title>Participatory Budgeting in Cruz Alta (RS-Brazil) | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"l58qoWRzFjhBnHe1hzLS9eRLV6Qkd69EJboMOuZcGl4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"2438"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/participatory-budgeting-cruz-alta-rs-brazil?destination=node\/2438":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2438 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/participatory-budgeting-cruz-alta-rs-brazil" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/participatory-budgeting-cruz-alta-rs-brazil?destination=node/2438" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-XZ0IpnWeY08HLhAFVaTYeECqg9WuwtVJdtEpPFH3pFg" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Participatory Budgeting in Cruz Alta (RS-Brazil)</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Participatory Budgeting in Cruz Alta (RS-Brazil)</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/paolospada" title="View user profile." class="username" xml:lang="" about="/en/people/paolospada" typeof="sioc:UserAccount" property="foaf:name" datatype="">paolo spada</a> on Fri, 04/04/2014 - 17:05</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 02/08/2016 - 09:10</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Participatory Budgeting in Cruz Alta (RS-Brazil) - Participedia" addthis:url="http://participedia.net/en/cases/participatory-budgeting-cruz-alta-rs-brazil"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong>History</strong></h3><p><a href="https://en.wikipedia.org/wiki/Cruz_Alta,_Rio_Grande_do_Sul">Cruz Alta</a> is a medium sized city (~60,000 inhabitants) located in the state of Rio Grande do Sul. In 2004 the Partido dos Trabalhadores (Workers’ Party) barely wins the election in Cruz Alta for the first time, and in 2005 the Mayor Vilson Roberto introduces participatory budgeting. The Mayor is re-elected in 2008 with a landslide of votes. In 2012 the Workers’ Party lose the elections but the process is still ongoing.</p><p>This case is based on two field visits, one conducted in 2009 and one conducted in 2012. Thus the information outlined in this case refers only to the Workers' Party management of the participatory budgeting program. The process in this time period has all five requirements established by <a href="http://www.fee.rs.gov.br/indicadores/pib-rs/municipal/serie-historica/pib/?ano=2004&amp;serie=1999-2011&amp;letra=C">Sintomer</a> to identify a PB process.</p><p>The mayor, Vilson Roberto, was interested in organizing participatory budgeting due to his long experience with trade union organizing. In 2005 he created a commision to investigate the possibility of introducing PB. The commission visited the city of <a href="https://en.wikipedia.org/wiki/Santa_Maria,_Rio_Grande_do_Sul">Santa Maria</a> which had an ongoing PB to study how to implement the program.</p><p>Cruz Alta PB process initially did not manage to attract much participation. Celso Ciotti started to coordinate the process in 2006 and revolutionized the process. Ciotti had participated in the state level participatory budgeting process organized by Oliviero Dutra in Rio Grande do Sul so had a direct knowledge of the mechanism of PB (see <a href="https://muse.jhu.edu/journals/latin_american_politics_and_society/v048/48.3goldfrank.pdf">Benjamin Goldfrank 2007</a> for a description of the state level PB). He also brought his experience as a life-long activist of the Landless Workers Movement. Ciotti’s first objective was to establish the legitimacy of the process differentiating it from traditional clientelistic mechanisms.</p><p>In 2007 he introduced a city-wide kick-off meeting in which the mayor solemnly committed to implement all the projects approved by PB. The other key innovation that Ciotti introduced was to reduce the time allotted to government speeches and to maximize the time allotted to discussion by the people. Another innovation, introduced in 2007, separated the discussion about the previous year performance (Prestação de Contas) from the public voting phase. The Prestação de Contas in 2008 and 2009 was organized only for the delegates of the PB process and not for the general public. The ratio of this separation was to separate the moment of critique from the moment of proposal. Having the Prestação de Contas only among delegates instead reduces the possibility that groups that are opposing the city government and that are not active in PB use the space to vent grievances. However this choice reduces the transparency of the project.</p><h3><strong>Preconditions</strong></h3><ol><li>Civil society, clientelism and development</li></ol><p>There were 212 non-profit associations in Cruz Alta in 2004, while the population was 68,451. The Human Development Index was 0,825 in 2000, above the average of the State of Rio Grande do Sul (0,814). There are a number of local active radios that provide coverage on local politics. Clientelistic practices are widespread and the party of the mayor that won in 2012, PMDB, was investigated for vote buying after an exposé from a tv station.</p><ol><li value="2">Political vulnerability of the city government</li></ol><p>The coalition of the mayor in 2004 was composed by 3 parties (PT / PC DO B / PSB). In 2008 it was composed by 5 parties (PT / PTB / PHS / PSB / PC do B). The Mayor in 2004 obtained 37% of the votes, while in 2008 he obtained 68% of the votes. The number of seats in the city councils controlled by the party of the mayor was: 2 in 2004 and 2 in 2008. The coalition of the mayor controlled 3 seats in 2004 (2 from PT, 0 from PC DO B, 1 from PSB) on a total of 10 seats. In 2008 the coalition controlled 4 seats (2 from PT, 1 from PC DO B, 1 from PSB and 0 from PHS and PTB).</p><ol><li value="3">Fiscal autonomy and availability of resources</li></ol><p>The tax share of revenues in 2004 was 13.3% and 2008 was 14.4%. The ratio of expenses over revenues was 74% in 2004 and 95% in 2008. The city was in active and was growing. The GDP actualized at 2013 prices almost doubled from 818,679,000 Reais in 2004 to 1,385,251,000 in 2008 (source <a href="http://www.fee.rs.gov.br/indicadores/pib-rs/municipal/serie-historica/pib/?ano=2004&amp;serie=1999-2011&amp;letra=C">Fundação de Economia e Estatística</a>). Per capita GDP increased similarly from 11,944 to 21,390 Reais.</p><h3><strong>Staff Managing the Process</strong></h3><p>Six people composed the staff of the Coordenadoria de Relações Comunitárias, the organ that organized PB and had the objective to revitalize civil society in Cruz Alta. Beyond the coordinator, Celso Ciotti, there were two people that were coordinating the relationship with six city regions each; two trainees who came from different CSOs. When I was there in 2009 one was the leader of the student movement and the other was a representative of the evangelical churches. The last staff member was the assessor ao Movimento Comunitário, a person dedicated to reactivate dying or dead neighborhood association and to promoting the creation of new groups that would participate in PB (e.g. clubs of mothers, youth organizations). All these people were assumed as temporary workers (cargo de confiança) a special category that allows the city to hire people without a complex public procedure.</p><h3><strong>Institutionalization of the Process</strong></h3><p>The process was partially institutionalized in 2007 by a city law that formalized the creation of the Coordenadoria de Relações Comunitárias and tasked this city committee with organizing PB. Note that the committee is not part of the city government, is not a “secretaria”, and thus it has no spending power. The process is only partially institutionalized.</p><h3><strong>Structure of the Process</strong></h3><p>Face-to-face PB is a multichannel democratic innovation composed of parallel venues of participation that are integrated. The structure of the Cruz Alta PB model is more developed than the typical PB in medium size Brazilian cities that I have observed. In total there are five venues of participation.</p><p>First, there are regional preparatory meeting (Reuniões Preparatórias Regionais) that are organized in each of the 12 regions of the city. These meetings are open to the public but are attended by community leaders, representatives of schools, churches, clubs of mothers and other small groups active in the region. The meetings have three objectives: 1) to organize the reaching-out process in the various neighborhoods in each region; 2) to identify the needs of each region – the city presents a technical analysis of the needs of each region (quadro de carência) that is combined with a participatory evaluation from the participants; 3) to select four macro-projects (tematica) for each neighborhood, which are presented in the subsequent regional plenary assemblies.</p><p>Celso Ciotti highlights in his interview that it was decided to limit the number of macro-projects to four in order to foster high quality deliberation on each and every project. “With 20 projects in an assembly of 300 people you can't discuss anything.”</p><p>Second, there are regional outreach meetings (Reuniões de Mobilização Comunitária<u>)</u>. They take place in each region before the plenary assemblies and are organized by the region representatives of the Participatory Budgeting Council (elected the previous year) and by the representatives of the residents’ associations of the various neighborhoods. The objective of these meetings is to operationalize the outreach campaign designed to engage participants in the regional assemblies.</p><p>Third, there are the regional assemblies (Assembléias Regionais). In these meetings the community discusses the projects that were selected in the preparatory meetings, proposes additional macro-projects, and then ranks them (one preference per participant). It is rare that a new project that was not proposed in the preparatory meetings gets selected, but it does sometimes happen. Some of the people I interviewed in 2012 could recall a few instances of spontaneous projects emerging at the last minute obtaining the top ranking. Ciotti estimates that 30-40% of the projects are impromptu. Regional delegates are also selected in this assembly via majority voting. The internal bylaws state that one delegate is elected for every twenty participants (see the attached document for a copy of the bylaws: Regimento Interno). The number of participants in each region, and the needs of each region, influences the amount of resources spent in the region. The final criterion, the number of people that benefit from the project, is used informally to split ties. The two macro-projects that receive the most votes are selected. In 2009 due to the economic crisis only one project was selected in each region.</p><p>Fourth, there is the new delegates’ plenary. All the delegates from each region participate in a citywide assembly in which, together with representatives of the city government, they evaluate the feasibility of the proposed projects. In this assembly one representative and one substitute are selected in each region to become members of the Participatory Budgeting Council (Conselho do OP - COP). The bylaws of Cruz Alta state that only regions that had more than 60 participants (i.e. 3 delegates) in their plenary regional assembly can elect members in the COP. The citywide delegates’ plenary is typical of medium size cities. In large cities each region has its own delegates’ regional assembly (see the Porto Alegre case study for an example). In Cruz Alta in 2009 there were 89 delegates. The plenary meetings take place on a Saturday every three months and last 6 to 8 hours. These meetings have a significant capacity building component and implement small group discussions. These two features are atypical for old PB process and are becoming more common in the post 2000 generation of PB process that pays more attention to the quality of deliberation.</p><p>Fifth, there is the Participatory Budgeting Council (COP). This organ is composed of the 12 representatives of each region plus 2 representatives appointed by the city government. The COP meets every month to monitor the PB process and to report back to the regions. The council members can be reelected only once and then need to stay out one year.</p><p>In total in each region there are three meetings open to the public. Citywide there is the four plenary meetings of delegates, and the 12 meetings of the COP representatives.</p><p>After the first year the yearly cycle has begun in January with a plenary meeting of the delegates that were elected the previous year. This meeting proposes the agenda for the year. Then the participatory budgeting council (COP) amends and ratifies the final agenda. The delegates have only a consultative power, the agenda-setting power resides with the COP.</p><p>The assemblies start in March, after the carnival and end in May when the cold weather arrives which prevents the organization of large meetings in opens spaces.</p><p>The first citywide assembly is held in the first days of March or April depending on the year and starts the process. Community leaders are specifically invited on an individual basis – no widespread advertisment is conducted – but the meeting is open to the public. In this meeting the mayor presents the process and publicly commits to implementing the participatory budgeting process. As mentioned before Ciotti believes that this key ritual introduced in 2007 bolstered the credibility of the process and allowed people to overcome the reluctance to participating in a traditionally clientelistic city in which politicians rarely deliver on their promises.</p><h3><strong>Deliberation, Decisions, and Public Interaction</strong></h3><p>The type and quality of horizontal interactions that occur among participants in participatory budgeting programs varies greatly from meeting to meeting and depends upon which of the integrated participatory venues are being observed.</p><p>In general the quality of deliberation is lower than academic experiments like Deliberative Polls or America Speaks events that are designed to enhance the quality of discussion. There are no professional moderators involved and the quality of the organization depends on the ability of each region’s representatives and the willingness of the organizers of PB. However, the level of empowerment of PB processes is much higher than these experiments that are mostly consultative. Real decisions are taken that affect the distribution of local public goods. Participants rediscover the right of having a say in local public policy.</p><p>My case study was not aimed at evaluating the quality of the deliberative process so I cannot provide specific data about Cruz Alta. I participated in a few plenary meetings that appeared substantially identically to the PB meetings I participated in other medium sized cities managed by the PT (e.g. Canoas). They were mostly dedicated to the ranking of projects and the elections of delegates with no small group discussion. Small group moderated discussions are employed in the delegates’ assembly. I expect that those will more closely approximate the Anglo-Saxon best practices of deliberation.</p><p>Quantity wise the partial data I have on participation shows that the process was moderately successful. Ciotti claims that around 1,800 people participated on average every year, around 2.6% of the population. Note that face to face PBs in large cities usually attracts 1 or 1.5% of the population, but in smaller cities they achieves up to 10% participation. There were some regional differences. In some regions participations reached 10% of the popoulation, in some other 1.5%. In Cruz-Alta engagement was particularly difficult due to the clientelist nature of traditional politics.</p><h3><strong>Influence, Outcomes, and Effects</strong></h3><p>In the case of Cruz Alta in the first few years of the program the city did not have a large amount of resources so most projects initially were about street paving. The PB process was jokingly renamed “participatory street paving” (Calçamento Participativo).</p><p>However when in 2009 I interviewed the Mayor, Vilson Roberto, his staff members, Bertoldo Fagundes, and the PB coordinator, Celso Ciotti, they explained to me that realizing the great need of particular districts through the PB process had induced them to hunt for additional funding opportunities from state level programs to build additional infrastructure, in particular local clinics (Posto de Saude).</p><p>Thus the mayor identified in the PB process a strong incentive for the city government to be more responsive and to obtain more resources. This is something traditionally described in the literature as the creation of a faster feedback loop between institutions and citizens (Abers 2000).</p><p>When I interviewed again the mayor and his staff in 2012, Bertoldo Fagundes defined participatory budgeting a dream machine (maquina dos sonhos) capable to energize participants and increase their sense of efficacy. He also compared the impact of PB to the impact of the rhetoric of change of Obama. The PB staff had a full understanding of the risk of miss-management of expectations in PB processes and had invested significantly in outreach, framing messages and capacity building to mantain a positive relationship with participants. PB was fully integrated in the campaign strategy of the PT. It had a major effect on the popularity of the mayor, while it had minor effects on the amount of votes the party won, and no effects on the number of city council seats the party obtained. Two organizers of the PB process ran in the city council elections of 2008, but only one was elected.</p><p>The city devoted to PB between 50,000 and 100,000 US dollars in each year between 2006 and 2009. A list of public projects that were approved by the PB process is included in a link at the end of this case study. When the federal program Minha Casa Minha Vida (my house my life) became active, the PB process was used to allocate the construction of housing. Five hundred houses were built with federal funds and given to poor people; an investment estimated around 5 million US dollars.</p><p>One of the major successes of the process, according to Celso Ciotti, was the reactivation of civil society. Before the process started only 60% of the 27 city neighborhoods had residents associations, after 4 years, in 2009, 90% of the neighborhoods had associations. In 2004 only half of the resident associations were active offering organized activities and recurrent meetings in the neighborhoods. After 4 years 100% were active because to be effective in PB is required to be active.</p><p>One of the permanent staff members of the PB process was a former president of the association of residents associations. His task was to strenghten each neighborhood association. One of the delagates of the PB process was elected in the city council in 2008. Celso Ciotti ran, but was not elected.</p><p>In my interviews with members of the opposition in the city council I got a more somber view of the process. According to them the process was just a façade and an instrument of the PT propaganda. In 2007 the PB process was institutionalized (Municipal law 1664). This institutionalization might explain why the process survives even after the Workers' Party lost the election in 2012. </p><h3><strong>Analysis and Lessons Learned</strong></h3><p>The case study I conducted was interested in measuring the effect of political competition and civil society on the resources invested in a PB process. The Mayor of Cruz Alta won almost by chance in 2004, thus his position was extremely vulnerable. Cruz Alta has an above average density of civil society, and an above average HDI index. However, when I interviewed the organizers of the process they told me that the process had not been demanded by civil society. Instead they were using the process to reactivate the local neighborhood associations. This was a very interesting surprise given the emphasis of the literature on the role of civil society in the initiation of these processes.</p><p>The investment in outreach for PB was significant for a city as small as Cruz Alta. The city booked more than 100 hours of cars with loud speakers to advertise the project in 2009. To give a comparison the same year Porto Alegre, a city with 1.5 million inhabitants, booked 200 hours of cars with loudspeakers. Thus the main lesson of Cruz Alta is that mayors that need to consolidate their base tend to invest a lot in participatory engagement. The process was clearly well received by the population and in the election of 2008 the mayor was reelected with 68% of the votes.</p><p> </p><p><strong>Notes: first draft April 2014</strong></p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/tags/participatory-budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">participatory budgeting</a></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A21">Budgeting</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A89">Poverty Reduction</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A327">Clientelism vs Participatory Budgeting</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Cruz Alta      </span>
+                        <div class="country-name" itemprop="addressCountry">Brazil</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="https://www.google.com.br/maps/place/Cruz+Alta%2C+Brazil">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                BR      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A44">Make public decisions (i.e. exert direct authority)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A15">Election</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/participatory-budgeting">Participatory Budgeting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A172">Other</a></div></div></div><div class="field field-name-field-facilitation-type-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Facilitation:&nbsp;</div><div class="field-items"><div class="field-item even">City government representatives</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A16">Negotiate &amp; Bargain</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A150">Preferential Voting (i.e. ranking preferences)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A160">Traditional Media (i.e. television, radio, newspapers)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">Government of Cruz Alta</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A20">Community Based Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A37">Individual</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A167">Faith-Based Organization</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$50 000.00</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">6</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">12</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">The part time staff were employs of the city that were lent to the PB organization</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">150</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-0cd24e6d960b47dc33ee65f1cc0479bf">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/2438">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

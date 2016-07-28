@@ -1,0 +1,606 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/forum/general-discussions-mediawiki" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/383" />
+  <title>General Discussions from Mediawiki | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"tBG1Q8HLsYmgjhH-EtdEZY98MvtY3zP2N4kQiHfxx_E","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/forum\/general-discussions-mediawiki?destination=node\/383":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-383 node-type-forum i18n-en section-forum" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/forum/general-discussions-mediawiki" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><a href="/de/forum/general-discussions-mediawiki" class="language-link" xml:lang="de">Deutsch</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/forum/general-discussions-mediawiki?destination=node/383" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-zKOFh2VA-8tjUGqnc2kXplzKvloVbwVa8X6U0YIKBSY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › <a href="/en/forum">Forums</a> › <a href="/en/forum/1">General discussion</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">General Discussions from Mediawiki</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="node-383" class="node node-forum view-mode-full clearfix" about="/en/forum/general-discussions-mediawiki" typeof="sioc:Post sioct:BoardPost">
+
+  
+      <span property="dc:title" content="General Discussions from Mediawiki" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="5" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+      <div class="submitted">
+      <span property="dc:date dc:created" content="2011-11-21T16:04:22-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/admin" title="View user profile." class="username" xml:lang="" about="/en/people/admin" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Mon, 11/21/2011 - 16:04</span>          </div>
+          <div class="node-links">
+      <span class="inline also-available-in"></span>
+      <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">There were some discussions on pages in Mediawiki that did not match up with pages in the new site. Wanted to store them here so the information isn't lost.</div></div></div><div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">In forum:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/en/forum/1" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">General discussion</a></div></div></div>  </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul>
+  <div class="node-comments"><div class="node-comments-inner"><div id="comments" class="comment-wrapper">
+  
+  <a id="comment-1"></a>
+<div class="comment comment-by-node-author first odd clearfix" about="/en/comment/1#comment-1" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/1#comment-1" class="permalink" rel="bookmark">Homepage discussion</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/1#comment-1" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2011-11-21T16:04:47-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/admin" title="View user profile." class="username" xml:lang="" about="/en/people/admin" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Mon, 11/21/2011 - 16:04</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/general-discussions-mediawiki" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">== Lay-out ==
+Is there a way to make the start and end dates of projects appear? I tried several different date formats and they all result in an error.
+
+----
+
+What is it exactly that you want to do? Did you look at <a href="http://www.mediawiki.org/wiki/Help:Editing_pages">http://www.mediawiki.org/wiki/Help:Editing_pages</a> (Help page)
+
+--[[User:Paul Nollen|Paul Nollen]] 08:17, 31 August 2011 (UTC)
+
+----
+The form that is supposed to contain the information for each project asks for a start and end date. When filled out, the publicized version of the page displays a triangular yellow error message on the place where a date is supposed to appear (even in exemplar pages like the British Columbia one). Is there a way to fix this?
+
+----
+With thanks for the respons to 
+
+Hollie Russon Gilman
+Harvard University | PhD Candidate 
+Department of Government 
+
+"We are in the process of revamping the entire site so this is something we will absolutely take into consideration. I will look into this now for the future."
+
+Sorry, looks that we have to wait for a solution.
+
+--[[User:Paul Nollen|Paul Nollen]] 15:27, 31 August 2011 (UTC)
+
+== Guidelines ==
+
+I was just wondering whether there is a more comprehensive guide to add contributions, perhaps something that was used in one of the courses which used Participedia as a study tool? I am trying to contribute an article, but am slightly confused as to what standards you are trying to set with regard to the difference between cases and methods:
+
+<a href="http://www.participedia.net/wiki/Talk:Act_on_a_Constitutional_Assembly_no._90/2010">http://www.participedia.net/wiki/Talk:Act_on_a_Constitutional_Assembly_n...</a>
+
+Hello,
+
+Have you seen this page: <a href="http://participedia.net/wiki/Participedia_in_course_assignments">http://participedia.net/wiki/Participedia_in_course_assignments</a>
+under "Participedia in Courses."  There are some sample assignments and this may be insightful.
+
+With thanks to Hollie Russon Gilman for the info
+
+--[[User:Paul Nollen|Paul Nollen]] 17:59, 4 August 2011 (UTC)
+
+
+== Google map ==
+
+
+Some of the entries don't show up on the '''google map'''. No panic ;-)
+The developers of Participedia are currently re-thinking the map interface. All entries and data will be moved over to the new platform when it is ready. 
+With thanks to prof [<a href="http://archonfung.net/">http://archonfung.net/</a> Archon Fung ] for the explanation.
+
+--[[User:Paul Nollen|Paul Nollen]] 07:41, 28 September 2010 (UTC)
+
+----
+
+
+== Table of contents ==
+
+The question of 
+--BenTremblay 18:40
+
+1.how is it that there's no table of contents for the page? 
+
+I just found out that a table of contents is automatically generated when you add four or more
+   Headline text (between two ==)
+(just click symbol A , the 5th symbol in the list on top of this page in edit mode)
+
+--[[User:Paul Nollen|Paul Nollen]] 14:02, 14 September 2010 (UTC)
+
+----
+
+Hello Ron,
+
+In cooperation with Dr Michel Pimbert I started a page for the method " Deliberative Democracy and Citizens Juries". 
+
+--[[User:Paul Nollen|Paul Nollen]] 13:07, 13 September 2010 (UTC)
+
+Hello Ron, I contacted Dr Michel Pimbert of the iied.
+
+--[[User:Paul Nollen|Paul Nollen]] 05:42, 13 September 2010 (UTC)
+----
+
+
+This morning I stumbled upon a description of a [<a href="http://www.iied.org/natural-resources/key-issues/food-and-agriculture/deliberative-democracy-citizens-juries">http://www.iied.org/natural-resources/key-issues/food-and-agriculture/de...</a> CJ that occurred in Mali in 2006], regarding GM foods. My immediate thought was to get it up to Participedia. But the CJ wasn't my project, I don't know the people who organised it, and I don't have enough time to do a good job of editing it in myself. Ideally, I'd like to add the above link to a "To do" list somewhere on this site, for a grad student on behalf of Participedia to do the work of compiling the relevant details.
+
+--[[User:Rlubensky|Ron Lubensky]] 11 Sept 2010
+
+----
+
+I am Paul Nollen, member of democratie nu, an organisation in Belgium (my native language is Dutch) promoting Direct Democracy.
+One of our founding members attended the 2010 Global Forum on direct Democracy. He and some other participants expressed the need to cooperate on a more permanent base. From one of them we received the link to Participedia.net . 
+The past few days I added some organisations, cases and methods and so I got some practice how to use it. The participate wiki seems very useful to me. 
+But what I can't find is what we, in fact, started looking for and that is a forum to discuss and exchange ideas. The only forum I found here was on another website  <a href="http://www.thataway.org/">http://www.thataway.org/</a> .
+I think it would be nice if we could mention a forum on the pages we are interested in and keep contact in that forum. The discussion page in the wiki is not sufficient to give a good impression of the discussions who are going on. 
+Is it possible to open a forum linked with participedia ?
+anyway, thanks for the great job on participedia and for making it available to all of us.
+
+Kind Regards
+Beste groeten
+
+Paul
+
+<a href="http://www.directdemocracy.be">www.directdemocracy.be</a> (in English, Dutch and French in construction)
+
+--[[User:Paul Nollen|Paul Nollen]] 18:39, 28 August 2010 (UTC)
+
+----
+
+
+== Discussion of the contents ==
+
+
+In keeping with traditional Wiki functionality, I suggest that this space be kept for discussion of the contents on the page it refers to. The very fine material here really deserves a page of its own.<br />What I'd like to discuss here just now:
+# how is it that there's no table of contents for the page?
+# the details of page creation section aren't quite correct / comprehensive
+## there should be a strong suggestion to use Preview in authoring and editing
+## the material does not exemplify "best practice" ''viz'' "'''You can also go to the MediaWiki Help:Formatting page at: <a href="http://www.mediawiki.org/wiki/Help:Formatting">http://www.mediawiki.org/wiki/Help:Formatting</a>'''" really should be "'''You can also go to [<a href="http://www.mediawiki.org/wiki/Help:Formatting">http://www.mediawiki.org/wiki/Help:Formatting</a> the MediaWiki Help:Formatting page]'''".
+--[[User:BenTremblay|BenTremblay]] 18:40, 4 March 2010 (UTC) ''Good in the beginning = good in the middle, good in the end.''
+
+----
+
+== Suggestions for Participedia ==
+
+Please discuss suggestions for improving Participedia here.
+
+It would be useful to have a section for information about underlying principles, values, and beliefs -- or should that type of information go into an existing section?
+
+It might be useful to consider how cases of less formal, less institutionalised forms of participatory governance (or attempts thereof) could/should be included on Participedia.  Could the fields in the case-template be adapted or expanded in ways that were more inclusive of grassroots participatory schemes without, say, discrete budgets or official sponsorship by local, regional or national government?
+
+== What are the most important cases, methods, and organizations for Participedia's start-up phase? ==
+
+Let's start a running list of cases, methods, and organization for which it would be good to have articles, and then we can recruit writers...
+
+Cases
+
+     * British Columbia Biobanking Deliberative Process (Canada)(initial article author: Kieran O'Doherty)
+     * Bolivian Democratic Development, [<a href="http://sitemason.vanderbilt.edu/files/b7PcWI/Can%20Social%20Capital%20be%20Constructed%20Decentralization%20and%20Social%20Capital%20Formation%20in%20Latin%20America.pdf">http://sitemason.vanderbilt.edu/files/b7PcWI/Can%20Social%20Capital%20be...</a> Citizen Participation Program]
+     * California Speaks (U.S)
+     * Chicago Community Policing (U.S.)(initial article: Emily Moore)
+     * Chicago Local School Councils (U.S.)
+     * Citizens' Parliament (Australia)
+     * Dialogue with the City (Australia)
+     * Dudley Street Neighborhood Initiative (Boston, U.S.)
+     * Indonesia Direct Democracy Experiment by Ben Olken [<a href="http://web.mit.edu/newsoffice/2010/java-democracy-0208.html">http://web.mit.edu/newsoffice/2010/java-democracy-0208.html</a> Technology Review Description]
+     * Indonesia Kecamatan Development Program [<a href="http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/EASTASIAPACIFICEXT/EXTEAPREGTOPSOCDEV/0,,contentMDK:20477526~menuPK:502970~pagePK:34004173~piPK:34003707~theSitePK:502940,00.html">http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/EASTASIAPACIFICEXT/EX...</a> World Bank Description] - 2001 Yale University Press book Contesting Development is about the KDP - will be a key source.
+     * Listening to the City (Rebuilding Lower Manhattan, U.S.)
+     * Meeting of the Nation (Iceland, November 2009)
+     * New Orleans Community Congresses (U.S.)
+     * Oregon Health Decisions (~1990, U.S.)
+     * People’s Campaign for Democratic Decentralization (Kerela, India)
+     * Porto Alegre's participatory budgeting (Brazil)
+     * The National Conferences (Brazil)(initial article: Thamy Pogrebinschi)
+     * Tomorrow's Europe (Europe)
+     * Unified New Olreans Plan (U.S.) (initial article: Susanna Haas Lyons)
+
+
+Methods
+
+     * Citizens' Councils
+     * Citizens' Jury
+     * Consensus Conferences
+     * Conversation Cafés
+     * Crowd Sourcing
+     * Deliberation Day
+     * Deliberative Polling (initial article: Sean Gray)
+     * Habitat Conservation Planning in the U.S.
+     * National Issues Forums
+     * Forum Theater (initial article: Emily Moore)
+     * Planning Cells
+     * Public Journalism
+     * Socratic Cafés
+     * Study Circles
+     * Collective citizen's auto-management process 
+
+
+Organizations
+
+     * Canadian Community for Dialog and Deliberation (Canada)
+     * Center for Deliberative Democracy (U.S.)
+     * Civicus (South Africa)
+     * Deliberative Democracy Consortium (U.S.)
+     * Demo-net (U.K.)
+     * Gov2U (Greece)
+     * International Budget Partnership (U.S.)
+     * Involve (U.K.)
+     * Kettering Foundation (U.S.)
+     * League of Women Voters (U.S.)
+     * Logolink (Brazil)
+     * National Coalition for Dialogue and Deliberation (U.S.)
+     * New Democracy (Australia)
+     * Open Democracy (U.K.)
+     * Public Agenda (U.S.)
+     * White House Office of Public Engagement (U.S.)</div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-2"></a>
+<div class="comment comment-by-node-author even clearfix" about="/en/comment/2#comment-2" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/2#comment-2" class="permalink" rel="bookmark">About page</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/2#comment-2" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2011-11-21T16:05:15-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/admin" title="View user profile." class="username" xml:lang="" about="/en/people/admin" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Mon, 11/21/2011 - 16:05</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/general-discussions-mediawiki" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Participedia is an open knowledge platform that will over time accumulate a database of all significant initiatives in participatory governance. That database will be continuously updated to reflect developments in those initiatives as well as the emergence of new efforts. This database will be created by and serve the needs of researchers and practitioners who seek to improve our knowledge and practice of democratic governance.
+
+Currently, participedia is a project of:
+
+     [<a href="http://www.pdaniell.org/">http://www.pdaniell.org/</a> Paul Daniell], Stanford University, UCLA
+     [<a href="http://archonfung.net/">http://archonfung.net/</a> Archon Fung], [<a href="http://ashinstitute.harvard.edu/">http://ashinstitute.harvard.edu/</a> Ash Institute], Harvard Kennedy School
+     Patrick Scully, Clearview Consulting, LLC
+     Jennifer Shkabatur, Harvard Law School
+     Hollie Russon Gilman, Dept of Government, Harvard University
+     [<a href="http://www.politics.ubc.ca/index.php?id=2516">http://www.politics.ubc.ca/index.php?id=2516</a> Mark E. Warren], Dept of Political Science, [<a href="http://democracy.ubc.ca/">http://democracy.ubc.ca/</a> Centre for the Study of Democratic Institutions], University of British Columbia
+     Anna York, Harvard Kennedy School
+
+Some other sites that develop knowledge around participatory governance are:
+
+     [<a href="http://www.deliberative-democracy.net/helpline/">http://www.deliberative-democracy.net/helpline/</a> Deliberative Democracy Helpline]
+     [<a href="http://www.peopleandparticipation.net/">http://www.peopleandparticipation.net/</a> People and Participation]
+     [<a href="http://www.thataway.org/">http://www.thataway.org/</a> National Coalition for Dialogue &amp; Deliberation]
+
+     
+[[file:AshCenterLogo2010.jpg|left]]    
+[[file:Csdi_logo.png|center]]</div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-34"></a>
+<div class="comment odd clearfix" about="/en/comment/34#comment-34" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/34#comment-34" class="permalink" rel="bookmark">Рефераты для бухгалтеров</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/34#comment-34" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-01-09T04:03:51-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/teon33" title="View user profile." class="username" xml:lang="" about="/en/people/teon33" typeof="sioc:UserAccount" property="foaf:name" datatype="">teon33</a> on Wed, 01/09/2013 - 04:03</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/general-discussions-mediawiki" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Рефераты для бухгалтеров <a href="http://www.buhucheta.net">рефераты по бухгалтерскому учету</a> скачать рефераты по бухучету.
+Дискретная математика без формул <a href="http://www.inmathematics.ru">история великой теоремы ферма</a> формулы в математике.
+Османская империя <a href="http://www.bestofhistory.ru">греческие боги и мифы</a> мировая история.
+Огород без вредителей <a href="http://www.gardenexplorer.ru">сбор ихранение урожая</a> садовые деревья и кустарники.
+Чудо релаксации <a href="http://www.freehealthworld.ru">характеристика лекарств</a> фармакология и физиология.</div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-35"></a>
+<div class="comment even clearfix" about="/en/comment/35#comment-35" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/35#comment-35" class="permalink" rel="bookmark">Планирование и освоение</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/35#comment-35" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-01-09T04:07:08-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/teon33" title="View user profile." class="username" xml:lang="" about="/en/people/teon33" typeof="sioc:UserAccount" property="foaf:name" datatype="">teon33</a> on Wed, 01/09/2013 - 04:07</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/general-discussions-mediawiki" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Планирование и освоение участка <a href="http://www.gardenexplorer.ru">садовые деревья и кустарники</a> сад и огород.
+Древние цивилизации <a href="http://www.bestofhistory.ru">римская империя</a> мировая история.
+Лекарственные психозы <a href="http://www.freehealthworld.ru">анатомия человека</a> фармакология и физиология.
+Начертательная геометрия <a href="http://www.inmathematics.ru">материалы по математике</a> история великой теоремы ферма.
+Курсовые работы по аудиту <a href="http://www.buhucheta.net">дипломные работы по бухгалтерскому учету</a> рефераты по бухгалтерскому учету.</div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+<a id="comment-36"></a>
+<div class="comment last odd clearfix" about="/en/comment/36#comment-36" typeof="sioc:Post sioct:Comment">
+  
+        <h3 property="dc:title" datatype="" class="comment-title">
+      <a href="/en/comment/36#comment-36" class="permalink" rel="bookmark">I would like p4s free exam</a>          </h3>
+    
+  
+  <div class="submitted">
+    <a href="/en/comment/36#comment-36" class="permalink" rel="bookmark">Permalink</a>    <span property="dc:date dc:created" content="2013-01-31T22:46:53-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/en/people/emmahoney" title="View user profile." class="username" xml:lang="" about="/en/people/emmahoney" typeof="sioc:UserAccount" property="foaf:name" datatype="">emma</a> on Thu, 01/31/2013 - 22:46</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/en/forum/general-discussions-mediawiki" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>I would like <strong><a href="http://www.pass4sure.com/">p4s free exam questions</a></strong> to appreciate this beautiful <strong><a href="http://www.pass4sure.com/640-553.html">640-553 pass4sure</a>///<a href="http://www.pass4sure.com/220-701.html">220-701 pass4sure</a>///<a href="http://www.pass4sure.com/640-864.html">640-864 pass4sure</a></strong> blog post. Thanks for everything.</p></div></div></div>      </div>
+
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="/en/user/login?destination=node/383%23comment-form">Log in</a> or <a href="/en/user/register?destination=node/383%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- /.comment -->
+
+  </div>
+</div><!-- / "node-comments-inner" --></div><!-- / "node-comments" -->
+</div><!-- /.node -->      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

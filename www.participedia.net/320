@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/alliance-education" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/320" />
+  <title>Alliance For Education | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"qdoEbMAN0zigLvmKAr5QQM5zNB6fyRwVr85xPYsHzy0","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/alliance-education?destination=node\/320":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-320 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/alliance-education" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/alliance-education?destination=node/320" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-GyfkVu_EZdPtH0NcqMkaC29lexj5HzxL_R-DflmsPdk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Alliance For Education</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Alliance For Education - Participedia" addthis:url="http://participedia.net/en/organizations/alliance-education"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 6 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/ablonden" title="View user profile." class="username" xml:lang="" about="/en/users/ablonden" typeof="sioc:UserAccount" property="foaf:name" datatype="">Allison Blonden</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Mission_and_Purpose" id="Mission_and_Purpose"></a><h2>Mission and Purpose</h2>
+<p>The Alliance for Education is a non-profit, non-government organization dedicated to bettering education in Seattle Public Schools. Independent from the Seattle School District itself, the Alliance works directly with the community and other organizations acting as a junction between the general public and the school district. The mission of the Alliance is to serve as a catalyst for wanted change in the education system based on “a strong belief in the value of public education, the opportunity it brings to every child, and the importance of public education to the health of our whole community.” The organization works behind a self-fulfilling-prophecy idea that raising the bar in education will incite fulfillment of these expectations and benefit all students while further reducing the achievement gap. Five core values guide their process: Accountability to established goals and funders, collaboration with partners, equity for all students’ education, innovation in ideas, and transparency about the outcomes of programs, good or bad. Through its Community Engagement Task Force, the organization provides a space for the local public to express cares and concerns regarding the education system using a community engagement deliberative process.
+</p>
+<a name="History" id="History"></a><h2>History</h2>
+<p>The Alliance for Education was created in 1995 as a result of robust unhappiness with the Seattle Public School District’s recurring trend of academic decline.  The Seattle Public School District is the largest district in Washington state, educating 45,000 students on an annual budget around half a million dollars (sps.org). However, much of this budget is delegated to every-day maintenance before the school year even begins, leaving the district at a financial loss for any additional improvements or changes made. Combining three education-related organizations into one, the Alliance for Education became “a catalyst for change, a convener of community leadership, and a conduit for directing private resources ⎯ both dollars and expertise ⎯ toward critical needs in Seattle Public Schools” <a href="http://www.alliance4ed.com" class="external text" title="http://www.alliance4ed.com" rel="nofollow">Alliance for Education</a> 
+	Beginning with Chief Executive Officer Robin Pasquarella, the organization started off with strong community support and the excited cooperation of Superintendent John Stanford. In 2007, Pasquarella retired and was replaced by Patrick D’Amelio, the former CEO of Big Brothers Big Sisters of Puget Sound. In 2008, Maria Goodloe-Johnson was elected Superintendent of Seattle Public Schools and began the implementation of a five-year strategic plan for better learning. Around this time the organization suffered from a substantial decrease in funding and rumors of bankruptcy were on the horizon. Nonetheless, two new task forces were created in attempts to refocus the Alliance on accountability and collaboration in conjunction with the school district’s five-year plan. These new subdivisions are the Community Engagement Force and Educational Investments Task Force. 
+	Since it’s foundation, the Alliance for Education has directed over $115 million into Seattle Public Schools. Furthermore, the organization has provided leadership training for numerous teachers, School Board members, and administrators while also advocating for the social worth of retaining and rewarding high-quality teachers. Despite financial turmoil in the past three years, the Alliance for Education has remained afloat, continuing to garner the support of the Seattle community and easing the achievement gap to the best of its ability. Current President and CEO, Sara Morris, was appointed in March 2010. <a href="http://seattletimes.nwsource.com/cgi-bin/PrintStory.pl?document_id=2003722493&amp;slug=allia" class="external text" title="http://seattletimes.nwsource.com/cgi-bin/PrintStory.pl?document_id=2003722493&amp;slug=allia" rel="nofollow">Alliance Rights its Ship</a>
+</p><p>
+<a href="/w/index.php?title=Activities&amp;action=edit&amp;redlink=1" class="new" title="Activities (page does not exist)">Activities</a>
+</p>
+<a name="Activities" id="Activities"></a><h2>Activities</h2>
+<p><a href="http://www.alliance4ed.org/ar/documents/AllianceUpdatetotheCommunity.pdf" class="external text" title="http://www.alliance4ed.org/ar/documents/AllianceUpdatetotheCommunity.pdf" rel="nofollow">March 2008, Update the Community</a>
+</p>
+<a name="College_Readiness" id="College_Readiness"></a><h3> College Readiness </h3>
+<p>One in five Seattle Public School graduates currently meet the requirements to attend a four-year college. <a href="http://www.seattleschools.org" class="external text" title="http://www.seattleschools.org" rel="nofollow">Seattle Public Schools</a> The Alliance for Education is dedicated to raising the standards of a high school diploma to equate the preparedness necessary for college, the workforce, and life. This challenge requires significant focus on curriculum, course-offerings, and teacher/student support. The organization is working closely with the school district to create a consistent approach to reading, writing, math, science, social studies, and world languages to “ensure that all students have access to the highest quality content and materials.” It is also taking a direct approach to install more college-preparatory classes into high school by offering more Advanced Placement courses and International Baccalaureate programs as well as distributing the PSAT exam to all 9th, 10th, and 11th, graders to instill a college-bound mentality. In order for any success, the Alliance recognizes the need for increased teacher and student support and is helping the district train more teachers for AP curriculums as well as methods of student support.
+</p>
+<a name="Data.2C_Assessment.2C_and_Performance_Management" id="Data.2C_Assessment.2C_and_Performance_Management"></a><h3> Data, Assessment, and Performance Management </h3>
+<p>Standardized testing like the WASL is useful for monitoring a school’s progress over time but the new data-assessment model, Monitoring Academic Process (MAP), is working to be instilled as a real-time measurer of student performance. MAP assessments are presented three times a school year to in attempts to quickly detect students and school that may be falling behind. Quick detection leads to quick action and better chances of success. The Seattle School District is working to create a new data system for to make such information readily attainable to teaching staff that can then make any necessary altercations to the curriculum in response. This new system will also carry over to the central office as well, allowing the public to track progress at both the school and district level
+</p>
+<a name="School_Board_Development" id="School_Board_Development"></a><h3> School Board Development </h3>
+<p>School board members are the major decision-makers in a public school system but, as elected officials, they often meet a lot of gridlock when it comes to agreeing on priorities. Board members represent various constituencies, making their communication all the more important. As part of the Alliance’s Excellence for All program, grant funding will be provided for the development of school board leaders’ governance, roles and responsibilities, policy, and other necessary areas. Public awareness of the School Board’s work will be discussed and presented in regular meetings with local and national facilitators.
+</p>
+<a name="Staff_Development" id="Staff_Development"></a><h3> Staff Development </h3>
+<p>In the near future, an overhaul of the Seattle Schools District’s human resources team will attempt to gain a wider selection of quality teachers by attracting strong candidates and rewarding the excellence that already exists. As another part of Excellence for All, grant funding will provide the necessary education and training for new principals and district leaders.
+</p>
+<a name="Major_Projects_and_Events" id="Major_Projects_and_Events"></a><h2>Major Projects and Events</h2>
+<a name="Community_Engagement" id="Community_Engagement"></a><h3> Community Engagement </h3>
+<p>The Alliance for Education is dedicated to bridging the gap between the community and the Seattle School District. They believe that it is only with full public support and involvement that the challenges facing Seattle schools will be overcome. The Community Engagement Task Force was created as part of the organization’s refocusing plan in 2007. Here, representatives from various communities and organizations meet to discuss issues at hand and create dialogue among the public about possible solutions and ways to get involved. The task force uses the <a href="/w/index.php?title=Community_Dialogue&amp;action=edit&amp;redlink=1" class="new" title="Community Dialogue (page does not exist)">Community Dialogue</a> method of deliberation to achieve a well-rounded and organized discussion between schools and the community. This effort is widely supported by the Bill and Melinda Gates Foundation.  
+</p><p>“Through our community engagement efforts, we bridge the work of Seattle Public Schools and the communities it serves through constructive dialogue. By engaging the greater community in a thoughtful process, we create opportunities to inspire, inform, listen to, and learn from the collective wisdom of Seattle residents." <a href="http://www.alliance4ed.org/community/" class="external autonumber" title="http://www.alliance4ed.org/community/" rel="nofollow">[1]</a>
+</p>
+<a name="Community_Schools" id="Community_Schools"></a><h3>Community Schools</h3>
+<p>The Alliance for Educations is involved in research and discussion surrounding a successful new model of public school involvement called Community Schools (CS). CS programs engage participants in a variety of supports to children, youth, parents, and families. Common partners include healthcare, social services, educators, businesses, parents and volunteers, and local organizations. Through this approach, “the school becomes a center for student, family and neighborhood engagement, a place where school-community connections are built and reinforced” (alliance4ed.com).  Common programs offered include ESL classes, counseling, refugee assistance, tutoring, and pre-school or early learning. 
+</p>
+<a name="Excellence_for_All" id="Excellence_for_All"></a><h3>Excellence for All</h3>
+<p>Excellence for All is an umbrella program encompassing numerous areas of the Seattle School District. The plan that focuses on improving student achievement by “providing students and teachers with the resources they need to succeed, expanding college-ready coursework for students, improving access to student data, and strengthening professional development opportunities for teachers, school leaders, and district officials” (alliance.org). The plan is funded by $9 million grants awarded by the Bill and Melinda Gates Foundation, Eli and Edythe Broad Foundation, The Boeing Company, and The Stuart Foundation. Excellence for All is meant to support the Seattle School District’s five-year strategic plan for better learning. <a href="http://www.seattleschools.org/area/strategicplan/draft/index.dxml" class="external text" title="http://www.seattleschools.org/area/strategicplan/draft/index.dxml" rel="nofollow">Seattle School's Strategic Plan</a>
+</p>
+<a name="Analysis_of_Project_Deliberation" id="Analysis_of_Project_Deliberation"></a><h3>Analysis of Project Deliberation</h3>
+<p>The Alliance for Education is based on the foundations of successful deliberation. That is, its purpose is to unite the community and school district through dialogue in hopes of creating change. Though every organization must utilize deliberation in order to function, the most active part of the Alliance for Education rests in its Community Engagement force. This portion of the organization is relatively new and still has a lot of progress to make. However, in terms of the definition of deliberation, this task force provides the space necessary to meet such social and analytical needs. That alone is a major step for improving the district-school-community relationship. [Gastil, John]
+</p>
+<a name="Funding" id="Funding"></a><h2>Funding</h2>
+<p>The Alliance for Education relies on private donations from individuals, businesses, and foundations as well as its vast volunteer base. As of 2007, the majority of donations came from individuals closely followed by donations from Boeing and Washington Mutual (J.P. Morgan Chase), as well as the Bill and Melinda Gates Foundation. They also host an annual breakfast and auction. The majority of funds go into data infrastructure, direct school support, and curriculum development with about twenty percent invested in leadership and community building, management, and fundraising.
+</p>
+<a name="Philanthropic_Partnership_for_Public_Education_.28PPPE.29" id="Philanthropic_Partnership_for_Public_Education_.28PPPE.29"></a><h3>Philanthropic Partnership for Public Education (PPPE)</h3>
+<p>This is a group of local funders who support Seattle Public Schools. Members convene four times a year to discuss relevant initiatives and sometimes to join together on a specific project. The group focused on the purposes and usefulness of philanthropies in public schools and Washington State education as a whole. In 2009 the PPPE was responsible for funding audits that helped develop the Excellence for All program.
+</p>
+<a name="Educational_Investments" id="Educational_Investments"></a><h3>Educational Investments</h3>
+<p>The Alliance’s Educational Investments Task Force works hand in hand, first and foremost with the Seattle Public School District, as well as the City of Seattle and higher education. The board works to distribute funds and implement actions into schools in the most beneficial way possible. Before anything is begun, board members conduct pre-investment planning to ensure that everything aligns with the overarching goals of the school district, the funders, and the organization itself. This also consists of prioritizing and pinpointing specific investments that will be most successful and will also fulfill the highest concerns of the public. Furthermore, the Task Force creates a strategic plan for sustainability of the investment as well as specific measurements of its success, which it continues to monitor over time.
+</p>
+<a name="Further_reading" id="Further_reading"></a><h2> Further reading </h2>
+<ul><li>Gastil, John. Political Communication and Deliberation. Thousand Oaks, CA: Sage Publications, 2008. Print
+</li><li>Walsh, Katherine Cramer. Talking about Race: Community Dialogues and the Politics of Difference. Chicago: University of Chicago, 2007. Print.
+</li><li>Alliance for Education Publications <a href="http://www.alliance4ed.org/news/#Publications" class="external free" title="http://www.alliance4ed.org/news/#Publications" rel="nofollow">http://www.alliance4ed.org/news/#Publications</a>
+</li></ul><a name="External_links" id="External_links"></a><h2> External links </h2>
+<ul><li><a href="http://www.alliance4ed.com/community/" class="external free" title="http://www.alliance4ed.com/community/" rel="nofollow">http://www.alliance4ed.com/community/</a>
+</li><li><a href="http://www.seattleschools.org" class="external free" title="http://www.seattleschools.org" rel="nofollow">http://www.seattleschools.org</a>
+</li><li><a href="http://www.alliance4ed.org/ar/documents/AllianceUpdatetotheCommunity.pdf" class="external free" title="http://www.alliance4ed.org/ar/documents/AllianceUpdatetotheCommunity.pdf" rel="nofollow">http://www.alliance4ed.org/ar/documents/AllianceUpdatetotheCommunity.pdf</a>
+</li><li><a href="http://seattletimes.nwsource.com/cgi-bin/PrintStory.pl?document_id=2003722493&amp;slug=allia" class="external free" title="http://seattletimes.nwsource.com/cgi-bin/PrintStory.pl?document_id=2003722493&amp;slug=allia" rel="nofollow">http://seattletimes.nwsource.com/cgi-bin/PrintStory.pl?document_id=2003722493&amp;slug=allia</a>
+</li><li><a href="http://www.alliance4ed.com" class="external free" title="http://www.alliance4ed.com" rel="nofollow">http://www.alliance4ed.com</a>
+</li><li><a href="http://www.seattleschools.org/area/strategicplan/draft/index.dxml" class="external free" title="http://www.seattleschools.org/area/strategicplan/draft/index.dxml" rel="nofollow">http://www.seattleschools.org/area/strategicplan/draft/index.dxml</a>
+</li><li><a href="http://www.seattlepi.com/local/356767_alliance28.html" class="external free" title="http://www.seattlepi.com/local/356767_alliance28.html" rel="nofollow">http://www.seattlepi.com/local/356767_alliance28.html</a>
+</li></ul></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Seattle, Washington USA</span>
+                                                                <span class="geo"><abbr class="latitude" title="47.612890">47° 36' 46.404" N</abbr>, <abbr
+            class="longitude" title="-122.336240">122° 20' 10.464" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Sara Morris</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/non-profit-or-non-governmental" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Non-Profit or Non Governmental</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

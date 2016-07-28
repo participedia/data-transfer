@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/citizens-reference-panel-health-technologies-ontario-canada" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/28" />
+  <title>Citizens&#039; Reference Panel on Health Technologies - Ontario Canada | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"K1zdeS-8O0Le3FvDXHwRgDInWTW3SRTzNf7Mb6zRJTI","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"28"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/citizens-reference-panel-health-technologies-ontario-canada?destination=node\/28":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-28 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/citizens-reference-panel-health-technologies-ontario-canada" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/citizens-reference-panel-health-technologies-ontario-canada?destination=node/28" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Jh5tB1cNew7uAVVpzf5lsL-DhS_PKC0DWTvWwVzrqug" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Citizens&#039; Reference Panel on Health Technologies - Ontario Canada</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">Citizens&#039; Reference Panel on Health Technologies - Ontario Canada</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/mass-lbp" title="View user profile." class="username" xml:lang="" about="/en/users/mass-lbp" typeof="sioc:UserAccount" property="foaf:name" datatype="">MASS LBP</a> on Fri, 04/09/2010 - 17:40</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Sat, 05/14/2016 - 09:05</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Citizens&#039; Reference Panel on Health Technologies - Ontario Canada - Participedia" addthis:url="http://participedia.net/en/cases/citizens-reference-panel-health-technologies-ontario-canada"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/ontario.gif?itok=RF00Cz9d" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3>Summary</h3><p>In December 2008, a 14-member Citizens’ Reference Panel on Health Technologies (CRPHT) was established to inform the work of the Medical Advisory Secretariat (MAS) and the Ontario Health Technology Advisory Committee (OHTAC), which produces evidence-based recommendations regarding the use of health technologies throughout Ontario’s health system. A specific emphasis of the panel’s work was to elicit the societal and ethical values that should guide OHTAC in developing its recommendations about whether and how technologies should be used in Ontario. The creation of the CRPHT represents early experimentation with a deliberative engagement method to incorporate public values and citizen perspectives into the highly expert-driven health technology assessment processes. The panel was established through a research collaboration between McMaster University, led by Dr. Julia Abelson (Department of Clinical Epidemiology &amp; Biostatistics) and the Medical Advisory Secretariat (MAS) of the Ontario Ministry of Health and Long-Term Care, headed by Dr. Les Levin.</p><h3>Problems and Purpose</h3><p>In Canada, several major justifications existed to encourage a greater public role in both HTA (Health Technology Assessment) and HT coverage policymaking. First of concern, the public’s  confidence in the Canadian health system was eroding and had motivated governments to place principles of accountability and transparency on par with core health system principles of universality and equity. Second, increased scrutiny of the science community and public investments in scientific research funding prompted calls for greater accountability from all publicly funded research, including technology assessment agencies and basic researchers.  Also, citizens and stakeholders expected greater clarity about how this information was used to approve and fund health technologies. Third, the proliferation of process-oriented decision-making frameworks to guide coverage decisions emphasized the importance of seeking greater public legitimacy in rationing decisions through a variety of mechanisms including participation, deliberation, publicity, and appeal. In the HTA context, this had been articulated generally as the need to “attend to the procedural features that are also relevant in the technology assessment process” [8]. Finally, a growing consumerist orientation to health care policy was routinely drawing health system ‘users’ into consultations, evaluations, and decision-making processes about health technology by health planners and managers. [2]</p><p>In Canada, both HTA and HT decisions traditionally were invisible and inaccessible to the public, especially during their creation. Canadians normally learned of specific assessments and decisions as <em>fait accompli</em> (already decided and presumed irreversible). However, Canadian policy began to consider how the public should contribute to and be apprised of HTA and HT coverage decisions. Questions included whom to involve (e.g., which publics), how (e.g., through what public involvement or accountability mechanisms), and for what purpose (e.g., to inform or to be apprised of decisions and their rationales). While some other nations were well ahead of Canada in their public involvement efforts, the HTA community remained in need of a general framework for mapping the activities of HTA/HTP onto opportunities for public. [8]</p><h3>History</h3><p>Over the last decade, the ‘deliberative turn’ in health care has been rooted on stronger grounding in several high-profile areas in Canada. In 2002, for example, the principles of democratic deliberation were used to design the <em>citizens’ dialogue </em>sessions that were held across the country as part of the work of the Commission on the Future of Health Care in Canada. The purpose of the dialogues was to elicit, through deliberative dialogue, citizens’ values toward four options for health care transformation, which would in turn be used to inform the Commission’s final recommendations. [3]</p><p>Then in 2006, an almost identical citizens’ council was established by the Government of Ontario, which aimed to provide public input into the governance of the province’s pharmaceutical program. In 2007, the position of “Commissioner of Health and Well-Being” was introduced for advising the government on the performance of the Quebec health system. In general, these deliberative experiments have been on the rise in Canada. [4]</p><p>In 2001, the Ministry of Health and Long-Term Care (MOHLTC) established the Medical Advisory Secretariat (MAS) to conduct evidence-based analyses to help stakeholders make policy and funding decisions about health technologies in Ontario. The MAS, which is comprised of health care specialists including physicians, clinical epidemiologists, policy analysts and health economists, is committed to ensuring that residents of Ontario have access to the best available new health technologies that will improve patient outcomes (MOHLTC). [4]</p><p>The MAS produces evidence-based analyses of health technologies that are then reviewed by the Ontario Health Technology Advisory Committee (OHTAC), an arm’s length expert committee established in 2003 that makes recommendations to the Ontario health care system, and the Ontario Ministry of Health and Long-Term Care (MOHLTC) about the best health technologies for Ontario (MOHLTC). MAS and OHTAC have had a long-standing interest in involving relevant stakeholders in their goal of incorporating ethical and societal perspectives into the health technology policy analysis process. In 2007, OHTAC formed a public engagement sub-committee, which identified the need for ‘added vehicles for communication and consultation’ with three stakeholder groups: patients, families and caregivers; advocacy groups; and the general public and Ontario taxpayers. [4]</p><h3>Originating Entities and Funding</h3><p>In 2001, the Ministry of Health and Long-Term Care (MOHLTC) established the Medical Advisory Secretariat (MAS) to conduct evidence-based analyses to help stakeholders make policy and funding decisions about health technologies in Ontario.</p><p>The originating entities:</p><ul><li>Ontario Ministry of Health and Long-Term Care (Medical Advisory Secretariat)</li><li>Ontario Health Technology Advisory Committee (OHTAC) [1]</li></ul><h3>Participant Selection</h3><p>MASS LBP was contracted to recruit the 14-member panel. A ‘civic lottery’ methodology was used which was inspired by Canada’s first Citizens’ Assemblies in Ontario and British Columbia. A civic lottery is a random-representative selection process designed to identify and encourage citizens to step forward and volunteer to participate in a wide range of deliberative and civic initiatives.</p><p>A randomly generated list of thirty-five hundred Ontario residents were mailed detailed invitation letters, information sheet and postage-paid response form. These letters expressed the opportunity to opt into a pool of respondents. From this sample, 163 expressions of interest in panel membership were received, from which 14 panel members — selected by geographic region and stratified by gender and age, with one participant coming from each of Ontario's 14 Local Health Integration Network regions — were selected blindly from the respondent pool. All travel expenses associated with meeting attendance were covered and each panel member received a $65 honorarium after attending each meeting. [1]</p><h3>Deliberation, Decisions, and Public Interaction</h3><p>The 14-member panel was convened for 5 one-day meetings at McMaster University, in Hamilton Ontario, between February 2009 and June 2010. Topics were selected in consultation with the research team and MAS and OHTAC representatives. At each meeting, panel members participated in structured discussions covering two broad topic areas: 1) the core values that should guide the evaluation of health technologies; when and by whom should this be done? And, 2) reviews of selected health technologies (e.g., screening for colorectal and breast cancer, serological testing for celiac disease, personalized medicine) to provide ethics and social values input to OHTAC deliberations. The technologies selected for discussion at each meeting were jointly agreed to by the research team, Medical Advisory Secretariat staff and OHTAC members.</p><p>Information about the topics under discussion at each meeting was pre-circulated in a meeting workbook which included background information about the topic, explanation of key concepts relevant to the topic, and a list of discussion questions to be addressed which formed the basis of the input to be provided to the decision-maker organization. Meetings were facilitated by the research team and included a combination of large- and small-group interactions organized around a pre-circulated agenda, discussion topics and questions. The meetings were audio-recorded. Data collected included qualitative verbatim transcripts, quantitative surveys administered before and after the meeting, and observation notes recorded by members of the research team. Representatives from MAS and OHTAC attended two of the five meetings to describe the MAS-OHTAC process, to explain the rationale for the creation of the Citizens’ Panel and to answer panel member questions.</p><p>The panel met 5 times over an 18-month period between February 2009 and June 2010. Over the course of five meetings convened over the two-year study, panel members progressed toward the identification of a set of core ethical and social values – universal access, choice and quality care – at stake in evaluating health technologies and in forming recommendations for their use in the health system. [7]</p><h3>Influence, Outcomes, and Effects</h3><p>Each of the five CRPHT meetings generated two types of outputs to inform MAS-OHTAC deliberations regarding the evaluation of selected technologies:</p><ol><li>Qualitative reflections on a set of pre-circulated questions designed to elicit societal and ethical values related to the technology under review</li><li>Pre- and post-meeting survey results of panel member rankings of the societal and ethical values central to the technology under review</li></ol><p>A thematic summary of panel discussions was prepared following each panel meeting and shared with OHTAC members in either report or presentation format for discussion at monthly OHTAC meetings.</p><p>While tangible policy impacts are rarely observed in time-limited studies of this kind, there were some impacts observed over the course of this two-year project. Since it used social values and ethics data to inform its work, the CRPHT provided new insights in these areas to MAS and OHTAC. Panel input was also used explicitly in OHTAC deliberations for three of the five technologies reviewed. [1]</p><p>Based on direct reports back to the CRPHT about how participant input was used, most panel members felt that their input was valued by OHTAC. Attendance of senior MAS/OHTAC officials at two CRPHT meetings, combined with the open invitation for CRPHT members to attend an OHTAC meeting so that they could provide their input on the value of the panel model, reinforced confidence among participants about the panel's perceived value to the two organizations. Other panel members believed the CRPHT's work had minimal influence but felt it was a crucial step to increasing the awareness of MAS and OHTAC about the importance of incorporating public values into these types of decisions. [1]</p><p>In a news article in 2009, the following was said about the Citizen’s Reference Panel:<br />“The Citizens’ Reference Panel on Health Technologies (CRPHT) has already made an impact. At its inaugural meeting in February, the panel discussed patient information and choice in screening technologies for the early detection of colorectal cancer. Their views on how the public should be informed and choose whether to take part in colorectal cancer screening tests informed OHTAC’s final recommendations to the Ontario health care system regarding the use of these technologies.” [9]</p><h3>Analysis and Criticism</h3><p>Several concerns exist with contemporary deliberative events such as the Citizen’s Reference Panel. For instance, consumer accountability now seems to drown out more traditional concerns with effectiveness and efficiency. “Operationalizing public involvement raises a host of questions about the differences between citizen values and consumer preferences; (5)  the extent to which selected individuals or groups can legitimately or accurately represent the public; how to deal with the heterogeneity of stakeholders that include large, professionally run organizations as well as smaller, volunteer-led groups; and how to address the potential biases associated with groups that may be funded by industry and/or professional organizations [6].”   </p><p>An even larger gap within current frameworks is the discussion of <em>how </em>the broader public will be apprised of these decisions and the manner and extent to which public values contributed to them.</p><p>The Canadian Institutes of Health Research assessed and summarized the strengths and challenges of the Citizens’ Reference Panel:</p><p>Strengths</p><ul><li>Integration of input from a wide range of perspectives (citizen included) to contribute to provincial policy making</li><li>Meeting its objective to provide citizen input on societal and ethical issues</li><li>Facilitation of meetings kept the group on track and encouraged participation from all members</li><li>Use of small groups to provide a platform for all members' input</li><li>Arm's length relationship between CRPHT and MAS/OHTAC</li><li>Sponsor's attendance at CRPHT meetings (re-affirmed panel role and contributions)</li><li>Raising awareness of the importance of incorporating public input into the HTA process</li><li>Creating a model for public involvement in HTA that can be improved upon in the future</li></ul><p>Challenges</p><ul><li>Informational requirements: "going into it cold" and the large quantity of information to take in during the session</li><li>Discussions "meandered" or were "monopolized" at times</li><li>Challenging to feel part of the panel again at each meeting given the time between them</li><li>Size and representativeness of panel</li><li>Role confusion</li><li>Communication between citizen's panel and sponsor</li></ul><p>(source: CRPHT members [1])</p><p> </p><h3>Secondary Sources</h3><p>[1]. Ableson, Julia et. al. “Case 12: Consulting Ontario citizens to inform the evaluation of health technologies: The citizens’ reference panel on health technologies.” <em>Canadian Institutes of Health Research.  &lt;<a href="http://www.cihr.ca/e/45358.html#a16">http://www.cihr.ca/e/45358.html#a16</a></em>&gt;</p><p>[2]. Devidas Menon, Tania Stafinski, Health Technology Assessment in Canada: 20 Years Strong?. Value in Health, Volume 12, Supplement 2, June 2009, Pages S14-S19. &lt;<a href="http://www.sciencedirect.com/science/article/pii/S1098301510600575">http://www.sciencedirect.com/science/article/pii/S1098301510600575</a>&gt;</p><p>3]. Maxwell, J.S., Rosell, S., and Forest, P.-G. (2003) ʻGiving Citizens a Voice in Health care Policy in Canadaʼ, British Medical Journal, May, 326: 1031–1033.</p><p>[4]. Ableson, Julia, Gauvin, François-Pierre, &amp; Martin, Élisabeth. (2010). “Practicing the Theory of Public Deliberation: Case studies from the Health Sector in Ontario and Quebec.” 2010 Canadian Political Science Association Conference. Ontario. &lt;<a href="http://www.cpsa-acsp.ca/papers-2010/Abelson.pdf">http://www.cpsa-acsp.ca/papers-2010/Abelson.pdf</a>&gt;</p><p>[5]. Shiell A, Hawe P, Seymour J. Values and preferences are not necessarily the same. Health Economics 1997; 6:515–8.</p><p>[6]. Coulter A. Perspectives on health technology assessment: response from the patient’s perspective. International Journal of Technology Assessment in Health Care 2004; 20(1): 92–6.</p><p>[7]. Yvonne Bombard, Julia Abelson, Dorina Simeonov, Francois-Pierre Gauvin, Eliciting ethical and social values in health technology assessment: A participatory approach, Social Science &amp; Medicine, Volume 73, Issue 1, July 2011, Pages 135-144, ISSN 0277-9536, 10.1016/j.socscimed.2011.04.017. &lt;<a href="http://www.sciencedirect.com/science/article/pii/S0277953611002541">http://www.sciencedirect.com/science/article/pii/S0277953611002541</a>&gt;</p><p>[8]. Ableson, Giacomini, Lehoux, and Gauvin. Bringing “the public” into health technology assessment and coverage policy decisions: From principles to practice. <em>Health Policy </em>82 (2007) 37-50.</p><h3><strong>External Links</strong></h3><p>[9]. <a href="http://www.chepa.org/news-archives/2009/10/27/citizens-panel-contributes-to-assessment-process-for-ontario's-health-technologies">http://www.chepa.org/news-archives/2009/10/27/citizens-panel-contributes-to-assessment-process-for-ontario's-health-technologies</a></p><p>[10]. <a href="http://www.sciencedirect.com/science/article/pii/S0277953611002541">http://www.sciencedirect.com/science/article/pii/S0277953611002541</a></p><p>[11]. <a href="http://ac.els-cdn.com/S0168851006001758/1-s2.0-S0168851006001758-main.pdf?_tid=d02444a4-3eff-11e2-b7bb-00000aab0f6b&amp;acdnat=1354728104_fafb35b005bd8ff203a28044b7fab8b0">http://ac.els-cdn.com/S0168851006001758/1-s2.0-S0168851006001758-main.pdf?_tid=d02444a4-3eff-11e2-b7bb-00000aab0f6b&amp;acdnat=1354728104_fafb35b005bd8ff203a28044b7fab8b0</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A100">Science &amp; Technology</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A266">Health Technology Evaluation</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                          <span class="region" itemprop="addressRegion">ON</span>
+              <div class="country-name" itemprop="addressCountry">Canada</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.ca?q=%2C+%2C+ON%2C+%2C+ca">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        Ontario        CA      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Sunday, November 30, 2008 - 16:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Monday, May 31, 2010 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">14</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/civic-lottery">Civic Lottery</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A143">Getting sense of room/group (i.e. no formal voting)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A144">Opinion Survey</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A26">Academic Institution</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A166">For Profit Business</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-a708fdf9a234538edef8bfb412aa5140">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/28">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

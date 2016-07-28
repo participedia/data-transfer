@@ -1,0 +1,345 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/participatory-budgeting" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/146" />
+  <title>Participatory Budgeting | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"EMGQPhRYtt5yL_vDzgc1PMuwqSsxAcEi1hZW8IY8iwU","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/participatory-budgeting?destination=node\/146":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-146 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/participatory-budgeting" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/participatory-budgeting?destination=node/146" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-CiEnau0C_6oSOnkwXxH9qQBKpjYNnRvBwYhSdeI8_Is" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Participatory Budgeting</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Participatory Budgeting - Participedia" addthis:url="http://participedia.net/en/methods/participatory-budgeting"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Aug 22 '09</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/boutall" title="View user profile." class="username" xml:lang="" about="/en/users/boutall" typeof="sioc:UserAccount" property="foaf:name" datatype="">Trevor Boutall</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="Definition" name="Definition"></a></p><h2>Definition</h2><p>Participatory budgeting is a decision-making process through which citizens deliberate and negotiate over the distribution of public resources.<a href="#cite_note-wampler-0" title="">[1]</a></p><p>Participatory budgeting programs are implemented at the behest of governments, citizens, nongovernmental organizations (NGOs), and civil society organizations (CSOs) to allow citizens to play a direct role in deciding how and where resources should be spent. These programs create opportunities for engaging, educating, and empowering citizens, which can foster a more vibrant civil society. Participatory budgeting also helps promote transparency, which has the potential to reduce government inefficiencies and corruption. Because most citizens who participate have low incomes and low levels of formal education, participatory budgeting offers citizens from historically excluded groups the opportunity to make choices that will affect how their government acts. Put simply, participatory budgeting programs provide poor and historically excluded citizens with access to important decision-making venues.<a href="#cite_note-wampler-0" title="">[1]</a></p><p><a id="Process" name="Process"></a></p><h2>Process</h2><p>The UK's Participatory Budgeting Unit reports that, as participatory budgeting is quite new, innovative forms of participatory budgeting are being developed all the time and new budgets, new themes, new partners, different areas are demonstrating that participatory budgeting is possible and beneficial for a wide range of services and areas.</p><p>The participatory budgeting process usually requires citizen engagement in the various phases of a budget cycle to identify the capital investments and projects to address the most pressing local needs.</p><p>Participatory budgeting involves citizens, councillors and local government officers working together. Participatory budgeting aims to include those who are not traditionally engaged in policy decisions. As well as citizen involvement, participatory budgeting creates opportunities for greater efficiency in the allocation of public funds and increased community cohesion.</p><p>The main features of participatory budgeting include:</p><ul><li>a geographically defined area such as a local authority, a decentralised district of a local authority, or a defined neighbourhood</li><li>regularly scheduled meetings and debates in each geographical unit</li><li>a cycle of activities closely following the local budgeting cycle</li><li>a network of individuals and organisations involved in training, informing and mobilising local citizen</li></ul><p>There is no universal way of applying participatory budgeting. Methodologies vary from area to area but typically it involves allocating between two to three percent of the annual revenue budgets and sometimes the allocation of new investments. The process involves citizens taking into account both the demand and supply of services and public infrastructure. In the UK, participatory budgeting has mainly been applied to allocating resources for area regeneration and for directing statutory funds to voluntary sector organisations.<a href="#cite_note-1" title="">[2]</a></p><p><a id="History" name="History"></a></p><h2>History</h2><p><a id="Genesis_in_Porto_Alegre" name="Genesis_in_Porto_Alegre"></a></p><h3>Genesis in Porto Alegre</h3><p>Participatory budgeting began in 1989 in the municipality of Porto Alegre, the capital of Brazil’s southernmost state, Rio Grande do Sul (see <a href="http://participedia.net/cases/participatory-budgeting-porto-alegre">Porto Alegre Participatory Budgeting</a>). Porto Alegre has more than 1 million inhabitants and is wealthy by Brazilian standards. In 1988 the Workers’ Party, a progressive political party founded during the waning years of the 1964–85 military dictatorship, won the mayoral election. Its campaign was based on democratic participation and the “inversion of spending priorities”—that is, the reversal of a decades-long trend in which public resources were spent in middle- and upper-class neighborhoods. Participatory budgeting was intended to help poorer citizens and neighborhoods receive larger shares of public spending.</p><p>When the Workers’ Party won the mayor’s office in Porto Alegre, it inherited a bankrupt municipality and a disorganized bureaucracy. During its first two years in office, the new administration experimented with different mechanisms to tackle financial constraints, provide citizens with a direct role in the government’s activities, and invert the social spending priorities of previous administrations. Participatory budgeting was born through this experimental process.</p><p>In 1989 and 1990, the first two years of participatory budgeting, fewer than 1,000 citizens participated in the participatory budgeting process; by 1992 the number of participants had jumped to nearly 8,000. After the Workers’ Party was re-elected in 1992, the program took on a life of its own, with participation increasing to more than 20,000 people a year. Participation grew as citizens realized that participatory budgeting was an important decision-making venue.<a href="#cite_note-wampler-0" title="">[1]</a></p><p><a id="Experimentation_in_Latin_America" name="Experimentation_in_Latin_America"></a></p><h3>Experimentation in Latin America</h3><p>Throughout the 1990s, participatory budgeting spread to other municipalities in Brazil and to other countries in South America, including Bolivia, Guatemala, Nicaragua, and Peru. In his analysis of experiments in participatory budgeting in Latin America, Benjamin Goldfrank identify Several factors which can contribute to its success:</p><ul><li>the mayor is indigenous, from a party on the left, or both;</li><li>opposition from local political elites is weak or nonexistent;</li><li>national or international aid organizations provide project funding, technical assistance, or both;</li><li>the municipality has sufficient revenues to make significant investments in public works or programs;</li><li>there is a tradition of participation and cooperation within and among local civic associations or indigenous customary organizations that has not been destroyed by guerrilla warfare or clientelist politics.<a href="#cite_note-goldfrank-2" title="">[3]</a></li></ul><p><a id="Spread_throughout_the_World" name="Spread_throughout_the_World"></a></p><h3>Spread throughout the World</h3><p>From the late 1990s, participatory budgeting in different formats has begun to take root in Central and Eastern Europe<a href="#cite_note-f.C3.B6lscher-3" title="">[4]</a>, Asia,<a href="#cite_note-f.C3.B6lscher2-4" title="">[5]</a>, Sub-Saharan Africa<a href="#cite_note-shall-5" title="">[6]</a>, the Middle East and North Africa.<a href="#cite_note-f.C3.B6lscher-3" title="">[4]</a></p><p>In 2007, participatory budgeting became a formal strand of government policy in the UK.</p><p><a id="Case_Studies" name="Case_Studies"></a></p><h2>Case Studies</h2><p><a id="UK_Local_Councils" name="UK_Local_Councils"></a></p><h3>UK Local Councils</h3><p>Local councils in the UK began to experiment with participatory budgeting, or "community kitties" as it was sometimes known, around 2006 in places such as:</p><ul><li>Coedpoeth in North Wales<a href="#cite_note-6" title="">[7]</a></li><li>Harrow in London<a href="#cite_note-7" title="">[8]</a></li><li>Bradford in Yorkshire<a href="#cite_note-8" title="">[9]</a>.</li></ul><p>In 2007, the national Department for Communities and Local Government (CLG) published jointly with the Local Government Association their 'An Action Plan for Community Empowerment: Building on success'<a href="#cite_note-9" title="">[10]</a> In March 2008, CLG publshed a consultation document 'Participatory Budgeting: a draft national strategy'<a href="#cite_note-10" title="">[11]</a> which stated its ambition for "ambition for participatory budgeting in all local authority areas by 2012". The UK Government's White Paper 'Communities in control: Real people, real power'<a href="#cite_note-11" title="">[12]</a> committed to a new 'Duty to Involve' for local councils which came into effect on 1 April 2009 as part of the Local Government and Public Involvement in Health Act 2007.<a href="#cite_note-12" title="">[13]</a></p><p><a id="Arts_in_UK" name="Arts_in_UK"></a></p><h3>Arts in UK</h3><p>A recent study by <a href="http://participedia.net/organizations/involve">Involve, UK</a> and the <a href="http://participedia.net/organizations/participatory-budgeting-unit-manchester-uk">Participatory Budgeting Unit, Manchester, UK</a> looked at the impact of participatory budgeting on the arts in the UK.<a href="#cite_note-13" title="">[14]</a> The study found that arts projects fare well in the small-grant, community-focused form of participatory budgeting. The projects most likely to succeed are those that are seen to benefit the community directly, provide value for money, are easy to understand and appeal to voters’ emotional response. The study also found that participatory budgeting can bring a number of benefits for the local arts sector, including:</p><ul><li>new funding opportunities</li><li>better informed decision making</li><li>public support and ownership of publicly funded arts</li><li>raising the public profile of the arts</li><li>educating people about the value of the arts</li><li>helping art organisations get funding from elsewhere</li><li>improving relationships between artists and communities.</li></ul><p>The report argues that the arts sector should take note of participatory budgeting for two reasons: as a source of learning for arts organisations seeking to carry out their own public involvement work, and as a new, important phenomenon, which may have a significant impact on how arts funding is distributed in the future.</p><p><a id="More_Case_Studies" name="More_Case_Studies"></a></p><h3>More Case Studies</h3><p><a href="http://participedia.net/cases/participatory-budgeting-berlin-lichtenberg">Participatory Budgeting in Berlin-Lichtenberg</a></p><p><a href="http://participedia.net/cases/participatory-budgeting-berlin-lichtenberg">Presupuesto Participativo: Rosario</a></p><p>!!!More case studies needed here.!!!</p><p><a id="Evaluation" name="Evaluation"></a></p><h2>Evaluation</h2><p>Goldfrank made an interesting analysis of participatory budgeting in Latin America, contrasting various aspects of process design with the results achieved. The design factors were: how formal or informal the process was (ie was it reserved for formal associations to participate or could anyone join in?) and the level of decision-making power of the participants (ie whether the participants debate and decide on spending priorities, how much of the budget is affected by these decisions, and whether authorities respect the decisions). The success criteria were: participation rate, level of expansion/redistribution of services and transparency. Goldfrank concluded that there is "some support for the assertion that outcomes tend to be better where participatory budgeting is less formalized and more deliberative...where the structures were less formal, participants had more decision-making power, participation rates were higher, policies were more redistributive, and government was more transparent."<a href="#cite_note-goldfrank-2" title="">[3]</a></p><p>The <a href="/organizations/european-institute-public-participation" title="European Institute for Public Participation">European Institute for Public Participation</a> is working with the <a href="/wiki/Participatory_Budgeting_Unit,_Manchester,_UK" title="Participatory Budgeting Unit, Manchester, UK">Participatory Budgeting Unit, Manchester, UK</a> and the UK Government's <a class="new" href="/w/index.php?title=Department_for_Communities_and_Local_Government&amp;action=edit&amp;redlink=1" title="Department for Communities and Local Government (page does not exist)">Department for Communities and Local Government</a> to develop a framework for the evaluation of participatory budgeting, along with other forms of public participation in the UK.</p><p><a id="References" name="References"></a></p><h2>References</h2><ol class="references"><li id="cite_note-wampler-0">↑ <a href="#cite_ref-wampler_0-0" title="">1.0</a> <a href="#cite_ref-wampler_0-1" title="">1.1</a> <a href="#cite_ref-wampler_0-2" title="">1.2</a> Wampler, Brian. 2007. ‘A Guide to Participatory Budgeting’. in Shah, Anwar (ed.). Participatory Budgeting. Washington: The International Bank for Reconstruction and Development/The World Bank</li><li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> <a class="external free" href="http://www.participatorybudgeting.org.uk/about/what-is-pb" rel="nofollow" title="http://www.participatorybudgeting.org.uk/about/what-is-pb">http://www.participatorybudgeting.org.uk/about/what-is-pb</a> More About Particiaptory Budgeting</li><li id="cite_note-goldfrank-2">↑ <a href="#cite_ref-goldfrank_2-0" title="">3.0</a> <a href="#cite_ref-goldfrank_2-1" title="">3.1</a> Goldfrank, Benjamin. 2007. ‘Lessons from Latin America’s Experience with Participatory Budgeting’. in Shah, Anwar (ed.). Participatory Budgeting. Washington: The International Bank for Reconstruction and Development/The World Bank</li><li id="cite_note-f.C3.B6lscher-3">↑ <a href="#cite_ref-f.C3.B6lscher_3-0" title="">4.0</a> <a href="#cite_ref-f.C3.B6lscher_3-1" title="">4.1</a> Fölscher, Alta. 2007. ‘Participatory Budgeting in Central and Eastern Europe’. in Shah, Anwar (ed.). Participatory Budgeting. Washington: The International Bank for Reconstruction and Development/The World Bank</li><li id="cite_note-f.C3.B6lscher2-4"><a href="#cite_ref-f.C3.B6lscher2_4-0" title="">↑</a> Fölscher, Alta. 2007. ‘Participatory Budgeting in Asia’. in Shah, Anwar (ed.). Participatory Budgeting. Washington: The International Bank for Reconstruction and Development/The World Bank</li><li id="cite_note-shall-5"><a href="#cite_ref-shall_5-0" title="">↑</a> Shall, Adrienne. 2007. ‘Sub-Saharan Africa’s Experience with Participatory Budgeting’. in Shah, Anwar (ed.). Participatory Budgeting. Washington: The International Bank for Reconstruction and Development/The World Bank</li><li id="cite_note-6"><a href="#cite_ref-6" title="">↑</a> <a class="external free" href="http://www.participatorybudgeting.org.uk/case-studies/the-village-spend-coedpoeth-north-wales" rel="nofollow" title="http://www.participatorybudgeting.org.uk/case-studies/the-village-spend-coedpoeth-north-wales">http://www.participatorybudgeting.org.uk/case-studies/the-village-spend-coedpoeth-north-wales</a> The Village Spend, Coedpoeth, North Wales</li><li id="cite_note-7"><a href="#cite_ref-7" title="">↑</a> <a class="external free" href="http://www.participatorybudgeting.org.uk/case-studies/harrow-open-budget" rel="nofollow" title="http://www.participatorybudgeting.org.uk/case-studies/harrow-open-budget">http://www.participatorybudgeting.org.uk/case-studies/harrow-open-budget</a> Harrow Open Budget</li><li id="cite_note-8"><a href="#cite_ref-8" title="">↑</a> <a class="external free" href="http://www.participatorybudgeting.org.uk/case-studies/keighley-decision-day-bradford" rel="nofollow" title="http://www.participatorybudgeting.org.uk/case-studies/keighley-decision-day-bradford">http://www.participatorybudgeting.org.uk/case-studies/keighley-decision-day-bradford</a> Keighley Decision Day, Bradford</li><li id="cite_note-9"><a href="#cite_ref-9" title="">↑</a> <a class="external free" href="http://www.communities.gov.uk/publications/communities/communityempowermentactionplan" rel="nofollow" title="http://www.communities.gov.uk/publications/communities/communityempowermentactionplan">http://www.communities.gov.uk/publications/communities/communityempowermentactionplan</a> Department for Communities and Local Government and the Local Government Association. (2007). An Action Plan for Community Empowerment: Building on success. Accessed 26 August 2009.</li><li id="cite_note-10"><a href="#cite_ref-10" title="">↑</a> <a class="external free" href="http://www.communities.gov.uk/publications/communities/participatorybudgeting" rel="nofollow" title="http://www.communities.gov.uk/publications/communities/participatorybudgeting">http://www.communities.gov.uk/publications/communities/participatorybudgeting</a> Department for Communities and Local Government. (2008). Participatory Budgeting: a draft national strategy. Accessed 26 August 2009.</li><li id="cite_note-11"><a href="#cite_ref-11" title="">↑</a> <a class="external free" href="http://www.communities.gov.uk/documents/communities/pdf/886045.pdf" rel="nofollow" title="http://www.communities.gov.uk/documents/communities/pdf/886045.pdf">http://www.communities.gov.uk/documents/communities/pdf/886045.pdf</a> Department for Communities and Local Government. (2008). Communities in control: Real people, real power. Accessed 26 August 2009.</li><li id="cite_note-12"><a href="#cite_ref-12" title="">↑</a> <a class="external free" href="http://www.opsi.gov.uk/acts/acts2007/ukpga_20070028_en_1" rel="nofollow" title="http://www.opsi.gov.uk/acts/acts2007/ukpga_20070028_en_1">http://www.opsi.gov.uk/acts/acts2007/ukpga_20070028_en_1</a> Local Government and Public Involvement in Health Act 2007. The Stationery Office. 2007. Accessed 26 August 2009.</li><li id="cite_note-13"><a href="#cite_ref-13" title="">↑</a> <a class="external free" href="http://www.involve.org.uk/assets/Publications/Participatory_budgeting_and_t..._for_Arts_Council_England.pdf" rel="nofollow" title="http://www.involve.org.uk/assets/Publications/Participatory_budgeting_and_t..._for_Arts_Council_England.pdf">http://www.involve.org.uk/assets/Publications/Participatory_budgeting_and_t..._for_Arts_Council_England.pdf</a> Involve. (2009). Participatory budgeting and the arts. Accessed 9 Septmeber 2009.</li></ol><p><a id="Secondary_Literature" name="Secondary_Literature"></a></p><h2>Secondary Literature</h2><ul><li><a class="external text" href="http://siteresources.worldbank.org/PSGLP/Resources/ParticipatoryBudgeting.pdf" rel="nofollow" title="http://siteresources.worldbank.org/PSGLP/Resources/ParticipatoryBudgeting.pdf">Shah, Anwar (2007) Participatory Budgeting. Washington. The International Bank for Reconstruction and Development/The World Bank ISBN-10: 0-8213-6923-7</a></li></ul><ul><li>Sintomer, Yves, Carsten Herzberg, and Anja Röcke (2008), Les Budgets participatifs en Europe. Des services publics au service du public (Participatory Budgeting in Europe. Public services at the service of the public). Paris: La Découverte, Paris ISBN-10: 2707156485.</li><li><p><a href="http://www.foreignaffairs.com/articles/143245/paolo-spada-and-hollie-russon-gilman/budgets-for-the-people">Spada, Paolo. and Russon Gilman, Hollie. Budgets for the People: Brazil's Democratic Innovations. <em>Foreign Affairs</em>, March 11, 2015</a>.</p></li><li><p>See Tiago Peixoto’s <a href="http://democracyspot.net/">DemocracySpot</a> blog for <a href="http://democracyspot.net/2012/09/12/participatory-budgeting-seven-defining-characteristics/">Participatory Budgeting: Seven Defining Characteristics</a> .</p></li></ul><p><a id="Links" name="Links"></a></p><h2>Links</h2><ul><li><a class="external text" href="http://www.participationinstitute.org/" rel="nofollow" title="http://www.participationinstitute.org/">European Institute for Public Participation</a></li><li><a class="external text" href="http://www.involve.org.uk/" rel="nofollow" title="http://www.involve.org.uk/">Involve</a></li><li><a class="external text" href="http://www.participatorybudgeting.org.uk/" rel="nofollow" title="http://www.participatorybudgeting.org.uk/">Participatory Budgeting Unit</a></li><li><a href="http://participatorybudgeting.org/">The Participatory Budgeting Project</a></li></ul></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-97ff6b47f05572bd13ede73d4787b48f">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/146">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/en/forum/who-are-best-speakers-participatory-budgeting">Who are the best speakers on participatory budgeting?</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">365</div></div></div><div class="field field-name-field-min-cost field-type-number-integer field-label-above"><div class="field-label">Minimum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$500</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$50 000</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Initial Preference Aggregation</div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/decision-making" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Decision-Making</a></div><div class="field-item odd"><a href="/en/governance-contributions/preference-articulation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Preference Articulation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/2-not-very-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">2 - Not Very Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/make-public-decisions-ie-exert-direct-authority" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Make public decisions (i.e. exert direct authority)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Face to Face</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

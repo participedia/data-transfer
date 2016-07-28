@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/right-initiative-public-consultations" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/1588" />
+  <title>The Right of Initiative to public consultations  | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"YVor8u-tHAloJ_VDoobpr_pqjO-zzIRTEfgNraipF4M","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/right-initiative-public-consultations?destination=node\/1588":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1588 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/right-initiative-public-consultations" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/right-initiative-public-consultations?destination=node/1588" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-DmqQDB0R5aSuZOKTmNvuAZD3YS2VYkuMZCIJhxNbeUA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">The Right of Initiative to public consultations </h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="The Right of Initiative to public consultations  - Participedia" addthis:url="http://participedia.net/en/methods/right-initiative-public-consultations"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 2 '13</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/people/bhererla" title="View user profile." class="username" xml:lang="" about="/en/people/bhererla" typeof="sioc:UserAccount" property="foaf:name" datatype="">Laurence Bherer</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="MsoNormal">The Right of Initiative to public consultations was adopted by the Montréal city council in September 2009 and has been in effect since January 1, 2010. This new democratic tool allows the Montrealers to initiate a public consultation on any matter that concerns the city or their borough. It is enshrined in the Montreal Charter of Rights and Responsibilities. </p><p class="MsoNormal"> </p><p class="MsoNormal">As mentioned in the Charter, the Right of Initiative “empowers citizens to propose new and constructive solutions or innovative and mobilizing projects in order to meet the issues and challenges of their city by obtaining a public consultation following a petition.”1 However, the result of the process “has no decisional character”.1</p><p class="MsoNormal"> </p><p class="MsoNormal">The Right of Initiative is one of the key projects developed by the Task Force on Democracy, a working group formed in 2002 in the midst of the municipal merger and the Montreal Summit. The Task Force is composed mainly of citizens who participate on a personal level, without the involvement of organizations. It is accountable to the mayor and aims to promote collaboration and cooperation between civil society and the city. The Right of Initiative was designed to this end.</p><p class="MsoNormal"> </p><p class="MsoNormal">Two public consultations have emerged from the Right of Initiative since it was implemented in 2010; one about the “state of urban agriculture in Montreal” and another about “the sharing of the existing bike path network”. </p><p class="MsoNormal"> </p><p class="MsoNormal">The petition</p><p class="MsoNormal"> </p><p class="MsoNormal">The exercise of the right of initiative begins with the filing of a draft petition. This draft petition must clearly and briefly state the object of the proposed consultation, justify the desirability of the consultation and be signed by at least 25 people including three signatories designated to serve as representatives of the group.</p><p class="MsoNormal"> </p><p class="MsoNormal">Within 15 days of the draft petition being judged admissible by the concerned authorities, a notice is given to announce the beginning of a petition signing period. To obtain a public consultation, groups must obtain a required number of signatures within the following 90 days. A total of 15,000 signatures are required for proposals that concern a central city matter. (As of 2011, Montréal had a population of 1.65 million people.) In the case of a borough, 5% of the population, up to a maximum of 5,000 signatures, has to sign the petition. (Population varies from borough to another. More than 160,000 people live in Cote-des-Neiges--Notre-Dame-de-Grace, but only a little more than 20,000 in Outremont.) To give young people “an opportunity to become involved with municipal affairs”2, the city of Montreal allows every person aged 15 years and over to participate to the process.</p><p class="MsoNormal"> </p><p class="MsoNormal">The consultation</p><p class="MsoNormal"> </p><p class="MsoNormal">Once the required number of signatures has been collected, a public consultation must be held within a reasonable delay. </p><p class="MsoNormal"> </p><p class="MsoNormal">In the case of a public consultation bearing on a borough matter, the authority responsible for holding the consultation is the borough council, one of its committees, any committee or group of designated persons, as the council concerned may choose.</p><p class="MsoNormal"> </p><p class="MsoNormal">Where the city is concerned, the consultation is held by one of the council committee or by the Office de consultation publique de Montréal (OCPM), an independent public organization whose mission is to carry out public consultation mandates entrusted to it by the Ville de Montréal city council or executive committee.</p><p class="MsoNormal"> </p><p class="MsoNormal">The public consultation takes place in two parts. During the first part, representatives of the city or borough present information and answer questions from citizens. This is when those who have submitted the request will be required to explain the reasoning behind their request for a public consultation. In the second part, which takes place at least 15 days later, everyone gets the opportunity to express an opinion or submit a brief.</p><p class="MsoNormal"> </p><p class="MsoNormal">The outcome</p><p class="MsoNormal"> </p><p class="MsoNormal">Those in charge of the consultation have to publish a written report within 90 days following the end of the proceedings. The document will itemize all concerns and opinions expressed at the hearing, analyze the proposals and draw conclusions or formulate recommendations, but will not render a decision. Then, the borough council or city council will inform citizens of the findings of the public consultation and, depending on the case, announce decisions that may be made and the reasons behind them. </p><p class="MsoNormal"> </p><p class="MsoNormal">Limitations</p><p class="MsoNormal"> </p><p class="MsoNormal">The Montreal Charter of Rights and Responsibilities allows a maximum of three public consultations to be held per year by the city as part of the Right of Initiative, and two public consultations per year by each of the boroughs.</p><p class="MsoNormal"> </p><p class="MsoNormal">Furthermore, certain matters are ineligible and will not be considered for public consultation if they concern, for example:</p><p class="MsoListParagraphCxSpFirst">•       the sharing of powers, or the governance or the status of the city</p><p class="MsoListParagraphCxSpMiddle">•       administrative organization or contracts management</p><p class="MsoListParagraphCxSpMiddle">•       budget, fees or taxes</p><p class="MsoListParagraphCxSpMiddle">•       an urban development project for which a public consultation or approval by referendum has already been prescribed by law</p><p class="MsoListParagraphCxSpMiddle">•       a project that has already been submitted for public consultation within the previous three years</p><p class="MsoListParagraphCxSpMiddle">•       a call for tenders, pending or completed, or for which a contract has already been awarded</p><p class="MsoListParagraphCxSpLast">•       a matter pending before the court or a matter that was the object of a judgment, or an out-of-court settlement.</p><p class="MsoNormal"> </p><p class="MsoNormal">Experiences</p><p class="MsoNormal"> </p><p class="MsoNormal">The Right of Initiative was used successfully by the Montrealers in 2011, when 29,000 people signed a petition requesting a public consultation on the state of urban agriculture. (Urban agriculture can be defined as “the growing of plants and the raising of animals for food and other uses within and around cities and towns”7. Its proponents wanted to enlighten this growing phenomenon and to obtain public support, in order to make Montreal a more green and sustainable city.)</p><p class="MsoNormal"> </p><p class="MsoNormal">The petition campaign was led by dozens of organizations and volunteers through the city for 90 days. The outcome was considered as a great success, as the proponents collected almost double the amount of required signatures. It forced then Montréal Mayor Gérald Tremblay to announce the holding of a public consultation under the auspices of the Office de consultation publique de Montréal in the spring of 2012.</p><p class="MsoNormal"> </p><p class="MsoNormal">More than one hundred briefs and opinions were presented to the OCPM during the hearings, which were attended by some 1500 people. The process was longer and more comprehensive than what is prescribed by the law. Members of the commission attended meetings with representatives of several organizations in a “preconsultation” period. A scientific conference and a public exhibition on urban agriculture were organized. Six information sessions were then held across the city, before the citizens were invited to submit and present their briefs during seven audition sessions. People were able to participate on the commission website.</p><p class="MsoNormal"> </p><p class="MsoNormal">That led to the release of a report detailing the state of urban agriculture in Montréal and identifying the main obstacles to its development in October 2012. The document also included a list of 20 recommendations to the city.</p><p class="MsoNormal"> </p><p class="MsoNormal">Then, in March 2013, the Montréal executive committee announced the creation of a 20-member permanent working group on urban agriculture, to ensure the hearings would produce some concrete results.</p><p class="MsoNormal"> </p><p class="MsoNormal">At the present time, only one other public consultation has emerged from the Right of Initiative. In September 2011, a group of citizens has submitted to the city a draft petition that was deemed eligible. The subject of the request was: "Forbid electric scooters on Montreal bike paths". Soon thereafter the city and the group representative agreed that a public consultation by a standing committee of city council on the types of vehicles that could be allowed or prohibited on the Montreal bike path network was sufficient. A series of 15 recommendations were eventually made to the city council in spring 2012.</p><p class="MsoNormal"> </p><p class="MsoNormal">Samuel Tremblay, Université de Montréal</p><p class="MsoFootnoteText"> </p><p class="MsoNormal">This paper is part of a research project funded by the SSHRC, calls ‘Expertise, organizational field and the diffusion of public participation practices’ (2012-2016) and directed by Laurence Bherer (Université de Montréal), Mario Gauthier (Université du Québec en Outaouais) and Louis Simard (Université d’Ottawa).</p><p class="MsoNormal"> </p><p class="MsoNormal">Sources :</p><p class="MsoNormal"> </p><p class="MsoNormal">[1] Ville de Montréal (2012), By-law 05-056-1: By-law concerning the Montréal Charter of Rights and Responsibilities and the Right of Initiative, Online. <a href="http://ville.montreal.qc.ca/pls/portal/docs/PAGE/DROIT_INITIATIVE_FR/MEDIA/DOCUMENTS/BY-LAW_05-056-1_RIGHT_OF_INITIATIVE_IN_PUBLIC_CONSULTATIONS.PDF">http://ville.montreal.qc.ca/pls/portal/docs/PAGE/DROIT_INITIATIVE_FR/MED...</a></p><p class="MsoNormal"> </p><p class="MsoNormal">[2] Ville de Montréal (2011), Take the initiative...it’s your right!, Online. <a href="http://ville.montreal.qc.ca/pls/portal/docs/PAGE/CHARTE_MTL_FR/MEDIA/DOCUMENTS/RIGHT_OF_INITIATIVE_BROCHURE_31-01-11_FINAL.PDF">http://ville.montreal.qc.ca/pls/portal/docs/PAGE/CHARTE_MTL_FR/MEDIA/DOC...</a></p><p class="MsoNormal"> </p><p class="MsoNormal">[3] Ville de Montréal (2011), Leaflet – Right of Initiative to public consultations, Online. <a href="http://ville.montreal.qc.ca/pls/portal/docs/PAGE/DROIT_INITIATIVE_FR/MEDIA/DOCUMENTS/LEAFLET%20-%20RIGHT%20OF%20INITIATIVE%20TO%20PUBLIC%20CONSULTATIONS.PDF">http://ville.montreal.qc.ca/pls/portal/docs/PAGE/DROIT_INITIATIVE_FR/MED...</a></p><p class="MsoNormal"> </p><p class="MsoNormal">[4] Ville de Montréal – Cabinet du maire et du comité exécutif (2013), « Montréal met sur pied un Comité de travail de la collectivité sur l'agriculture urbaine », CNW Telbec</p><p class="MsoNormal"> </p><p class="MsoNormal">[5] Ville de Montréal, Official city portal – Ville de Montréal, Online. <a href="http://ville.montreal.qc.ca/portal/page?_pageid=5798,85041649&amp;_dad=portal&amp;_schema=PORTAL">http://ville.montreal.qc.ca/portal/page?_pageid=5798,85041649&amp;_dad=porta...</a> </p><p class="MsoNormal"> </p><p class="MsoNormal">[6] Office de consultation publique de Montréal (2012), « L'agriculture urbaine à Montréal : des initiatives multiples qui nécessitent une meilleure coordination, estime l'OCPM », CNW Telbec</p><p class="MsoNormal"> </p><p>[7] Office de consultation publique de Montréal (2012), État de l’agriculture urbaine à Montréal : Rapport de consultation publique, Online. <a href="http://ocpm.qc.ca/sites/ocpm.qc.ca/files/rapport_au.pdf">http://ocpm.qc.ca/sites/ocpm.qc.ca/files/rapport_au.pdf</a></p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-7593fd59b4bdb14abbd1e9b96f0fe840">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/1588">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">5000</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">15000</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Participant Selection:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/method-recruitment/open-all" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Open to all</a></div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Communication Mode:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/type-interaction-among-participants/discussion-dialogue-or-deliberation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/geographical-scope/local-eg-neighbourhood-citytown-metropolitan-area" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div><div class="field field-name-field-typical-funding-source field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Funding Source:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-governance-contributions field-type-taxonomy-term-reference field-label-above"><div class="field-label">Governance Contributions:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/governance-contributions/agenda-formation" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Agenda Formation</a></div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/1-not-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">1 - Not Polarized</a></div></div></div><div class="field field-name-field-issue-complexity field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Technical Complexity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/complexity/2-not-very-complex" typeof="skos:Concept" property="rdfs:label skos:prefLabel">2 - Not Very Complex</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Kind of Influence:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-influence/consultation-ie-advise-decision-makers" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Consultation (i.e. to advise decision makers)</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/achieving-public-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Achieving Public Goods</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

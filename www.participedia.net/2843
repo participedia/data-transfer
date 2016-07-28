@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/g1000-amersfoort" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/2843" />
+  <title>G1000 Amersfoort | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"v5xoI4knI5JV09sZBB7hSDhS60onYUtw3piE9WWcEM4","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"2843"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/g1000-amersfoort?destination=node\/2843":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2843 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/g1000-amersfoort" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/g1000-amersfoort?destination=node/2843" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-tJ0ktAN6El3_ZeH3XgHpw3KBrO__rrNCsE4_YB6FOaM" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">G1000 Amersfoort</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">G1000 Amersfoort</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/tim-schoot-uiterkamp" title="View user profile." class="username" xml:lang="" about="/en/people/tim-schoot-uiterkamp" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tim Schoot Uiterkamp</a> on Fri, 05/02/2014 - 11:55</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 02/12/2016 - 18:45</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="G1000 Amersfoort - Participedia" addthis:url="http://participedia.net/en/cases/g1000-amersfoort"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/Logo_G1000_Wit.jpg?itok=kBLl8st1" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The format of a ‘G1000’ was developed by a small number of pioneers in the area of deliberative democracy, who managed to set up a large, country-wide project under this name in Belgium in 2011 (see <em>here</em> for a detailed description of the case). On 22th of March 2014, a group of citizens in Amersfoort (a mid-sized city in the Netherlands), organized the G1000 burgertop Amersfoort (G1000 citizens’ summit Amersfoort). This initiative was driven by the same ideals as the Belgian project – revitalizing democracy by involving more citizens – but differed in that it had a more immediate and concrete goal: the project took place only days after elections for the municipal council, and aimed to produce an agenda for the coming term (four years) in the form of a list of priorities and project proposals. The G1000 Amersfoort was therefore intended to supplement regular representative democracy by having citizens deliberate on what the new city council, which they had just voted in, should do.     </p><h2><strong>Problems and Purpose</strong></h2><p>Similar to the original G1000 in Belgium, the organizers present the project as a first step, an experiment, in a change towards a new form of (local) democracy. They base themselves on the ideas of Van Reybrouck, proposing civic lottery as a way of avoiding the excesses of electoral democracy: spin doctors, shady back-room deals and a general lack of transparency and genuine involvement of the citizens.</p><p>The G1000 Amersfoort presents three principles as the core of their proposed innovation:</p><ul><li>Do-it-yourself: the citizens summit is organized by citizens themselves</li><li>Dialogue instead of debate: good proposals are created through conversation and by listening to each other. The entire city participates.</li><li>Randomly selected citizens instead of elected representatives: proposals are selected by randomly selected citizens. They form the first citizens’ council of Amersfoort.</li></ul><p>These principles are incorporated in the way the project is organized. It also has a more direct purpose, namely to propose an agenda of issues important to the city for the following four years (so the period until the next elections). </p><h2><strong>History</strong></h2><p>On the 19th of March 2014, municipal elections were held in Amersfoort. The G1000 took place three days later, on the 22th of March. The organizers refer to this as the ‘first G1000 of Amersfoort’, implying that the initiative might become a recurring part of the local-level democratic process in the city.          </p><h2><strong>Originating Entities and Funding</strong></h2><p>The project was initiated by two persons who have a background as active citizens in Amersfoort. They were joined by a large team of volunteers, who helped organize the event itself as well as smaller get-togethers beforehand, were the organizing team could explain their idea to groups of Amersfoort citizens.</p><p>A long list of local companies and organizations sponsored the project, financially and in many cases through contributing their goods or services for free or for a reduced price. The organization estimates that their costs at full market price would have been around €150.000; of this, €35.000 was paid, while the rest was sponsored in kind.</p><p>In order to aid the G1000 in its organization, the municipality decided to issue a guarantee for a maximum of €15.000 of the costs of the organization.</p><h2><strong>Participant Selection</strong></h2><p>The G1000 Amersfoort wanted to select 600 random citizens and 400 other persons:</p><p>600 randomly selected citizens, who form the first citizens council Amersfoort;</p><p>100 employers;</p><p>100 government representatives (politicians and civil servants);</p><p>100 artists;</p><p>100 clerks.</p><p>The 600 citizens were selected out of a pool of every person eligible to vote in Amersfoort (i.e. all EU-citizens 18 years and above with legal residents within the municipality). A complete lists of all these people is only available to the municipality, which is not allowed to share this data for privacy reasons. Luckily, the municipality assisted by making a random selection and sending all selected citizens an official letter. Selected citizens could then register their intention to participate on the organization’s website. The municipality sent 10.000 invitations (out of all persons eligible to vote in a total population of around 150.000 people). In case more than 600 people would register, the organization would have held a second lottery-style selection in order to limit the amount of participants to 600. This was not necessary: 507 people registered.</p><p>The employers, politicians and civil servants, artists, and clerks could similarly register themselves online. These were therefore self-selected, although the organization has stated that, if the need would arise, the limit of a 100 persons per category would have been maintained through a lottery-style selection. 49 employers, 51 politicians, 43 civil servants and 51 artists registered themselves. 94 clerks were found to assist the groups.       </p><h2><strong>Deliberations, Decisions, and Public Interaction</strong></h2><p>819 participants gathered in the morning of the 22nd of March for a day of deliberations.</p><p>The discussions were structured in rounds. Three rounds of twenty minutes took place in the morning, each based on a different question meant to get the participants talking about their city. In the afternoon, three rounds of an hour structured the deliberation, from dreams (1), to practical considerations (2), to the formulation of proposals (3). This resulted in eighty proposals.</p><p>The participants were divided in groups of 6, with an employer, a politician or civil servant, and an artist added to each group, plus a clerk for support. This meant that every table had ten people working on one proposal. Including employers, government, and artists at every table is meant to ensure that the entire society of Amersfoort is represented in every conversation.</p><p>The ‘agenda’, which the project aims to create, consists of the ten most important proposals and ideas. The eighty proposals were therefore narrowed down by the 500 randomly selected at the end of the day.    </p><h2><strong>Influence, Outcomes, and Effects</strong></h2><p>The ten most popular proposals were:</p><ul><li>Keigroen samen doen!</li></ul><p><em>Collection of ‘green’ proposals (e.g. include sustainability in calculation of property tax; 25% more urban gardening space)</em></p><ul><li>Samen zorgen in Amersfoort</li></ul><p><em>Improve care though a mixed-generation approach</em></p><ul><li>Wijk G100</li></ul><p><em>Introducing deliberative project-generation at the neighborhood level  </em></p><ul><li>De Buurtweter</li></ul><p><em>A neighborhood-contact person who knows which skills different persons in the neighborhood have. </em></p><ul><li>Duurzaam Inbreiden</li></ul><p><em>Use empty property for green initiatives. </em></p><ul><li>Samensfoort</li></ul><p><em>A digital, non-commercial platform to find others with whom  something can be done together.  </em></p><ul><li>Verbindingsregiseur</li></ul><p><em>A person who knows how the municipality works and which private initiatives are being developed in the city, and can help citizens with an idea bring it to the next level. </em></p><ul><li>Kraamkamer van duurzame inovatie</li></ul><p><em>Bring companies/organisations together so that they can share excess energy, warmth, trash, etcetera, for greater sustainability. </em></p><ul><li>Amersfoort gelukkig veilig </li></ul><p><em>Greater social control in the neighborhood.</em></p><ul><li>Onze wijk aan zet</li></ul><p><em>Increasing multi-functional public spaces in neighborhoods.  </em></p><p>It is part of the standard procedure in Amersfoort that all parties which participated in an election come together shortly afterwards to discuss how the election results should be interpreted and which options for forming a majority-coalition are most desirable. In 2014, they decided to hold this meeting on the 24th of March, two days after the G1000 took place, in order to be able to include the results of the citizens’ summit in their discussions. The parties appointed a mediator, with the task of formulating a proposed coalition. He was also asked to take the outcome of the G1000 into account in his advice.</p><p>In addition, individual parties and politicians have referred to the results in the media and on twitter and facebook. This fits well with the project’s aim of being agenda-setting. It is unclear whether any of the proposals will also be implemented, though.   </p><h2><strong>Analysis and Criticism</strong></h2><p>It is unclear to what extent the participants were representative for the total population of the city. Although the group of 10.000 people that were invited for the citizens’ summit was selected at random, only a small fraction of those attended the event. This results in a very large self-selection bias. The organizers did not keep track of the characteristics of the participants, in terms of gender, ethnicity, age, or educational background. Some groups (and their interests) might therefore have been represented much stronger than others in this project. Methods for adjusting this would inevitably involve excluding participants from overrepresented groups in order to restore proportionality. Given the nature of the initiative, and its idea-generating and agenda-setting aims, it is questionable to what extent reducing the size of the group in order to make it more representative would have been an improvement, though.</p><p>If the number of registrations would have exceeded 600, the organization would have narrowed the group of participants down using a fully random lottery. If this occurs next time, they might want to consider using a weighted method to ensure that the final group would be representative of the total population of the city.</p><p>Although the results of the project have gotten significant attention from local politicians, it remains to be seen to what extent there will be a concrete effect. An obvious threat is of course that politicians could pick out of the list of proposals those elements that already fit with their program, and ignore the rest. </p><p> </p><h2><strong>External Links</strong></h2><ul><li><a href="http://www.g1000amersfoort.nl/">http://www.g1000amersfoort.nl/</a> The website of the initiative [Dutch]</li><li><a href="http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&amp;doc_id=2835795&amp;pageid=43220#.UzSfLPl5OSo">http://www.destadamersfoort.nl/scripts/edoris/edoris.dll?tem=LN_TEXT_VIEW&amp;doc_id=2835795&amp;pageid=43220#.UzSfLPl5OSo</a> Announcement for information meeting on the 4th of February 2014. [DEAD LINK]</li><li><a href="http://praktijkvoorbeelden.vng.nl/databank/burgerparticipatie/burgerparticipatie-maatschappelijke-initiatieven/eerste-burgerraad-amersfoort.aspx">http://praktijkvoorbeelden.vng.nl/databank/burgerparticipatie/burgerparticipatie-maatschappelijke-initiatieven/eerste-burgerraad-amersfoort.aspx</a> Assessment by Association of Dutch Municipalities [Dutch]</li><li><a href="http://www.amersfoort.nl/4/formatie/Maandag-24-maart-2014-openbaar-gesprek-proces-vorming-college.html?highlight=g1000">http://www.amersfoort.nl/4/formatie/Maandag-24-maart-2014-openbaar-gesprek-proces-vorming-college.html?highlight=g1000</a> Press statement by the municipality announcing the post-election meeting, and their intention to include the outcome of the G1000 in the discussions. [Dutch] </li><li><a href="http://www.amersfoort.nl/Redacteuren/documenten/collegebesluiten/2014/week%2005/4595204%20G1000%20Garantstelling%202014.pdf">http://www.amersfoort.nl/Redacteuren/documenten/collegebesluiten/2014/week%2005/4595204%20G1000%20Garantstelling%202014.pdf</a> Decision by the municipality to issue a subsidy of a maximum of €15.000 in the form of a guarantee.</li></ul><p><em>Proposals [Dutch]</em></p><ul><li><a href="http://www.g1000amersfoort.nl/voorstellen-burgerraad/">http://www.g1000amersfoort.nl/voorstellen-burgerraad/</a> List of proposals made. [Dutch]</li><li><a href="http://prezi.com/h4ghxcqyweka/tafel-66-keigroen-samen-doen/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/h4ghxcqyweka/tafel-66-keigroen-samen-doen/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Keigroen Samen doen (1)</li><li><a href="http://prezi.com/tb0inofphtw8/tafel-71-samen-zorgen/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/tb0inofphtw8/tafel-71-samen-zorgen/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Samen Zorgen in Amersfoort (2)</li><li><a href="http://prezi.com/isxru7xhn7hj/tafel-80-wijkg100/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/isxru7xhn7hj/tafel-80-wijkg100/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation wijkg100 (3)</li><li><a href="http://prezi.com/9vrx7wte0dlg/tafel-39-onze-wijk-aan-zet/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/9vrx7wte0dlg/tafel-39-onze-wijk-aan-zet/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Onze wijk aan zet (4)</li><li><a href="http://prezi.com/4_uzwbwse0vl/tafel-58/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/4_uzwbwse0vl/tafel-58/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Amersfoort: gelukkig veilig (5)</li><li><a href="http://prezi.com/cq83o_p3c5sc/tafel-68-kraamkamer-duurzame-innovatie/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/cq83o_p3c5sc/tafel-68-kraamkamer-duurzame-innovatie/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Kraamkamer Duurzame Innovatie (6)</li><li><a href="http://prezi.com/kr8x1ixvlg7f/tafel-31-verbindingsregisseur/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/kr8x1ixvlg7f/tafel-31-verbindingsregisseur/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Verbindingsregisseur (7)</li><li><a href="http://prezi.com/bwa7siki6onb/tafel-34-samensfoort/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/bwa7siki6onb/tafel-34-samensfoort/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation SAMENsfoort (8)</li><li><a href="http://prezi.com/kq-vmrniu3yn/tafel-65-duurzaam-inbreiden/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/kq-vmrniu3yn/tafel-65-duurzaam-inbreiden/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation Duurzaam inbreiden (9)</li><li><a href="http://prezi.com/na3ivvud7y8p/tafel-42-de-buurtweter/?utm_campaign=share&amp;utm_medium=copy">http://prezi.com/na3ivvud7y8p/tafel-42-de-buurtweter/?utm_campaign=share&amp;utm_medium=copy</a> Prezi presentation De Buurtweter (10)</li></ul></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A98">Community Development</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1387">Consultation on City Council Agenda</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                      <span class="locality" itemprop="addressLocality">
+      Amersfoort      </span>
+                        <div class="country-name" itemprop="addressCountry">Netherlands</div>
+                                            <span class="geo"><abbr class="latitude" title="52.156111">52° 9' 21.9996" N</abbr>, <abbr
+            class="longitude" title="5.387827">5° 23' 16.1772" E</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.nl?q=%2C+Amersfoort%2C+%2C+nl">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                NL      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A173">Local (e.g. Neighbourhood, City/Town, Metropolitan Area)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A109">Community building (e.g. social capital)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, March 22, 2014 - 00:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, March 22, 2014 - 23:59</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">1.00</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">819</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div></div></div><div class="field field-name-field-public-roles-target-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Public Roles:&nbsp;</div><div class="field-items"><div class="field-item even">Public</div><div class="field-item odd">Employers</div><div class="field-item even">Politicians</div><div class="field-item odd">Public Servants</div><div class="field-item even">Artists</div><div class="field-item odd">Clerks</div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A15">Election</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/deliberation">Deliberation</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A172">Other</a></div></div></div><div class="field field-name-field-facilitation-type-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Other: Facilitation:&nbsp;</div><div class="field-items"><div class="field-item even">Clerks</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A166">For Profit Business</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A37">Individual</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-17be9fe93e930a081af3f063a2551b0b">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/2843">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

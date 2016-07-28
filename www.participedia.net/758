@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/b-rgerforum-2011" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/758" />
+  <title>BürgerForum 2011 | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"VMN7wF4ES8EopzLZj9hI9kC9HDrokpEbxRay-LlLY7Y","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"758"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/b-rgerforum-2011?destination=node\/758":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-758 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/b-rgerforum-2011" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/b-rgerforum-2011?destination=node/758" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-vYDGwmK01Tq08qs2FggUYTli8_-ieSrTNurhcxA7uCQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">BürgerForum 2011</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">BürgerForum 2011</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/people/fww5007" title="View user profile." class="username" xml:lang="" about="/en/people/fww5007" typeof="sioc:UserAccount" property="foaf:name" datatype="">Felix Weigel</a> on Thu, 12/13/2012 - 14:22</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Mon, 02/22/2016 - 08:09</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="B&amp;Atilde;&amp;frac14;rgerForum 2011 - Participedia" addthis:url="http://participedia.net/en/cases/b-rgerforum-2011"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"><div class="field-item even"><span id="styles-0-0" class="styles file-styles medium">  <img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/medium/public/logo-buergerforum-26_0.gif?itok=E8IAnR5p" /></span></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong>Problems and Purpose</strong></h3><p>Under the slogan “Future Needs Solidarity. Diversity Creates Chances.”, the BürgerForum 2011 did not address any specific problem or problems; it rather allowed participating citizens to identify problems as well as solutions they deem most pressing for German society. The purpose behind this approach is three-fold. Firstly, initiators hoped to inspire citizens to be more excited about politics and democracy and instill a sense of community within participants. Secondly, the project was designed to give citizens a united voice that will be heard by politician on all levels of government. Lastly, the BürgerForum should serve as an example of how citizen participation can strengthen democracy. The result would be a Federal Citizens-Program identifying six challenges in six categories with possible solutions.</p><h2><strong>History</strong></h2><p>According to a summary released by the Bertelsmann Stiftung, the reasoning for the initiation of the BürgerForum 2011 is the decrease in voter turnout as well as increasing distance between voters and elected officials. While not cited by either the official BürgerForum website or Bertelsmann, a <a href="http://participedia.net/en/cases/b-rgerforum-europa">BürgerForum Europa</a> was launched in 2008 and ran through mid 2009. The Europa version follows a similar process to engage citizens. It is also run by the same two foundations (Bertelsmann and Heinz Nixdorf) and has similar partners but was not associated with any governmental entity. However, the goal of BürgerForum Europa was simply to start a dialogue and rekindle the European spirit but did not have a decision-making component. It can still be seen as a predecessor.</p><h2> </h2><h2><strong>Originating Entities and Funding</strong></h2><p>As mentioned above, the Bertelsmann Stiftung and Heinz Nixdorf Stiftung already initiated a BürgerForum on Europe. They were also driving forces behind the Germany-focused version partnered with the Office of the President. It should be mentioned that in the German Institutional design, the President holds a rather representative function with little power, and thus can engage in what he himself called “experiments” like this. The executive power lies with the Chancellor. Since the first stage of the process was held on the local/regional level, participating regions also co-organized and co-sponsored the forum with the two foundations and the President.</p><h2><strong>Participant Selection</strong></h2><h3>Regions</h3><p>For the purpose of the BürgerForum 2011, the initiators invited all German counties and cities with a population of over 80,000. Out of the 450 invited, 160 and responded and 25 were randomly selected to participate in the forum. According to the final Citizens-Program, the selection was supposed to reflect all aspects of Germany, citing cardinal directions, but it is not clear how geography was accounted for in the random selection process of the 25 regions. <a href="http://bund.buergerforum2011.de/">This map</a> does suggest that the regions were rather equally distributed across the country.</p><h3>Participating Citizens</h3><p>For each region, 400 citizens were to be randomly selected to participate in the forum. Citizens were approached via phone and age and education/career were taken into account in the selection process. Official sources such as the Bertelsmann Stiftung and the BürgerForum itself are not clear on how randomness was assured while taking age and education/career into account as it was only asked of participants upon being called. Over 80,000 citizen were called and in the end 10,000 committed to be a part of the 25, 400-people regional forums. Actual participation rate and involvement will be discussed under Analysis and Criticism.</p><h2><strong>Deliberation, Decisions, and Public Interaction</strong></h2><h3>Regional Opening Ceremonies and In-Person Deliberation</h3><p>After the official kick-off with experts and researchers at the Presidential Palace in January 2011, the citizens began their work on March 12, 2011. All 25 regions held an opening ceremony that day and the President addressed all of them via videoconference to start the debate. Throughout the opening ceremonies, participants engage in various groups in order to get to know each other and informally exchange their views on the issues of the day.</p><p>Following the festivities, the participants of each region moved into six committees:</p><p>-       Integration</p><p>-       Solidarity and Justice</p><p>-       Education</p><p>-       Demographics</p><p>-       Democracy and Participation</p><p>-       Ways of Family Life</p><p>These committees met in person in each region following the opening ceremony and discussed possible challenges to tackle. Following deliberation, each committee voted on one challenge they were to tackle and brainstormed possible solutions. The <a href="http://bund.buergerforum2011.de/discoursemachine.php?page=infopage&amp;id_page=4&amp;menucontext=119"><em>Spielregeln </em></a>(rules of the game) do not at all explain in any detail how the in-person deliberation should run. There is one sentence mentioning that instructions will be given in the invitation to the event as well as on the day of the event. An official account of the detailed structure of the deliberation cannot be found, thus only limitations of the process based on participant testimony from secondary sources will be addressed in the Analysis and Criticism section.</p><h3>Online Deliberation</h3><p>Trained moderators tasked with ensuring a balanced discussion within each committee monitored all online deliberations. The participants had to register with their full name and a picture allowing them to reconnect after having met in person during the first day.</p><h4>Regional</h4><p>The online portion of the regional forums was set in two parts over a total of five weeks following the day of the opening ceremony and in-person deliberation. The first part allowed the members of each committee to discuss and vote on one concrete solution to the challenge they had identified during their in-person deliberation on day one. The second part served to deepen the proposal through commentary and suggestions from all members of the committee while two “citizen-editors” per committee wrote the actual text.</p><h4>National</h4><p>Following the regional online deliberation, each region now had its six-part Citizens-Proposal. Thus, nationally there were now 150 proposals, 25 for each category (formerly committee, but since they are no longer a deliberating body, just a heading under which the proposals are discussed, it seems more prudent to refer to them as categories). All participants now gained access to a national online deliberation platform to discuss and vote on all proposals. No more changes could be made to the proposals but there was a two-step process to narrow the selection. First, participants voted on all 25 proposals for each category. The top eight proposals for each category advanced to a second round of voting and discussion. The discussions were now held in small chat rooms with only a few participants who would only weigh the pros and cons of two out of the eight proposals at a time. It remains unclear how many particpants constitute a 'few' and how they were selected. Eventually, one proposal would gain a majority and become part of the Federal Citizens-Program.</p><h3>Public Events</h3><p>Besides the opening ceremony that was geared directly towards the participants, there were two public events. The first was held simultaneously in the 25 regions presenting the respective Citizens Programs to the public, in print and online. The second, titled “Day of Democracy”, was held on the floor of the former German parliament in Bonn. During the event, the final six proposals in the Federal Citizens-Program were presented to the public as well as the President with the idea that the deliberative process among citizens culminates in them handing their ideas to political decision-makers for consideration and implementation. More details on the success of this notion are included below in Influence, Outcome and Effects.</p><h3>Decisions</h3><p>The Federal Citizens-Proposal was published with an explanation of the process as well as a one-page report on each proposal. The report details reasoning, pro and con, implementation and a list of the seven other proposals that made it to the final round of voting during the national portion of online deliberation. Below are brief summaries of the six final proposals. They will be important for the two following sections, specifically the assessment of influence and understanding of criticism.</p><p>Solidarity and Justice</p><p>Increasing ethical and moral responsibility in politics, business and society through changes in parliamentary procedure, higher accountability for election promises, honor code labor laws, registration of lobbyist and their contributions, and finally, a mandatory civil service year for young adults following high school.</p><p>Democracy and Participation</p><p>Participation, Independence and Transparency equals better Politics. Measures proposed: binding referendums (lowering signature threshold), mandatory citizen participation in certain cases, participatory budgeting, town hall meetings to increase democratic awareness and political education, separation of MPs and their advisory capacity outside of Parliament, ban on campaign contributions through corporations, recall elections.</p><p>Ways of Family Life</p><p>Job Security and societal appreciation encourage families (birthrate increase). Measures proposed: longer ma-/paternity leave with job guarantee after, financial compensation for inability to work due to family issues (caring for immediate relative), flexible work hours, free and guaranteed daycare, “Family Parliament” to be created to consider legislation regarding family issues.</p><p>Integration</p><p>Opportunities for Education: Mandatory daycare for all children three and older, mandatory language and integration classes for immigrants, ethics class in schools (explaining religious and cultural differences).</p><p>Education</p><p>Federal Control over Education Policy and School System: Same grading system, curriculum, in all 16 states. Increased standardized testing to ensure compliance.</p><p>Demographics</p><p>Creating a child and family friendly environment: Main goal: Increasing birthrate. Measures proposed: Affordable daycare and all day schooling, minimum wage for all job sectors and all levels of employment (part- vs. full-time), improved and more affordable education opportunities for young parents on leave.</p><p>All 25 regional Citizens-Programs can be found <a href="http://bund.buergerforum2011.de/index.php?page=infopage&amp;id_page=49&amp;menucontext=40">here</a> (in German).</p><p><strong>Influence, Outcomes, and Effects</strong></p><h3>The Official Evaluation Report</h3><p>The <a href="http://participedia.net/en/organizations/european-institute-public-participation">European Institute for Public Participation</a> compiled a report on the outcomes and effects of the BürgerForum 2011. Almost 3,000 out of the original 10,000 participants responded to their online survey. More than two-thirds of those surveyed said they were overall satisfied with the experience. Asked about their satisfaction with different components and stages of the forum, satisfaction fluctuated between 59 and 92 percent, even though in most categories roughly two-thirds indicated some level of satisfaction. The national online deliberation was least satisfactory and the phone conversation in the very beginning was the most satisfying by far. As a whole, the online portion of the forum saw the smallest amount of satisfied participants. Almost 80 percent stated they would encourage others to participate in future forums and just below two-thirds said they would do it again.</p><p>Almost 60 percent of surveyed participants mentioned the outcomes to friends and family while a little over 40 percent thought the Media had covered the forum. For about a quarter of surveyed participants the forum enabled them to better discuss politics with people with views different from their own and it increased their awareness of their democratic society. Less than 20 percent said they would aid the implementation of the proposals and just above 15 percent were now more interested in joining a political party or citizens initiative. The institute also gave participants the chance to add comments to their survey and the report summarizes most commonly mentioned criticism. Those will be revisited in the next section.</p><p><strong>Analysis and Criticism</strong></p><p>When the President accepted the Federal Citizens-Program at the "Day of Democracy" he thanked all the participants for their contribution but he already urged caution regarding the implementation of the suggestions. In some cases he simply argued that some of the suggestions are contrary to other measures of public opinion (election and poll results). He cited the failure of educational reform in the city-state of Hamburg, where the public rejected a move towards a more streamlined school system including standardized testing in that state alone. In other cases he cited constitutional concerns. For example, making day care mandatory may infringe on the individual rights of citizens.</p><p>Overall, the proposals mostly seem broadly idealistic and thus either vague or infeasible/not implementable. The deliberative process among citizens alone and the open nature of the forum may limit the opportunity for participants to get to the depth of the issue at hand. The question of feasibility, implementability as well as constitutionality is best illustrated by the "Solidarity and Justice" proposal. While implementable, it seems highly unlikely that any government regardless of political leanings, will force business into agreeing to some sort of honor code of ethics as German businesses hold themselves to a voluntary standard that is driven by societal as well as political pressure but inscribing that into law is simply not feasible and removed from reality. A mandatory civil service year for German youth coming out of high school is potentially a great idea, but it is not implementable because it is unconstitutional. The idea of a civil service year is originally derived from civil service becoming an alternative to conscription for conscientious objectors in the 1960's. Conscription however, was taken out of the constitution in 2011 and there is no basis left in the constitution that would allow for the government to mandate what its citizens have to do once graduated from High School. Civil service years already exist on a voluntary basis as an alternative to going straight to college or into a full-time job.</p><p>While the open design generally allows for all possible arguments to be heard, it may also inhibit the ability of the forum to come up with realistic solutions. The lack of structure within the deliberative process may be the cause of this problem, or simply the sheer size of the group of participating citizens. It is unfortunate that the transcripts of the online deliberation are not readily available after the forum is over. The transcripts would allow observers to gain a more detailed insight into the process and exchange of ideas and how that translated into the final proposals. It appears problematic that two citizens-editors per proposal were capable of capturing all the comments and questions of 100's of participants appropriately. Even though transcripts are not available, the comments portion of the evaluation report as well as newspaper coverage citing participants can provide an overview regarding the limitations of the deliberative process of the BürgerForum.</p><p>A local newspaper covered one regional BürgerForum three times between its inception in mid March 2011 and close to the end of the regional stage in early May. It also cites participants from all over the country. One major concern was accurate representation of all age groups. According to the articles, the phone register used to contact potential participants included landlines only and most young Germans do not have a landline any more and thus were left out. A lack of transparency regarding the age distribution among participants from the initiating foundations was also seen as less than ideal. A women cited in one article says she only counted four "young people" among the 300 participants present at her regional opening ceremony. She said that she is worried the lack of younger generations will only reaffirm the notion among older citizens that they have to decide on what is important to society because the youngsters do not care enough whereas young people will continue to feel excluded, widening the generational gap in society.</p><p>The participation rate once online deliberation began is also cited as one of the major criticism of the forum, both by the newspaper and the official evaluation report. In one regional forum, merely 40 percent of participants actually contributed to the discussion and by April, less than one quarter of participants was still active in the online deliberation further diluting the representativeness of the final program. It also suggests that not all voices were heard, which is confirmed by comments made in the official evaluation report. Participants felt that they were left out of the conversation and thus, dropped out. The openness of the discussion my be well intended but due to the number of participants encourages the most vocal of participants to take over the conversation. The report as well as the newspaper articles identified the moderators as part of the problem. One participant testified that moderators excluded him from the forum after criticizing the decision-making process. He said he did not feel welcome anymore and that his opinion did not matter.</p><p>Media coverage was not as extensive in other regions. Most regional news sources noted the selection of the region and covered the opening ceremony but no follow-up articles were written. However, the regional programs and their presentation to local officials were covered in just under half of the regions by local newspapers. In all of the regions that had follow-up coverage, increased citizen participation in local government was already established or was being planned. More than half of these regions had some form of participatory budgeting in place and others held town hall style meetings or were planning to do so in the future. If the follow-up articles included any analysis of the forum, they mostly mirrored the sentiments of the three articles used above. One article strongly re-emphasized the lack of participation in online deliberation. In Frankfurt, 300 participants attended the opening ceremony but only 24 continued online. A new criticism came from two regions: the loss of great ideas due to the streamlining process. One elected official blogged about this issue after the Aachen regional program was finished, stating that boiling the issues down to one challenge and one solution per committee led to the dilution of strong ideas and rather vague final proposals. A participant in northeastern Germany felt the same stating that a compendium of citizens' concerns might be more accurate than a one-issue majority opinion. Yet another participant argued that by the time the national voting occurred, it felt like choosing the lesser of two evils rather than working on comprehensive solutions.</p><p>Taking all of the problems into consideration, it is no surprise that the BürgerForum was not continued in this form in 2012. On the one side, a lot of participants did not get the result they hoped for either in the process or in the implementation of the proposals. On the other hand, politicians did not get the results they wanted as the proposals were so far fetched from the possible or simply reality, that they had no choice but to deny their implementation. However, the regional forums succeeded in moving some of the participating regions to more citizen participation in local decision-making. While the process may have been flawed, the survey shows the interest for more participation is clearly there. The chancellor has begun her own project in 2012, which will ultimately lead to a "conference" in the chancellery with citizens, NGO's and business leaders on a topic to be determined.</p><p>If the forum were to be continued with the goal of filtering from regional to national programs, either the design or even necessity of the online deliberation portion will have to be questioned. Especially for the regional portion, weekly, in-person deliberation much like the opening ceremony may be better suited. It would also allow for the participants to call on experts, including politicians, to clarify issues at hand to ensure that the proposals reflect realistic and implementable options. In order to ensure broad participation among the younger generation, a social media strategy might be useful when approaching citizens to become participants. A one-topic approach may also increase the depth of the outcomes. A preliminary poll among participants may be useful in identifying that one issue. Politicians might then be able to look at different options rather than being faced with one infeasible solution.</p><h2><strong>Secondary Sources</strong></h2><p><a href="http://www.noz.de/lokales/meppen/artikel/360298/bundesweite-kritik-am-burgerforum-2011"><em>Bundesweite Kritik am Bürgerforum 2011</em> in Neue Osnabrücker Zeiting, May 9, 2011.</a></p><p><a href="http://bund.buergerforum2011.de/">BürgerForum2011.</a></p><p><a href="http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-40197B16-6C59D941/bst/xcms_bst_dms_33485_33486_2.pdf">Bürgerforum 2011 by Bertelsmann Stiftung.</a></p><p><a href="http://www.insuedthueringen.de/lokal/bad_salzungen/fwstzslzlokal/BuergerForum-Die-Diskussion-geht-weiter;art83434,1656225"><em>Bürgerforum: Die Diskussion geht weiter </em>in inSüdthüringen.de, May 30, 2011.</a></p><p><a href="http://www.ostsee-zeitung.de/index_artikel_komplett.phtml?param=news&amp;id=3065985"><em>Bürgerforum 2011 für mehr Demokratie eröffnet </em>in Ostee-Zeitung, March 3, 2011.</a> [DEAD LINK]</p><p><a href="http://www.noz.de/lokales/meppen/artikel/327533/burgerforum-2011-im-emsland-jungere-sind-meist-aussen-vor"><em>Bürgerforum 2011 im Emsland: Jüngere sind meistens außen vor</em> in Neue Osnabrücker Zeitung, May 5, 2011.</a></p><p><a href="http://www.lokalkompass.de/wanne-eickel/politik/buergerforum-2011-in-bochum-glueck-auf-schwung-d60394.html"><em>Bürgerforum 2011 in Bochum: "Glück auf Schwung</em>" in lokalkompass.de, May 14, 2011.</a></p><p><a href="http://michael-servos.eu/?p=4333"><em>Bürgerforum 2011 offenbart Schwächen </em>by Michael Servos, May 16, 2011.</a></p><p><a href="http://www.buergerforum2009.de/">BürgerForumEuropa</a> [DEAD LINK]</p><p><a href="http://zeitungen.boyens-medien.de/aktuelle-nachrichten/zeitung/artikel/buergerprogramm-dithmarschen.html"><em>Bürgerprogramm Dithmarschen </em>in Boyens Zeitungen, May 15, 2011.</a></p><p><a href="http://blog.zdf.de/hyperland/2011/05/das-online-offline-forum-des-bundespraesidenten/"><em>Das Online-Offline-Forum des Bundespräsidenten</em> in Hyperland by ZDF, May 30, 2011.</a> [DEAD LINK]</p><p><a href="http://bund.buergerforum2011.de/index.php?page=infopage&amp;id_page=49&amp;menucontext=40"><em>Die 25 regionalen BürgerProgramme</em> in BürgerForum2011.</a></p><p><a href="http://www.fr-online.de/rhein-main/buergerforum--2011-einladung-zur-demokratie,1472796,8424666.html"><em>Einladung zur Demokratie </em>in Frankfurter Rundschau, May 9, 2011.</a></p><p><a href="http://bund.buergerforum2011.de/site/pictures/project/content/Evaluationsbericht.pdf"><em>Auswertungsbericht</em> by European Institute for Public Participation in BürgerForum2011.</a></p><p><a href="http://bund.buergerforum2011.de/discoursemachine.php?id_viewback=8&amp;menucontext=40&amp;page=detail_infoblog&amp;id_item=48014&amp;detail_layout_field=itemtype_layoutmisc2"><em>Evaluation des BürgerForums 2011</em> in BürgerForum2011.</a></p><p><a href="http://www.noz.de/lokales/meppen/artikel/286941/losungen-zum-gesellschaftlichen-zusammenhalt-gesucht"><em>Lösungen zum Gesellschaftlichen Zusammenhalt gesucht</em> in Neue Osnabrücker Zeitung, March 13, 2011.</a></p><p><a href="http://bund.buergerforum2011.de/discoursemachine.php?page=infopage&amp;id_page=4&amp;menucontext=119"><em>Spielregel</em> in BürgerForum2011.</a></p></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A105">Political Institutions (e.g. Constitutions, Legal Systems, Electoral Systems)</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1461">Solidarity and Justice</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1462">Democracy and Participation</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1463">Ways of Family Life</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1464">Integration</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A223">Education</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A1465">Demographics</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+                              <div class="country-name" itemprop="addressCountry">Germany</div>
+                                          </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+de">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+                DE      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A175">National</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A22">Consultation (i.e. to advise decision makers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A27">Raise public awareness</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A52">Develop individual capacities (e.g. skills, learning)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, January 1, 2011 - 09:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Saturday, December 31, 2011 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-participant-count field-type-number-integer field-label-above"><div class="field-label">Total Number of Participants:&nbsp;</div><div class="field-items"><div class="field-item even">10 000</div></div></div><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A33">Open to all</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/citizen-conferences">Citizen Conferences</a></div><div class="field-item odd"><a href="/en/methods/online-consultations">Online Consultations</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_facilitation_type%3A170">Professional Facilitators</a></div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_voting_type%3A148">Majoritarian Voting (i.e. 50%+1)</a></div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A154">Organized Groups (e.g. NGOs, Business Associations)</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A161">New Media (i.e. internet, texting, etc)</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">The Office of the President of the Federal Republic of Germany</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A30">National Government</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A19">Local Government (e.g. Village, Town, City)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/bertelsmann-stiftung">Bertelsmann Stiftung</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A28">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">European Institute for Public Participation </div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A169">International Organization</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A30">National Government</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-25f0a6473db187414a7d9f3e1273d1d9">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/758">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

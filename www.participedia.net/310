@@ -1,0 +1,421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/organizations/citizens-council" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/310" />
+  <title>Citizens&#039; Council | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"oVV9_FO6dT8aDtlUZeLZlBYzdKNJGlGM8v1V1utcZjc","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/organizations\/citizens-council?destination=node\/310":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-310 node-type-organization i18n-en section-organizations" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/organizations/citizens-council" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/organizations/citizens-council?destination=node/310" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-dMOxA3FDro8CNqJTd7pry8dDlBDn6QISl4cgiMGRpvc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Citizens&#039; Council</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-organization view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="Citizens&#039; Council - Participedia" addthis:url="http://participedia.net/en/organizations/citizens-council"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dec 1 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/phoebeshuang" title="View user profile." class="username" xml:lang="" about="/en/users/phoebeshuang" typeof="sioc:UserAccount" property="foaf:name" datatype="">Phoebe Huang</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Mission_and_Purpose" id="Mission_and_Purpose"></a><h2>Mission and Purpose</h2>
+<p>The Citizens' Council, formally referred to as the <a href="http://en.wikipedia.org/wiki/White_Citizens%27_Council" class="extiw" title="White Citizens' Council">White Citizens Council</a>, was a white supremacist group created in the South. The Council was formed in the 1950s after the Supreme Court outlawed school segregation in <a href="http://en.wikipedia.org/wiki/Brown_v._Board_of_Education" class="extiw" title="Brown v. Board of Education">Brown v. Board of Education</a> . Under the leadership of <a href="http://en.wikipedia.org/wiki/Robert_B._Patterson" class="extiw" title="Robert B. Patterson">Robert B. Patterson</a>, The Citizens' Council in efforts to resist desegregation was formed on July 11, 1954. It was started in Indianola, MS, and expanded to other states, including Arkansas, Louisiana, Alabama, and Missouri. It attracted middle to upper-class civilians, most of them politicians, doctors, lawyers, teachers, bankers, and businessmen. The Citizens’ Council lasted approximately 25 years, from 1954 – 1979.<a href="#cite_note-UMS-0" title="">[1]</a>
+</p><p>Unlike the <a href="http://en.wikipedia.org/wiki/Ku_Klux_Klan" class="extiw" title="Ku Klux Klan"> Ku Klux Klan  </a> and other racist groups during the <a href="http://en.wikipedia.org/wiki/civil_rights_movement" class="extiw" title="civil rights movement">civil rights movement</a>, the Citizens' Council was not rooted in violence. Instead, the Citizens' Council focused on using economic, social and political pressures to oppress African Americans and supporters. While common stereotypes perceive racism to be behavior exemplified by the working and uneducated class, the Citizens’ Council proved that racism was well practiced by educated, upper class citizens. Characterized by their fear of miscegenation, the Citizens’ Council chronicled an important time in American history when it was not a law, but the people themselves that restricted each other from achieving civil rights. As Earl Johnson, a former member of the Citizens’ Council writes, “…it looked like to me that the Citizens' Council was just stirring up hate among whites and really was accomplishing nothing except just building an organization of members paying dues.”<a href="#cite_note-JOHNSTON-1" title="">[2]</a> The Citizens' Council monitored all aspects of life in the Deep South with the aid of <a href="http://en.wikipedia.org/wiki/Jim_Crow_laws" class="extiw" title="Jim Crow laws"> Jim Crow laws</a> hoping to retain the status quo prior to the move towards integration. They heavily influenced outcomes of elections, health care policies, economic sanctions and progress, school districts, and other agenda.
+</p>
+<a name="History" id="History"></a><h2>History</h2>
+<p>On May 17, 1954, the Supreme Court ruled in Brown v. Board of Education that “in the field of public education, the doctrine of ‘separate but equal’ has no place. Separate but unequal education facilities are inherently unequal.” <a href="#cite_note-2" title="">[3]</a>  The Court further ruled that segregation in any public place was unequal. This proclamation for integration was celebrated by black Americans everywhere, but in the South it was received with skepticism. Known infamously as "<a href="http://en.wikipedia.org/wiki/Black_Monday" class="extiw" title="Black Monday">Black Monday</a>,” Southern whites were greatly concerned with the Supreme Court’s unanimous decision, and many felt the threat of this change in status quo.  Mississippi Senator <a href="http://en.wikipedia.org/wiki/James_O._Eastland" class="extiw" title="James O. Eastland">James O. Eastland </a> said, "On May 17, 1954, the Constitution of the United States was destroyed because of the Supreme Court's decision. You are not obliged to obey the decisions of any court which are plainly fraudulent [and based on] sociological considerations.” <a href="#cite_note-SOUTH-3" title="">[4]</a>  
+</p><p>
+The first Citizens’ Council meeting was held in a living room in <a href="http://en.wikipedia.org/wiki/Indianola,_Mississippi" class="extiw" title="Indianola, Mississippi">Indianola, Mississippi</a> on July 11, 1954.  Robert “Tut” Patterson, a plantation manager, led the chapter.  Attendance was approximately 100 people, including the town mayor and civic attorney. By August 1955, membership in the Citizens’ Council had exceeded 60,000 people, and included 253 Councils. In August 1956, the Citizens’ Council had expanded to 30 states to form the <a href="http://en.wikipedia.org/wiki/Citizens%E2%80%99_Council_of_America" class="extiw" title="Citizens’ Council of America">Citizens’ Council of America</a>. Under the goal to preserve the “natural” rights of racial segregation and the “maintenance of our States’ Rights to regulate public health, morals, marriage, education, peace and good order in the States, under the Constitution of the United States.” Membership for the Citizens’ Councils peaked at 250,000 in 1957. The Citizens’ Council of America boasted a strong board of advisors, including Senator James O. Eastland and Representative John Bell Williams of Mississsippi, Senator J. Strom Thurmond and Representative L. Mendel of South Carolina, and Governor Marvin Griffin of Georgia.  <a href="#cite_note-UMS-0" title="">[1]</a>
+</p><p>In April 1957, a fifteen-minute telecast, “Forum” began its weekly broadcast over WLBT-TV in Jackson. Telecasts were shown by twelve stations across Alabama, Georgia, Louisiana, Mississippi, Texas, and Virginia, and radio tapes were broadcasted over fifty stations in the South. In 1962, the Civil Rights Act practically all but destroyed the Citizens’ Council’s years of work as racial integration became more widely popular and the councils’ advocacy started to backfire. That September 29, President Kennedy federalized Mississippi National Guard troops to force integration at the <a href="http://en.wikipedia.org/wiki/University_of_Mississippi" class="extiw" title="University of Mississippi">University of Mississippi</a> (Ole Miss). <a href="#cite_note-SOUTH-3" title="">[4]</a>
+</p><p>
+<a href="http://en.wikipedia.org/wiki/The_Sovereignty_Commission_(see_below)" class="extiw" title="The Sovereignty Commission (see below)">The Sovereignty Commission</a> announced on October 19, 1964 that monthly payments to “Forum” would be reduced from $4,500 to $2,000. Viewer attention started to dwindle, and by December 1964, only a few stations in Mississippi and neighboring states still regularly played “Forum” programs. While the Citizens’ Councils strived for in the late 1960s, the effects soon began to wear off. The decline can be explained by a number of reasons, but mostly Southerners grew wary of upholding such strict traditions in an era of forward thinking. As African Americans started to gain political, economic, and social status, businesses could no longer deny services to African Americans. Political leaders and other community official started to liberalize towards integration, and the balanced shifted favorably towards civil rights in the South. The social cultural change was generally accepted by Southern citizens, who became reluctant to associate with racist groups that were being condemned by the rest of the nation. 
+</p><p>
+By the 1970s, support had drastically diminished for the Citizens’ Councils. There was a brief revival in 1985 for the Citizens’ Council when a new group emerged dedicated to preserving the privileges of white America, <a href="http://cofcc.org/" class="external text" title="http://cofcc.org/" rel="nofollow">The Council of Conservative Citizens (CofCC)</a>. Founded in St. Louis, MO in 1985 by leaders in the Citizens’ Council, including Robert Patterson, the CCC had a more specific set of values on which they based the need for a European America.  The Citizens Council was eventually completely replaced by The Council of Conservative Citizens.  They still reserve the same extremist views of white supremacy and white separatism by promoting “the interests of European Americans” today. <a href="#cite_note-CCC-4" title="">[5]</a>
+</p>
+<a name="The_Movement" id="The_Movement"></a><h2>The Movement</h2>
+<a name="Oppression" id="Oppression"></a><h3>Oppression</h3>
+<p>As Southern blacks began their civil rights movement through boycotts, protests, and other forms of revolt, Southern whites also began their own form of resistance. When Southern blacks boycotted the bus system in Montgomery, Alabama in 1955, the Citizens Council gained an exponential increase of membership. Southern blacks were evicted by landlords, fired by employers, denied credit by merchants, refused service, and assaulted. Other members worked to prevent African American voters from rolls, threatened to fire employees who registered to vote or integrate public facilities, and foreclosed businesses and farms.  <a href="#cite_note-WCC-5" title="">[6]</a>
+</p>
+<a name="Education" id="Education"></a><h3>Education</h3>
+<p>Since the Citizens’ Council’s Movement was rooted in opposition for segregated education, it was no surprise that a good majority of attention was focused on school boards. The Dallas Citizens’ Council was founded in 1957 with a membership of 25,000. Supported by Representative Joe N. Chapman of Sulphur Springs and Texas B.E. Masters, president emeritus of Kilgore JuniorCollege, the Texas Board of Education allowed states funds for desegregated school districts. In the small town of Hoxie, Arkansas, where Caucasian students outnumbered African American students by a ratio of 99 to 1, dissent for integration rose until the school board suspended classes for fall harvest weeks in advance. Angry parents picketed and boycotted students from school. In New Orleans, Louisiana, <a href="http://en.wikipedia.org/wiki/Leander_Perez" class="extiw" title="Leander Perez">Leander Perez </a>, a wealthy land owner, lawyer, and judge, was hired by the Orleans Parish School Board to help prevent desegregation. Perez preached that integration was a communist plot to weaken the country, using the slogan “integration is the Southern expression of communism.” <a href="#cite_note-SOUTH-3" title="">[4]</a>  In Virginia, massive resistance was evident in extreme measures taken by school districts. Funding was eliminated for public schools attempting to integrate. Special privileges were given to white students, including grants to pay tuition for segregated private schools (excluded by Brown v. Board of Education), tax credits granted to parents who sent children to segregated schools, and additional funds were given to transport white students to segregated private schools. <a href="#cite_note-WEB-6" title="">[7]</a>
+</p>
+<a name="Intimidation_.26_Violence" id="Intimidation_.26_Violence"></a><h3>Intimidation &amp; Violence</h3>
+<p>The Citizens’ Council initially sought to distinguish from the Ku Klux Klan (KKK), but as their movement began to move towards extreme racial disparities, they soon became labeled as the “country club Klan” or “uptown Klan.” Black voter registration fell from 31.7% to 25.7% between 1956 and 1959 due to intimidation. <a href="#cite_note-SOUTH-3" title="">[4]</a> Direct violence committed by the Citizens' Council was hard to find, but the members of the Council often supported violence executed by the KKK.
+</p>
+<a name="Activities.2C_Major_Projects_.26_Events" id="Activities.2C_Major_Projects_.26_Events"></a><h2>Activities, Major Projects &amp; Events</h2>
+<p>In efforts to recreate old town meetings locally, the Citizens’ Council movement urged local groups to meet and discuss ways to “meet any crisis by expressing the will of the people.”<a href="#cite_note-COMMENTARY-7" title="">[8]</a> The Citizens’ Councils of America encouraged local white Americans to disrupt daily living for African Americans and sympathizers. Below are a few examples that occurred:
+</p><p>Mississippi was a crucial state in the segregationist movement. They claimed a membership of 80,000 in 1956. In 1959, the Citizens’ Council played a key role in electing Ross Barnett, a segregationist, to the Governor’s Office. 
+</p><p>
+At a large public meeting on May 17, 1956, the Citizens' Council of Greater New Orleans launched an attack on the Urban League, an integrated organization devoted to developing job opportunities for blacks. Leander Perez attacked the Urban League as "a communist organization" and denounced a list of its board members in public. <a href="#cite_note-SOUTH-3" title="">[4]</a> 
+</p><p>
+On Feburary 10, 1956, twelve thousand whites filled the state coliseum in Montgomery at a Citizens’ Council rally featuring Senator James O. Eastland. It was one of the largest political gatherings in the history of the state then. Many rushed to affiliate themselves with the Council after city officials urged the white community to unite against the bus boycott. <a href="#cite_note-MONT-8" title="">[9]</a>  
+</p><p>
+In <a href="http://en.wikipedia.org/wiki/Little_Rock,_Arkansas" class="extiw" title="Little Rock, Arkansas">Little Rock</a>, disruption caused headlines news when the local Capital Citizens’ Council interrupted school board meetings, held letter-writing campaigns to the governor urging him to invoke police powers, and raised havoc within the white community for fear of [integration. <a href="http://en.wikipedia.org/wiki/Central_High_School" class="extiw" title="Central High School">Central High School </a> was in the process of being integrated, and with the help of the National Guard, it was – but not without facing Capital Citizens’ Council’s adamant insistence that “forced integration was impractical.” <a href="#cite_note-WHITE-9" title="">[10]</a>
+</p>
+<a name="Funding" id="Funding"></a><h2>Funding</h2>
+<p>The majority of funding came from members themselves, who paid dues every meeting. The Citizens' Councils especially attracted wealthy members of society who were more than willing to donate for a worthy cause. Membership was open to anyone who fit the correct description: white, powerful, and racist. Members paid dues and attended weekly meetings in local homes, courthouses, schools, and other locations.  A typical meeting in Mississippi is described by Erle Johnston, former director of the Mississippi State Sovereignty Commission:
+</p>
+<blockquote>Big speaker [would] get up and say, "We're not going to let the federal government do so-and-so. We are not going to do so-and-so. Come on. Bring your money up here. Let's join. Give us your money." So people would give their money and leave there, and they would feel better, like an emotional purgative, even though no plan had been adopted; no course had been assumed.<a href="#cite_note-JOHNSTON-1" title="">[2]</a> </blockquote>
+<p>The other way to receive revenue was from the publicly-funded<a href="http://en.wikipedia.org/wiki/Mississippi_State_Sovereignty_Commission" class="extiw" title="Mississippi State Sovereignty Commission">  Mississippi State Sovereignty Commission</a>, an agency that promoted segregation. In 1956, the Mississippi legislature formed the State Sovereignty Commission. The Sovereignty Commission contributed generous funds to the Citizens’ Council, and also offered their investigation through a covert network that tracked blacks and whites. <a href="#cite_note-UMS-0" title="">[1]</a> 
+</p><p>The Citizens’ Council did not keep specific records, but speculation estimates its annual budget in 1956 to be around 400,000 in Mississippi alone. William J. Simmons estimated the budget to have fallen to around 200,000 by 1963.
+</p>
+<a name="Publications" id="Publications"></a><h2>Publications</h2>
+<p>As the Citizens’ Council spread into other states, many started to use propaganda to spread the message. On October 15, 1955 the Citizens’ Council in Mississippi released the first issue of The Citizens’ Council, a pro-segregationist newspaper. By 1960, 50,000 copies of the issue were circulating on average, and television and radio broadcasts were also available for program. Other Citizens’ Council pamphlets often carried messages describing African Americans as having “an inherent deficiency in mental ability” and “a natural indolence.”<a href="#cite_note-EXTREME-10" title="">[11]</a> The monthly four page newspaper contained news from area newspapers, essays from advocates, and articles of similar campaigns in South Africa. Both American and African blacks were portrayed as sexual predators or caricatured as African savages, cannibals, and witch doctors incapable of self-control through cartoons and writing. <a href="#cite_note-CCC-4" title="">[5]</a>  
+</p><p>
+The notorious Black Monday, title referring to the day of Brown v. Board of Education , was written by <a href="http://en.wikipedia.org/wiki/Thomas_Pickens_Brady" class="extiw" title="Thomas Pickens Brady"> Thomas Pickens Brady</a>, a Mississippi circuit court judge. The handbook became a staple in the Citizens’ Council’s movement. 
+</p><p>
+In 1956, Patterson published a series of five pamphlets. Patterson used powerful politicians to support his main points: incorporated into his pamphlets were an article by former Supreme Court Justice James F. Brynes of South Carolina, a speech by state Attorney General Eugene Cook of Georgia, and addresses by Senator James O. Eastland and Representative John Bell Williams. Patterson went on to publish sets of single-sheet leaflets which boasted statistics to show that crime, illegitimacy, and venereal disease were more prevalent in blacks than whites.
+</p><p>
+In January 1956, Montgomery mayor W.A. Gayle joined the Citizens’ Council, publicly declaring that “every right-right thinking white person in Montgomery, Alabama and the South should do the same.”<a href="#cite_note-KING-11" title="">[12]</a> By February, membership had doubled. Martin Luther King wrote to President Dwight D. Eisenhower asking him to investigate the Citizens’ Council violence.
+</p>
+<a name="Present_Day" id="Present_Day"></a><h2>Present Day</h2>
+<p>Today, the <a href="http://en.wikipedia.org/wiki/Council_of_Conservative_Citizens_(CofCC)" class="extiw" title="Council of Conservative Citizens (CofCC)">Council of Conservative Citizens</a> continues to exists, and is headquartered in St. Louis, MO. They follow a “Statement of Principles,” written by <a href="http://en.wikipedia.org/wiki/Dr._Samuel_Francis" class="extiw" title="Dr. Samuel Francis">Dr. Samuel Francis</a>, the former editor of the Citizens’ informer newspaper and a member of the CofCC National Board of Directors.  The “Statement of Principles” begins with a declaration: “The American men and women who make up the Council of Conservative Citizens (CofCC) believe in, commit themselves to, and pledge to work for and support these fundamental principles of American civilization, liberty, justice, and national safety.” <a href="#cite_note-CCC-4" title="">[5]</a> A list of 14 points detail the  from the United States as a Christian country, the preservation of European peoples in the United States, to specific policies on family, the environment, national and state law. CofCC has chapter sites in Alabama, California, Mississippi, and the Carolinas to name a few, and also European allies, including the <a href="http://en.wikipedia.org/wiki/British_National_Party" class="extiw" title="British National Party"> British National Party</a>, <a href="http://en.wikipedia.org/wiki/Vlaams_Belang" class="extiw" title="Vlaams Belang"> Vlaams Belang</a> (in Flanders), and <a href="http://en.wikipedia.org/wiki/Front_National" class="extiw" title="Front National"> Front National </a> (in France). Members of the CofCC describe themselves as “the country’s most effective conservative activist group.” The group publishes a newspaper, The Citizens Informer, that is delivered quarterly. Each issue contains a section called “Council News,” which contains events happening in local chapters. CofCC can also be heard on Talk Radio, where they CofCC CEO Gordon Baum and member Earl Holt have hosted “Right at Night” for 10 years. The station was shut down after the death of the station’s owner. <a href="http://en.wikipedia.org/wiki/The_Political_Cesspool_Radio_Program" class="extiw" title="The Political Cesspool Radio Program">The Political Cesspool Radio Program</a> is another radio broadcast that can be heard live every Saturday evening from 6:00pm – 9:00pm CT in Memphis, Tennessee.
+</p>
+<a name="Analysis_.26_Criticism" id="Analysis_.26_Criticism"></a><h2>Analysis &amp; Criticism</h2>
+<p>The Citizens' Council, curiously enough, practiced deliberation at the social and analytical process. By conforming to each other’s racist ideals, the Citizens’ Council united under a common fear of integration. Deliberation is the act of interaction through peoples as they evaluate choices and reach solutions. When members met for their weekly meetings and discussed recent news, deliberation occurred because they tried to address current issues by gathering resources and agreeing on actions to be taken. But why did such a vast movement of a shared political thinking fail?  Political Communication and Deliberation , written by John Gastil, explains the necessary components of deliberation. At the analytical level, the spread of information through mass media successfully created a solid information base for users, and clearly identified a set of values that defined the Citizens’ Council. Yet, the organization ultimately failed to continue its influence on society as the civil rights movement was embraced by the rest of the nation. The Citizens’ Council largely focused on the process of enticing members to join, while following up on results or brainstorming various ways to execute their opinions. At the social level, the Citizens’ Council adequately fulfilled criteria to ensure mutual comprehension, but failed to respects its citizenry by giving the average citizen little opportunity to express their experiences to the big leaders that charismatically led the way. The Councils were hardly a community-friendly organization as they were controlled by the most rich and most powerful of society. The decline of this organization can only be accredited to the lack of coherent political deliberation. 
+</p>
+<a name="Groupthink" id="Groupthink"></a><h3>Groupthink</h3>
+<p>The Citizens’ Council is a notable organization of deliberation because it fulfills many groupthink proposals. For one, it brought together individuals in society who identified their lifestyles based on a specific set of beliefs. By first creating an identity that related to the movement, the Citizens’ Council could draw more support by easily appealing to their shared views. That mere opinions at a local level could be magnified to a national scale of racial segregation is a remarkable accomplishment. Another praiseworthy quality of the Citizens’ Council was its ability to mobilize the populace at a local level. Though there was disconnect between states, all of the councils had the same “inherent morality” to maintain segregation.”<a href="#cite_note-GASTIL-12" title="">[13]</a> By maintain a stereotyped view of the opposing group’s motivations (“African Americans are bad.”) while secretly keeping negative news or flaws hidden to avoid dispute (ie. Not discussing a new civil rights group, not presenting the latest discovery of integration cities, etc), members of the Citizens’ Council fell into a monotonous duty to their segregationist ideals. Despite its power and effectiveness, groupthink can be for large groups, many also believe it is an explanation for policy disasters. Flawed decisions are inevitable in a groupthink dynamic since no one dares to question a policy strategy or make suggestions.
+</p>
+<a name="Lack_of_Communication" id="Lack_of_Communication"></a><h3>Lack of Communication</h3>
+<p>The Citizens’ Council’s eventual demise can only be attributed to its lack of deliberation at a larger scope. The movement had difficulty working jointly with other states because each council focused solely on matters that could be handled locally. If Councils had formed monthly or semi-annual meetings for all those involved in Citizens’ Council of America, or even at the state level between cities, the Citizens’ Council surely would have survived the more revolutionary civil rights agenda that destroyed the Citizens’ Council.
+</p>
+<a name="Political_Language" id="Political_Language"></a><h3>Political Language</h3>
+<p>One of the more manipulative political influences the Citizens’ Council fostered was the usage of powerful words to manipulate the public at large. Much like the political scientist Murray Edelman described with the word crisis, repetitive usage of the Citizens’ Council for words like racism, dirty, disease, and other derogatory adjectives for African Americans confused normal citizenry enough to the Councils’ advantage. As Edelman pointed out, “crisis language maybe used to encourage the…population to accept [the proposed ideas],” and furthermore often “relaxes resistance to governmental interferences with civil liberties and bolsters support for executive actions, including discouragement of suppression of criticism." <a href="#cite_note-GASTIL-12" title="">[13]</a>  Such practice was commonly used by the Citizens’ Councils through their campaigns and propaganda, and extremely effective during the organization's earlier years.
+</p>
+<a name="External_Links" id="External_Links"></a><h2>External Links</h2>
+<p><a href="http://www.dallasnews.com/sharedcontent/dws/news/localnews/125th/newsevents/stories/061810dnmetdcc125.b7765fb8.html" class="external text" title="http://www.dallasnews.com/sharedcontent/dws/news/localnews/125th/newsevents/stories/061810dnmetdcc125.b7765fb8.html" rel="nofollow">Dallas Citizens' Council</a>
+</p><p><a href="http://cofcc.org/" class="external text" title="http://cofcc.org/" rel="nofollow">Council of Conservative Citizens</a>
+</p><p><a href="http://www.citizenscouncils.com/" class="external text" title="http://www.citizenscouncils.com/" rel="nofollow">Citizens' Council</a>
+</p><p><a href="http://orig.jacksonsun.com/civilrights/sec2_citizencouncil.shtml" class="external text" title="http://orig.jacksonsun.com/civilrights/sec2_citizencouncil.shtml" rel="nofollow">The Jackson Sun</a>
+</p><p><a href="http://www.ferris.edu/htmls/othersrv/isar/Institut/CCC/" class="external text" title="http://www.ferris.edu/htmls/othersrv/isar/Institut/CCC/" rel="nofollow">Institute for the Study of Academic Racism</a>
+</p>
+<a name="Secondary_Literature" id="Secondary_Literature"></a><h2>Secondary Literature</h2>
+<p>McMillen, Niel R. The Citizens' Council: Organized Resistance to the Second Reconstruction, 1954-64. Illini Books, 1994. Print.
+</p><p><a href="http://www.commentarymagazine.com/viewarticle.cfm/the-white-citizens-councils-br-respectable-means-for-unrespectable-ends-2460" class="external text" title="http://www.commentarymagazine.com/viewarticle.cfm/the-white-citizens-councils-br-respectable-means-for-unrespectable-ends-2460" rel="nofollow">The White Citizens Councils: Respectable Means for Unrespectable Ends</a>
+</p><p><a href="http://faculty.nwacc.edu/dvinzant/documents/McMillen.pdf" class="external text" title="http://faculty.nwacc.edu/dvinzant/documents/McMillen.pdf" rel="nofollow">The White Citizens’ Council and Resistance to School Desegregation in Arkansas</a>
+</p><p><a href="http://etd.ohiolink.edu/send-pdf.cgi/Luce%20Phillip%20Abbott.pdf?osu1144847499" class="external text" title="http://etd.ohiolink.edu/send-pdf.cgi/Luce%20Phillip%20Abbott.pdf?osu1144847499" rel="nofollow">The Mississippi White Citizens' Council</a>
+</p>
+<a name="References" id="References"></a><h2>References</h2>
+<p><a href="http://www.adl.org/mwd/ccc.asp" class="external text" title="http://www.adl.org/mwd/ccc.asp" rel="nofollow">The Militia Watchdog</a>
+</p>
+<ol class="references"><li id="cite_note-UMS-0">↑ <a href="#cite_ref-UMS_0-0" title="">1.0</a> <a href="#cite_ref-UMS_0-1" title="">1.1</a> <a href="#cite_ref-UMS_0-2" title="">1.2</a>  Citizens' Council Collection (MUM00072). Archives &amp; Special Collections, J.D. Williams Library, The University of Mississippi.</li>
+<li id="cite_note-JOHNSTON-1">↑ <a href="#cite_ref-JOHNSTON_1-0" title="">2.0</a> <a href="#cite_ref-JOHNSTON_1-1" title="">2.1</a>  Earl Johnston, <a href="http://www.usm.edu/crdp/html/cd/citizens.htm" class="external free" title="http://www.usm.edu/crdp/html/cd/citizens.htm" rel="nofollow">http://www.usm.edu/crdp/html/cd/citizens.htm</a> </li>
+<li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a>  United States Supreme Court Brown v. Board of Education <a href="http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&amp;vol=347&amp;invol=483" class="external text" title="http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&amp;vol=347&amp;invol=483" rel="nofollow">FindLaw Cases &amp; Codes</a></li>
+<li id="cite_note-SOUTH-3">↑ <a href="#cite_ref-SOUTH_3-0" title="">4.0</a> <a href="#cite_ref-SOUTH_3-1" title="">4.1</a> <a href="#cite_ref-SOUTH_3-2" title="">4.2</a> <a href="#cite_ref-SOUTH_3-3" title="">4.3</a> <a href="#cite_ref-SOUTH_3-4" title="">4.4</a>  The Southern Institute for Education and Research "Civil Rights Education" &lt;<a href="http://www.southerninstitute.info/civil_rights_education/divided12.html" class="external free" title="http://www.southerninstitute.info/civil_rights_education/divided12.html" rel="nofollow">http://www.southerninstitute.info/civil_rights_education/divided12.html</a>&gt; </li>
+<li id="cite_note-CCC-4">↑ <a href="#cite_ref-CCC_4-0" title="">5.0</a> <a href="#cite_ref-CCC_4-1" title="">5.1</a> <a href="#cite_ref-CCC_4-2" title="">5.2</a>  Council of Conservative Citizens &lt;<a href="http://cofcc.org/" class="external free" title="http://cofcc.org/" rel="nofollow">http://cofcc.org/</a>&gt; </li>
+<li id="cite_note-WCC-5"><a href="#cite_ref-WCC_5-0" title="">↑</a>  Adams, Thomas Jessen. "White Citizens' Council." Mwire: Encyclopedia of African American History, 1896 to Present: From the Age of Segregation to the Twenty-First Century (2008): n. pag. Web. 7 Dec 2010.<a href="http://www.mywire.com/a/Enc-African-American-History-from-1896/White-Citizens-Council/9451397/" class="external autonumber" title="http://www.mywire.com/a/Enc-African-American-History-from-1896/White-Citizens-Council/9451397/" rel="nofollow">[1]</a> </li>
+<li id="cite_note-WEB-6"><a href="#cite_ref-WEB_6-0" title="">↑</a>  Webspinner, 1999-2009 <a href="http://www.crmvet.org/tim/timhis54.htm" class="external text" title="http://www.crmvet.org/tim/timhis54.htm" rel="nofollow">Civil Rights Movement Veterans</a> </li>
+<li id="cite_note-COMMENTARY-7"><a href="#cite_ref-COMMENTARY_7-0" title="">↑</a>  Halberstam, David. The White Citizens Councils: Respectable Means for Unrespectable Ends&lt;/i&gt; October 1956 <a href="http://www.commentarymagazine.com/viewarticle.cfm/the-white-citizens-councils-br-respectable-means-for-unrespectable-ends-2460" class="external text" title="http://www.commentarymagazine.com/viewarticle.cfm/the-white-citizens-councils-br-respectable-means-for-unrespectable-ends-2460" rel="nofollow">Commentary Magazine</a> </li>
+<li id="cite_note-MONT-8"><a href="#cite_ref-MONT_8-0" title="">↑</a> Randall, Vernellia R. Rebellion in Montgomery 1997, 1998, 1999, 2001 </li>
+<li id="cite_note-WHITE-9"><a href="#cite_ref-WHITE_9-0" title="">↑</a>  <a href="http://people.virginia.edu/~dew3r/whitec.htm" class="external text" title="http://people.virginia.edu/~dew3r/whitec.htm" rel="nofollow">White Citizens' Council</a> </li>
+<li id="cite_note-EXTREME-10"><a href="#cite_ref-EXTREME_10-0" title="">↑</a> "Extremism in America: Council of Conservative Citizens," <a href="http://www.adl.org/learn/ext_us/CCCitizens.asp?xpicked=3&amp;item=12" class="external text" title="http://www.adl.org/learn/ext_us/CCCitizens.asp?xpicked=3&amp;item=12" rel="nofollow">ADL: The Anti-Defamation League</a> </li>
+<li id="cite_note-KING-11"><a href="#cite_ref-KING_11-0" title="">↑</a>  The Martin Luther King Jr. Research and Education Institute "White Citizens' Council (WCC)" <a href="http://mlk-kpp01.stanford.edu/index.php/encyclopedia/encyclopedia/enc_white_citizens_councils_wcc/" class="external text" title="http://mlk-kpp01.stanford.edu/index.php/encyclopedia/encyclopedia/enc_white_citizens_councils_wcc/" rel="nofollow">Martin Luther King Jr. and the Global Freedom Struggle </a></li>
+<li id="cite_note-GASTIL-12">↑ <a href="#cite_ref-GASTIL_12-0" title="">13.0</a> <a href="#cite_ref-GASTIL_12-1" title="">13.1</a>  Gastil, John. Political communication and deliberation. Sage Publications, Inc, 2007. Print. p. 141, 90-91</li></ol></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-organization-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Organization Data</h2>
+                  <div class="content">
+          <div class="location-locations-display">
+    <h3 class="location-locations-header">Location</h3>
+
+    <div class="location-locations-wrapper">
+              <div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Indianola,  Mississippi, USA</span>
+                                                                <span class="geo"><abbr class="latitude" title="33.450951">33° 27' 3.4236" N</abbr>, <abbr
+            class="longitude" title="-90.655092">90° 39' 18.3312" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=%2C+%2C+%2C+%2C+">Google Maps</a></div>    </div>
+  </div>
+          </div>
+  </div>
+<div class="field field-name-field-executive-director field-type-text field-label-above"><div class="field-label">Executive Director:&nbsp;</div><div class="field-items"><div class="field-item even">Gordon Baum</div></div></div><div class="field field-name-field-budget field-type-text field-label-above"><div class="field-label">Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">300</div></div></div><div class="field field-name-field-sector field-type-taxonomy-term-reference field-label-above"><div class="field-label">Sector:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/sector/profit" typeof="skos:Concept" property="rdfs:label skos:prefLabel">For Profit</a></div></div></div><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/issue-area/budgeting" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Budgeting</a></div><div class="field-item odd"><a href="/en/general-issues/planning-eg-urban-planning-transportation-etc" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Planning (e.g. Urban planning, Transportation, etc.)</a></div><div class="field-item even"><a href="/en/issue-area/environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Environment</a></div><div class="field-item odd"><a href="/en/general-issues/health" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Health</a></div><div class="field-item even"><a href="/en/general-issues/education-schools" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Education &amp; Schools</a></div><div class="field-item odd"><a href="/en/issue-area/economic-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Economic Development</a></div><div class="field-item even"><a href="/en/general-issues/national-international-security" typeof="skos:Concept" property="rdfs:label skos:prefLabel">National &amp; International Security</a></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>

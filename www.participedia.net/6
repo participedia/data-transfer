@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/cases/californiaspeaks" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/6" />
+  <title>CaliforniaSpeaks | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_YT4nO28v56yQyCE1hU0PcJn-6S2G1w_eQ71oRxVmiVM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"--pUd055D6Y84FMFm4p-cwqBRVd1OWEhghGvqjlTtp0","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/participedia\/modules\/features\/pp_distro\/js\/login_and_edit_suggestion.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/features\/pp_distro\/layouts\/pp_2col\/pp_2col.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ppDistro":{"nid":"6"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/cases\/californiaspeaks?destination=node\/6":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-6 node-type-case i18n-en section-cases" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/cases/californiaspeaks" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/cases/californiaspeaks?destination=node/6" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-ErANECwr60zoHDXRAC5jHOH6Tg3UFQIbHW7RdCegdxY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">CaliforniaSpeaks</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="pp-2col node node-case view-mode-full view-mode-full clearfix">
+
+  
+      <div class="group-left">
+      <div class="inner">
+        <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="title">CaliforniaSpeaks</h1></div></div></div><div class="field field-name-pp-case-created field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">First submitted by <a href="/en/users/susanna-haas-lyons" title="View user profile." class="username" xml:lang="" about="/en/users/susanna-haas-lyons" typeof="sioc:UserAccount" property="foaf:name" datatype="">Susanna haas Lyons</a> on Sun, 11/29/2009 - 22:24</div></div></div></div><div class="field field-name-pp-case-changed field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="submitted">Most recent changes by <a href="/en/people/scott-fletcher" title="View user profile." class="username" xml:lang="" about="/en/people/scott-fletcher" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scott Fletcher</a> on Fri, 05/13/2016 - 10:33</div></div></div></div><div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="CaliforniaSpeaks - Participedia" addthis:url="http://participedia.net/en/cases/californiaspeaks"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div class="form-item form-type-item"><div class='form-item-inner'>
+  <label>Language </label>
+ English
+</div></div>
+<div id="node-case-full-group-case-media" class="clearfix group-case-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div><div class="field field-name-field-images field-type-image field-label-above"><div class="field-label">Other images:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://participedia.net/sites/default/files/styles/colorbox-full/public/index.php__17.jpg?itok=GmzS0e3e" title="" class="colorbox" rel="gallery-node-6-oJDfKDP2gNk"><img typeof="foaf:Image" src="http://participedia.net/sites/default/files/styles/colorbox-thumb/public/index.php__17.jpg?itok=G8ecZkKk" width="40" height="40" alt="" title="" /></a></div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><br /><em>Note: Another version of this case study can be found below as a file attachment with the prefix "VD". This alternate version was originally submitted to </em><a href="http://www.vitalizing-democracy.org/">Vitalizing Democracy</a><em> as a contestant for the 2011 Reinhard Mohn Prize.</em></p><h3>Purpose and Problem</h3><p>Nearly five million Californians live without health insurance, and millions of others struggle with skyrocketing costs and the threat of losing their own coverage. To address this growing crisis, Governor Arnold Schwarzenegger declared 2007 the “year of health care reform” in California. As state leaders considered competing reform proposals, thousands of Californians came together in an unprecedented statewide conversation to ensure that the public had a voice in shaping the state’s health care policy. Independent evaluations show that participants stayed involved in the issue, policymakers valued the process and the resulting health care reform legislation reflected 3/4 of the public’s priorities identified during CaliforniaSpeaks.</p><p><a id="History" name="History"></a></p><h3>History</h3><p>While California spends almost $2 billion each year on health care, the state struggles to provide adequate care to all. At any given time, nearly five million state residents live without health insurance. The majority of those with health insurance believe their coverage does not meet their needs, with 75 percent saying they would not be able to handle the costs of a major illness or injury.</p><p>California Governor Arnold Schwarzenegger declared 2007 the “year of health care" and several state leaders dedicated themselves to addressing this crisis. The lawmakers introduced a range of proposals that represented different approaches to reforming the state’s health care system.</p><p>To ensure that the California public had a real voice in the reform process, six local health care foundations invited the national nonprofit organization <a href="/organizations/americaspeaks" title="AmericaSpeaks">AmericaSpeaks</a> to facilitate a statewide town meeting to weigh in on the reforms being considered by state leaders.</p><p><a id="Creation_and_Participant_Selection" name="Creation_and_Participant_Selection"></a></p><h3>Creation and Participant Selection</h3><p>CaliforniaSpeaks brought together nearly 3,500 Californians on August 11, 2007, for an all-day, non-partisan conversation on health care reform. Efforts were made to ensure that these discussions included balanced demographic representation as well as the participation of state lawmakers.</p><p><a id="Demographically_Representative_Participants" name="Demographically_Representative_Participants"></a></p><p><u><em>Demographically Representative Participants</em></u></p><p>To ensure that the diversity of the state was represented and the outcomes of the discussion were fair and credible, CaliforniaSpeaks invited a random sample of thousands of Californians to participate in the discussion. Over 120,000 Californians across the state were identified and contacted by phone and mail. The random invitations were selected by non-partisan experts in statistical sampling from listed phone numbers.</p><p>Based on past experiences with random recruitment outreach, sampling experts have found that it tends to be significantly more difficult to ensure that certain demographic groups are well represented. In order to help make sure that these voices were adequately reflected in the discussion, CaliforniaSpeaks oversampled outreach to these demographics through its random recruitment and extended additional invitations through a grassroots outreach strategy to organizations that had not taken a position on the topic.</p><p>Participants were generally reflective of the state’s demography in the areas of income and health status. Those who chose to participate in the event skewed more female, Caucasian and middle-aged than the state’s population. Participants stating they did not have health insurance were 13% of the total, about in line with the statewide level (i.e., 4.5 million out of 37 million Californians in the 2005 California Health Interview Survey).</p><p><a id="State_Lawmaker_Participation" name="State_Lawmaker_Participation"></a></p><p><u><em>State Lawmaker Participation</em></u></p><p>State lawmakers joined participants at the meeting, including Governor Schwarzenegger, Senate President Pro Tem Don Perata, Assembly Speaker Fabian Núñez, and Assembly Republican Leader Mike Villines. Each confirmed that health care reform was an urgent priority for California and restated a commitment to legislative action.</p><p><a id="Deliberations_and_Decisions" name="Deliberations_and_Decisions"></a></p><h3>Deliberations and Decisions</h3><p>Participants from every walk of life joined simultaneous town meetings in Humboldt County, Sacramento, Oakland, Fresno, San Luis Obispo, Los Angeles, Riverside and San Diego, all linked together by satellite technology. Using AmericaSpeaks’ 21st Century Town Meeting® method, diverse groups participated in roundtable discussions that were supported by professional facilitators. Groupware computers and keypad technology enabled ideas to be captured live and prioritized by all participants at the eight meeting sites.</p><p>CaliforniaSpeaks worked with state and national experts, in cooperation with state leaders, to develop non-partisan and accessible discussion materials to put real choices before the public.</p><p><a id="Topics_of_Dialogue_and_Deliberation" name="Topics_of_Dialogue_and_Deliberation"></a></p><p><u><em>Topics of Dialogue and Deliberation</em></u></p><p>The CaliforniaSpeaks discussion topics were chosen with an eye towards ensuring that the public could weigh in on actual decisions being made in the upcoming legislative session from August 20 to September 20, 2007. Six proposed changes to the existing health care system were presented and discussed throughout the day. Participants identified the conditions, if any, under which they would support each of these changes:</p><ul><li>Employer requirement to contribute to employee health care</li><li>Expansion of government programs for vulnerable populations</li><li>Guaranteed issue requirement for insurers</li><li>Cap on insurer administrative costs and profits</li><li>Individual mandate to have insurance</li><li>Government-based health care system</li></ul><p><a id="Key_Conditions_for_Reform_Options" name="Key_Conditions_for_Reform_Options"></a></p><p><u><em>Key Conditions for Reform Options</em></u></p><p>Participants were asked to identify the conditions that would need to be in place in order to support major policy reforms being considered by state leaders. Examples of measures receiving the greatest support are:</p><ul><li>63 percent would support expanding government-sponsored health coverage for low- and middle-income Californians if it included provisions for wellness and prevention</li><li>59 percent would support “guaranteed issue” requiring insurers to provide coverage to people regardless of medical condition if here is sufficient accountability and oversight to make sure that all are actually covered</li><li>55 percent would support an “individual mandate” requiring all Californians to have health insurance if there is an adequate standard for quality care</li><li>96 percent of participants agreed that it was important to control costs. This was critically important to two-thirds of participants</li></ul><p><a id="Mandate_for_Change" name="Mandate_for_Change"></a></p><p><u><em>Mandate for Change</em></u></p><p>Participants indicated a desire and readiness for change in California’s health care system, along with a clear willingness to help pay for it if needed:</p><ul><li>82% said the system requires major change</li><li>86% said it’s essential or important for state health care reform to pass that year (2007)</li><li>84% said they are at least somewhat willing to share responsibility for paying for reform</li></ul><p>Early in the day, participants were asked: “What are the one or two values that you believe should guide us and our leaders as we reform our health care system?” Eight overarching values were generated from the table discussions and theme team analysis, with four emerging as most important to participants across all locations:</p><ul><li>Health care should be affordable to all – “Quality of care shouldn’t depend on the money they have available”</li><li>everyone should have access – “All life is precious and important; consider people regardless of circumstances” (e.g. vulnerable populations)</li><li>Keep greed out of the healthcare system – Put “people before profit”</li><li>Make wellness and prevention a priority</li></ul><p><a id="Influence.2C_Outcomes_and_Effects" name="Influence.2C_Outcomes_and_Effects"></a></p><h2>Influence, Outcomes and Effects</h2><p>CaliforniaSpeaks participants emphatically called for reform. Across all eight meeting locations, 82 percent of participants said that the state’s health care system required major change, and 86 percent said it was important for reform to pass by year’s end.</p><p>Addressing a key concern for decision makers, 84 percent of all participants said they were at least “somewhat willing” to share financial responsibility for reform, with a full two thirds saying they were “willing” or “very willing.”</p><p><a id="Participants_Remain_Active" name="Participants_Remain_Active"></a></p><p><em><u>Participants Remain Active</u></em></p><p>After the event, participants remained committed in their call for health care reform, writing letters to the editor and sending e-mails to their representatives. Throughout the month following the meeting, CaliforniaSpeaks participants and organizers met with key legislators and staff in their district offices to present town meeting results.</p><p><a id="Legislation" name="Legislation"></a></p><p><u><em>Legislation</em></u></p><p>In mid-September, Governor Schwarzenegger called a special legislative session specifically to address health care reform. The result was a compromise health care reform bill, AB 1X1, which was passed in December 2007 by the California State Assembly with bi-partisan support from the Governor and Assembly Speaker. The announcement of a $14 billion budget deficit for the state stalled the legislation in the Senate. The bill ultimately failed to pass out of the Senate Health Committee after a legislative analysis questioned the bill’s financial risk.</p><p><a id="Public_Impacts_of_CaliforniaSpeaks" name="Public_Impacts_of_CaliforniaSpeaks"></a></p><p><u><em>Public Impacts of CaliforniaSpeaks</em></u></p><p>Three independent evaluations assessed the impact of the CaliforniaSpeaks statewide conversation, on participants, the policy making process and policy makers themselves. Evaluations were performed by (1) Archon Fung, Harvard University &amp; Taeku Lee, University of California, Berkeley, (2) Harder + Company Community Research, and, (3) Peter Harbage, Harbage Consulting. Evaluations were reported in <a class="external text" href="http://www.americaspeaks.org/_data/n_0002/resources/live/CaSpks%20Evaluation%20Report.pdf" rel="nofollow" title="http://www.americaspeaks.org/_data/n_0002/resources/live/CaSpks%20Evaluation%20Report.pdf">Public Impacts: Evaluating the outcomes of the CaliforniaSpeaks statewide conversation on health care reform</a></p><p>Participants – Surveys of CaliforniaSpeaks participants found significant impacts compared to a control group. Participants were more positive about their attitudes about state government as a result of the event and had a greater belief in their own ability to be heard and make a difference. CaliforniaSpeaks participants were significantly more likely to take political action on health care – such as volunteering with a group, attending public meetings and contacting the media – compared to those who did not attend.</p><p>Policymakers – Policymakers hailed CaliforniaSpeaks as a successful event that brought in fresh public perspectives and generated a sense of urgency for bi-partisan change. The interviewed policy leaders pointed to key elements that helped build momentum, like the size of the convening, diversity of the participants, and how the technology allowed for multiple locations to have “direct” public participation with immediate results. Policymakers welcomed this kind of event to be conducted again in California, and recommend it for early stages of the policymaking process.</p><p>Policy Outcomes - The CaliforniaSpeaks process generated public priorities on values to guide health care reform as well as conditions of support for specific policy priorities. A comparison of these priorities with the evolution of the proposed health reform bills show that reform moved closer to CaliforniaSpeaks priorities on ¾ of issues in debate. In fact, on all of the values and most of the policy options under active discussion by the full legislature, the legislation evolved to more clearly reflect the public’s priorities.</p><p><a id="Analysis_.26_Criticisms" name="Analysis_.26_Criticisms"></a></p><h2>Analysis &amp; Criticisms</h2><p>Taeku Lee, an associate professor at Berkeley, observed the event and its impact. Lee concluded that<a href="#cite_note-0" title="">[1]</a>:</p><ul><li>As a group, participants’ substantive discussions about health care priorities and reform proposals reflected a high degree of sophistication and closely matched the two reform proposals that were ultimately submitted to the state legislature.</li><li>Participants’ opinions on health care reform itself, however, changed very little as a consequence of the deliberative event, or five months after the event.</li><li>Participants’ views about politics itself changed more significantly – specifically, their trust in government and their political efficacy increased appreciably.</li><li>Participants’ level of political engagement – at least on the issue of health care reform – rises markedly as a consequence of the deliberative event.</li></ul><p><a id="Criticsms" name="Criticsms"></a></p><p><u><em>Criticisms</em></u></p><p>Critisms of the event include concern that the issue of single payer was not adequately explored during the town meeting. Organizers' responded by reiterating the purpose of the event, which was to examine existing California health care reform proposals; no such proposals were on the table at the time of CaliforniaSpeaks.</p><p>Another concern was the low turn out of Latino voters, who constituted 12% of CaliforniaSpeaks participants, but are 32% of Californians overall. In response, Greg Keiden, Researcher and CaliforniaSpeaks Outreach Staff, published an analysis and series of recommendations to include Latino Americans in public decision making processes, in a National Civic Review article titled <a class="external text" href="http://www.google.ca/url?sa=t&amp;source=web&amp;ct=res&amp;cd=2&amp;ved=0CA0QFjAB&amp;url=https%3A%2F%2Fcollab.cosolvent.com%2Fccs%2Fmain.php%3Fg2_view%3Dcore.DownloadItem%26g2_itemId%3D2233%26g2_serialNumber%3D6&amp;ei=cPASS4DkE4PQsQOOosTmAQ&amp;usg=AFQjCNF52J9nfxEcLWfsaNiDGNZ4wu_5tQ&amp;sig2=evOwtdIkPn9EFnmV88O-yw" rel="nofollow" title="http://www.google.ca/url?sa=t&amp;source=web&amp;ct=res&amp;cd=2&amp;ved=0CA0QFjAB&amp;url=https%3A%2F%2Fcollab.cosolvent.com%2Fccs%2Fmain.php%3Fg2_view%3Dcore.DownloadItem%26g2_itemId%3D2233%26g2_serialNumber%3D6&amp;ei=cPASS4DkE4PQsQOOosTmAQ&amp;usg=AFQjCNF52J9nfxEcLWfsaNiDGNZ4wu_5tQ&amp;sig2=evOwtdIkPn9EFnmV88O-yw">Latino Outreach Strategies for Civic Engagement</a>.</p><p><a id="Secondary_Sources" name="Secondary_Sources"></a></p><h2>Secondary Sources</h2><p><a class="external text" href="http://ssrn.com/abstract=1401151" rel="nofollow" title="http://ssrn.com/abstract=1401151">Esterling, Kevin M., Fung, Archon and Lee, Taeku, Ideological Disagreement and Deliberative Quality: Small Group Discussions at the CaliforniaSpeaks Health Care Reform Events (July 21, 2009). Available at SSRN</a></p><p><a class="external text" href="http://blogs.worldbank.org/publicsphere/faith-based-deliberation-preliminary-evidence-california" rel="nofollow" title="http://blogs.worldbank.org/publicsphere/faith-based-deliberation-preliminary-evidence-california">World Bank Blog: Faith-Based Deliberation? Preliminary Evidence from California</a></p><p><a class="external text" href="http://americaspeaks.org/document/docWindow.cfm?fuseaction=document.viewDocument&amp;documentid=61&amp;documentFormatId=128" rel="nofollow" title="http://americaspeaks.org/document/docWindow.cfm?fuseaction=document.viewDocument&amp;documentid=61&amp;documentFormatId=128">Final Report from CaliforniaSpeaks</a></p><p><a class="external text" href="http://www.americaspeaks.org/_data/n_0002/resources/live/CaSpks%20Evaluation%20Report.pdf" rel="nofollow" title="http://www.americaspeaks.org/_data/n_0002/resources/live/CaSpks%20Evaluation%20Report.pdf">Public Impacts: Evaluating the outcomes of the CaliforniaSpeaks statewide conversation on health care reform</a></p><p><a id="External_links" name="External_links"></a></p><h2>External Links</h2><p><a class="external text" href="http://www.californiaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=538" rel="nofollow" title="http://www.californiaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=538">CaliforniaSpeaks website</a></p><p><a class="external text" href="http://gov.ca.gov/speech/7128/" rel="nofollow" title="http://gov.ca.gov/speech/7128/">Governor Schwarzenegger Delivers Remarks at CaliforniaSpeaks Health Care Symposium</a></p><p><a class="external text" href="http://en.wikipedia.org/wiki/California_Speaks" rel="nofollow" title="http://en.wikipedia.org/wiki/California_Speaks">Wikipedia Page</a></p><p><a class="external text" href="http://www.californiaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=870&amp;parentID=538" rel="nofollow" title="http://www.californiaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=870&amp;parentID=538">Video highlights of CaliforniaSpeaks</a></p><p><a class="external text" href="http://www.californiaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=839&amp;parentID=538" rel="nofollow" title="http://www.californiaspeaks.org/index.cfm?fuseaction=Page.viewPage&amp;pageId=839&amp;parentID=538">Video Interviews with key stakeholders</a></p><p><a id="Notes" name="Notes"></a></p><h2>Notes</h2><ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> <a class="external text" href="http://blogs.worldbank.org/publicsphere/faith-based-deliberation-preliminary-evidence-california" rel="nofollow" title="http://blogs.worldbank.org/publicsphere/faith-based-deliberation-preliminary-evidence-california">Lee, Taeku:Faith-based Deliberation? Preliminary Evidence from California</a>, blogs.worldbank.org, July 2, 2009. Accessed May 10, 2010</li></ol></div></div></div><div class="field field-name-field-file-attachements field-type-file field-label-above"><div class="field-label">File Attachments:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://participedia.net/sites/default/files/case-files/VD.%20CaliforniaSpeaks.pdf" type="application/pdf; length=55255">VD. CaliforniaSpeaks.pdf</a></span></div><div class="field-item odd"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="http://participedia.net/sites/default/files/case-files/85_265_CA_Speaks_Evaluation_Report.pdf" type="application/pdf; length=1128744">85_265_CA_Speaks_Evaluation_Report.pdf</a></span></div></div></div>      </div>
+    </div>
+  
+      <div class="group-right">
+      <div class="inner">
+        <div class="group-case-data field-group-div"><h3><span>Case Data</span></h3><div class="description"><a class="login-and-edit-suggestion" href="/user/login">Log in to add more data</a></div><div class="group-case-data-inner field-group-div"><div class="collapsible group-overview field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Overview</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-issue-area field-type-taxonomy-term-reference field-label-above"><div class="field-label">General Issue(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area%3A29">Health</a></div></div></div><div class="field field-name-field-issue-area-other field-type-taxonomy-term-reference field-label-above"><div class="field-label">Specific Topic(s):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A751">universal health care</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A752">public policy forum</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_issue_area_other%3A753">random sample recruitment</a></div></div></div></div></div><div class="collapsible group-location field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Location</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-geolocation field-type-location field-label-above"><div class="field-label">Geolocation:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="location vcard" itemscope itemtype="http://schema.org/PostalAddress">
+  <div class="adr">
+          <span class="fn" itemprop="name">Participatory body</span>
+                      <span class="locality" itemprop="addressLocality">
+      Humboldt County, Sacramento, Oakland, Fresno, San Luis Obispo, Los Angeles, Riverside, and San Diego      </span>
+              ,                     <span class="region" itemprop="addressRegion">CA</span>
+              <div class="country-name" itemprop="addressCountry">United States</div>
+                                            <span class="geo"><abbr class="latitude" title="32.715329">32° 42' 55.1844" N</abbr>, <abbr
+            class="longitude" title="-117.157255">117° 9' 26.118" W</abbr></span>
+            </div>
+      <div class="map-link">
+      <div class="location map-link">See map: <a href="http://maps.google.com?q=32.715329+-117.157255+%28%2C+Humboldt+County%2C+Sacramento%2C+Oakland%2C+Fresno%2C+San+Luis+Obispo%2C+Los+Angeles%2C+Riverside%2C+and+San+Diego%2C+CA%2C+%2C+us%29">Google Maps</a></div>    </div>
+  </div>
+  <div class="location-hidden">
+        California        US      </div>
+</div></div></div><div class="field field-name-field-geographical-scope field-type-taxonomy-term-reference field-label-above"><div class="field-label">Geographical Scope:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_geographical_scope%3A174">Regional (e.g. State, Province, Autonomous Region)</a></div></div></div></div></div><div class="collapsible group-purpose field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Purpose</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-influence-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">What was the intended purpose?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_influence_kind%3A7">Co-governance (i.e. to share decision making with public authorities)</a></div></div></div></div></div><div class="collapsible group-history field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">History</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-start-date field-type-date field-label-above"><div class="field-label">Start Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, August 10, 2007 - 17:00</span></div></div></div><div class="field field-name-field-end-date field-type-date field-label-above"><div class="field-label">End Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, August 10, 2007 - 17:00</span></div></div></div><div class="field field-name-field-ongoing field-type-list-boolean field-label-above"><div class="field-label">Ongoing:&nbsp;</div><div class="field-items"><div class="field-item even">No</div></div></div><div class="field field-name-field-meeting-days-num field-type-number-decimal field-label-above"><div class="field-label">Number of Meeting Days:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div><div class="collapsible group-participants field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Participants</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-demographics-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Demographics):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_demographics_target%3A112">General Public</a></div></div></div><div class="field field-name-field-public-roles-target field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Participants (Public Roles):&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A128">Lay Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A129">Stakeholder Organizations (e.g. NGOs, Neighbourhood Associations, Industry Representatives)</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A130">Experts (e.g. Scientists, Engineers, Criminologists, Doctors, Lawyers)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A131">Elected Public Official</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_public_roles_target%3A132">Appointed Public Servants (e.g. Bureaucrats)</a></div></div></div><div class="field field-name-field-participant-selection field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Recruitment:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A31">Open to all with targeted recruitment</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_participant_selection%3A8">Random Selection</a></div></div></div></div></div><div class="collapsible group-process field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Process</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-methods field-type-node-reference field-label-above"><div class="field-label">Methods:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/methods/21st-century-town-meeting">21st Century Town Meeting</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitation?:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-facilitation-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If yes, were they ...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-facilitation-method field-type-list-text field-label-above"><div class="field-label">Facetoface, Online or Both:&nbsp;</div><div class="field-items"><div class="field-item even">Face-to-Face</div><div class="field-item odd">Online</div></div></div><div class="field field-name-field-communication-mode field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Interaction among Participants:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_communication_mode%3A9">Discussion, Dialogue, or Deliberation</a></div></div></div><div class="field field-name-field-decision-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Decision Method(s)?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_decision_method%3A145">Voting</a></div></div></div><div class="field field-name-field-decision-voting-type field-type-taxonomy-term-reference field-label-above"><div class="field-label">If voting...:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-targeted-audience field-type-taxonomy-term-reference field-label-above"><div class="field-label">Targeted Audience :&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A151">General Public</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_targeted_audience%3A152">Elected Public Official</a></div></div></div><div class="field field-name-field-audience-comm-method field-type-taxonomy-term-reference field-label-above"><div class="field-label">Method of Communication with Audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A157">Public Report</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A158">Policy Recommendations</a></div><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_audience_comm_method%3A159">Public Hearings/Meetings</a></div></div></div></div></div><div class="collapsible group-organizers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Organizers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-funded-by field-type-text field-label-above"><div class="field-label">Who paid for the project or initiative?:&nbsp;</div><div class="field-items"><div class="field-item even">California-based health care foundations</div></div></div><div class="field field-name-field-funding-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Funding Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_funding_entity_kind%3A28">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div></div></div><div class="field field-name-field-sponsoring-organization field-type-node-reference field-label-above"><div class="field-label">Who was primarily responsible for organizing the initiative?:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/organizations/americaspeaks">AmericaSpeaks</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Type of Organizing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_implementing_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div><div class="field field-name-field-initiative-support-other field-type-text field-label-above"><div class="field-label">Who else supported the initiative? :&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Types of Supporting Entities:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A25">Regional Government (e.g. State, Provincial, Territorial)</a></div><div class="field-item odd"><a href="/en/browse/cases?f%5B0%5D=field_sponsoring_entity_kind%3A163">Non-Governmental Organization (Non-profit)</a></div></div></div></div></div><div class="collapsible group-resources field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">Resources</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-case-budget field-type-number-decimal field-label-above"><div class="field-label">Total Budget:&nbsp;</div><div class="field-items"><div class="field-item even">US$3 900 000.00</div></div></div><div class="field field-name-field-case-budget-annual field-type-number-decimal field-label-above"><div class="field-label">Average Annual Budget:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-full-time field-type-number-integer field-label-above"><div class="field-label">Number of Full-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-part-time field-type-number-integer field-label-above"><div class="field-label">Number of Part-Time Staff:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div><div class="field field-name-field-staff-type field-type-text field-label-above"><div class="field-label">Staff Type:&nbsp;</div><div class="field-items"><div class="field-item even">facilitators</div></div></div><div class="field field-name-field-volunteers field-type-number-integer field-label-above"><div class="field-label">Number of Volunteers:&nbsp;</div><div class="field-items"><div class="field-item even">[no data entered]</div></div></div></div></div></div></div>      </div>
+    </div>
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-e75e3ec9330aaeb987c7c6999568935d">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/6">Start a new discussion about this case</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_QQmCo6QnNcrFcyD4VaUeB8I-biyeJ42TPDYUy_1iB00.js"></script>
+</body>
+</html>

@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://participedia.net/profiles/participedia/themes/participedia/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="google-translate-customization" content="a1e7cbdfd28d8b07-4efb91d24d79c81b-g023bac0b4382f76a-10" />
+<link rel="canonical" href="/en/methods/world-cafe" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/en/node/167" />
+  <title>The World Cafe | Participedia</title>
+  <link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_ol05HEVEc6KImz4PRYCFRBgJdssIYI9jxLxAG9GqzPA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_OBsIjOinjSIXJQyrwgA5e-wJWHJv0b-c2LdnD-F6HTE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_A7_QJoSCq5V5MKUcg28iJ6S0fkXvVZpktE8mJ8HR8Jk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_IXhnJ6fBR4UHS39WzcfFVkWRs-26RiB2bGQe_Vad6ck.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://participedia.net/sites/default/files/css/css_jcw6jI8oSes62RhFhkNos90BnkHWoXWPVIiTTb2hNhg.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_oYQw43wAjKdM3p6nU1hLDI3mDgL3UfCyqPsngNU6GnY.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_1slRyOozH6d9GG-d1i76DGbLnqn4FUgyJB9ErnmKWBs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/participedia/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1108203-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"participedia","theme_token":"X06e6ZOCQilaD-Ap0RfO4Ni1fvlY8jB9QAFYLkSc5fQ","js":{"profiles\/participedia\/modules\/custom\/pp_google_translate\/pp_google_translate.js":1,"profiles\/participedia\/modules\/contrib\/addthis\/addthis.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/participedia\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/participedia\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/participedia\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"0":1,"profiles\/participedia\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/participedia\/modules\/contrib\/field_group\/field_group.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"profiles\/participedia\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/participedia\/modules\/contrib\/views\/css\/views.css":1,"profiles\/participedia\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/participedia\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/participedia\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"modules\/locale\/locale.css":1,"public:\/\/customization_2014_06\/custom_field_82372.css":1,"profiles\/participedia\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/participedia\/themes\/participedia\/css\/html-reset.css":1,"profiles\/participedia\/themes\/participedia\/css\/wireframes.css":1,"profiles\/participedia\/themes\/participedia\/css\/layout-fixed.css":1,"profiles\/participedia\/themes\/participedia\/css\/page-backgrounds.css":1,"profiles\/participedia\/themes\/participedia\/css\/tabs.css":1,"profiles\/participedia\/themes\/participedia\/css\/pages.css":1,"profiles\/participedia\/themes\/participedia\/css\/blocks.css":1,"profiles\/participedia\/themes\/participedia\/css\/navigation.css":1,"profiles\/participedia\/themes\/participedia\/css\/views-styles.css":1,"profiles\/participedia\/themes\/participedia\/css\/nodes.css":1,"profiles\/participedia\/themes\/participedia\/css\/comments.css":1,"profiles\/participedia\/themes\/participedia\/css\/forms.css":1,"profiles\/participedia\/themes\/participedia\/css\/fields.css":1,"profiles\/participedia\/themes\/participedia\/css\/users.css":1,"profiles\/participedia\/themes\/participedia\/css\/display-suite.css":1,"profiles\/participedia\/themes\/participedia\/css\/print.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie7.css":1,"profiles\/participedia\/themes\/participedia\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/en\/search":true,"\/en\/methods\/world-cafe?destination=node\/167":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"field_group":{"div":"full"},"addthis":{"async":0,"domready":1,"widget_url":"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"participedia@affinitybridge.com","services_compact":"twitter,facebook,email,favorites,google_plusone,google_plusone_share,delicious,digg,myspace,more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"passthrough":{"twitter":{"via":"AddThis","text":"Check this out: "}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-167 node-type-method i18n-en section-methods" >
+      <div id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </div>
+      
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section clearfix">
+
+          <a href="/en" title="Home" rel="home" id="logo"><img src="http://participedia.net/profiles/participedia/themes/participedia/logo-no-beta.png" alt="Home" /></a>
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/en" title="Home" rel="home"><span>Participedia</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Strengthening democracy through shared knowledge</div>
+              </div><!-- /#name-and-slogan -->
+    
+    <h2 class="element-invisible">Header menu</h2><ul id="secondary-menu" class="links inline clearfix"><li class="menu-1017 first"><a href="/en/legal" title="">Terms of Use</a></li>
+<li class="menu-477 last"><a href="/en/contact" title="">Contact</a></li>
+</ul>
+      <div class="region region-header">
+    <div id="block-locale-language" class="block block-locale first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Languages</h2>
+                  <div class="content">
+        <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/methods/world-cafe" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><span class="language-link locale-untranslated" xml:lang="de">Deutsch</span></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-boxes-utility-buttons" class="block block-boxes block-boxes-var_stored_i18n even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-utility_buttons' class='boxes-box'><div class="boxes-box-content"><p><a class="button facebook" href="http://www.facebook.com/participedia" target="_blank">Facebook</a> <a class="button twitter" href="http://www.twitter.com/participedia" target="_blank">Twitter</a> <a class="button rss" href="http://participedia.net/en/rss" target="_blank">RSS</a></p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-user-login" class="block block-user odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/methods/world-cafe?destination=node/167" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="sign-up-container"><a href="/en/user/register" class="sign-up">sign up today</a></div><div class="form-item form-type-textfield form-item-name"><div class='form-item-inner'>
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div></div>
+<div class="form-item form-type-password form-item-pass"><div class='form-item-inner'>
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div></div>
+<div class="item-list"><ul><li class="first last"><a href="/en/user/password" title="Request new password via e-mail.">forgot your password?</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-CoBdISCFTQBDiB_AgVH2Kc4R9lbDo6YiT_yFAmfNQgo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-custom-field-82372-wrapper"><div class="form-item form-type-textfield form-item-custom-field-82372"><div class='form-item-inner'>
+  <label for="edit-custom-field-82372">custom field 82372 </label>
+ <input type="text" id="edit-custom-field-82372" name="custom_field_82372" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div></div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-pp-google-translate-gadget" class="block block-pp-google-translate last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,bn,de,en,es,fr,hi,it,ja,ko,ms,pt,ru,sw,te,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+            <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/en">Home</a> › </div>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">The World Cafe</h1>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div class="ds-1col node node-method view-mode-full view-mode-full clearfix ">
+
+  
+  <div class="field field-name-field-addthis field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><a class="addthis_button " addthis:title="The World Cafe - Participedia" addthis:url="http://participedia.net/en/methods/world-cafe"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" alt="Share page with AddThis" />
+</a>
+</div></div></div><div id="node-method-full-group-method-media" class=" group-method-media field-group-div"><div class="field field-name-field-lead-image field-type-media field-label-hidden"><div class="field-items"></div></div></div><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Jun 3 '10</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/users/haleymj3" title="View user profile." class="username" xml:lang="" about="/en/users/haleymj3" typeof="sioc:UserAccount" property="foaf:name" datatype="">Haley Jones</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a name="Definition" id="Definition"></a><h2>Definition</h2>
+<p>The World Café defines itself as “a conversational process based on a set of integrated design principles that reveal a deeper living network pattern through which we co-evolve our collective future” <a href="#cite_note-0" title="">[1]</a>  It is a methodology for hosting conversations about relevant questions and themes.  The ideal is that there are multiple conversations that build off of each other to explore the issue deeply. Participants of World Cafes are encouraged to draw from their own lives, values, and personal experiences so the group can learn from and connect with each other based on these things.  An overall goal is for participants to realize or create a shared purpose and goals.  
+</p><p>In reality, a World Café can have as many or as few participants as the host(s) want, whether that is only a handful of people or thousands.  The cost of a World Café is only as much as the host(s) would like to spend; generally the costs are those of the materials needed/desired at the World Café such as table cloths, markers, paper, name tags, food and drink.  And because literally anyone can hold a World Café they all look different, are held by different organizations and people, and have different goals and purposes.
+</p>
+<a name="Process" id="Process"></a><h2>Process</h2>
+<p>Anyone can host a World Café, all you need is a purpose, participants, and a meeting place.  The host(s) must first define the purpose and who is invited to their World Café, name their Café appropriately and send invitations to the guests on their list.  The next step is creating a hospitable space, welcoming your guests, and defining the purpose of the World Café to the group.  The World Café should be organized into groups of four or five people per table rotating from table to table between three (or so) twenty to thirty minute conversational rounds.  There should be progressively deeper questions, ideas, and/or themes to explore at each round and they should be clearly stated/posted to keep the conversations on track.  A table host should be stationed at each table that will stay there for all of the rounds and summarize each groups findings to the next group to learn from and build off of.  At the end of the conversational rounds, groups should have some time to summarize their key findings and then present them to the entire group at the end.  Next, the group as a whole convenes to connect all of the ideas into just a few shared key points.  The most helpful guide to holding a successful World Café is to follow the six design principles. <a href="#cite_note-1" title="">[2]</a>
+</p>
+<a name="Design_principles" id="Design_principles"></a><h2>Design principles</h2>
+<p>1. Set the Context: Have a clear idea of the “what” and “why” of the meeting. Envision ideal outcomes and try to figure out how you can direct the café toward those outcomes.  What is the topic of your World Cafe? Who should participate? How much time (how many days) do you have to discuss the issue? 
+</p><p>2. Create a Hospitable Space: A café ambiance, with comfortable seating and soft lighting to create a relaxed, social setting, will encourage comfortable, productive discussion. Multiple tables scattered around the room covered with brightly colored tablecloths, small floral centerpieces, and coloring supplies, as well as some soft background music, are all encouraged to create a hospitable space. Maybe serve food and refreshments to make the setting more social in order to invite conversation. And, of course, make sure the environment is also socially comfortable – people feel comfortable to speak freely and openly. 
+</p><p>Since the invitation helps to create the setting, the World Café suggests sending out colorful invitations with plenty of graphics to set a familial tone.  The invitation should also include the central theme or question to be explored.   
+</p><p>3. Explore questions that matter: The central questions or themes of discussions should be relevant to the actual concerns of the people present at the meeting. The depth of the question a World Café takes on may depend on the amount of time available; less time may allow for the exploration of only one simple question while more time could allow more, deeper exploration of a question through several rounds of discussion.  The World Café has come up with some helpful guidelines for good questions to explore; the question should: be clear and simple, provoke thought, generate energy, open new possibilities, invite deep reflection, and seek useful insight. <a href="#cite_note-2" title="">[3]</a>
+</p><p>The way in which the question is posed can be crucial to the outcome of the discussion.  According to David Cooperrider, posing a question in a way to provoke the ideal discussion dynamic and inquiry outcome is called “appreciative inquiry.” Instead of asking definitive questions like “who is to blame for the problem,” appreciative inquiry indicates asking exploratory questions that encourage participants to explore different possibilities according to their own personal lives and values. It is also important to a World Café discussion to ensure that each participant shares their own values and personal definitions of key concepts such as “truth” so the collective group can explore the issue in a shared light.  
+</p><p>4. Encourage Everyone’s contribution: An effective World Café includes various viewpoints and life situations so multiple aspects of an issue can be brought up and discussed.  The goal of World Café is to connect a diverse group of citizens so that participants can share new intelligence and ideas with one another.  In order to ensure that every participant is allowed equal speaking opportunity, a “talking object” should be placed on the table and passed from speaker to speaker.  The idea of this object is that only one person at a time may have the object, so only one person at a time may speak, and the rest of the group must listen intently to whoever has the floor.  The speaker is expected to stay focused on the topic at hand and to clearly express their thoughts while the listeners are expected to listen with an open, appreciative mind and to allow themselves to be swayed.  
+</p><p>5. Connect diverse perspectives: Here is where those coloring supplies can come in handy; creating a shared space on the table for participants to literally draw the accumulating ideas can help them mentally draw connections between differing viewpoints and ideas.  Also, there should be a number of conversational rounds with short breaks in-between for participants to change tables so the discussion can really be diverse and, eventually, lead to a deep web of connections.  Every new round will bring new ideas and connections which can be drawn from in succeeding rounds to encourage deeper and more meaningful discussion with every new round. With one person fixed at each round to summarize previous conversations, the conversation rounds can be even more effective by allowing so much information to be drawn from and connected to.
+</p><p>6. Listen together and Notice Patterns: Listening effectively is arguably the most important aspect of a World Café.  The idea is that an effective listener can easily build off of what is being shared.  Because people tend to plan what they are going to say next instead of listening intently to everything this should be pointed out so participants can focus on listening intently.  Also, effective listeners should: listen to every person as though that person is truly wise, listen with an open mind, listen to deeper questions and insights, and “listen” for nonverbal cues.  
+Share Collective Discoveries: In order to connect the whole group toward the end of the discussion, each table should summarize the key ideas, insights, themes, and deeper questions discovered through the discussion to share with the larger group.   To ensure that each table can effectively share their ideas with the entire group, there should be flip-charts of butcher paper sp tables can display their ideas to the group.  After each table has had an opportunity to share, the entire group should reflect on the groups larger findings with questions such as the following: what deeper questions have emerged here? Are there any patterns; if so what do they suggest? What has come to light because of these discussions? If there was a single voice here what would it say?<a href="#cite_note-3" title="">[4]</a>
+</p>
+<a name="History" id="History"></a><h2>History</h2>
+<p>In 1995 the Intellectual Capitol Pioneers, a global, interdisciplinary group, hosted a two-day dialogue that resulted in deep, innovative, effective conversation.   Impressed with their experience, the hosts did further research and experimentation and voila, birthed the World Café design principals and its core concepts.  
+</p><p>In the fifteen years since its commencement hundreds of groups, small and large, have used the World Café method to generate productive conversation.  One major milestone for the World Café was in August of 2007, when more than eighty hosts and participants from sixteen countries attended the World Café Stewardship Dialogue to explore World Café opportunities, what the World Café needs in order to thrive for years to come, and to share responsibility for those next steps. 
+</p>
+<a name="Case_Studies" id="Case_Studies"></a><h2>Case Studies</h2>
+<p>There are many success stories involving World Cafes, here is just one example:
+The Financial Planning Association in Australia <a href="#cite_note-4" title="">[5]</a> has so far hosted fifteen World Cafes to guide the growth of their new organization which is a result of a merger in January 2000 between two organizations.  The merger presented the opportunity to design a new organization, structurally and philosophically.  The cafes, which have ranged in size anywhere from 250 to 4000 people, have been successful at supporting this cultural shift as well as generating goals and steps toward making the new organization a success. 
+</p><p>World Café meetings have also been used<a href="#cite_note-5" title="">[6]</a>: in California among mediators of the judicial system; in Australia among government representatives, citizens, and business leaders; as a class reunion for the first graduation class in the Masters of Arts Leadership and Training from royal Roads University; to discuss cultural activity budget for a town meeting near Oslo; and by Wells Fargo bank to discuss a new technology plan for one bank division.  There are a plethora of World Café examples and success stories!
+</p>
+<a name="Evaluation" id="Evaluation"></a><h2>Evaluation</h2>
+<p>A World Café meeting is what the host(s) makes it.  There are plenty of success stories of organizations using the World Café to better their community, policies, technology, environment – whatever needs work.  The success of a World Café comes from having clear, meaningful questions to explore and making sure that meetings are set up to facilitate optimum participation.  The design principals outline the most important steps toward a productive World Café.  There are multiple resources for hosts, participants, and even the general public to learn more about the World Café methodology.
+</p>
+<a name="References" id="References"></a><h2>References</h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0" title="">↑</a> The World Cafe. The World Cafe Community Foundation, n.d. Web. 3 June 2010. &lt;<a href="http://www.theworldcafe.com/what.htm" class="external free" title="http://www.theworldcafe.com/what.htm" rel="nofollow">http://www.theworldcafe.com/what.htm</a>&gt;.</li>
+<li id="cite_note-1"><a href="#cite_ref-1" title="">↑</a> "Cafe to Go!." The World Cafe. The World Cafe Community Foundation, 2008. Web. 3 June 2010. &lt;<a href="http://www.theworldcafe.com/articles/cafetogo.pdf" class="external free" title="http://www.theworldcafe.com/articles/cafetogo.pdf" rel="nofollow">http://www.theworldcafe.com/articles/cafetogo.pdf</a>&gt;.</li>
+<li id="cite_note-2"><a href="#cite_ref-2" title="">↑</a> Vogt, Erin E., Juanita Brown, and David Isaacs. The Art of Powerful Questions: Catalyzing Insight, Innovation, and Action. Mill Valley, CA: Whole Systems Associations, 2008. Web. 3 June 2010. &lt;<a href="http://www.theworldcafe.com/articles/aopq.pdf" class="external free" title="http://www.theworldcafe.com/articles/aopq.pdf" rel="nofollow">http://www.theworldcafe.com/articles/aopq.pdf</a>&gt;. </li>
+<li id="cite_note-3"><a href="#cite_ref-3" title="">↑</a> The World Cafe. The World Cafe Community Foundation, n.d. Web. 3 June 2010. &lt;<a href="http://www.theworldcafe.com/principles.htm" class="external free" title="http://www.theworldcafe.com/principles.htm" rel="nofollow">http://www.theworldcafe.com/principles.htm</a>&gt;. </li>
+<li id="cite_note-4"><a href="#cite_ref-4" title="">↑</a> Porto, Kim. "Encouraging Corporate Cultural Shift Using the World Café." The World Cafe. The World Cafe Community Foundation, n.d. Web. 3 June 2010. &lt;<a href="http://www.theworldcafe.com/stories/fpa.htm" class="external free" title="http://www.theworldcafe.com/stories/fpa.htm" rel="nofollow">http://www.theworldcafe.com/stories/fpa.htm</a>&gt;.</li>
+<li id="cite_note-5"><a href="#cite_ref-5" title="">↑</a> The World Cafe. The World Cafe Community Foundation, n.d. Web. 3 June 2010. &lt;<a href="http://www.theworldcafe.com/twc-stories.htm" class="external free" title="http://www.theworldcafe.com/twc-stories.htm" rel="nofollow">http://www.theworldcafe.com/twc-stories.htm</a>&gt;</li></ol><a name="Secondary_Literature" id="Secondary_Literature"></a><h2>Secondary Literature</h2>
+<p>1. Brown, Juanita, and David Isaacs. The World Café: Shaping Our Futures Through Conversations That Matter. San Francisco: Berrett Koehler, 2005. Print. 
+</p><p>2. Brown, Juanita. The World Café: Living Knowledge Through Conversations that Matter. 2001. Print. 
+</p><p>3. Brown, Juanita, David Isaacs, and Nancy Margulies. "The World Cafe: Creating the Future, One Conversation at a Time." The World Cafe. N.p., n.d. Web. 1 June 2010. &lt;<a href="http://www.theworldcafe.com/articles/TWC.pdf" class="external free" title="http://www.theworldcafe.com/articles/TWC.pdf" rel="nofollow">http://www.theworldcafe.com/articles/TWC.pdf</a>&gt;.
+</p></div></div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+<div id="block-views-discussions-block" class="block block-views last even">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Discussions</h2>
+                  <div class="content">
+        <div class="view view-discussions view-id-discussions view-display-id-block view-dom-id-d6789058d2d6b9356878019831c2161b">
+        
+  
+      <div class="attachment attachment-before">
+      <a href="/en/node/add/forum/2/167">Start a new discussion about this method</a>    </div>
+  
+      <div class="view-empty">
+      No discussions have been started yet.    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-585 first"><a href="/en/about">About</a></li>
+<li class="menu-1685 second"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="menu-469 third"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="menu-470 fourth"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="menu-475 fifth"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="menu-1278"><a href="/en/research">Research</a></li>
+<li class="menu-471"><a href="/en/people" title="">Users</a></li>
+<li class="menu-474"><a href="/en/news" title="">News</a></li>
+<li class="menu-586 last"><a href="/en/help" title="">Help</a></li>
+</ul>
+          <div class="region region-navigation">
+    <div id="block-views-exp-search-nodes-search-page" class="block block-views first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <form action="/en/search" method="get" id="views-exposed-form-search-nodes-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-search-api-views-fulltext">
+            Keywords          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-search-api-views-fulltext"><div class='form-item-inner'>
+ <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="18" maxlength="128" class="form-text" />
+</div></div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-nodes" name="" value="search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-pp-distro-method-node-data" class="block block-pp-distro first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                    <h2 class="block-title">Method Data</h2>
+                  <div class="content">
+        <div class="field field-name-field-min-participants field-type-text field-label-above"><div class="field-label">Minimum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">10</div></div></div><div class="field field-name-field-max-participants field-type-text field-label-above"><div class="field-label">Maximum Participants:&nbsp;</div><div class="field-items"><div class="field-item even">5000</div></div></div><div class="field field-name-field-min-duration field-type-text field-label-above"><div class="field-label">Minimum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">1</div></div></div><div class="field field-name-field-max-duration field-type-text field-label-above"><div class="field-label">Maximum Duration:&nbsp;</div><div class="field-items"><div class="field-item even">365</div></div></div><div class="field field-name-field-max-cost field-type-number-integer field-label-above"><div class="field-label">Maximum Cost:&nbsp;</div><div class="field-items"><div class="field-item even">US$100 000</div></div></div><div class="field field-name-field-stages-other field-type-text field-label-above"><div class="field-label">Stages (other):&nbsp;</div><div class="field-items"><div class="field-item even">Trust Building</div></div></div><div class="field field-name-field-public-interaction-method field-type-text field-label-above"><div class="field-label">Public Interaction Method(s):&nbsp;</div><div class="field-items"><div class="field-item even">Depends on the organization/citizens who host the World Cafe</div></div></div><div class="field field-name-field-issue-polarization field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Polarization:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/polarization/4-polarized" typeof="skos:Concept" property="rdfs:label skos:prefLabel">4 - Polarized</a></div></div></div><div class="field field-name-field-issue-interdependency field-type-taxonomy-term-reference field-label-above"><div class="field-label">Issue Interdependency	:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/interdependency/3-sometimes-interdependent-other-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">3 - Sometimes Interdependent on Other Issues</a></div></div></div><div class="field field-name-field-goods-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Best for:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/kind-goods/providing-social-goods" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Providing Social Goods</a></div><div class="field-item odd"><a href="/en/kind-goods/addressing-identity-based-issues" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Addressing Identity-Based Issues</a></div></div></div><div class="field field-name-field-facilitated field-type-list-boolean field-label-above"><div class="field-label">Facilitated:&nbsp;</div><div class="field-items"><div class="field-item even">Yes</div></div></div><div class="field field-name-field-sponsoring-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Sponsoring Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div><div class="field-item odd"><a href="/en/entities/philanthropic-organization-ie-dedicated-making-monetary-grants-or-gifts" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-implementing-entity-kind field-type-taxonomy-term-reference field-label-above"><div class="field-label">Typical Implementing Entity:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/en/entities/community-based-organization" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Community Based Organization</a></div><div class="field-item odd"><a href="/en/entities/academic-institution" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Academic Institution</a></div><div class="field-item even"><a href="/en/entities/local-government-eg-village-town-city" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Local Government (e.g. Village, Town, City)</a></div><div class="field-item odd"><a href="/en/entities/philanthropic-organization-ie-dedicated-making-monetary-grants-or-gifts" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Philanthropic Organization (i.e. dedicated to making monetary grants or gifts)</a></div><div class="field-item even"><a href="/en/entities/individual" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Individual</a></div><div class="field-item odd"><a href="/en/entities/other" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Other</a></div></div></div><div class="field field-name-field-interaction-method field-type-text field-label-above"><div class="field-label">Methods of Interaction:&nbsp;</div><div class="field-items"><div class="field-item even">Online and/or Face to face conversation</div></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+  <div id="footer-area">
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-middle">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <ul class="menu"><li class="first leaf"><a href="/en/about">About</a></li>
+<li class="leaf"><a href="/en/browse/cases" title="">Cases</a></li>
+<li class="leaf"><a href="/en/browse/methods?f%255B0%255D=field_completeness%3A5&amp;f%255B1%255D=field_completeness%3A4" title="">Methods</a></li>
+<li class="leaf"><a href="/en/browse/organizations" title="">Organizations</a></li>
+<li class="leaf"><a href="/en/create-content" title="">Create Content</a></li>
+<li class="leaf"><a href="/en/research">Research</a></li>
+<li class="leaf"><a href="/en/people" title="">Users</a></li>
+<li class="leaf"><a href="/en/news" title="">News</a></li>
+<li class="last leaf"><a href="/en/help" title="">Help</a></li>
+</ul>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-left">
+    <div id="block-boxes-footer-logo" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_logo' class='boxes-box'><div class="boxes-box-content"><a href="/" id="footer-logo">Participedia</a></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+          <div class="region region-footer-right">
+    <div id="block-boxes-footer-copyright" class="block block-boxes block-boxes-var_stored_i18n first last odd">
+
+  <div class="block-inner">
+    <div class="content-outer">
+      
+                        <div class="content">
+        <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© Participedia 2013</p></div></div>      </div>
+      
+    </div>
+    
+  </div>
+  
+</div>
+  </div><!-- /.region -->
+      </div><!-- / "footer-columns" -->
+        </div><!-- / "#footer-area" -->
+  
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  <script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_5-DGJPZLhKUAwTsHSOFmS_QizsyiQxjL5ykPr9upqNQ.js"></script>
+<script type="text/javascript" src="http://participedia.net/sites/default/files/js/js_vydN-zWgTzgVcTPVDhtLLGDPM5N41Fjrj6dRL1p05Eg.js"></script>
+</body>
+</html>
